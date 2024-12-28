@@ -14,19 +14,19 @@ icon: character
 ---
 ## Bio
 > [!infobox]
-> # `=this.file.name`
+> # Nos-Aji
 > ![[insertimage.png|cover hsmall]]
 > ###### Bio
 > | Type | Stat |
 > | ---- | ---- |
-> | Aliases | `=this.aliases`|
-> | Race| `=this.race` |
-> | Gender| `=this.gender`|
-> | Age | `=this.age`|
-> | Alignment|`=this.alignment`| 
-> | Background| `=this.background`|
-> | Location|  `=this.location`|
-> | Faction| `=this.faction`| 
+> | Aliases | Nos|
+> | Race| halfling |
+> | Gender| male|
+> | Age | middle-aged|
+> | Alignment|| 
+> | Background| thief|
+> | Location|  [[../Locations/Settlements/Curkip|Curkip]]|
+> | Faction| [[../Factions/Curkip Thieves Guild|Curkip Thieves Guild]]| 
 ##### Known for being:
 ### Description
 ### Personality Traits
@@ -36,20 +36,19 @@ icon: character
 - [ ] Task 1
 ## Story log
 ### Most Recent
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) desc, reverse(bullets) desc
-LIMIT 10
-SORT number(file.name) asc, reverse(bullets) asc
-```
+- [[../Session Log/Session 1|Session 1]]: Receive words from [[Olrac|Olrac]] (through sending) and [[Nos-Aji|Nos-Aji]]. Messenger pigeon died.
+- [[../Session Log/Session 1|Session 1]]: Sending contains information that [[Nos-aji|Nos-aji]] is already at [[Midkip|Midkip]]. [[Nos-Aji|Nos]] has discovered a powerful cult embedded into the influential houses of [[Kingdom of United Kippian|Kippian]].
+>[!quote|mark]  [[Olrac|Olrac]]
+> This Olrac. Ezza here, safe. Nos in Midkip, investigating, his messenger pigeon died. Ryla arrived; she mayor for now. What you doing? Reply twenty-five.
+- [[../Session Log/Session 8|Session 8]]: Finding [[Nos-Aji|Nos]]: [[Lykos District|Lykos]] is home to many halflings, none of which is [[Nos-Aji|Nos]].
+- [[../Session Log/Session 9|Session 9]]: [[Nos-Aji|Nos]] is the culprit of the explosion; he tries to enter the quarantined district
+- [[../Session Log/Session 12|Session 12]]: [[Kirren Acquermann|Kirren]] and [[Nos-Aji|Nos]] saves the [[Seven Up...|party]]. They wake up at [[The Weeping WIllow|The Weeping WIllow]].
+
 ### All Entries
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) asc
-```
+- [[../Session Log/Session 1|Session 1]]: Receive words from [[Olrac|Olrac]] (through sending) and [[Nos-Aji|Nos-Aji]]. Messenger pigeon died.
+- [[../Session Log/Session 1|Session 1]]: Sending contains information that [[Nos-aji|Nos-aji]] is already at [[Midkip|Midkip]]. [[Nos-Aji|Nos]] has discovered a powerful cult embedded into the influential houses of [[Kingdom of United Kippian|Kippian]].
+>[!quote|mark]  [[Olrac|Olrac]]
+> This Olrac. Ezza here, safe. Nos in Midkip, investigating, his messenger pigeon died. Ryla arrived; she mayor for now. What you doing? Reply twenty-five.
+- [[../Session Log/Session 8|Session 8]]: Finding [[Nos-Aji|Nos]]: [[Lykos District|Lykos]] is home to many halflings, none of which is [[Nos-Aji|Nos]].
+- [[../Session Log/Session 9|Session 9]]: [[Nos-Aji|Nos]] is the culprit of the explosion; he tries to enter the quarantined district
+- [[../Session Log/Session 12|Session 12]]: [[Kirren Acquermann|Kirren]] and [[Nos-Aji|Nos]] saves the [[Seven Up...|party]]. They wake up at [[The Weeping WIllow|The Weeping WIllow]].
