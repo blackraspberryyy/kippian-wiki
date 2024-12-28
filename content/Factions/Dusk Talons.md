@@ -7,43 +7,27 @@ icon: faction
 ---
 ## Information
 > [!infobox]
-> # `=this.file.name`
+> # Dusk Talons
 > ![[insertimage.png|cover hsmall]]
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Aliases | `=this.aliases`|
-> | Status| `=this.status`|
-> | Based in|  `=this.location`|
+> | Aliases | |
+> | Status| |
+> | Based in|  |
 ##### Known for:
 ### Description
 ## Organization
 ##### Leader:
 ### Known Members
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "NPCs" or "PCs"
-WHERE faction = this.file.link
-```
+| Name |
+| ---- |
+
 ## Goals
 - [ ] Task 1
 ## Story log
 ### Most Recent
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) desc, reverse(bullets) desc
-LIMIT 10
-SORT number(file.name) asc, reverse(bullets) asc
-```
+- [[../Session Log/Session 14|Session 14]]: The assassin bears the sigil of the [[Dusk Talons|Dusk Talons]], an assassins guild based in [[Sumber|Sumber]].
+
 ### All Entries
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) asc
-```
+- [[../Session Log/Session 14|Session 14]]: The assassin bears the sigil of the [[Dusk Talons|Dusk Talons]], an assassins guild based in [[Sumber|Sumber]].
