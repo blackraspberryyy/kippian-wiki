@@ -1,40 +1,39 @@
 ---
 aliases:
   - Duospathia
-location: "[[Midkip]]"
+location: "[[../Settlements/Midkip|Midkip]]"
 status: 
 lore_type: location
 icon: map
 ---
 ## Basic Information
 > [!infobox]
-> # `=this.file.name`
+> # Duospathia District
 > ![[insertimage.png|cover hsmall]]
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | `=this.aliases`|
-> | Located in | `=this.location`|
-##### Known for: being [[Midkip|Midkip]]'s army district
+> | Other names | Duospathia|
+> | Located in | [[../Settlements/Midkip|Midkip]]|
+##### Known for: being [[../Settlements/Midkip|Midkip]]'s army district
 ### Description
 ## Notable Locations
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "Locations"
-WHERE location = this.file.link
-```
+| Name                                                                                                    |
+| ------------------------------------------------------------------------------------------------------- |
+| [[../Buildings/Arena of the Dueling Swords\|Arena of the Dueling Swords]]                     |
+| [[../Buildings/Duospathia Smithing Guild Compound\|Duospathia Smithing Guild Compound]]       |
+| [[../Buildings/Duospathia District Hall\|Duospathia District Hall]]                           |
+| [[../Buildings/Spathian Library and Military Academy\|Spathian Library and Military Academy]] |
+| [[../Buildings/Spathian Mithril Refinery\|Spathian Mithril Refinery]]                         |
+| [[../Buildings/Temple of the War Gods\|Temple of the War Gods]]                               |
+
 ## Notable NPCs
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "NPCs" or "PCs"
-WHERE location = this.file.link
-```
+| Name                                             |
+| ------------------------------------------------ |
+| [[../../NPCs/Michaela Randall\|Michaela Randall]]   |
+| [[../../NPCs/Mitarella Randall\|Mitarella Randall]] |
+
 ## Factions
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "Factions"
-WHERE location = this.file.link
-```
+| Name |
+| ---- |
+
