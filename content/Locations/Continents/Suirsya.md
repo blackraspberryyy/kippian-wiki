@@ -7,34 +7,25 @@ icon: map
 ---
 ## Basic Information
 > [!infobox]
-> # `=this.file.name`
+> # Suirsya
 > ![[insertimage.png|cover hsmall]]
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | `=this.aliases`|
-> | Type | `=this.folder.name`
-> | Located in | `=this.location`|
+> | Other names | |
+> | Type | 
+> | Located in | |
 ##### Known for: being the Jungle Continent
 ### Description
 ## Notable Locations
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "Locations"
-WHERE location = this.file.link
-```
+| Name                                              |
+| ------------------------------------------------- |
+| [[../Settlements/Starsteer\|Starsteer]] |
+
 ## Notable NPCs
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "NPCs" or "PCs"
-WHERE location = this.file.link
-```
+| Name |
+| ---- |
+
 ## Factions
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "Factions"
-WHERE location = this.file.link
-```
+| Name |
+| ---- |

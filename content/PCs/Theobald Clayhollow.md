@@ -14,20 +14,20 @@ icon: player
 ---
 ## Bio
 > [!infobox]
-> # `=this.file.name`
-> ![[Theobald.png|cover hsmall]]
+> # Theobald Clayhollow
+> ![[../zzz_attachments/Theobald.png|cover hsmall]]
 > ###### Bio
 > | Type | Stat |
 > | ---- | ---- |
-> | Aliases | `=this.aliases`|
-> | Race| `=this.race` |
-> | Gender| `=this.gender`|
-> | Age | `=this.age`|
-> | Alignment|`=this.alignment`| 
-> | Background| `=this.background`|
-> | Location|  `=this.location`|
-> | Faction| `=this.faction`| 
-##### Known for: A Devout Cleric of [[Aisef]]
+> | Aliases | Theobald,Theo|
+> | Race| human |
+> | Gender| male|
+> | Age | old|
+> | Alignment|| 
+> | Background| Cleric|
+> | Location|  [[../Locations/Settlements/Effil|Effil]]|
+> | Faction| [[../Factions/Seven Up...|Seven Up...]]| 
+##### Known for: A Devout Cleric of [[../Deities/New Gods/Aisef|Aisef]]
 ### Description
 ### Personality Traits
 ### Relationships
@@ -36,20 +36,11 @@ icon: player
 - [ ] Task 1
 ## Story log
 ### Most Recent
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) desc, reverse(bullets) desc
-LIMIT 10
-SORT number(file.name) asc, reverse(bullets) asc
-```
+- [[../Session Log/Session 13|Session 13]]: [[Theobald Clayhollow|Theobald]] found a book about detailing the jungle continent of [[Suirsya|Suirsya]]:
+- [[../Session Log/Session 31|Session 31]]: [[Theobald Clayhollow|Theobald]] casts Zone of Truth. [[Mitarella Randall|Mitarella]], [[Remus Kyp|Remus Kyp]], and 4 royal guards.
+- [[../Session Log/Session 33|Session 33]]: The party interrogates [[Rickard Kyp|Rickard]]; [[Theobald Clayhollow|Theobald]] casts Zone of Truth. [[Michaela Randall|Michaela]] and [[Mitarella Randall|Mitarella]] succeed the check. [[Kirren Acquermann|Kirren]], [[Remus Kyp|Remus]], and [[Rickard Kyp|Rickard]] fails.
+
 ### All Entries
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) asc
-```
+- [[../Session Log/Session 13|Session 13]]: [[Theobald Clayhollow|Theobald]] found a book about detailing the jungle continent of [[Suirsya|Suirsya]]:
+- [[../Session Log/Session 31|Session 31]]: [[Theobald Clayhollow|Theobald]] casts Zone of Truth. [[Mitarella Randall|Mitarella]], [[Remus Kyp|Remus Kyp]], and 4 royal guards.
+- [[../Session Log/Session 33|Session 33]]: The party interrogates [[Rickard Kyp|Rickard]]; [[Theobald Clayhollow|Theobald]] casts Zone of Truth. [[Michaela Randall|Michaela]] and [[Mitarella Randall|Mitarella]] succeed the check. [[Kirren Acquermann|Kirren]], [[Remus Kyp|Remus]], and [[Rickard Kyp|Rickard]] fails.

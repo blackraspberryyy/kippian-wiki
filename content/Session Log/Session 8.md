@@ -6,13 +6,13 @@ fc-category: Session
 icon: calendar
 ---
 ### Start Log
-##### In [[Midkip]]
-- [[Seven Up...|Party]] arrives in [[Lykos District]].
-- [[Kiris Acquermann|Kiris]]' "calling card" glows. It is revealed to be a high family pass with the following letters: [[Acquermann Clan|AQM]]
-- In [[Lykos District]], there are many patrolling guards. There are no persons outside due to the quarantine.
-- The [[Seven Up...|party]] made contact with [[Aldus]], the guard captain of [[Lykos District]].
-- The [[Seven Up...|party]] enters [[The Weeping WIllow]].
-- The [[Seven Up...|party]] meets [[Augustus]], named after [[Agustus Kyp]].
-- The [[Seven Up...|party]] hears rumors of dragon attacks in [[Midkor]], [[Vonkor]], and [[Walkor]].
+##### In [[../Locations/Settlements/Midkip|Midkip]]
+- [[../Factions/Seven Up...|Party]] arrives in [[../Locations/Areas/Lykos District|Lykos District]].
+- [[../PCs/Kiris Acquermann|Kiris]]' "calling card" glows. It is revealed to be a high family pass with the following letters: [[../Lineages/Acquermann Clan|AQM]]
+- In [[../Locations/Areas/Lykos District|Lykos District]], there are many patrolling guards. There are no persons outside due to the quarantine.
+- The [[../Factions/Seven Up...|party]] made contact with [[../NPCs/Aldus|Aldus]], the guard captain of [[../Locations/Areas/Lykos District|Lykos District]].
+- The [[../Factions/Seven Up...|party]] enters [[../Locations/Buildings/The Weeping WIllow|The Weeping WIllow]].
+- The [[../Factions/Seven Up...|party]] meets [[../NPCs/Augustus|Augustus]], named after [[../NPCs/Past/Agustus Kyp|Agustus Kyp]].
+- The [[../Factions/Seven Up...|party]] hears rumors of dragon attacks in [[../Locations/Settlements/Midkor|Midkor]], [[../Locations/Settlements/Vonkor|Vonkor]], and [[../Locations/Settlements/Walkor|Walkor]].
 - There are at least seven dragon sightings for the past week.
-- Finding [[Nos-Aji|Nos]]: [[Lykos District|Lykos]] is home to many halflings, none of which is [[Nos-Aji|Nos]].
+- Finding [[../NPCs/Nos-Aji|Nos]]: [[../Locations/Areas/Lykos District|Lykos]] is home to many halflings, none of which is [[../NPCs/Nos-Aji|Nos]].

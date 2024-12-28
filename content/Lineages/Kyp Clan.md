@@ -1,9 +1,9 @@
-## Head and King: [[Riordan Kyp]]
+## Head and King: [[../NPCs/Riordan Kyp|Riordan Kyp]]
 ## Past Members
-##### [[Agustus Kyp]]
-##### [[Azir Kyp]]
+##### [[../NPCs/Past/Agustus Kyp|Agustus Kyp]]
+##### [[../NPCs/Past/Azir Kyp|Azir Kyp]]
 ## Living Members
-##### [[Remus Kyp]]
-##### [[Riordan Kyp]]
-##### [[Rickard Kyp]]
-# [[Kyp Lineage Tree.canvas|Kyp Lineage Tree]]
+##### [[../NPCs/Remus Kyp|Remus Kyp]]
+##### [[../NPCs/Riordan Kyp|Riordan Kyp]]
+##### [[../NPCs/Rickard Kyp|Rickard Kyp]]
+# [[./Kyp Lineage Tree.canvas|Kyp Lineage Tree]]

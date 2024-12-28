@@ -7,33 +7,25 @@ icon: settlement
 ---
 ## Basic Information
 > [!infobox]
-> # `=this.file.name`
+> # Effil
 > ![[insertimage.png|cover hsmall]]
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | `=this.aliases`|
-> | Located in | `=this.location`|
+> | Other names | |
+> | Located in | [[../Kingdoms/Elven Kingdom of Ephelus|Elven Kingdom of Ephelus]]|
 ##### Known for: A large elven settlement
 ### Description
 ## Notable Locations
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "Locations"
-WHERE location = this.file.link
-```
+| Name |
+| ---- |
+
 ## Notable NPCs
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "NPCs" or "PCs"
-WHERE location = this.file.link
-```
+| Name                                                    |
+| ------------------------------------------------------- |
+| [[../../PCs/Spraugh 'Splix' Calix\|Spraugh 'Splix' Calix]] |
+| [[../../PCs/Theobald Clayhollow\|Theobald Clayhollow]]     |
+
 ## Factions
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "Factions"
-WHERE location = this.file.link
-```
+| Name |
+| ---- |

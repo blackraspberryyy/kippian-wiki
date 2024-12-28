@@ -12,7 +12,7 @@ lore_type: character
 icon: character
 ---
 ## Bio
-##### Known for being: [[Spraugh 'Splix' Calix|Splix]]'s mother
+##### Known for being: [[../PCs/Spraugh 'Splix' Calix|Splix]]'s mother
 ### Appearance
 ### Attitude
 ### Affiliates

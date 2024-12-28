@@ -13,5 +13,5 @@ icon: character
 ---
 ##### Whereabouts: lost
 ### Siblings
-##### [[Kristofer Acquermann]]
-##### [[Kayriel Acquermann]]
+##### [[./Kristofer Acquermann|Kristofer Acquermann]]
+##### [[./Kayriel Acquermann|Kayriel Acquermann]]

@@ -6,9 +6,9 @@ fc-category: Session
 icon: calendar
 ---
 ### Start Log
-##### Finding [[Nos-Aji|Nos]]
-- [[Seven Up...|Party]] detects a series of underground detonations originating from the wall separating [[Yvernus District|Yvernus]] and [[Lykos District|Lykos]]. 
-	- [[Nos-Aji|Nos]] is the culprit of the explosion; he tries to enter the quarantined district
+##### Finding [[../NPCs/Nos-Aji|Nos]]
+- [[../Factions/Seven Up...|Party]] detects a series of underground detonations originating from the wall separating [[../Locations/Areas/Yvernus District|Yvernus]] and [[../Locations/Areas/Lykos District|Lykos]]. 
+	- [[../NPCs/Nos-Aji|Nos]] is the culprit of the explosion; he tries to enter the quarantined district
 - 
-- Three [[Risen Paladins|Annatars]] attack the [[Seven Up...|party]]
-- [[Kirren Acquermann|Kirren]] halts the fight
+- Three [[../Bestiary/Risen Paladins|Annatars]] attack the [[../Factions/Seven Up...|party]]
+- [[../NPCs/Kirren Acquermann|Kirren]] halts the fight

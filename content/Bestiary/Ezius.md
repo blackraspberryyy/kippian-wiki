@@ -9,33 +9,20 @@ icon: lore
 ---
 ## Basic Information
 > [!infobox]
-> # `=this.file.name`
+> # Ezius
 > ![[insertimage.png|cover hsmall]]
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | `=this.aliases`|
-> | Type|`=this.lore_type`|
-> | Located in | `=this.location`|
+> | Other names | |
+> | Type|character|
+> | Located in | |
 ##### Known for:
 ### Description
 This Ezius dragon is really dangerous.
 ## Lore Mentions
 ### Most Recent
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) desc, reverse(bullets) desc
-LIMIT 10
-SORT number(file.name) asc, reverse(bullets) asc
-```
+- [[../Session Log/Session 11|Session 11]]: The [[Seven Up...|party]] faces [[Ezius|Ezius]], a dragon borne of the void.
+
 ### All Entries
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) asc
-```
+- [[../Session Log/Session 11|Session 11]]: The [[Seven Up...|party]] faces [[Ezius|Ezius]], a dragon borne of the void.

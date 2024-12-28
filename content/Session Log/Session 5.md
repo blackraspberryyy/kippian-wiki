@@ -7,10 +7,10 @@ icon: calendar
 ---
 ### Start Log
 ##### Back to Bulwicke
-- [[Seven Up...|Party]] sees renovated gates
-- The people of [[Bulkip]] acknowledges the party as heroes.
-- [[Roldan Vinke]] invites the [[Seven Up...|party]] to the [[Bulkip|Bulwicke]] Heroes' Ball
-- The [[Seven Up...|party]] is set up to be heroes aligned with [[The Cult of Miledu]].
+- [[../Factions/Seven Up...|Party]] sees renovated gates
+- The people of [[../Locations/Settlements/Bulkip|Bulkip]] acknowledges the party as heroes.
+- [[../NPCs/Roldan Vinke|Roldan Vinke]] invites the [[../Factions/Seven Up...|party]] to the [[../Locations/Settlements/Bulkip|Bulwicke]] Heroes' Ball
+- The [[../Factions/Seven Up...|party]] is set up to be heroes aligned with [[../Factions/The Cult of Miledu|The Cult of Miledu]].
 - Act 1: The Capture
 	- 
 - Act 2: The Chaining

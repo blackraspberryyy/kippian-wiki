@@ -8,46 +8,37 @@ icon: faction
 ---
 ## Information
 > [!infobox]
-> # `=this.file.name`
+> # The High Council of Midkip
 > ![[insertimage.png|cover hsmall]]
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Aliases | `=this.aliases`|
-> | Status| `=this.status`|
-> | Based in|  `=this.location`|
-##### Known for: handling all political matters of the[[Kingdom of United Kippian]]
+> | Aliases | High Council|
+> | Status| inactive|
+> | Based in|  [[../Locations/Areas/Asteri District|Asteri District]]|
+##### Known for: handling all political matters of the[[../Locations/Kingdoms/Kingdom of United Kippian|Kingdom of United Kippian]]
 ### Description
 ##### High Council Seating
 Drakon-Aetos-Chtapodhi-Foenyx-King of Kippian-Ankyra-Yvernus-Duospathia-Lykos
 
 ## Organization
-##### Leader: [[Riordan Kyp|King Riordan]]
+##### Leader: [[../NPCs/Riordan Kyp|King Riordan]]
 ### Known Members
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "NPCs" or "PCs"
-WHERE faction = this.file.link
-```
+| Name                                               |
+| -------------------------------------------------- |
+| [[../NPCs/Armand Gorrel\|Armand Gorrel]]           |
+| [[../NPCs/Gokare Veegar\|Gokare Veegar]]           |
+| [[../NPCs/Kayvan Acquermann\|Kayvan Acquermann]]   |
+| [[../NPCs/Laurie Furwish\|Laurie Furwish]]         |
+| [[../NPCs/Mitarella Randall\|Mitarella Randall]]   |
+| [[../NPCs/Remus Kyp\|Remus Kyp]]                   |
+| [[../NPCs/Riordan Kyp\|Riordan Kyp]]               |
+| [[../NPCs/Stella Kari\|Stella Kari]]               |
+| [[../NPCs/Shemance Ironfleet\|Shemance Ironfleet]] |
+
 ## Goals
 - [ ] Task 1
 ## Story log
 ### Most Recent
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) desc, reverse(bullets) desc
-LIMIT 10
-SORT number(file.name) asc, reverse(bullets) asc
-```
+
 ### All Entries
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) asc
-```

@@ -12,5 +12,5 @@ lore_type: character
 icon: character
 ---
 ### Siblings
-##### [[Kristofer Acquermann]]
-##### [[Kristofer Acquermann]]
+##### [[./Kristofer Acquermann|Kristofer Acquermann]]
+##### [[./Kristofer Acquermann|Kristofer Acquermann]]

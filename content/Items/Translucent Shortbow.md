@@ -1,8 +1,8 @@
 ---
 aliases: 
 characters:
-  - "[[Amlaena Gustkil]]"
-  - "[[Noah Skie]]"
+  - "[[Amlaena Gustkil|Amlaena Gustkil]]"
+  - "[[Noah Skie|Noah Skie]]"
 location: 
 fc-date: 
 fc-category: Lore
@@ -11,33 +11,18 @@ icon: lore
 ---
 ## Basic Information
 > [!infobox]
-> # `=this.file.name`
+> # Translucent Shortbow
 >   
-> ![[Translucent Shortbow.png|cover hsmall]]
+> ![[../zzz_attachments/Translucent Shortbow.png|cover hsmall]]
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | `=this.aliases`|
-> | Type|`=this.lore_type`|
-> | Located in | `=this.location`|
+> | Other names | |
+> | Type|item|
+> | Located in | |
 ##### Known for:
 ### Description
 ## Lore Mentions
 ### Most Recent
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) desc, reverse(bullets) desc
-LIMIT 10
-SORT number(file.name) asc, reverse(bullets) asc
-```
+
 ### All Entries
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) asc
-```

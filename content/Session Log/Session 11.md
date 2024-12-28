@@ -7,5 +7,5 @@ icon: calendar
 ---
 ### Start Log
 ##### Into the Plane of Dragons
-- The [[Seven Up...|party]] wakes up. They enter the [[Plane of Dragons]].
-- The [[Seven Up...|party]] faces [[Ezius]], a dragon borne of the void.
+- The [[../Factions/Seven Up...|party]] wakes up. They enter the [[../Locations/Planes/Plane of Dragons|Plane of Dragons]].
+- The [[../Factions/Seven Up...|party]] faces [[../Bestiary/Ezius|Ezius]], a dragon borne of the void.

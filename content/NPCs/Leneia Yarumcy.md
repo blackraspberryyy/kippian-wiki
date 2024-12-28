@@ -11,7 +11,7 @@ status:
 lore_type: character
 icon: character
 ---
-Mother: [[Janna Furwish]]
-Father: [[Riordan Kyp]]
-Mentor: [[Stella Kari]]
+Mother: [[./Janna Furwish|Janna Furwish]]
+Father: [[./Riordan Kyp|Riordan Kyp]]
+Mentor: [[./Stella Kari|Stella Kari]]
 

@@ -1,38 +1,29 @@
 ---
 aliases: 
-location: "[[Lykos District]]"
+location: "[[../Areas/Lykos District|Lykos District]]"
 status: burned
 lore_type: location
 icon: building
 ---
 ## Basic Information
 > [!infobox]
-> # `=this.file.name`
+> # The Weeping WIllow
 > ![[insertimage.png|cover hsmall]]
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | `=this.aliases`|
-> | Located in | `=this.location`|
-##### Known for: Being the friendly tavern in [[Lykos District]]
+> | Other names | |
+> | Located in | [[../Areas/Lykos District|Lykos District]]|
+##### Known for: Being the friendly tavern in [[../Areas/Lykos District|Lykos District]]
 ## Notable Locations
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "Locations"
-WHERE location = this.file.link
-```
+| Name |
+| ---- |
+
 ## Notable NPCs
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "NPCs" or "PCs"
-WHERE location = this.file.link
-```
+| Name                           |
+| ------------------------------ |
+| [[../../NPCs/Augustus\|Augustus]] |
+
 ## Factions
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "Factions"
-WHERE location = this.file.link
-```
+| Name |
+| ---- |

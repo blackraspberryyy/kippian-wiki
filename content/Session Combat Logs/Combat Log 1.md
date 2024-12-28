@@ -8,11 +8,11 @@ icon: calendar
 ### Start Log
 
 # Initiative
-- [[Kiris Acquermann|Kiris]] [init:: 3]
-- [[Adikia Unalome|Adikia]] [init:: 5]
-- [[Noah Skie|Noah]] [init:: 3.5]
+- [[../PCs/Kiris Acquermann|Kiris]] [init:: 3]
+- [[../PCs/Adikia Unalome|Adikia]] [init:: 5]
+- [[../PCs/Noah Skie|Noah]] [init:: 3.5]
 ##### Round 1
-- [[Kiris Acquermann|Kiris]] attacks the Annatar
+- [[../PCs/Kiris Acquermann|Kiris]] attacks the Annatar
 
 
 

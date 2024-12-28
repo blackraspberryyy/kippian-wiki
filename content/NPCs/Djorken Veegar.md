@@ -14,19 +14,19 @@ icon: character
 ---
 ## Bio
 > [!infobox]
-> # `=this.file.name`
+> # Djorken Veegar
 > ![[insertimage.png|cover hsmall]]
 > ###### Bio
 > | Type | Stat |
 > | ---- | ---- |
-> | Aliases | `=this.aliases`|
-> | Race| `=this.race` |
-> | Gender| `=this.gender`|
-> | Age | `=this.age`|
-> | Alignment|`=this.alignment`| 
-> | Background| `=this.background`|
-> | Location|  `=this.location`|
-> | Faction| `=this.faction`| 
+> | Aliases | Djorken|
+> | Race| dragonborn |
+> | Gender| male|
+> | Age | young adult|
+> | Alignment|| 
+> | Background| |
+> | Location|  [[../Locations/Areas/Drakon District|Drakon District]]|
+> | Faction| | 
 ##### Known for:
 ### Description
 ### Personality Traits
@@ -36,20 +36,9 @@ icon: character
 - [ ] Task 1
 ## Story log
 ### Most Recent
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) desc, reverse(bullets) desc
-LIMIT 10
-SORT number(file.name) asc, reverse(bullets) asc
-```
+- [[../Session Log/Session 14|Session 14]]: Inside [[The Weeping WIllow|The Weeping WIllow]], the [[Seven Up...|party]] meets four representatives from four noble families of [[Midkip|Midkip]]: [[Armand Gorrel|Armand Gorrel]], a human of [[Lykos District|Lykos]]; [[Djorken Veegar|Djorken Veegar]], a red dragonborn hailing from [[Drakon District|Drakon]], [[Gandour Ironfleet|Gandour Ironfleet]] from [[Chtapodhi District|Chtapodhi]], and [[Janna Furwish|Janna Furwish]] from [[Aetos District|Aetos]]. [[Kirren Acquermann|Kirren]] and [[Arc|Arc]] are also present here.
+- [[../Session Log/Session 14|Session 14]]: [[Djorken Veegar|Djorken Veegar]], who has slight distrust of elves, says that his family has no attached member of [[The Cult of Miledu|The Cult of Miledu]].
+
 ### All Entries
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) asc
-```
+- [[../Session Log/Session 14|Session 14]]: Inside [[The Weeping WIllow|The Weeping WIllow]], the [[Seven Up...|party]] meets four representatives from four noble families of [[Midkip|Midkip]]: [[Armand Gorrel|Armand Gorrel]], a human of [[Lykos District|Lykos]]; [[Djorken Veegar|Djorken Veegar]], a red dragonborn hailing from [[Drakon District|Drakon]], [[Gandour Ironfleet|Gandour Ironfleet]] from [[Chtapodhi District|Chtapodhi]], and [[Janna Furwish|Janna Furwish]] from [[Aetos District|Aetos]]. [[Kirren Acquermann|Kirren]] and [[Arc|Arc]] are also present here.
+- [[../Session Log/Session 14|Session 14]]: [[Djorken Veegar|Djorken Veegar]], who has slight distrust of elves, says that his family has no attached member of [[The Cult of Miledu|The Cult of Miledu]].

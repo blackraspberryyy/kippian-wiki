@@ -15,8 +15,8 @@ icon: character
 #deceased 
 ##### Title: Lord Knight of the Wayravens
 ### Siblings
-##### [[Korvin Acquermann]]
-##### [[Kayriel Acquermann]]
+##### [[./Korvin Acquermann|Korvin Acquermann]]
+##### [[./Kayriel Acquermann|Kayriel Acquermann]]
 ### Children
-##### [[Kiris Acquermann]]
-##### [[Kirren Acquermann]]
+##### [[../PCs/Kiris Acquermann|Kiris Acquermann]]
+##### [[./Kirren Acquermann|Kirren Acquermann]]

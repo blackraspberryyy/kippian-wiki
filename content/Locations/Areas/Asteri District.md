@@ -1,41 +1,33 @@
 ---
 aliases:
   - Asteri
-location: "[[Midkip]]"
+location: "[[../Settlements/Midkip|Midkip]]"
 status: 
 lore_type: location
 icon: map
 ---
 ## Basic Information
 > [!infobox]
-> # `=this.file.name`
+> # Asteri District
 > ![[insertimage.png|cover hsmall]]
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | `=this.aliases`|
-> | Located in | `=this.location`|
-##### Known for: being the noble district of [[Midkip|Midkip]]
+> | Other names | Asteri|
+> | Located in | [[../Settlements/Midkip|Midkip]]|
+##### Known for: being the noble district of [[../Settlements/Midkip|Midkip]]
 ### Description
 ## Notable Locations
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "Locations"
-WHERE location = this.file.link
-```
+| Name |
+| ---- |
+
 ## Notable NPCs
-##### [[The High Council of Midkip|High Council]] Representative: [[Riordan Kyp|King Riordan]]
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "NPCs" or "PCs"
-WHERE location = this.file.link
-```
+##### [[../../Factions/The High Council of Midkip|High Council]] Representative: [[../../NPCs/Riordan Kyp|King Riordan]]
+| Name                                 |
+| ------------------------------------ |
+| [[../../NPCs/Riordan Kyp\|Riordan Kyp]] |
+
 ## Factions
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "Factions"
-WHERE location = this.file.link
-```
+| Name                                                                   |
+| ---------------------------------------------------------------------- |
+| [[../../Factions/The High Council of Midkip\|The High Council of Midkip]] |

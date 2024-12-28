@@ -1,39 +1,30 @@
 ---
 aliases:
   - Aetos
-location: "[[Midkip]]"
+location: "[[../Settlements/Midkip|Midkip]]"
 status: 
 lore_type: location
 icon: map
 ---
 ## Basic Information
 > [!infobox]
-> # `=this.file.name`
+> # Aetos District
 > ![[insertimage.png|cover hsmall]]
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | `=this.aliases`|
-> | Located in | `=this.location`|
-##### Known for: being [[Midkip|Midkip]]'s Elven District
+> | Other names | Aetos|
+> | Located in | [[../Settlements/Midkip|Midkip]]|
+##### Known for: being [[../Settlements/Midkip|Midkip]]'s Elven District
 ## Notable Locations
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "Locations"
-WHERE location = this.file.link
-```
+| Name |
+| ---- |
+
 ## Notable NPCs
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "NPCs" or "PCs"
-WHERE location = this.file.link
-```
+| Name                                       |
+| ------------------------------------------ |
+| [[../../NPCs/Laurie Furwish\|Laurie Furwish]] |
+
 ## Factions
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "Factions"
-WHERE location = this.file.link
-```
+| Name |
+| ---- |

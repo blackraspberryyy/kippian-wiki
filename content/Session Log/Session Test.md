@@ -7,7 +7,7 @@ icon: calendar
 ---
 ### Start Log
 ##### Title
-- [[zzz_Char Test]] This is important !desc
-- [[zzz_Char Test]] This is a new relation !relation
-- [[zzz_Char Test]] This is a new goal !goal
+- [[../NPCs/zzz_Char Test|zzz_Char Test]] This is important !desc
+- [[../NPCs/zzz_Char Test|zzz_Char Test]] This is a new relation !relation
+- [[../NPCs/zzz_Char Test|zzz_Char Test]] This is a new goal !goal
 - 

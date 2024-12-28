@@ -15,58 +15,48 @@ icon: character
 ---
 ## Bio
 > [!infobox]
-> # `=this.file.name`
+> # Riordan Kyp
 > ![[insertimage.png|cover hsmall]]
 > ###### Bio
 > | Type | Stat |
 > | ---- | ---- |
-> | Aliases | `=this.aliases`|
-> | Race| `=this.race` |
-> | Gender| `=this.gender`|
-> | Age | `=this.age`|
-> | Alignment|`=this.alignment`| 
-> | Background| `=this.background`|
-> | Location|  `=this.location`|
-> | Faction| `=this.faction`| 
-##### Known for: being the king of [[Kingdom of United Kippian]]
+> | Aliases | King,King Riordan|
+> | Race| human |
+> | Gender| male|
+> | Age | old|
+> | Alignment|| 
+> | Background| |
+> | Location|  [[../Locations/Areas/Asteri District|Asteri District]]|
+> | Faction| [[../Factions/The High Council of Midkip|The High Council of Midkip]]| 
+##### Known for: being the king of [[../Locations/Kingdoms/Kingdom of United Kippian|Kingdom of United Kippian]]
 ### Description
 old human
 
-Wife died after giving birth to [[Rickard Kyp]].
-Gave the [[Arcanus Labyrinthus]] to the [[Seven Up...|party]].
+Wife died after giving birth to [[./Rickard Kyp|Rickard Kyp]].
+Gave the [[../Items/Arcanus Labyrinthus|Arcanus Labyrinthus]] to the [[../Factions/Seven Up...|party]].
 
 ##### Session Description
-```dataview
-LIST replace(bullets.text, "!desc", "")
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name) AND contains(bullets.text, "!desc")
-```
+- [[../Session Log/Session 31|Session 31]]: The [[Seven Up...|party]] investigates the [[Riordan Kyp|King]]'s death. 
+
 ### Personality Traits
 seemingly aloof
-Trains [[Remus Kyp]] to lead by being hands-off.
+Trains [[./Remus Kyp|Remus Kyp]] to lead by being hands-off.
 ### Relationships
-[[Remus Kyp]] and [[Rickard Kyp]]'s father
-[[Leneia Yarumcy]]'s father
+[[./Remus Kyp|Remus Kyp]] and [[./Rickard Kyp|Rickard Kyp]]'s father
+[[./Leneia Yarumcy|Leneia Yarumcy]]'s father
 ### Stat Block
 ## Goals
 - [ ] Task 1
 ## Story log
 ### Most Recent
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) desc, reverse(bullets) desc
-LIMIT 10
-SORT number(file.name) asc, reverse(bullets) asc
-```
+- [[../Session Log/Session 31|Session 31]]: [[Death of King Riordan|Death of King Riordan]]: The [[Riordan Kyp|King]]'s dead!
+- [[../Session Log/Session 31|Session 31]]: [[Adeena Oberron|Adeena Oberron]] and [[Kiris Acquermann|Kiris]] investigates the [[Riordan Kyp|King]]'s death.
+- [[../Session Log/Session 31|Session 31]]: The [[Seven Up...|party]] investigates the [[Riordan Kyp|King]]'s death. !desc
+- [[../Session Log/Session 31|Session 31]]: [[Remus Kyp|Remus Kyp]] forgot that he left the [[Aureate Rapier|Aureate Rapier]] with the [[Riordan Kyp|King]] last night.
+
 ### All Entries
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) asc
-```
+- [[../Session Log/Session 31|Session 31]]: [[Death of King Riordan|Death of King Riordan]]: The [[Riordan Kyp|King]]'s dead!
+- [[../Session Log/Session 31|Session 31]]: [[Adeena Oberron|Adeena Oberron]] and [[Kiris Acquermann|Kiris]] investigates the [[Riordan Kyp|King]]'s death.
+- [[../Session Log/Session 31|Session 31]]: The [[Seven Up...|party]] investigates the [[Riordan Kyp|King]]'s death. !desc
+- [[../Session Log/Session 31|Session 31]]: [[Remus Kyp|Remus Kyp]] forgot that he left the [[Aureate Rapier|Aureate Rapier]] with the [[Riordan Kyp|King]] last night.
+

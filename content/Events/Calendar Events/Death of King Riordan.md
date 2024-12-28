@@ -1,7 +1,7 @@
 ---
 aliases: 
 characters:
-  - "[[Riordan Kyp]]"
+  - "[[Riordan Kyp|Riordan Kyp]]"
 location: 
 fc-date: 1083-06-04
 fc-category: Lore
@@ -10,33 +10,22 @@ icon: lore
 ---
 ## Basic Information
 > [!infobox]
-> # `=this.file.name`
+> # Death of King Riordan
 > ![[insertimage.png|cover hsmall]]
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | `=this.aliases`|
-> | Type|`=this.lore_type`|
-> | Located in | `=this.location`|
+> | Other names | |
+> | Type|event|
+> | Located in | |
 ##### Known for:
 ### Description
-`=this.fc-date`
+1083-06-04T00:00:00.000-15:56
 ## Lore Mentions
 ### Most Recent
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) desc, reverse(bullets) desc
-LIMIT 10
-SORT number(file.name) asc, reverse(bullets) asc
-```
+- [[../../Session Log/Session 31|Session 31]]: [[Death of King Riordan|Death of King Riordan]]: The [[Riordan Kyp|King]]'s dead!
+- [[../../Session Log/Session 33|Session 33]]: [[Kirren Acquermann|Kirren]] finds [[Noah Skie|Noah]] and [[Michaela Randall|Michaela]] and tells them about the [[Death of King Riordan|Death of King Riordan]].
+
 ### All Entries
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) asc
-```
+- [[../../Session Log/Session 31|Session 31]]: [[Death of King Riordan|Death of King Riordan]]: The [[Riordan Kyp|King]]'s dead!
+- [[../../Session Log/Session 33|Session 33]]: [[Kirren Acquermann|Kirren]] finds [[Noah Skie|Noah]] and [[Michaela Randall|Michaela]] and tells them about the [[Death of King Riordan|Death of King Riordan]].

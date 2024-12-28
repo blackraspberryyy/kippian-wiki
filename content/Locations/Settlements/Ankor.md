@@ -7,32 +7,24 @@ icon: settlement
 ---
 ## Basic Information
 > [!infobox]
-> # `=this.file.name`
+> # Ankor
 > ![[insertimage.png|cover hsmall]]
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | `=this.aliases`|
-> | Located in | `=this.location`|
+> | Other names | |
+> | Located in | [[../Kingdoms/Kingdom of United Kippian|Kingdom of United Kippian]]|
 ##### Known for:
 ## Notable Locations
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "Locations"
-WHERE location = this.file.link
-```
+| Name |
+| ---- |
+
 ## Notable NPCs
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "NPCs" or "PCs"
-WHERE location = this.file.link
-```
+| Name                                       |
+| ------------------------------------------ |
+| [[../../NPCs/Elijah Orstadt\|Elijah Orstadt]] |
+| [[../../PCs/Noah Skie\|Noah Skie]]            |
+
 ## Factions
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "Factions"
-WHERE location = this.file.link
-```
+| Name |
+| ---- |

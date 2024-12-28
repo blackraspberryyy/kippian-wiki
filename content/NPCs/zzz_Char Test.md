@@ -13,60 +13,39 @@ icon: character
 ---
 ## Bio
 > [!infobox]
-> # `=this.file.name`
+> # zzz_Char Test
 > ![[insertimage.png|cover hsmall]]
 > ###### Bio
 > | Type | Stat |
 > | ---- | ---- |
-> | Aliases | `=this.aliases`|
-> | Race| `=this.race` |
-> | Gender| `=this.gender`|
-> | Age | `=this.age`|
-> | Alignment|`=this.alignment`| 
-> | Background| `=this.background`|
-> | Location|  `=this.location`|
-> | Faction| `=this.faction`| 
+> | Aliases | |
+> | Race|  |
+> | Gender| |
+> | Age | |
+> | Alignment|| 
+> | Background| |
+> | Location|  [[../Locations/Settlements/Midkip|Midkip]]|
+> | Faction| | 
 ##### Known for:
 ### Description
 ##### Session Description
-```dataview
-LIST replace(bullets.text, "!desc", "")
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name) AND contains(bullets.text, "!desc")
-```
+- [[../Session Log/Session Test|Session Test]]: [[zzz_Char Test|zzz_Char Test]] This is important 
+
 ### Personality Traits
 ### Relationships
-```dataview
-LIST replace(bullets.text, "!relation", "")
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name) AND contains(bullets.text, "!relation")
-```
+- [[../Session Log/Session Test|Session Test]]: [[zzz_Char Test|zzz_Char Test]] This is a new relation 
+
 ### Stat Block
 ## Goals
-```dataview
-LIST replace(bullets.text, "!goal", "")
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name) AND contains(bullets.text, "!goal")
-```
+- [[../Session Log/Session Test|Session Test]]: [[zzz_Char Test|zzz_Char Test]] This is a new goal 
+
 ## Story log
 ### Most Recent
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) desc, reverse(bullets) desc
-LIMIT 10
-SORT number(file.name) asc, reverse(bullets) asc
-```
+- [[../Session Log/Session Test|Session Test]]: [[zzz_Char Test|zzz_Char Test]] This is important !desc
+- [[../Session Log/Session Test|Session Test]]: [[zzz_Char Test|zzz_Char Test]] This is a new relation !relation
+- [[../Session Log/Session Test|Session Test]]: [[zzz_Char Test|zzz_Char Test]] This is a new goal !goal
+
 ### All Entries
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) asc
-```
+- [[../Session Log/Session Test|Session Test]]: [[zzz_Char Test|zzz_Char Test]] This is important !desc
+- [[../Session Log/Session Test|Session Test]]: [[zzz_Char Test|zzz_Char Test]] This is a new relation !relation
+- [[../Session Log/Session Test|Session Test]]: [[zzz_Char Test|zzz_Char Test]] This is a new goal !goal

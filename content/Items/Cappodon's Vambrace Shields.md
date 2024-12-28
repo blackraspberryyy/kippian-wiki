@@ -2,8 +2,8 @@
 aliases:
   - dual shields
 characters:
-  - "[[Johannes Cappodon]]"
-  - "[[Thoradin Goodman]]"
+  - "[[Johannes Cappodon|Johannes Cappodon]]"
+  - "[[Thoradin Goodman|Thoradin Goodman]]"
 location: 
 fc-date: 
 fc-category: Lore
@@ -12,32 +12,17 @@ icon: lore
 ---
 ## Basic Information
 > [!infobox]
-> # `=this.file.name`
-> ![[Cappodon's Vambrace Shields.png|cover hsmall]]
+> # Cappodon's Vambrace Shields
+> ![[../zzz_attachments/Cappodon's Vambrace Shields.png|cover hsmall]]
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | `=this.aliases`|
-> | Type|`=this.lore_type`|
-> | Located in | `=this.location`|
+> | Other names | dual shields|
+> | Type|item|
+> | Located in | |
 ##### Known for:
 ### Description
 ## Lore Mentions
 ### Most Recent
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) desc, reverse(bullets) desc
-LIMIT 10
-SORT number(file.name) asc, reverse(bullets) asc
-```
+
 ### All Entries
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) asc
-```

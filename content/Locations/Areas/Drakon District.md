@@ -1,40 +1,32 @@
 ---
 aliases:
   - Drakon
-location: "[[Midkip]]"
+location: "[[../Settlements/Midkip|Midkip]]"
 status: 
 lore_type: location
 icon: map
 ---
 ## Basic Information
 > [!infobox]
-> # `=this.file.name`
+> # Drakon District
 > ![[insertimage.png|cover hsmall]]
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | `=this.aliases`|
-> | Located in | `=this.location`|
-##### Known for: being the rural outer district of [[Midkip|Midkip]]. 
+> | Other names | Drakon|
+> | Located in | [[../Settlements/Midkip|Midkip]]|
+##### Known for: being the rural outer district of [[../Settlements/Midkip|Midkip]]. 
 ### Description
 ## Notable Locations
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "Locations"
-WHERE location = this.file.link
-```
+| Name |
+| ---- |
+
 ## Notable NPCs
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "NPCs" or "PCs"
-WHERE location = this.file.link
-```
+| Name                                       |
+| ------------------------------------------ |
+| [[../../NPCs/Djorken Veegar\|Djorken Veegar]] |
+| [[../../NPCs/Gokare Veegar\|Gokare Veegar]]   |
+
 ## Factions
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "Factions"
-WHERE location = this.file.link
-```
+| Name |
+| ---- |

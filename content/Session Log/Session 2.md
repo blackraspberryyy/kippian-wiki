@@ -6,9 +6,9 @@ fc-category: Session
 icon: calendar
 ---
 ### Start Log
-- [[Olrac]] replies:
-> [!quote|mark]  [[Olrac]]
+- [[../NPCs/Olrac|Olrac]] replies:
+> [!quote|mark]  [[../NPCs/Olrac|Olrac]]
 > Sorry for late reply. Can only use  Sending spell once a day. We can handle Curkip. No contact with Nos, deep cover. Trust your instincts.
-- Attack of the undead at [[Bulkip]]'s western gates.
-- [[Seven Up...|Party]] successfully defends[[Bulkip]] from undead
+- Attack of the undead at [[../Locations/Settlements/Bulkip|Bulkip]]'s western gates.
+- [[../Factions/Seven Up...|Party]] successfully defends[[../Locations/Settlements/Bulkip|Bulkip]] from undead
 -

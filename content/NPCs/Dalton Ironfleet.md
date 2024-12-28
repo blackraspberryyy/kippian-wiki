@@ -13,11 +13,11 @@ icon: character
 ---
 ## Bio
 Old adult halfling
-[[Shemance Ironfleet]]’s cousin
-[[Gandour Ironfleet]]'s older brother
+[[./Shemance Ironfleet|Shemance Ironfleet]]’s cousin
+[[./Gandour Ironfleet|Gandour Ironfleet]]'s older brother
 ## Health
 - he’s terribly sick, can’t attend meetings
 - an invalid
 ### Children
-##### [[Darchus Ironfleet]]
-##### [[Daria Ironfleet]]
+##### [[./Darchus Ironfleet|Darchus Ironfleet]]
+##### [[./Daria Ironfleet|Daria Ironfleet]]

@@ -1,9 +1,9 @@
 ---
 aliases: 
 characters:
-  - "[[Matunda]]"
-  - "[[Theobald Clayhollow]]"
-  - "[[Stella Kari]]"
+  - "[[../Deities/Old Gods/Matunda|Matunda]]"
+  - "[[Theobald Clayhollow|Theobald Clayhollow]]"
+  - "[[Stella Kari|Stella Kari]]"
 location: 
 fc-date: 
 fc-category: Lore
@@ -12,32 +12,17 @@ icon: lore
 ---
 ## Basic Information
 > [!infobox]
-> # `=this.file.name`
-> ![[Matunda's Mace.png|cover hsmall]]
+> # Matunda's Mace
+> ![[../zzz_attachments/Matunda's Mace.png|cover hsmall]]
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | `=this.aliases`|
-> | Type|`=this.lore_type`|
-> | Located in | `=this.location`|
-##### Known for: a mace imbued with the power of [[Matunda]]
+> | Other names | |
+> | Type|item|
+> | Located in | |
+##### Known for: a mace imbued with the power of [[../Deities/Old Gods/Matunda|Matunda]]
 ### Description
 ## Lore Mentions
 ### Most Recent
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) desc, reverse(bullets) desc
-LIMIT 10
-SORT number(file.name) asc, reverse(bullets) asc
-```
+
 ### All Entries
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) asc
-```

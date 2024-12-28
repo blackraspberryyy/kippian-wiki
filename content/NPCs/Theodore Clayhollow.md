@@ -24,11 +24,11 @@ icon: character
 >
 >The journey was much more arduous and longer than expected. But there, the lands were fresh, and alive. Sure, there were dangers all around; but my renewed vigor gave me hope. Our parents liked the change in scenery too.
 >
->Elvin introduced me to the order of Fesai---yes, [[Aisef]]’s sibling and rival. I initially opposed their beliefs but… they were the only ones who had success healing our parents. And so I tried to learn their ways; turns out I was much more talented than my peers.
+>Elvin introduced me to the order of Fesai---yes, [[../Deities/New Gods/Aisef|Aisef]]’s sibling and rival. I initially opposed their beliefs but… they were the only ones who had success healing our parents. And so I tried to learn their ways; turns out I was much more talented than my peers.
 >
 >I would not indulge you on the specifics of the order of Fesai nor what it took to cure our parents. What you should know is that our parents were cured, and lived a happy life in Suirsya. I, on the other hand, assumed priesthood: I am born to be a cleric of Fesai.
 >
->It was then that Elvin Claymore introduced me to his… other allies. They were, and still are, of high status and power. Owing gratitude to Elvin, I joined them. I joined the cult of [[Miledu]].
+>It was then that Elvin Claymore introduced me to his… other allies. They were, and still are, of high status and power. Owing gratitude to Elvin, I joined them. I joined the cult of [[../Deities/Old Gods/Miledu|Miledu]].
 >
 >Their plans are coming to fruition, and you must step aside as we cast away the past. I may not always approve of our ways, but the end is what’s important. We would cure the world of death and senseless pain. But to cure this world, we must get rid of its poison---we must get rid of the old gods.
 >

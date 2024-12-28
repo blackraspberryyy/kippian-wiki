@@ -1,39 +1,30 @@
 ---
 aliases:
   - Lykos
-location: "[[Midkip]]"
+location: "[[../Settlements/Midkip|Midkip]]"
 status: 
 lore_type: location
 icon: map
 ---
 ## Basic Information
 > [!infobox]
-> # `=this.file.name`
+> # Lykos District
 > ![[insertimage.png|cover hsmall]]
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | `=this.aliases`|
-> | Located in | `=this.location`|
-##### Known for: Being the largest district in [[Midkip]]
+> | Other names | Lykos|
+> | Located in | [[../Settlements/Midkip|Midkip]]|
+##### Known for: Being the largest district in [[../Settlements/Midkip|Midkip]]
 ## Notable Locations
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "Locations"
-WHERE location = this.file.link
-```
+| Name                                                              |
+| ----------------------------------------------------------------- |
+| [[../Buildings/The Weeping WIllow\|The Weeping WIllow]] |
+
 ## Notable NPCs
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "NPCs" or "PCs"
-WHERE location = this.file.link
-```
+| Name |
+| ---- |
+
 ## Factions
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "Factions"
-WHERE location = this.file.link
-```
+| Name |
+| ---- |

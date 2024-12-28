@@ -1,6 +1,6 @@
 ---
 aliases: 
-location: "[[Kingdom of United Kippian]]"
+location: "[[../Kingdoms/Kingdom of United Kippian|Kingdom of United Kippian]]"
 status: 
 lore_type: location
 icon: settlement
@@ -8,19 +8,19 @@ icon: settlement
 ## Basic Info
 - Etymology: 'Cur' from Enchor Curkip
 > *"Ahh Curkip. There are troubles, yet there is peace. If I were to start any adventure, it should probably be here."*
-> 	- [[Nos-Aji]], handler of Curkip's thieves guild.
+> 	- [[../../NPCs/Nos-Aji|Nos-Aji]], handler of Curkip's thieves guild.
 > 
 > *"Curkip schmurkip. This place is booring."*
-> 	-  [[Olrac]], assistant to the handler
-Curkip is the smallest city in the [[Kingdom of United Kippian]]. Its southern port connects Kippian to strangers from other continents.
+> 	-  [[../../NPCs/Olrac|Olrac]], assistant to the handler
+Curkip is the smallest city in the [[../Kingdoms/Kingdom of United Kippian|Kingdom of United Kippian]]. Its southern port connects Kippian to strangers from other continents.
 ## Population: Around 7000
 Mostly human, elves from Effil, traders from Opidys. Occasional influx of new people from Suirsya, Olifur, and Sumber.
 ## Notable NPCs
 
 | Name               | Race  | Note                                       |
 | ------------------ | ----- | ------------------------------------------ |
-| [[Nos-Aji]]        | Human | Curkip's Thieves Guild handler             |
-| [[Olrac]]          | Human | TG member, assistant and friend to Nos-Aji |
+| [[../../NPCs/Nos-Aji|Nos-Aji]]        | Human | Curkip's Thieves Guild handler             |
+| [[../../NPCs/Olrac|Olrac]]          | Human | TG member, assistant and friend to Nos-Aji |
 | Mayor Silvano      | Human | Highest ranking noble in Curkip            |
 | Alie Exa           | Human | Mayor's secretary                          |
 | Gully Ranthour     | Human | Owner of Gully Garments and Armory         |
@@ -32,7 +32,7 @@ Mostly human, elves from Effil, traders from Opidys. Occasional influx of new pe
 ## Organizations
 | Name                     | Note                                     |
 | ------------------------ | ---------------------------------------- |
-| [[Curkip Thieves Guild]] | Recently stole from the mayor            |
+| [[../../Factions/Curkip Thieves Guild|Curkip Thieves Guild]] | Recently stole from the mayor            |
 | Enchorites               | Arena warriors, part-time jobs as guards |
 ## Notable Places
 | Name                         | Legend | Note                                                                                 |

@@ -13,20 +13,20 @@ icon: player
 ---
 ## Bio
 > [!infobox]
-> # `=this.file.name`
-> ![[Adeena.png|cover hsmall]]
+> # Adeena Oberron
+> ![[../zzz_attachments/Adeena.png|cover hsmall]]
 > ###### Bio
 > | Type | Stat |
 > | ---- | ---- |
-> | Aliases | `=this.aliases`|
-> | Race| `=this.race` |
-> | Gender| `=this.gender`|
-> | Age | `=this.age`|
-> | Alignment|`=this.alignment`| 
-> | Background| `=this.background`|
-> | Location|  `=this.location`|
-> | Faction| `=this.faction`| 
-##### Known for: being a Paladin of [[Aulephi|Aulephi]]
+> | Aliases | Adeena|
+> | Race|  |
+> | Gender| female|
+> | Age | |
+> | Alignment|| 
+> | Background| Paladin|
+> | Location|  Sumber|
+> | Faction| [[../Factions/Seven Up...|Seven Up...]]| 
+##### Known for: being a Paladin of [[../Deities/New Gods/Aulephi|Aulephi]]
 ### Description
 ### Personality Traits
 ### Relationships
@@ -35,20 +35,15 @@ icon: player
 - [ ] Task 1
 ## Story log
 ### Most Recent
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) desc, reverse(bullets) desc
-LIMIT 10
-SORT number(file.name) asc, reverse(bullets) asc
-```
+- [[../Session Log/Session 12|Session 12]]: [[Adeena Oberron|Adeena]] is asked by a stranger what her name is. [[Adeena Oberron|Adeena]] answers "Anna".
+- [[../Session Log/Session 13|Session 13]]: [[Adeena Oberron|Adeena]] read about the continent of [[Sumber|Sumber]].
+- [[../Session Log/Session 14|Session 14]]: The birdfolk assassin attacks [[Adeena Oberron|Adeena]].
+- [[../Session Log/Session 31|Session 31]]: [[Adeena Oberron|Adeena]] and [[Noah Skie|Noah]] notices [[Kirren Acquermann|Kirren]] sleeping. [[Michaela Randall|Michaela]] is gone.
+- [[../Session Log/Session 31|Session 31]]: [[Adeena Oberron|Adeena Oberron]] and [[Kiris Acquermann|Kiris]] investigates the [[Riordan Kyp|King]]'s death.
+
 ### All Entries
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) asc
-```
+- [[../Session Log/Session 12|Session 12]]: [[Adeena Oberron|Adeena]] is asked by a stranger what her name is. [[Adeena Oberron|Adeena]] answers "Anna".
+- [[../Session Log/Session 13|Session 13]]: [[Adeena Oberron|Adeena]] read about the continent of [[Sumber|Sumber]].
+- [[../Session Log/Session 14|Session 14]]: The birdfolk assassin attacks [[Adeena Oberron|Adeena]].
+- [[../Session Log/Session 31|Session 31]]: [[Adeena Oberron|Adeena]] and [[Noah Skie|Noah]] notices [[Kirren Acquermann|Kirren]] sleeping. [[Michaela Randall|Michaela]] is gone.
+- [[../Session Log/Session 31|Session 31]]: [[Adeena Oberron|Adeena Oberron]] and [[Kiris Acquermann|Kiris]] investigates the [[Riordan Kyp|King]]'s death.

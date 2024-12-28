@@ -11,6 +11,6 @@ status:
 lore_type: character
 icon: character
 ---
-Past wielder of the [[Aureate Rapier]]
-Son of [[Agustus Kyp|King Agustus Kyp]]
+Past wielder of the [[../../Items/Aureate Rapier|Aureate Rapier]]
+Son of [[./Agustus Kyp|King Agustus Kyp]]
 
