@@ -7,33 +7,23 @@ icon: building
 ---
 ## Basic Information
 > [!infobox]
-> # `=this.file.name`
+> # Spathian Mithril Refinery
 > ![[insertimage.png|cover hsmall]]
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | `=this.aliases`|
-> | Located in | `=this.location`|
+> | Other names | |
+> | Located in | [[../Areas/Duospathia District|Duospathia District]]|
 ##### Known for: making mithril ore
 ### Description
 ## Notable Locations
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "Locations"
-WHERE location = this.file.link
-```
+| Name |
+| ---- |
+
 ## Notable NPCs
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "NPCs" or "PCs"
-WHERE location = this.file.link
-```
+| Name |
+| ---- |
+
 ## Factions
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "Factions"
-WHERE location = this.file.link
-```
+| Name |
+| ---- |
