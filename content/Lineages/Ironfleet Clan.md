@@ -1,8 +1,8 @@
-## Head: [[Shemance Ironfleet]]
+## Head: [[../NPCs/Shemance Ironfleet|Shemance Ironfleet]]
 ## Vying for position
-##### [[Gandour Ironfleet]]
-##### [[Dalton Ironfleet]]
+##### [[../NPCs/Gandour Ironfleet|Gandour Ironfleet]]
+##### [[../NPCs/Dalton Ironfleet|Dalton Ironfleet]]
 ## Other Members
-##### [[Daria Ironfleet]]
-##### [[Darchus Ironfleet]]
-## [[Ironfleet Lineage Tree.canvas|Ironfleet Lineage Tree]]
+##### [[../NPCs/Daria Ironfleet|Daria Ironfleet]]
+##### [[../NPCs/Darchus Ironfleet|Darchus Ironfleet]]
+## [[./Ironfleet Lineage Tree.canvas|Ironfleet Lineage Tree]]
