@@ -14,43 +14,28 @@ icon: character
 ---
 ## Bio
 > [!infobox]
-> # `=this.file.name`
+> # Gokare Veegar
 > ![[insertimage.png|cover hsmall]]
 > ###### Bio
 > | Type | Stat |
 > | ---- | ---- |
-> | Aliases | `=this.aliases`|
-> | Race| `=this.race` |
-> | Gender| `=this.gender`|
-> | Age | `=this.age`|
-> | Alignment|`=this.alignment`| 
-> | Background| `=this.background`|
-> | Location|  `=this.location`|
-> | Faction| `=this.faction`| 
+> | Aliases | Gokare|
+> | Race| dragonborn |
+> | Gender| male|
+> | Age | old adult|
+> | Alignment|| 
+> | Background| politician|
+> | Location|  [[../Locations/Areas/Drakon District|Drakon District]]|
+> | Faction| [[../Factions/The High Council of Midkip|The High Council of Midkip]]| 
 ##### Known for:
 ### Description
 ### Personality Traits
 ### Relationships
- Adopted [[Djorken Veegar]] as his son
+ Adopted [[./Djorken Veegar|Djorken Veegar]] as his son
 ### Stat Block
 ## Goals
 - [ ] Task 1
 ## Story log
 ### Most Recent
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) desc, reverse(bullets) desc
-LIMIT 10
-SORT number(file.name) asc, reverse(bullets) asc
-```
+
 ### All Entries
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) asc
-```
