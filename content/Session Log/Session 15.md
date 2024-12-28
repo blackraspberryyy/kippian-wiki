@@ -7,7 +7,7 @@ icon: calendar
 ---
 ### Start Log
 ##### Title
-- In the morning, [[Armand Gorrel|Armand Gorrel]] comes by [[The Weeping WIllow|The Weeping WIllow]] in need of help.
-- [[Armand Gorrel|Armand Gorrel]] reports that there was a werewolf attack in [[Lykos District|Lykos]].
-- The [[Seven Up...|party]] investigates the attack in the afternoon.
-- The [[Seven Up...|party]] plans to hunt the werewolves during the night.
+- In the morning, [[../NPCs/Armand Gorrel|Armand Gorrel]] comes by [[../Locations/Buildings/The Weeping WIllow|The Weeping WIllow]] in need of help.
+- [[../NPCs/Armand Gorrel|Armand Gorrel]] reports that there was a werewolf attack in [[../Locations/Areas/Lykos District|Lykos]].
+- The [[../Factions/Seven Up...|party]] investigates the attack in the afternoon.
+- The [[../Factions/Seven Up...|party]] plans to hunt the werewolves during the night.
