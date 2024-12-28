@@ -8,33 +8,25 @@ icon: map
 ---
 ## Basic Information
 > [!infobox]
-> # `=this.file.name`
+> # Elven Kingdom of Ephelus
 > ![[insertimage.png|cover hsmall]]
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | `=this.aliases`|
-> | Located in | `=this.location`|
+> | Other names | Ephelus|
+> | Located in | [[../Continents/Kippian|Kippian]]|
 ##### Known for:
 ### Description
 ## Notable Locations
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "Locations"
-WHERE location = this.file.link
-```
+| Name                                                  |
+| ----------------------------------------------------- |
+| [[../Areas/Soliven Forest\|Soliven Forest]] |
+| [[../Settlements/Effil\|Effil]]             |
+
 ## Notable NPCs
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "NPCs" or "PCs"
-WHERE location = this.file.link
-```
+| Name |
+| ---- |
+
 ## Factions
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "Factions"
-WHERE location = this.file.link
-```
+| Name |
+| ---- |
