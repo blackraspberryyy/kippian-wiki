@@ -2,8 +2,8 @@
 aliases:
   - Gilded Rapier
 characters:
-  - "[[Azir Kyp]]"
-  - "[[Remus Kyp]]"
+  - "[[Azir Kyp|Azir Kyp]]"
+  - "[[Remus Kyp|Remus Kyp]]"
 location: "[[Ankyra District]]"
 fc-date: 
 fc-category: Lore
@@ -12,32 +12,25 @@ icon: lore
 ---
 ## Basic Information
 > [!infobox]
-> # `=this.file.name`
-> ![[Aureate Rapier.png|cover hsmall]]
+> # Aureate Rapier
+> ![[../zzz_attachments/Aureate Rapier.png|cover hsmall]]
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | `=this.aliases`|
-> | Type|`=this.lore_type`|
-> | Located in | `=this.location`|
+> | Other names | Gilded Rapier|
+> | Type|item|
+> | Located in | [[../Locations/Areas/Ankyra District|Ankyra District]]|
 ##### Known for:
 ### Description
 ## Lore Mentions
 ### Most Recent
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) desc, reverse(bullets) desc
-LIMIT 10
-SORT number(file.name) asc, reverse(bullets) asc
-```
+- [[../Session Log/Session 31|Session 31]]: [[Spraugh 'Splix' Calix|Splix]] realizes that the [[Seven Up...|party]] is not allured by the [[Aureate Rapier|Aureate Rapier]] wielded by [[Remus Kyp|Remus Kyp]].
+- [[../Session Log/Session 31|Session 31]]: [[Remus Kyp|Remus Kyp]] breaks down and realizes that the sword he wields is but a replica of the [[Aureate Rapier|Aureate Rapier]].
+- [[../Session Log/Session 31|Session 31]]: [[Remus Kyp|Remus Kyp]] forgot that he left the [[Aureate Rapier|Aureate Rapier]] with the [[Riordan Kyp|King]] last night.
+- [[../Session Log/Session 32|Session 32]]: [[Adikia Unalome|Adikia]] retrieves the [[Aureate Rapier|Aureate Rapier]].
+
 ### All Entries
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) asc
-```
+- [[../Session Log/Session 31|Session 31]]: [[Spraugh 'Splix' Calix|Splix]] realizes that the [[Seven Up...|party]] is not allured by the [[Aureate Rapier|Aureate Rapier]] wielded by [[Remus Kyp|Remus Kyp]].
+- [[../Session Log/Session 31|Session 31]]: [[Remus Kyp|Remus Kyp]] breaks down and realizes that the sword he wields is but a replica of the [[Aureate Rapier|Aureate Rapier]].
+- [[../Session Log/Session 31|Session 31]]: [[Remus Kyp|Remus Kyp]] forgot that he left the [[Aureate Rapier|Aureate Rapier]] with the [[Riordan Kyp|King]] last night.
+- [[../Session Log/Session 32|Session 32]]: [[Adikia Unalome|Adikia]] retrieves the [[Aureate Rapier|Aureate Rapier]].
