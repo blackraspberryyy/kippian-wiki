@@ -6,8 +6,8 @@ fc-category: Session
 icon: calendar
 ---
 ### Start Log
-- [[Seven Up...|Party]] meets [[Ezzane Meistrun]]
->[!quote|mark] [[Ezzane Meistrun|Ezzane]]
+- [[../Factions/Seven Up...|Party]] meets [[../NPCs/Ezzane Meistrun|Ezzane Meistrun]]
+>[!quote|mark] [[../NPCs/Ezzane Meistrun|Ezzane]]
 >Something terrible is happening in Midkip. The earthquake started there. Nos needs help.
 >
 > If you heard any reports from Bulwicke...
@@ -17,5 +17,5 @@ icon: calendar
 >Someone is trying to find you Adeena, be careful.
 >
 >Feypeak? Now that’s a name I have not heard for a long while…
-- [[Seven Up...|Party]] rides along a caravan back to [[Bulkip]].
-- [[Seven Up...|Party]] is ambshed by bulletes
+- [[../Factions/Seven Up...|Party]] rides along a caravan back to [[../Locations/Settlements/Bulkip|Bulkip]].
+- [[../Factions/Seven Up...|Party]] is ambshed by bulletes
