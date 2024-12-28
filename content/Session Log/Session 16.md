@@ -7,9 +7,9 @@ icon: calendar
 ---
 ### Start Log
 ##### Title
-- The [[Seven Up...|party]] sneaks into [[Armand Gorrel|Armand Gorrel]]'s house to investigate.
-- The [[Seven Up...|party]] tracks the werewolves to Eastern [[Lykos District|Lykos]].
-- The [[Seven Up...|party]] fights [[Jarran Gorrel|Jarran Gorrel]].
-- Malefic energy inside [[Jarran Gorrel|Jarran Gorrel]]'s ring is resolved.
-- [[Noah Skie|Noah]] retrieves the [[Twilight Dagger|Twilight Dagger]].
-- [[Jarran Gorrel|Jarran Gorrel]] is to be rehabilitated in [[Foenyx District|Foenyx]].
+- The [[../Factions/Seven Up...|party]] sneaks into [[../NPCs/Armand Gorrel|Armand Gorrel]]'s house to investigate.
+- The [[../Factions/Seven Up...|party]] tracks the werewolves to Eastern [[../Locations/Areas/Lykos District|Lykos]].
+- The [[../Factions/Seven Up...|party]] fights [[../NPCs/Jarran Gorrel|Jarran Gorrel]].
+- Malefic energy inside [[../NPCs/Jarran Gorrel|Jarran Gorrel]]'s ring is resolved.
+- [[../PCs/Noah Skie|Noah]] retrieves the [[../Items/Twilight Dagger|Twilight Dagger]].
+- [[../NPCs/Jarran Gorrel|Jarran Gorrel]] is to be rehabilitated in [[../Locations/Areas/Foenyx District|Foenyx]].
