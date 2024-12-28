@@ -1,40 +1,35 @@
 ---
 aliases:
   - Yvernus
-location: "[[Midkip]]"
+location: "[[../Settlements/Midkip|Midkip]]"
 status: floating
 lore_type: location
 icon: map
 ---
 ## Basic Information
 > [!infobox]
-> # `=this.file.name`
+> # Yvernus District
 > ![[insertimage.png|cover hsmall]]
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | `=this.aliases`|
-> | Located in | `=this.location`|
-##### Known for: being the 'mystical' and 'magical' center of [[Midkip|Midkip]]
+> | Other names | Yvernus|
+> | Located in | [[../Settlements/Midkip|Midkip]]|
+##### Known for: being the 'mystical' and 'magical' center of [[../Settlements/Midkip|Midkip]]
 ### Description
 ## Notable Locations
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "Locations"
-WHERE location = this.file.link
-```
+| Name                                                                            |
+| ------------------------------------------------------------------------------- |
+| [[../Buildings/Temple of The Sealed Path\|Temple of The Sealed Path]] |
+
 ## Notable NPCs
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "NPCs" or "PCs"
-WHERE location = this.file.link
-```
+| Name                                             |
+| ------------------------------------------------ |
+| [[../../NPCs/Kayvan Acquermann\|Kayvan Acquermann]] |
+| [[../../NPCs/Kirren Acquermann\|Kirren Acquermann]] |
+| [[../../PCs/Kiris Acquermann\|Kiris Acquermann]]    |
+
 ## Factions
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "Factions"
-WHERE location = this.file.link
-```
+| Name                                                             |
+| ---------------------------------------------------------------- |
+| [[../../Factions/Knights of the Wayraven\|Knights of the Wayraven]] |
