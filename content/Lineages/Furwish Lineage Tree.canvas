@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"32e5b8da5291e612","type":"group","x":520,"y":-460,"width":580,"height":1080,"label":"Distant Relatives"},
+		{"id":"71cfb31836aab960","type":"file","file":"NPCs/Auriel Furwish.md","x":0,"y":186,"width":400,"height":400},
+		{"id":"b4b9835158c80c25","type":"file","file":"NPCs/Laurie Furwish.md","x":0,"y":-340,"width":400,"height":400},
+		{"id":"ad94f348ea2eaf02","type":"file","file":"NPCs/Janna Furwish.md","x":-640,"y":-340,"width":400,"height":400},
+		{"id":"3cb0e3c917c93586","type":"file","file":"PCs/Spraugh 'Splix' Calix.md","x":600,"y":186,"width":400,"height":400},
+		{"id":"fb09773b4282a747","type":"file","file":"NPCs/Adzana Furwish.md","x":600,"y":-340,"width":400,"height":400},
+		{"id":"dbd4c774634a26e0","type":"text","text":"# Furwish","x":0,"y":-860,"width":250,"height":80},
+		{"id":"28db92b8daf215b8","type":"file","file":"NPCs/Leneia Yarumcy.md","x":-640,"y":186,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"0d29c0aa0223c9ba","fromNode":"b4b9835158c80c25","fromSide":"bottom","toNode":"71cfb31836aab960","toSide":"top"},
+		{"id":"877b769474defe5b","fromNode":"dbd4c774634a26e0","fromSide":"bottom","toNode":"ad94f348ea2eaf02","toSide":"top"},
+		{"id":"5577dba9d2b4a631","fromNode":"dbd4c774634a26e0","fromSide":"bottom","toNode":"b4b9835158c80c25","toSide":"top"},
+		{"id":"2d74b282304ad15b","fromNode":"fb09773b4282a747","fromSide":"bottom","toNode":"3cb0e3c917c93586","toSide":"top"},
+		{"id":"c30440fac84e08f0","fromNode":"ad94f348ea2eaf02","fromSide":"right","toNode":"b4b9835158c80c25","toSide":"left","toEnd":"none","label":"Siblings"},
+		{"id":"2512123cf3d30cb0","fromNode":"dbd4c774634a26e0","fromSide":"bottom","toNode":"fb09773b4282a747","toSide":"top"},
+		{"id":"e7c9bd19e63b9b23","fromNode":"ad94f348ea2eaf02","fromSide":"bottom","toNode":"28db92b8daf215b8","toSide":"top","label":"secret daughter"}
+	]
+}

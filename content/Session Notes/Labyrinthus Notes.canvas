@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"16ffdc9cabd95fbe","type":"file","file":"Items/Frostborn Armor.md","x":-560,"y":-540,"width":400,"height":300},
+		{"id":"54d75248767197eb","type":"file","file":"Items/Ymerald Staff.md","x":-80,"y":-540,"width":360,"height":300}
+	],
+	"edges":[]
+}

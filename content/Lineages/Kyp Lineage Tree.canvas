@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"c5384d4909175ab9","type":"text","text":"# Kyp Clan","x":-109,"y":-800,"width":250,"height":60},
+		{"id":"190a6fc3d848d58f","type":"file","file":"NPCs/Past/Agustus Kyp.md","x":-184,"y":-680,"width":400,"height":400},
+		{"id":"3b35e5c4f6ca1ea3","type":"file","file":"NPCs/Riordan Kyp.md","x":-640,"y":560,"width":400,"height":400},
+		{"id":"dc89f7a36ee1bbd4","type":"file","file":"NPCs/Past/Azir Kyp.md","x":120,"y":-120,"width":400,"height":400},
+		{"id":"335a2b946ed2e071","type":"file","file":"NPCs/Remus Kyp.md","x":-960,"y":1160,"width":400,"height":400},
+		{"id":"df72a00cd839d449","type":"file","file":"NPCs/Rickard Kyp.md","x":-360,"y":1160,"width":400,"height":400},
+		{"id":"9e30fee1d22ca085","type":"file","file":"NPCs/Leneia Yarumcy.md","x":320,"y":1160,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"5d8c0bac2b79878e","fromNode":"190a6fc3d848d58f","fromSide":"bottom","toNode":"dc89f7a36ee1bbd4","toSide":"top"},
+		{"id":"39fd44b69cc4ef83","fromNode":"190a6fc3d848d58f","fromSide":"bottom","toNode":"3b35e5c4f6ca1ea3","toSide":"top","label":"Several progenies later"},
+		{"id":"e6b4f540a09d5c20","fromNode":"3b35e5c4f6ca1ea3","fromSide":"bottom","toNode":"335a2b946ed2e071","toSide":"top"},
+		{"id":"48678e99ca8050b4","fromNode":"3b35e5c4f6ca1ea3","fromSide":"bottom","toNode":"df72a00cd839d449","toSide":"top"},
+		{"id":"619f25b3e9e29be2","fromNode":"3b35e5c4f6ca1ea3","fromSide":"bottom","toNode":"9e30fee1d22ca085","toSide":"top","label":"secret daughter"},
+		{"id":"22680a08bcf55960","fromNode":"335a2b946ed2e071","fromSide":"right","toNode":"df72a00cd839d449","toSide":"left","toEnd":"none","label":"siblings"}
+	]
+}

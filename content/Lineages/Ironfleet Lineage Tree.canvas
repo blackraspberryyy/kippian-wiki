@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"95f9857102f04d09","type":"group","x":-280,"y":-440,"width":1100,"height":520,"label":"Branch Family"},
+		{"id":"8918a08c400bd67f","type":"file","file":"NPCs/Daria Ironfleet.md","x":-140,"y":200,"width":400,"height":400},
+		{"id":"d877b4683346b409","type":"file","file":"NPCs/Darchus Ironfleet.md","x":420,"y":200,"width":400,"height":400},
+		{"id":"b33d45222a3e492a","type":"file","file":"NPCs/Dalton Ironfleet.md","x":380,"y":-371,"width":400,"height":400},
+		{"id":"5dfc4dc38abb6571","type":"file","file":"NPCs/Shemance Ironfleet.md","x":-860,"y":-371,"width":400,"height":400},
+		{"id":"28b04292d206a84b","type":"text","text":"# Ironfleet Clan","x":-180,"y":-860,"width":300,"height":100},
+		{"id":"2681ae6b2ef4f450","type":"file","file":"NPCs/Gandour Ironfleet.md","x":-180,"y":-371,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"601e0e8dba76d44d","fromNode":"b33d45222a3e492a","fromSide":"bottom","toNode":"8918a08c400bd67f","toSide":"top"},
+		{"id":"e659428bcecc42ab","fromNode":"b33d45222a3e492a","fromSide":"bottom","toNode":"d877b4683346b409","toSide":"top"},
+		{"id":"f808bed5cc7a0fa5","fromNode":"2681ae6b2ef4f450","fromSide":"right","toNode":"b33d45222a3e492a","toSide":"left","toEnd":"none","label":"siblings"},
+		{"id":"d1fef5e08e910837","fromNode":"5dfc4dc38abb6571","fromSide":"right","toNode":"95f9857102f04d09","toSide":"left","toEnd":"none","label":"cousin"},
+		{"id":"2a4d71902b3bbe76","fromNode":"28b04292d206a84b","fromSide":"bottom","toNode":"5dfc4dc38abb6571","toSide":"top"},
+		{"id":"9020e6a6577e45e7","fromNode":"28b04292d206a84b","fromSide":"bottom","toNode":"95f9857102f04d09","toSide":"top"}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"3f5348b7402e24b0","type":"file","file":"PCs/Kiris Acquermann.md","x":87,"y":440,"width":400,"height":400},
+		{"id":"2f643f652fbebeb0","type":"file","file":"NPCs/Kayvan Acquermann.md","x":560,"y":440,"width":400,"height":400},
+		{"id":"063bca8004438072","type":"file","file":"NPCs/Korvin Acquermann.md","x":-660,"y":-80,"width":400,"height":400},
+		{"id":"868f78ebce412de1","type":"file","file":"NPCs/Kristofer Acquermann.md","x":-200,"y":-80,"width":400,"height":400},
+		{"id":"dc36f2882c27a50e","type":"file","file":"NPCs/Kayriel Acquermann.md","x":287,"y":-80,"width":400,"height":400},
+		{"id":"c0dddabdb24ceb79","type":"text","text":"# Acquermann","x":-200,"y":-320,"width":400,"height":60},
+		{"id":"653174f701f17f1b","type":"file","file":"NPCs/Kirren Acquermann.md","x":-540,"y":440,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"ffad5cd04b89c1ed","fromNode":"868f78ebce412de1","fromSide":"bottom","toNode":"653174f701f17f1b","toSide":"top"},
+		{"id":"3a452b1728a0264e","fromNode":"868f78ebce412de1","fromSide":"bottom","toNode":"3f5348b7402e24b0","toSide":"top"},
+		{"id":"26b51d57a9ac010d","fromNode":"dc36f2882c27a50e","fromSide":"bottom","toNode":"2f643f652fbebeb0","toSide":"top"},
+		{"id":"322fd429f41ad3fc","fromNode":"c0dddabdb24ceb79","fromSide":"bottom","toNode":"063bca8004438072","toSide":"top"},
+		{"id":"c17f74ca63f78647","fromNode":"c0dddabdb24ceb79","fromSide":"bottom","toNode":"868f78ebce412de1","toSide":"top"},
+		{"id":"62539f08cf9e9e34","fromNode":"c0dddabdb24ceb79","fromSide":"bottom","toNode":"dc36f2882c27a50e","toSide":"top"},
+		{"id":"739fc99026440748","fromNode":"653174f701f17f1b","fromSide":"right","toNode":"3f5348b7402e24b0","toSide":"left","toEnd":"none","label":"half-siblings"}
+	]
+}
