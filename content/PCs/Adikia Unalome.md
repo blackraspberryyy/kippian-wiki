@@ -13,19 +13,19 @@ icon: player
 ---
 ## Bio
 > [!infobox]
-> # `=this.file.name`
-> ![[Adikia.png|cover hsmall]]
+> # Adikia Unalome
+> ![[../zzz_attachments/Adikia.png|cover hsmall]]
 > ###### Bio
 > | Type | Stat |
 > | ---- | ---- |
-> | Aliases | `=this.aliases`|
-> | Race| `=this.race` |
-> | Gender| `=this.gender`|
-> | Age | `=this.age`|
-> | Alignment|`=this.alignment`| 
-> | Background| `=this.background`|
-> | Location|  `=this.location`|
-> | Faction| `=this.faction`| 
+> | Aliases | Adikia|
+> | Race| elf |
+> | Gender| female|
+> | Age | middle-aged|
+> | Alignment|| 
+> | Background| Bard|
+> | Location|  |
+> | Faction| [[../Factions/Seven Up...|Seven Up...]]| 
 ##### Known for: being a chaotic bard
 ### Description
 ### Personality Traits
@@ -35,20 +35,11 @@ icon: player
 - [ ] Task 1
 ## Story log
 ### Most Recent
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) desc, reverse(bullets) desc
-LIMIT 10
-SORT number(file.name) asc, reverse(bullets) asc
-```
+- [[../Session Log/Session 13|Session 13]]: [[Adikia Unalome|Adikia]] enters a vision: She saw that [[Feypeak|Feypeak]] was somewhere in the east.
+- [[../Session Log/Session 13|Session 13]]: [[Adikia Unalome|Adikia]] read a book detailing the [[Feywild|Feywild]]. She learns the following:
+- [[../Session Log/Session 32|Session 32]]: [[Adikia Unalome|Adikia]] retrieves the [[Aureate Rapier|Aureate Rapier]].
+
 ### All Entries
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) asc
-```
+- [[../Session Log/Session 13|Session 13]]: [[Adikia Unalome|Adikia]] read a book detailing the [[Feywild|Feywild]]. She learns the following:
+- [[../Session Log/Session 13|Session 13]]: [[Adikia Unalome|Adikia]] enters a vision: She saw that [[Feypeak|Feypeak]] was somewhere in the east.
+- [[../Session Log/Session 32|Session 32]]: [[Adikia Unalome|Adikia]] retrieves the [[Aureate Rapier|Aureate Rapier]].
