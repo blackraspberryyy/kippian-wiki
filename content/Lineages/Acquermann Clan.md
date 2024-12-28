@@ -1,12 +1,12 @@
 ## Members
 ### The Three Brothers
-##### [[Korvin Acquermann]]
-##### [[Kristofer Acquermann]]
-##### [[Kayriel Acquermann]]
+##### [[../NPCs/Korvin Acquermann|Korvin Acquermann]]
+##### [[../NPCs/Kristofer Acquermann|Kristofer Acquermann]]
+##### [[../NPCs/Kayriel Acquermann|Kayriel Acquermann]]
 ### Next Generation
-##### [[Kayvan Acquermann]]
-##### [[Kiris Acquermann]]
-##### [[Kirren Acquermann]]
-# [[Acquermann Lineage Tree.canvas|Acquermann Lineage Tree]]
+##### [[../NPCs/Kayvan Acquermann|Kayvan Acquermann]]
+##### [[../PCs/Kiris Acquermann|Kiris Acquermann]]
+##### [[../NPCs/Kirren Acquermann|Kirren Acquermann]]
+# [[./Acquermann Lineage Tree.canvas|Acquermann Lineage Tree]]
 
 
