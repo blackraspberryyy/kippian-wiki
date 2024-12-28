@@ -12,4 +12,4 @@ lore_type: character
 icon: character
 ---
 Adult halfling
-[[Dalton Ironfleet]]'s daughter
+[[./Dalton Ironfleet|Dalton Ironfleet]]'s daughter
