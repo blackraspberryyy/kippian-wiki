@@ -7,38 +7,29 @@ icon: building
 ---
 ## Basic Information
 > [!infobox]
-> # `=this.file.name`
+> # Spathian Library and Military Academy
 > ![[insertimage.png|cover hsmall]]
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | `=this.aliases`|
-> | Located in | `=this.location`|
+> | Other names | |
+> | Located in | [[../Areas/Duospathia District|Duospathia District]]|
 ##### Known for:
 ### Description
 Kippian History 2nd floor
 War Journals and Tactics 1st floor
 Weapon Exhibit - basement
-[[Jocasta Randall]]
+[[../../NPCs/Jocasta Randall|Jocasta Randall]]
 
 ## Notable Locations
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "Locations"
-WHERE location = this.file.link
-```
+| Name |
+| ---- |
+
 ## Notable NPCs
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "NPCs" or "PCs"
-WHERE location = this.file.link
-```
+| Name                                         |
+| -------------------------------------------- |
+| [[../../NPCs/Jocasta Randall\|Jocasta Randall]] |
+
 ## Factions
-```dataview
-TABLE WITHOUT ID
-  file.link as Name
-FROM "Factions"
-WHERE location = this.file.link
-```
+| Name |
+| ---- |
