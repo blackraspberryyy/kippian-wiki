@@ -6,11 +6,11 @@ fc-category: Session
 icon: calendar
 ---
 ### Start Log
-- [[Ridnor]] visits [[Bulkip]] and informs the [[Seven Up...|party]] of the house arrangements
-- [[Yekora]] assassins vs Eladrin assassin vs [[Seven Up...|party]]
+- [[../NPCs/Ridnor|Ridnor]] visits [[../Locations/Settlements/Bulkip|Bulkip]] and informs the [[../Factions/Seven Up...|party]] of the house arrangements
+- [[../Deities/New Gods/Yekora|Yekora]] assassins vs Eladrin assassin vs [[../Factions/Seven Up...|party]]
 - Yekora spies/cult fanatic stops the party, Eladrin assassin jumps in and joins the fray.
-- Receive words from [[Olrac]] (through sending) and [[Nos-Aji]]. Messenger pigeon died.
-- Sending contains information that [[Nos-aji]] is already at [[Midkip]]. [[Nos-Aji|Nos]] has discovered a powerful cult embedded into the influential houses of [[Kingdom of United Kippian|Kippian]].
->[!quote|mark]  [[Olrac]]
+- Receive words from [[../NPCs/Olrac|Olrac]] (through sending) and [[../NPCs/Nos-Aji|Nos-Aji]]. Messenger pigeon died.
+- Sending contains information that [[../NPCs/Nos-Aji|Nos-aji]] is already at [[../Locations/Settlements/Midkip|Midkip]]. [[../NPCs/Nos-Aji|Nos]] has discovered a powerful cult embedded into the influential houses of [[../Locations/Kingdoms/Kingdom of United Kippian|Kippian]].
+>[!quote|mark]  [[../NPCs/Olrac|Olrac]]
 > This Olrac. Ezza here, safe. Nos in Midkip, investigating, his messenger pigeon died. Ryla arrived; she mayor for now. What you doing? Reply twenty-five.
 
