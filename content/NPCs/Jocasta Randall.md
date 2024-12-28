@@ -5,7 +5,7 @@ race: human
 age: old
 alignment: 
 background: 
-location: "[[Spathian Library and Military Academy]]"
+location: "[[../Locations/Buildings/Spathian Library and Military Academy|Spathian Library and Military Academy]]"
 faction: 
 status: 
 lore_type: character
@@ -13,20 +13,20 @@ icon: character
 ---
 ## Bio
 > [!infobox]
-> # `=this.file.name`
+> # Jocasta Randall
 > ![[insertimage.png|cover hsmall]]
 > ###### Bio
 > | Type | Stat |
 > | ---- | ---- |
-> | Aliases | `=this.aliases`|
-> | Race| `=this.race` |
-> | Gender| `=this.gender`|
-> | Age | `=this.age`|
-> | Alignment|`=this.alignment`| 
-> | Background| `=this.background`|
-> | Location|  `=this.location`|
-> | Faction| `=this.faction`| 
-##### Known for: Librarian of [[Spathian Library and Military Academy|Spathian Library and Military Academy]]
+> | Aliases | |
+> | Race| human |
+> | Gender| female|
+> | Age | old|
+> | Alignment|| 
+> | Background| |
+> | Location|  [[../Locations/Buildings/Spathian Library and Military Academy|Spathian Library and Military Academy]]|
+> | Faction| | 
+##### Known for: Librarian of [[../Locations/Buildings/Spathian Library and Military Academy|Spathian Library and Military Academy]]
 ### Description
 ### Personality Traits
 ### Relationships
@@ -35,20 +35,7 @@ icon: character
 - [ ] Task 1
 ## Story log
 ### Most Recent
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) desc, reverse(bullets) desc
-LIMIT 10
-SORT number(file.name) asc, reverse(bullets) asc
-```
+- [[../Session Log/Session 13|Session 13]]: The [[Seven Up...|party]] meets with [[Jocasta Randall|Jocasta Randall]], the librarian. The [[Seven Up...|party]] reads to gain information.
+
 ### All Entries
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) asc
-```
+- [[../Session Log/Session 13|Session 13]]: The [[Seven Up...|party]] meets with [[Jocasta Randall|Jocasta Randall]], the librarian. The [[Seven Up...|party]] reads to gain information.
