@@ -2,22 +2,22 @@
 
 | Month                           | Number of days | Note                       |
 | ------------------------------- | -------------- | -------------------------- |
-| [[Mathudim]]                    | 28             | Start of [[Akenatun]]'s season |
+| [[../NPCs/Past/Mathudim|Mathudim]]                    | 28             | Start of [[../Deities/Old Gods/Akenatun|Akenatun]]'s season |
 | Bastordyl                       | 28             |                            |
-| [[Azir Kyp\|Azir]]              | 28             |                            |
-| [[Amlaena Gustkil\|Gustkil]]    | 28             |                            |
-| [[Kwonyr]]                      | 28             | Ends [[Akenatun]]'s season     |
-| [[Zerrus Zagi\|Zagi]]           | 28             | Start of [[Matunda]]'s season  |
-| [[Johannes Cappodon\|Cappodon]] | 28             |                            |
-| [[Spekid Frostborn\|Spekid]]    | 28             |                            |
+| [[../NPCs/Past/Azir Kyp\|Azir]]              | 28             |                            |
+| [[../NPCs/Past/Amlaena Gustkil\|Gustkil]]    | 28             |                            |
+| [[../NPCs/Past/Kwonyr|Kwonyr]]                      | 28             | Ends [[../Deities/Old Gods/Akenatun|Akenatun]]'s season     |
+| [[../NPCs/Past/Zerrus Zagi\|Zagi]]           | 28             | Start of [[../Deities/Old Gods/Matunda|Matunda]]'s season  |
+| [[../NPCs/Past/Johannes Cappodon\|Cappodon]] | 28             |                            |
+| [[../NPCs/Past/Spekid Frostborn\|Spekid]]    | 28             |                            |
 | Mastkil                         | 28             |                            |
-| [[Yugad Matunda\|Yugad]]        | 28             | Ends [[Matunda]]'s season      |
+| [[../NPCs/Past/Yugad Matunda\|Yugad]]        | 28             | Ends [[../Deities/Old Gods/Matunda|Matunda]]'s season      |
 ## Days
 
 | Dedicated God | Day      |
 | ------------- | -------- |
-| [[Akenatun]]      | Akenday  |
-| [[Matunda]]   | Matunday |
+| [[../Deities/Old Gods/Akenatun|Akenatun]]      | Akenday  |
+| [[../Deities/Old Gods/Matunda|Matunda]]   | Matunday |
 | Antasha       | Tashday  |
 | Walladu       | Walladay |
 | Corlion       | Corday   |
