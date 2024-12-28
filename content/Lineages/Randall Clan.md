@@ -1,5 +1,5 @@
-## Matriarch: [[Mitarella Randall]]
+## Matriarch: [[../NPCs/Mitarella Randall|Mitarella Randall]]
 ## Members
-##### [[Michaela Randall]]
-##### [[Malvin Randall]]
+##### [[../NPCs/Michaela Randall|Michaela Randall]]
+##### [[../NPCs/Malvin Randall|Malvin Randall]]
 
