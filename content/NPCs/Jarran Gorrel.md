@@ -12,4 +12,4 @@ lore_type: character
 icon: character
 ---
 #villain 
-Father: [[Armand Gorrel]]
+Father: [[./Armand Gorrel|Armand Gorrel]]
