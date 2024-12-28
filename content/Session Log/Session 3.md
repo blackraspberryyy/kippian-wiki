@@ -6,6 +6,6 @@ fc-category: Session
 icon: calendar
 ---
 ### Start Log
-- [[Seven Up...|Party]] gets back to [[Ankor]]
-- [[Seven Up...|Party]] meets [[Elijah Orstadt]].
-- [[Seven Up...|Party]] restocks their supplies.
+- [[../Factions/Seven Up...|Party]] gets back to [[../Locations/Settlements/Ankor|Ankor]]
+- [[../Factions/Seven Up...|Party]] meets [[../NPCs/Elijah Orstadt|Elijah Orstadt]].
+- [[../Factions/Seven Up...|Party]] restocks their supplies.
