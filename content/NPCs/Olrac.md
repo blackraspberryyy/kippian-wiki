@@ -13,19 +13,19 @@ icon: character
 ---
 ## Bio
 > [!infobox]
-> # `=this.file.name`
+> # Olrac
 > ![[insertimage.png|cover hsmall]]
 > ###### Bio
 > | Type | Stat |
 > | ---- | ---- |
-> | Aliases | `=this.aliases`|
-> | Race| `=this.race` |
-> | Gender| `=this.gender`|
-> | Age | `=this.age`|
-> | Alignment|`=this.alignment`| 
-> | Background| `=this.background`|
-> | Location|  `=this.location`|
-> | Faction| `=this.faction`| 
+> | Aliases | |
+> | Race| halfling |
+> | Gender| male|
+> | Age | young adult|
+> | Alignment|| 
+> | Background| thief|
+> | Location|  [[../Locations/Settlements/Curkip|Curkip]]|
+> | Faction| [[../Factions/Curkip Thieves Guild|Curkip Thieves Guild]]| 
 ##### Known for being:
 ### Description
 ### Personality Traits
@@ -35,20 +35,31 @@ icon: character
 - [ ] Task 1
 ## Story log
 ### Most Recent
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) desc, reverse(bullets) desc
-LIMIT 10
-SORT number(file.name) asc, reverse(bullets) asc
-```
+- [[../Session Log/Session 1|Session 1]]: Receive words from [[Olrac|Olrac]] (through sending) and [[Nos-Aji|Nos-Aji]]. Messenger pigeon died.
+- [[../Session Log/Session 1|Session 1]]: Sending contains information that [[Nos-aji|Nos-aji]] is already at [[Midkip|Midkip]]. [[Nos-Aji|Nos]] has discovered a powerful cult embedded into the influential houses of [[Kingdom of United Kippian|Kippian]].
+>[!quote|mark]  [[Olrac|Olrac]]
+> This Olrac. Ezza here, safe. Nos in Midkip, investigating, his messenger pigeon died. Ryla arrived; she mayor for now. What you doing? Reply twenty-five.
+- [[../Session Log/Session 2|Session 2]]: [[Olrac|Olrac]] replies:
+> [!quote|mark]  [[Olrac|Olrac]]
+> Sorry for late reply. Can only use  Sending spell once a day. We can handle Curkip. No contact with Nos, deep cover. Trust your instincts.
+- [[../Session Log/Session 7|Session 7]]: [[Olrac|Olrac]] messages the [[Seven Up...|party]]:
+>[!quote|mark] [[Olrac|Olrac]]
+> What happened in Bulkip? Intel says the road to Midkip is treacherous. Nos needs help; find him in Lykos District.
+- [[../Session Log/Session 7|Session 7]]: [[Olrac|Olrac]] replies the next day:
+>[!quote|mark] [[Olrac|Olrac]]
+> For a quick way to Midkip, go through the Veiled Woods northwest of Hilkor. It cuts travel time by two days. Be careful, dangerous.
+
 ### All Entries
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) asc
-```
+- [[../Session Log/Session 1|Session 1]]: Receive words from [[Olrac|Olrac]] (through sending) and [[Nos-Aji|Nos-Aji]]. Messenger pigeon died.
+- [[../Session Log/Session 1|Session 1]]: Sending contains information that [[Nos-aji|Nos-aji]] is already at [[Midkip|Midkip]]. [[Nos-Aji|Nos]] has discovered a powerful cult embedded into the influential houses of [[Kingdom of United Kippian|Kippian]].
+>[!quote|mark]  [[Olrac|Olrac]]
+> This Olrac. Ezza here, safe. Nos in Midkip, investigating, his messenger pigeon died. Ryla arrived; she mayor for now. What you doing? Reply twenty-five.
+- [[../Session Log/Session 2|Session 2]]: [[Olrac|Olrac]] replies:
+> [!quote|mark]  [[Olrac|Olrac]]
+> Sorry for late reply. Can only use  Sending spell once a day. We can handle Curkip. No contact with Nos, deep cover. Trust your instincts.
+- [[../Session Log/Session 7|Session 7]]: [[Olrac|Olrac]] messages the [[Seven Up...|party]]:
+>[!quote|mark] [[Olrac|Olrac]]
+> What happened in Bulkip? Intel says the road to Midkip is treacherous. Nos needs help; find him in Lykos District.
+- [[../Session Log/Session 7|Session 7]]: [[Olrac|Olrac]] replies the next day:
+>[!quote|mark] [[Olrac|Olrac]]
+> For a quick way to Midkip, go through the Veiled Woods northwest of Hilkor. It cuts travel time by two days. Be careful, dangerous.
