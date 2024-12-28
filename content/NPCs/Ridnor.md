@@ -13,19 +13,19 @@ icon: character
 ---
 ## Bio
 > [!infobox]
-> # `=this.file.name`
+> # Ridnor
 > ![[insertimage.png|cover hsmall]]
 > ###### Bio
 > | Type | Stat |
 > | ---- | ---- |
-> | Aliases | `=this.aliases`|
-> | Race| `=this.race` |
-> | Gender| `=this.gender`|
-> | Age | `=this.age`|
-> | Alignment|`=this.alignment`| 
-> | Background| `=this.background`|
-> | Location|  `=this.location`|
-> | Faction| `=this.faction`| 
+> | Aliases | |
+> | Race|  |
+> | Gender| |
+> | Age | |
+> | Alignment|| 
+> | Background| |
+> | Location|  |
+> | Faction| | 
 ##### Known for being:
 ### Description
 ### Personality Traits
@@ -35,20 +35,11 @@ icon: character
 - [ ] Task 1
 ## Story log
 ### Most Recent
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) desc, reverse(bullets) desc
-LIMIT 10
-SORT number(file.name) asc, reverse(bullets) asc
-```
+- [[../Session Log/Session 1|Session 1]]: [[Ridnor|Ridnor]] visits [[Bulkip|Bulkip]] and informs the [[Seven Up...|party]] of the house arrangements
+- [[../Session Log/Session 6|Session 6]]: [[Ridnor|Ridnor]] reappears and gives update on the manor
+- [[../Session Log/Session 6|Session 6]]: [[Ridnor|Ridnor]] returns to the manor while the [[Seven Up...|party]] goes to [[Midkip|Midkip]]
+
 ### All Entries
-```dataview
-LIST bullets.text
-FROM "Session Log"
-FLATTEN file.lists as bullets
-WHERE contains(bullets.text, this.file.name)
-SORT number(file.name) asc
-```
+- [[../Session Log/Session 1|Session 1]]: [[Ridnor|Ridnor]] visits [[Bulkip|Bulkip]] and informs the [[Seven Up...|party]] of the house arrangements
+- [[../Session Log/Session 6|Session 6]]: [[Ridnor|Ridnor]] reappears and gives update on the manor
+- [[../Session Log/Session 6|Session 6]]: [[Ridnor|Ridnor]] returns to the manor while the [[Seven Up...|party]] goes to [[Midkip|Midkip]]
