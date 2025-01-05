@@ -15,7 +15,7 @@ icon: player
 ## Bio
 > [!infobox]
 > # Thoradin Goodman
-> ![[../zzz_attachments/Thoradin.png|cover hsmall]]
+> ![cover hsmall](../zzz_attachments/Thoradin.png)
 > ###### Bio
 > | Type | Stat |
 > | ---- | ---- |
@@ -27,7 +27,7 @@ icon: player
 > | Background| Paladin|
 > | Location|  |
 > | Faction| [[Seven Up...|Seven Up...]]| 
-##### Known for: being a staunch paladin of [[Macchi|Macchi]]
+##### Known for: being a staunch paladin of [Macchi](Macchi.md)
 ### Description
 #### Class: Paladin
 #### Subclass: [Oath of the Shield](https://www.dandwiki.com/wiki/Oath_of_the_Shield_(5e_Subclass))
@@ -35,19 +35,19 @@ icon: player
 ### Relationships
 ## Story log
 ### Most Recent
-- [[Session 13|Session 13]]: [[Thoradin Goodman|Thoradin]] fought a few guards. He manages to gain the guards' respect.
-- [[Session 13|Session 13]]: [[Thoradin Goodman|Thoradin]] read a book about [[Opidys|Opidys]]. There he read about [[Zerrus Zagi|Zerrus Zagi]], the mad mage.
-- [[Session 31|Session 31]]: [[Mitarella Randall|Mitarella]] meets [[Thoradin Goodman|Thoradin]] in the [[Seven Up...|party]]'s quarters.
-- [[Session 31|Session 31]]: [[Mitarella Randall|Mitarella]] asks [[Thoradin Goodman|Thoradin]] to join the [[Seven Up...|party]].
-- [[Session 32|Session 32]]: [[Arc|Arc]], [[Kiris Acquermann|Kiris]], [[Thoradin Goodman|Thoradin]] and [[Spraugh 'Splix' Calix|Splix]] goes to [[Kayvan Acquermann|Kayvan]]'s room.
-- [[Session 32|Session 32]]: [[Thoradin Goodman|Thoradin]] mentions [[Elix Claymore|Elix]] to [[Kayvan Acquermann|Kayvan]].
-- [[Session 34|Session 34]]: [[Adikia Unalome|Adikia]], [[Adeena Oberron|Adeena]], [[Theobald Clayhollow|Theobald]], [[Arc|Arc]] and [[Thoradin Goodman|Thoradin]] enters the [[Arcanus Labyrinthus|Arcanus Labyrinthus]].
+- [Session 13](Session%2013.md): [Thoradin](Thoradin%20Goodman.md) fought a few guards. He manages to gain the guards' respect.
+- [Session 13](Session%2013.md): [Thoradin](Thoradin%20Goodman.md) read a book about [Opidys](Opidys.md). There he read about [Zerrus Zagi](Zerrus%20Zagi.md), the mad mage.
+- [Session 31](Session%2031.md): [Mitarella](Mitarella%20Randall.md) meets [Thoradin](Thoradin%20Goodman.md) in the [[Seven Up...|party]]'s quarters.
+- [Session 31](Session%2031.md): [Mitarella](Mitarella%20Randall.md) asks [Thoradin](Thoradin%20Goodman.md) to join the [[Seven Up...|party]].
+- [Session 32](Session%2032.md): [Arc](Arc.md), [Kiris](Kiris%20Acquermann.md), [Thoradin](Thoradin%20Goodman.md) and [Splix](Spraugh%20'Splix'%20Calix.md) goes to [Kayvan](Kayvan%20Acquermann.md)'s room.
+- [Session 32](Session%2032.md): [Thoradin](Thoradin%20Goodman.md) mentions [Elix](Elix%20Claymore.md) to [Kayvan](Kayvan%20Acquermann.md).
+- [Session 34](Session%2034.md): [Adikia](Adikia%20Unalome.md), [Adeena](Adeena%20Oberron.md), [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Thoradin](Thoradin%20Goodman.md) enters the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md).
 
 ### All Entries
-- [[Session 13|Session 13]]: [[Thoradin Goodman|Thoradin]] fought a few guards. He manages to gain the guards' respect.
-- [[Session 13|Session 13]]: [[Thoradin Goodman|Thoradin]] read a book about [[Opidys|Opidys]]. There he read about [[Zerrus Zagi|Zerrus Zagi]], the mad mage.
-- [[Session 31|Session 31]]: [[Mitarella Randall|Mitarella]] meets [[Thoradin Goodman|Thoradin]] in the [[Seven Up...|party]]'s quarters.
-- [[Session 31|Session 31]]: [[Mitarella Randall|Mitarella]] asks [[Thoradin Goodman|Thoradin]] to join the [[Seven Up...|party]].
-- [[Session 32|Session 32]]: [[Arc|Arc]], [[Kiris Acquermann|Kiris]], [[Thoradin Goodman|Thoradin]] and [[Spraugh 'Splix' Calix|Splix]] goes to [[Kayvan Acquermann|Kayvan]]'s room.
-- [[Session 32|Session 32]]: [[Thoradin Goodman|Thoradin]] mentions [[Elix Claymore|Elix]] to [[Kayvan Acquermann|Kayvan]].
-- [[Session 34|Session 34]]: [[Adikia Unalome|Adikia]], [[Adeena Oberron|Adeena]], [[Theobald Clayhollow|Theobald]], [[Arc|Arc]] and [[Thoradin Goodman|Thoradin]] enters the [[Arcanus Labyrinthus|Arcanus Labyrinthus]].
+- [Session 13](Session%2013.md): [Thoradin](Thoradin%20Goodman.md) fought a few guards. He manages to gain the guards' respect.
+- [Session 13](Session%2013.md): [Thoradin](Thoradin%20Goodman.md) read a book about [Opidys](Opidys.md). There he read about [Zerrus Zagi](Zerrus%20Zagi.md), the mad mage.
+- [Session 31](Session%2031.md): [Mitarella](Mitarella%20Randall.md) meets [Thoradin](Thoradin%20Goodman.md) in the [[Seven Up...|party]]'s quarters.
+- [Session 31](Session%2031.md): [Mitarella](Mitarella%20Randall.md) asks [Thoradin](Thoradin%20Goodman.md) to join the [[Seven Up...|party]].
+- [Session 32](Session%2032.md): [Arc](Arc.md), [Kiris](Kiris%20Acquermann.md), [Thoradin](Thoradin%20Goodman.md) and [Splix](Spraugh%20'Splix'%20Calix.md) goes to [Kayvan](Kayvan%20Acquermann.md)'s room.
+- [Session 32](Session%2032.md): [Thoradin](Thoradin%20Goodman.md) mentions [Elix](Elix%20Claymore.md) to [Kayvan](Kayvan%20Acquermann.md).
+- [Session 34](Session%2034.md): [Adikia](Adikia%20Unalome.md), [Adeena](Adeena%20Oberron.md), [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Thoradin](Thoradin%20Goodman.md) enters the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md).
