@@ -2,7 +2,7 @@
 share: true
 aliases: 
 characters:
-  - "[Zagi](Zerrus%20Zagi.md)"
+  - "Zerrus Zagi"
 location: 
 fc-date: 
 fc-category: Lore
@@ -23,8 +23,8 @@ icon: lore
 ##### Known for:
 ### Description
 ## Lore Mentions
-### Quote from [King Agustus Kyp](Agustus%20Kyp.md)
-> *"Magus [Zagi](Zerrus%20Zagi.md) is worth a whole army. If need be, give in to his demands. We have a war to win."*
+### Quote from Agustus Kyp
+> *"Magus Zerrus Zagi is worth a whole army. If need be, give in to his demands. We have a war to win."*
 >
 > –King Agustus Kyp
 
@@ -36,7 +36,7 @@ icon: lore
 >–excerpt from **The Magi of Opidys**
 
 ### Most Recent
-- [Session 35](Session%2035.md): [Splix](Spraugh%20'Splix'%20Calix.md) retrieves [Ymerald Staff](Ymerald%20Staff.md).
+- Session 35: [Splix](Spraugh%20'Splix'%20Calix.md) retrieves [Ymerald Staff](Ymerald%20Staff.md).
 
 ### All Entries
-- [Session 35](Session%2035.md): [Splix](Spraugh%20'Splix'%20Calix.md) retrieves [Ymerald Staff](Ymerald%20Staff.md).
+- Session 35: [Splix](Spraugh%20'Splix'%20Calix.md) retrieves [Ymerald Staff](Ymerald%20Staff.md).

@@ -32,9 +32,9 @@ icon: lore
 >
 >–a diary entry from **Engor**, the king’s scribe
 ### Most Recent
-- [Session 36](Session%2036.md): [Adeena](Adeena%20Oberron.md) retrieved Engor's Diary and read an excerpt showcasing the [Frostborn Armor](Frostborn%20Armor.md)'s powers.
-- [Session 37](Session%2037.md): During the combat, [Kiris](Kiris%20Acquermann.md) is seen wielding the [Frostborn Armor](Frostborn%20Armor.md).
+- Session 36: [Adeena](Adeena%20Oberron.md) retrieved Engor's Diary and read an excerpt showcasing the [Frostborn Armor](Frostborn%20Armor.md)'s powers.
+- Session 37: During the combat, [Kiris](Kiris%20Acquermann.md) is seen wielding the [Frostborn Armor](Frostborn%20Armor.md).
 
 ### All Entries
-- [Session 36](Session%2036.md): [Adeena](Adeena%20Oberron.md) retrieved Engor's Diary and read an excerpt showcasing the [Frostborn Armor](Frostborn%20Armor.md)'s powers.
-- [Session 37](Session%2037.md): During the combat, [Kiris](Kiris%20Acquermann.md) is seen wielding the [Frostborn Armor](Frostborn%20Armor.md).
+- Session 36: [Adeena](Adeena%20Oberron.md) retrieved Engor's Diary and read an excerpt showcasing the [Frostborn Armor](Frostborn%20Armor.md)'s powers.
+- Session 37: During the combat, [Kiris](Kiris%20Acquermann.md) is seen wielding the [Frostborn Armor](Frostborn%20Armor.md).

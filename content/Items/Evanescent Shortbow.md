@@ -2,7 +2,7 @@
 share: true
 aliases: 
 characters:
-  - "[Amlaena](Amlaena%20Gustkil.md)"
+  - "Amlaena Gustkil"
   - "[Noah Skie](Noah%20Skie.md)"
 location: 
 fc-date: 
@@ -25,7 +25,7 @@ icon: lore
 ### Description
 ## Lore Mentions
 ### Excerpt from **Elven Lore: Stories from the Lost War**
-> _It was said that [Amlaena](Amlaena%20Gustkil.md)’s shortbow is translucent in sight. Arrows fired from her shortbow evaporate into thin air, making it impossible for the bow and its wielder to be tracked. A weapon that hides its wielder is quite formidable in the right hands._
+> _It was said that Amlaena Gustkil’s shortbow is translucent in sight. Arrows fired from her shortbow evaporate into thin air, making it impossible for the bow and its wielder to be tracked. A weapon that hides its wielder is quite formidable in the right hands._
 >
 >–excerpt from **Elven Lore: Stories from the Lost War**
 ### From a popular bardic song
