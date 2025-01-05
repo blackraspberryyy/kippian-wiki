@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Heroes of Kippian Wiki",
+    pageTitle: "Kippian Wiki",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -25,7 +25,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "MedievalSharp",
-        body: "Macondo",
+        body: "Grenze",
         code: "IBM Plex Mono",
       },
       colors: {
