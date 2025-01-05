@@ -1,4 +1,5 @@
 ---
+share: true
 aliases:
   - Splix
 gender: male
@@ -24,22 +25,25 @@ icon: player
 > | Age | young adult|
 > | Alignment|| 
 > | Background| Wizard|
-> | Location|  [[../Locations/Settlements/Effil|Effil]]|
-> | Faction| [[../Factions/Seven Up...|Seven Up...]]| 
-##### Known for:
+> | Location|  [[Effil|Effil]]|
+> | Faction| [[Seven Up...|Seven Up...]]| 
+##### Known for: being a subpar wizard... for now
 ### Description
+#### Class: Wizard
+#### Subclass: [School of Divination](https://dnd5e.wikidot.com/wizard:divination)
 ### Personality Traits
 ### Relationships
-### Stat Block
-## Goals
-- [ ] Task 1
 ## Story log
 ### Most Recent
-- [[../Session Log/Session 13|Session 13]]: [[Spraugh 'Splix' Calix|Splix]]
-- [[../Session Log/Session 31|Session 31]]: [[Spraugh 'Splix' Calix|Splix]] realizes that the [[Seven Up...|party]] is not allured by the [[Aureate Rapier|Aureate Rapier]] wielded by [[Remus Kyp|Remus Kyp]].
-- [[../Session Log/Session 32|Session 32]]: [[Arc|Arc]], [[Kiris Acquermann|Kiris]], [[Thoradin Goodman|Thoradin]] and [[Spraugh 'Splix' Calix|Splix]] goes to [[Kayvan Acquermann|Kayvan]]'s room.
+- [[Session 13|Session 13]]: [[Spraugh 'Splix' Calix|Splix]]
+- [[Session 31|Session 31]]: [[Spraugh 'Splix' Calix|Splix]] realizes that the [[Seven Up...|party]] is not allured by the [[Aureate Rapier|Aureate Rapier]] wielded by [[Remus Kyp|Remus Kyp]].
+- [[Session 32|Session 32]]: [[Arc|Arc]], [[Kiris Acquermann|Kiris]], [[Thoradin Goodman|Thoradin]] and [[Spraugh 'Splix' Calix|Splix]] goes to [[Kayvan Acquermann|Kayvan]]'s room.
+- [[Session 35|Session 35]]: [[Spraugh 'Splix' Calix|Splix]] retrieves [[Ymerald Staff|Ymerald Staff]].
+- [[Session 37|Session 37]]: During a collective vision, [[Kiris Acquermann|Kiris]] and [[Spraugh 'Splix' Calix|Splix]], aided by their team, is thrusted into a competitive four-versus-four brawl.
 
 ### All Entries
-- [[../Session Log/Session 13|Session 13]]: [[Spraugh 'Splix' Calix|Splix]]
-- [[../Session Log/Session 31|Session 31]]: [[Spraugh 'Splix' Calix|Splix]] realizes that the [[Seven Up...|party]] is not allured by the [[Aureate Rapier|Aureate Rapier]] wielded by [[Remus Kyp|Remus Kyp]].
-- [[../Session Log/Session 32|Session 32]]: [[Arc|Arc]], [[Kiris Acquermann|Kiris]], [[Thoradin Goodman|Thoradin]] and [[Spraugh 'Splix' Calix|Splix]] goes to [[Kayvan Acquermann|Kayvan]]'s room.
+- [[Session 13|Session 13]]: [[Spraugh 'Splix' Calix|Splix]]
+- [[Session 31|Session 31]]: [[Spraugh 'Splix' Calix|Splix]] realizes that the [[Seven Up...|party]] is not allured by the [[Aureate Rapier|Aureate Rapier]] wielded by [[Remus Kyp|Remus Kyp]].
+- [[Session 32|Session 32]]: [[Arc|Arc]], [[Kiris Acquermann|Kiris]], [[Thoradin Goodman|Thoradin]] and [[Spraugh 'Splix' Calix|Splix]] goes to [[Kayvan Acquermann|Kayvan]]'s room.
+- [[Session 35|Session 35]]: [[Spraugh 'Splix' Calix|Splix]] retrieves [[Ymerald Staff|Ymerald Staff]].
+- [[Session 37|Session 37]]: During a collective vision, [[Kiris Acquermann|Kiris]] and [[Spraugh 'Splix' Calix|Splix]], aided by their team, is thrusted into a competitive four-versus-four brawl.
