@@ -1,4 +1,5 @@
 ---
+share: true
 aliases:
   - Adikia
 gender: female
@@ -25,21 +26,24 @@ icon: player
 > | Alignment|| 
 > | Background| Bard|
 > | Location|  |
-> | Faction| [[../Factions/Seven Up...|Seven Up...]]| 
+> | Faction| [[Seven Up...|Seven Up...]]| 
 ##### Known for: being a chaotic bard
 ### Description
+#### Class: Bard
+#### Subclass: [Mage of Lorehold](https://dnd5e.wikidot.com/multisubclass:mage-of-lorehold-ua)
 ### Personality Traits
 ### Relationships
-### Stat Block
-## Goals
-- [ ] Task 1
 ## Story log
 ### Most Recent
-- [[../Session Log/Session 13|Session 13]]: [[Adikia Unalome|Adikia]] enters a vision: She saw that [[Feypeak|Feypeak]] was somewhere in the east.
-- [[../Session Log/Session 13|Session 13]]: [[Adikia Unalome|Adikia]] read a book detailing the [[Feywild|Feywild]]. She learns the following:
-- [[../Session Log/Session 32|Session 32]]: [[Adikia Unalome|Adikia]] retrieves the [[Aureate Rapier|Aureate Rapier]].
+- [[Session 13|Session 13]]: [[Adikia Unalome|Adikia]] enters a vision: She saw that [[Feypeak|Feypeak]] was somewhere in the east.
+- [[Session 13|Session 13]]: [[Adikia Unalome|Adikia]] read a book detailing the [[Feywild|Feywild]]. She learns the following:
+- [[Session 32|Session 32]]: [[Adikia Unalome|Adikia]] retrieves the [[Aureate Rapier|Aureate Rapier]].
+- [[Session 34|Session 34]]: [[Remus Kyp|Remus Kyp]] "gives" the [[Aureate Rapier|Aureate Rapier]] to [[Adikia Unalome|Adikia]].
+- [[Session 34|Session 34]]: [[Adikia Unalome|Adikia]], [[Adeena Oberron|Adeena]], [[Theobald Clayhollow|Theobald]], [[Arc|Arc]] and [[Thoradin Goodman|Thoradin]] enters the [[Arcanus Labyrinthus|Arcanus Labyrinthus]].
 
 ### All Entries
-- [[../Session Log/Session 13|Session 13]]: [[Adikia Unalome|Adikia]] read a book detailing the [[Feywild|Feywild]]. She learns the following:
-- [[../Session Log/Session 13|Session 13]]: [[Adikia Unalome|Adikia]] enters a vision: She saw that [[Feypeak|Feypeak]] was somewhere in the east.
-- [[../Session Log/Session 32|Session 32]]: [[Adikia Unalome|Adikia]] retrieves the [[Aureate Rapier|Aureate Rapier]].
+- [[Session 13|Session 13]]: [[Adikia Unalome|Adikia]] read a book detailing the [[Feywild|Feywild]]. She learns the following:
+- [[Session 13|Session 13]]: [[Adikia Unalome|Adikia]] enters a vision: She saw that [[Feypeak|Feypeak]] was somewhere in the east.
+- [[Session 32|Session 32]]: [[Adikia Unalome|Adikia]] retrieves the [[Aureate Rapier|Aureate Rapier]].
+- [[Session 34|Session 34]]: [[Remus Kyp|Remus Kyp]] "gives" the [[Aureate Rapier|Aureate Rapier]] to [[Adikia Unalome|Adikia]].
+- [[Session 34|Session 34]]: [[Adikia Unalome|Adikia]], [[Adeena Oberron|Adeena]], [[Theobald Clayhollow|Theobald]], [[Arc|Arc]] and [[Thoradin Goodman|Thoradin]] enters the [[Arcanus Labyrinthus|Arcanus Labyrinthus]].
