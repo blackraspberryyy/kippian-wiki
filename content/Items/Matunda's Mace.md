@@ -1,9 +1,10 @@
 ---
+share: true
 aliases: 
 characters:
-  - "[[../Deities/Old Gods/Matunda|Matunda]]"
-  - "[[Theobald Clayhollow|Theobald Clayhollow]]"
-  - "[[Stella Kari|Stella Kari]]"
+  - "[Matunda](Matunda.md)"
+  - "[Theobald Clayhollow](Theobald%20Clayhollow.md)"
+  - "[Stella Kari](Stella%20Kari.md)"
 location: 
 fc-date: 
 fc-category: Lore
@@ -13,16 +14,24 @@ icon: lore
 ## Basic Information
 > [!infobox]
 > # Matunda's Mace
-> ![[../zzz_attachments/Matunda's Mace.png|cover hsmall]]
+> ![cover hsmall](../zzz_attachments/Matunda's%20Mace.png)
 > ###### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Type|item|
 > | Located in | |
-##### Known for: a mace imbued with the power of [[../Deities/Old Gods/Matunda|Matunda]]
+##### Known for: a mace imbued with the power of [Matunda](Matunda.md)
 ### Description
 ## Lore Mentions
+### Excerpt from **Collected Learnings from Yugad Matunda**
+_Death and life are not the same thing, but to separate one from the other is a folly—a shortsighted and self-serving perspective. There is no other way around it: to bring forth death is to raise life. This amalgamation of death and life is central to understanding true divine power; a hard, unconscionable truth, but a truth nonetheless._
+
+–excerpt from **Collected Learnings from [Yugad Matunda](Yugad%20Matunda.md)**
+### Excerpt from **Touched by the Divine**
+_While most orders dismiss [Matunda](Matunda.md)’s teaching as either barbaric or paradoxical, it nevertheless had an undeniable influence on the discourse of divine power. It was due to Yugad Matunda’s brazen belief that allowed for the possibility of non-traditional access to divine power._
+
+–excerpt from **Touched by the Divine**, a biographical volume of beings with divine power
 ### Most Recent
 
 ### All Entries

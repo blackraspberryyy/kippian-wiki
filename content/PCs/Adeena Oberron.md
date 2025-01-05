@@ -15,7 +15,7 @@ icon: player
 ## Bio
 > [!infobox]
 > # Adeena Oberron
-> ![[../zzz_attachments/Adeena.png|cover hsmall]]
+> ![cover hsmall](../zzz_attachments/Adeena.png)
 > ###### Bio
 > | Type | Stat |
 > | ---- | ---- |
@@ -27,7 +27,7 @@ icon: player
 > | Background| Paladin|
 > | Location|  Sumber|
 > | Faction| [[Seven Up...|Seven Up...]]| 
-##### Known for: being a not-so-devout paladin of [[Aulephi|Aulephi]]
+##### Known for: being a not-so-devout paladin of [Aulephi](Aulephi.md)
 ### Description
 #### Class: Paladin
 #### Subclass: [Oath of Judgement](https://www.dandwiki.com/wiki/Oath_of_Judgement_(5e_Subclass))
@@ -35,19 +35,19 @@ icon: player
 ### Relationships
 ## Story log
 ### Most Recent
-- [[Session 12|Session 12]]: [[Adeena Oberron|Adeena]] is asked by a stranger what her name is. [[Adeena Oberron|Adeena]] answers "Anna".
-- [[Session 13|Session 13]]: [[Adeena Oberron|Adeena]] read about the continent of [[Sumber|Sumber]].
-- [[Session 14|Session 14]]: The birdfolk assassin attacks [[Adeena Oberron|Adeena]].
-- [[Session 31|Session 31]]: [[Adeena Oberron|Adeena]] and [[Noah Skie|Noah]] notices [[Kirren Acquermann|Kirren]] sleeping. [[Michaela Randall|Michaela]] is gone.
-- [[Session 31|Session 31]]: [[Adeena Oberron|Adeena Oberron]] and [[Kiris Acquermann|Kiris]] investigates the [[Riordan Kyp|King]]'s death.
-- [[Session 34|Session 34]]: [[Adikia Unalome|Adikia]], [[Adeena Oberron|Adeena]], [[Theobald Clayhollow|Theobald]], [[Arc|Arc]] and [[Thoradin Goodman|Thoradin]] enters the [[Arcanus Labyrinthus|Arcanus Labyrinthus]].
-- [[Session 36|Session 36]]: [[Adeena Oberron|Adeena]] retrieved Engor's Diary and read an excerpt showcasing the [[Frostborn Armor|Frostborn Armor]]'s powers.
+- [Session 12](Session%2012.md): [Adeena](Adeena%20Oberron.md) is asked by a stranger what her name is. [Adeena](Adeena%20Oberron.md) answers "Anna".
+- [Session 13](Session%2013.md): [Adeena](Adeena%20Oberron.md) read about the continent of [Sumber](Sumber.md).
+- [Session 14](Session%2014.md): The birdfolk assassin attacks [Adeena](Adeena%20Oberron.md).
+- [Session 31](Session%2031.md): [Adeena](Adeena%20Oberron.md) and [Noah](Noah%20Skie.md) notices [Kirren](Kirren%20Acquermann.md) sleeping. [Michaela](Michaela%20Randall.md) is gone.
+- [Session 31](Session%2031.md): [Adeena Oberron](Adeena%20Oberron.md) and [Kiris](Kiris%20Acquermann.md) investigates the [King](Riordan%20Kyp.md)'s death.
+- [Session 34](Session%2034.md): [Adikia](Adikia%20Unalome.md), [Adeena](Adeena%20Oberron.md), [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Thoradin](Thoradin%20Goodman.md) enters the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md).
+- [Session 36](Session%2036.md): [Adeena](Adeena%20Oberron.md) retrieved Engor's Diary and read an excerpt showcasing the [Frostborn Armor](Frostborn%20Armor.md)'s powers.
 
 ### All Entries
-- [[Session 12|Session 12]]: [[Adeena Oberron|Adeena]] is asked by a stranger what her name is. [[Adeena Oberron|Adeena]] answers "Anna".
-- [[Session 13|Session 13]]: [[Adeena Oberron|Adeena]] read about the continent of [[Sumber|Sumber]].
-- [[Session 14|Session 14]]: The birdfolk assassin attacks [[Adeena Oberron|Adeena]].
-- [[Session 31|Session 31]]: [[Adeena Oberron|Adeena]] and [[Noah Skie|Noah]] notices [[Kirren Acquermann|Kirren]] sleeping. [[Michaela Randall|Michaela]] is gone.
-- [[Session 31|Session 31]]: [[Adeena Oberron|Adeena Oberron]] and [[Kiris Acquermann|Kiris]] investigates the [[Riordan Kyp|King]]'s death.
-- [[Session 34|Session 34]]: [[Adikia Unalome|Adikia]], [[Adeena Oberron|Adeena]], [[Theobald Clayhollow|Theobald]], [[Arc|Arc]] and [[Thoradin Goodman|Thoradin]] enters the [[Arcanus Labyrinthus|Arcanus Labyrinthus]].
-- [[Session 36|Session 36]]: [[Adeena Oberron|Adeena]] retrieved Engor's Diary and read an excerpt showcasing the [[Frostborn Armor|Frostborn Armor]]'s powers.
+- [Session 12](Session%2012.md): [Adeena](Adeena%20Oberron.md) is asked by a stranger what her name is. [Adeena](Adeena%20Oberron.md) answers "Anna".
+- [Session 13](Session%2013.md): [Adeena](Adeena%20Oberron.md) read about the continent of [Sumber](Sumber.md).
+- [Session 14](Session%2014.md): The birdfolk assassin attacks [Adeena](Adeena%20Oberron.md).
+- [Session 31](Session%2031.md): [Adeena](Adeena%20Oberron.md) and [Noah](Noah%20Skie.md) notices [Kirren](Kirren%20Acquermann.md) sleeping. [Michaela](Michaela%20Randall.md) is gone.
+- [Session 31](Session%2031.md): [Adeena Oberron](Adeena%20Oberron.md) and [Kiris](Kiris%20Acquermann.md) investigates the [King](Riordan%20Kyp.md)'s death.
+- [Session 34](Session%2034.md): [Adikia](Adikia%20Unalome.md), [Adeena](Adeena%20Oberron.md), [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Thoradin](Thoradin%20Goodman.md) enters the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md).
+- [Session 36](Session%2036.md): [Adeena](Adeena%20Oberron.md) retrieved Engor's Diary and read an excerpt showcasing the [Frostborn Armor](Frostborn%20Armor.md)'s powers.

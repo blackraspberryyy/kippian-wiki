@@ -16,7 +16,7 @@ icon: player
 ## Bio
 > [!infobox]
 > # Theobald Clayhollow
-> ![[../zzz_attachments/Theobald.png|cover hsmall]]
+> ![cover hsmall](../zzz_attachments/Theobald.png)
 > ###### Bio
 > | Type | Stat |
 > | ---- | ---- |
@@ -28,7 +28,7 @@ icon: player
 > | Background| Cleric|
 > | Location|  [[Effil|Effil]]|
 > | Faction| [[Seven Up...|Seven Up...]]| 
-##### Known for: A devout cleric of [[Aisef|Aisef]]
+##### Known for: A devout cleric of [Aisef](Aisef.md)
 ### Description
 #### Class: Cleric
 #### Subclass: [Life Domain](https://dnd5e.wikidot.com/cleric:life)
@@ -36,15 +36,15 @@ icon: player
 ### Relationships
 ## Story log
 ### Most Recent
-- [[Session 13|Session 13]]: [[Theobald Clayhollow|Theobald]] found a book about detailing the jungle continent of [[Suirsya|Suirsya]]:
-- [[Session 31|Session 31]]: [[Theobald Clayhollow|Theobald]] casts Zone of Truth. [[Mitarella Randall|Mitarella]], [[Remus Kyp|Remus Kyp]], and 4 royal guards.
-- [[Session 33|Session 33]]: The party interrogates [[Rickard Kyp|Rickard]]; [[Theobald Clayhollow|Theobald]] casts Zone of Truth. [[Michaela Randall|Michaela]] and [[Mitarella Randall|Mitarella]] succeed the check. [[Kirren Acquermann|Kirren]], [[Remus Kyp|Remus]], and [[Rickard Kyp|Rickard]] fails.
-- [[Session 34|Session 34]]: [[Adikia Unalome|Adikia]], [[Adeena Oberron|Adeena]], [[Theobald Clayhollow|Theobald]], [[Arc|Arc]] and [[Thoradin Goodman|Thoradin]] enters the [[Arcanus Labyrinthus|Arcanus Labyrinthus]].
-- [[Session 36|Session 36]]: The [[Seven Up...|party]] is joined by [[Theobald Clayhollow|Theobald]].
+- [Session 13](Session%2013.md): [Theobald](Theobald%20Clayhollow.md) found a book about detailing the jungle continent of [Suirsya](Suirsya.md):
+- [Session 31](Session%2031.md): [Theobald](Theobald%20Clayhollow.md) casts Zone of Truth. [Mitarella](Mitarella%20Randall.md), [Remus Kyp](Remus%20Kyp.md), and 4 royal guards.
+- [Session 33](Session%2033.md): The party interrogates [Rickard](Rickard%20Kyp.md); [Theobald](Theobald%20Clayhollow.md) casts Zone of Truth. [Michaela](Michaela%20Randall.md) and [Mitarella](Mitarella%20Randall.md) succeed the check. [Kirren](Kirren%20Acquermann.md), [Remus](Remus%20Kyp.md), and [Rickard](Rickard%20Kyp.md) fails.
+- [Session 34](Session%2034.md): [Adikia](Adikia%20Unalome.md), [Adeena](Adeena%20Oberron.md), [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Thoradin](Thoradin%20Goodman.md) enters the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md).
+- [Session 36](Session%2036.md): The [[Seven Up...|party]] is joined by [Theobald](Theobald%20Clayhollow.md).
 
 ### All Entries
-- [[Session 13|Session 13]]: [[Theobald Clayhollow|Theobald]] found a book about detailing the jungle continent of [[Suirsya|Suirsya]]:
-- [[Session 31|Session 31]]: [[Theobald Clayhollow|Theobald]] casts Zone of Truth. [[Mitarella Randall|Mitarella]], [[Remus Kyp|Remus Kyp]], and 4 royal guards.
-- [[Session 33|Session 33]]: The party interrogates [[Rickard Kyp|Rickard]]; [[Theobald Clayhollow|Theobald]] casts Zone of Truth. [[Michaela Randall|Michaela]] and [[Mitarella Randall|Mitarella]] succeed the check. [[Kirren Acquermann|Kirren]], [[Remus Kyp|Remus]], and [[Rickard Kyp|Rickard]] fails.
-- [[Session 34|Session 34]]: [[Adikia Unalome|Adikia]], [[Adeena Oberron|Adeena]], [[Theobald Clayhollow|Theobald]], [[Arc|Arc]] and [[Thoradin Goodman|Thoradin]] enters the [[Arcanus Labyrinthus|Arcanus Labyrinthus]].
-- [[Session 36|Session 36]]: The [[Seven Up...|party]] is joined by [[Theobald Clayhollow|Theobald]].
+- [Session 13](Session%2013.md): [Theobald](Theobald%20Clayhollow.md) found a book about detailing the jungle continent of [Suirsya](Suirsya.md):
+- [Session 31](Session%2031.md): [Theobald](Theobald%20Clayhollow.md) casts Zone of Truth. [Mitarella](Mitarella%20Randall.md), [Remus Kyp](Remus%20Kyp.md), and 4 royal guards.
+- [Session 33](Session%2033.md): The party interrogates [Rickard](Rickard%20Kyp.md); [Theobald](Theobald%20Clayhollow.md) casts Zone of Truth. [Michaela](Michaela%20Randall.md) and [Mitarella](Mitarella%20Randall.md) succeed the check. [Kirren](Kirren%20Acquermann.md), [Remus](Remus%20Kyp.md), and [Rickard](Rickard%20Kyp.md) fails.
+- [Session 34](Session%2034.md): [Adikia](Adikia%20Unalome.md), [Adeena](Adeena%20Oberron.md), [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Thoradin](Thoradin%20Goodman.md) enters the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md).
+- [Session 36](Session%2036.md): The [[Seven Up...|party]] is joined by [Theobald](Theobald%20Clayhollow.md).
