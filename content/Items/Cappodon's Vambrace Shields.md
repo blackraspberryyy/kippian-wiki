@@ -1,9 +1,10 @@
 ---
+share: true
 aliases:
   - dual shields
 characters:
-  - "[[Johannes Cappodon|Johannes Cappodon]]"
-  - "[[Thoradin Goodman|Thoradin Goodman]]"
+  - "[Johannes Cappodon](Johannes%20Cappodon.md)"
+  - "[Thoradin Goodman](Thoradin%20Goodman.md)"
 location: 
 fc-date: 
 fc-category: Lore
@@ -13,7 +14,7 @@ icon: lore
 ## Basic Information
 > [!infobox]
 > # Cappodon's Vambrace Shields
-> ![[../zzz_attachments/Cappodon's Vambrace Shields.png|cover hsmall]]
+> ![cover hsmall](../zzz_attachments/Cappodon's%20Vambrace%20Shields.png)
 > ###### Information
 > |   |  |
 > | ---- | ---- |
@@ -23,6 +24,16 @@ icon: lore
 ##### Known for:
 ### Description
 ## Lore Mentions
+### Excerpt from **Chronicles of the Kippian-Sumber War**
+>_“That man is not a fighter… That man is a protector—and if he is loyal to a cause, a reliable ally. Release him, and bring him to me. I have yet to find a man as unyielding as that gladiator.”_
+>
+–[King Agustus Kyp](Agustus%20Kyp.md)
+>
+_Even when he was just a gladiator, [Johannes Cappodon](Johannes%20Cappodon.md) never had an inclination to an aggressive way of fighting. Armed with a singular buckler and a dull blade, he defended and wore down his opponents. His bouts were feats of stamina—his enemies conceding due to fatigue, with Johannes outlasting all fighters in the arena._
+>
+_One summer night, the audience was understandably bored waiting for Johannes’ protracted duel to end. However, a young prince seated in the royal balcony was delighted about the warrior’s inane display of defense. That prince soon became King Agustus Kyp, and he brought with him the loyal gladiator who became one of the most important figures of the great Kippian-Sumber war._
+>
+–excerpt from **Chronicles of the Kippian-Sumber War**
 ### Most Recent
 
 ### All Entries
