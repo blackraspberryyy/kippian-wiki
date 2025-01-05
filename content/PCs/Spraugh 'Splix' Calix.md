@@ -25,8 +25,8 @@ icon: player
 > | Age | young adult|
 > | Alignment|| 
 > | Background| Wizard|
-> | Location|  [[Effil|Effil]]|
-> | Faction| [[Seven Up...|Seven Up...]]| 
+> | Location|  Effil|
+> | Faction| Seven Up...| 
 ##### Known for: being a subpar wizard... for now
 ### Description
 #### Class: Wizard
@@ -35,15 +35,15 @@ icon: player
 ### Relationships
 ## Story log
 ### Most Recent
-- [Session 13](Session%2013.md): [Splix](Spraugh%20'Splix'%20Calix.md)
-- [Session 31](Session%2031.md): [Splix](Spraugh%20'Splix'%20Calix.md) realizes that the [[Seven Up...|party]] is not allured by the [Aureate Rapier](Aureate%20Rapier.md) wielded by [Remus Kyp](Remus%20Kyp.md).
-- [Session 32](Session%2032.md): [Arc](Arc.md), [Kiris](Kiris%20Acquermann.md), [Thoradin](Thoradin%20Goodman.md) and [Splix](Spraugh%20'Splix'%20Calix.md) goes to [Kayvan](Kayvan%20Acquermann.md)'s room.
-- [Session 35](Session%2035.md): [Splix](Spraugh%20'Splix'%20Calix.md) retrieves [Ymerald Staff](Ymerald%20Staff.md).
-- [Session 37](Session%2037.md): During a collective vision, [Kiris](Kiris%20Acquermann.md) and [Splix](Spraugh%20'Splix'%20Calix.md), aided by their team, is thrusted into a competitive four-versus-four brawl.
+- Session 13: [Splix](Spraugh%20'Splix'%20Calix.md)
+- Session 31: [Splix](Spraugh%20'Splix'%20Calix.md) realizes that the [[Seven Up...|party]] is not allured by the [Aureate Rapier](Aureate%20Rapier.md) wielded by [Remus Kyp](Remus%20Kyp.md).
+- Session 32: [Arc](Arc.md), [Kiris](Kiris%20Acquermann.md), [Thoradin](Thoradin%20Goodman.md) and [Splix](Spraugh%20'Splix'%20Calix.md) goes to [Kayvan](Kayvan%20Acquermann.md)'s room.
+- Session 35: [Splix](Spraugh%20'Splix'%20Calix.md) retrieves [Ymerald Staff](Ymerald%20Staff.md).
+- Session 37: During a collective vision, [Kiris](Kiris%20Acquermann.md) and [Splix](Spraugh%20'Splix'%20Calix.md), aided by their team, is thrusted into a competitive four-versus-four brawl.
 
 ### All Entries
-- [Session 13](Session%2013.md): [Splix](Spraugh%20'Splix'%20Calix.md)
-- [Session 31](Session%2031.md): [Splix](Spraugh%20'Splix'%20Calix.md) realizes that the [[Seven Up...|party]] is not allured by the [Aureate Rapier](Aureate%20Rapier.md) wielded by [Remus Kyp](Remus%20Kyp.md).
-- [Session 32](Session%2032.md): [Arc](Arc.md), [Kiris](Kiris%20Acquermann.md), [Thoradin](Thoradin%20Goodman.md) and [Splix](Spraugh%20'Splix'%20Calix.md) goes to [Kayvan](Kayvan%20Acquermann.md)'s room.
-- [Session 35](Session%2035.md): [Splix](Spraugh%20'Splix'%20Calix.md) retrieves [Ymerald Staff](Ymerald%20Staff.md).
-- [Session 37](Session%2037.md): During a collective vision, [Kiris](Kiris%20Acquermann.md) and [Splix](Spraugh%20'Splix'%20Calix.md), aided by their team, is thrusted into a competitive four-versus-four brawl.
+- Session 13: [Splix](Spraugh%20'Splix'%20Calix.md)
+- Session 31: [Splix](Spraugh%20'Splix'%20Calix.md) realizes that the [[Seven Up...|party]] is not allured by the [Aureate Rapier](Aureate%20Rapier.md) wielded by [Remus Kyp](Remus%20Kyp.md).
+- Session 32: [Arc](Arc.md), [Kiris](Kiris%20Acquermann.md), [Thoradin](Thoradin%20Goodman.md) and [Splix](Spraugh%20'Splix'%20Calix.md) goes to [Kayvan](Kayvan%20Acquermann.md)'s room.
+- Session 35: [Splix](Spraugh%20'Splix'%20Calix.md) retrieves [Ymerald Staff](Ymerald%20Staff.md).
+- Session 37: During a collective vision, [Kiris](Kiris%20Acquermann.md) and [Splix](Spraugh%20'Splix'%20Calix.md), aided by their team, is thrusted into a competitive four-versus-four brawl.
