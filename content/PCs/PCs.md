@@ -1,3 +1,6 @@
+---
+share: true
+---
 ```folder-overview
 id: af69d8bc-643d-4b8c-922c-c1e76f592464
 folderPath: ""

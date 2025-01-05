@@ -1,4 +1,5 @@
 ---
+share: true
 aliases:
   - Theobald
   - Theo
@@ -25,22 +26,25 @@ icon: player
 > | Age | old|
 > | Alignment|| 
 > | Background| Cleric|
-> | Location|  [[../Locations/Settlements/Effil|Effil]]|
-> | Faction| [[../Factions/Seven Up...|Seven Up...]]| 
-##### Known for: A Devout Cleric of [[../Deities/New Gods/Aisef|Aisef]]
+> | Location|  [[Effil|Effil]]|
+> | Faction| [[Seven Up...|Seven Up...]]| 
+##### Known for: A devout cleric of [[Aisef|Aisef]]
 ### Description
+#### Class: Cleric
+#### Subclass: [Life Domain](https://dnd5e.wikidot.com/cleric:life)
 ### Personality Traits
 ### Relationships
-### Stat Block
-## Goals
-- [ ] Task 1
 ## Story log
 ### Most Recent
-- [[../Session Log/Session 13|Session 13]]: [[Theobald Clayhollow|Theobald]] found a book about detailing the jungle continent of [[Suirsya|Suirsya]]:
-- [[../Session Log/Session 31|Session 31]]: [[Theobald Clayhollow|Theobald]] casts Zone of Truth. [[Mitarella Randall|Mitarella]], [[Remus Kyp|Remus Kyp]], and 4 royal guards.
-- [[../Session Log/Session 33|Session 33]]: The party interrogates [[Rickard Kyp|Rickard]]; [[Theobald Clayhollow|Theobald]] casts Zone of Truth. [[Michaela Randall|Michaela]] and [[Mitarella Randall|Mitarella]] succeed the check. [[Kirren Acquermann|Kirren]], [[Remus Kyp|Remus]], and [[Rickard Kyp|Rickard]] fails.
+- [[Session 13|Session 13]]: [[Theobald Clayhollow|Theobald]] found a book about detailing the jungle continent of [[Suirsya|Suirsya]]:
+- [[Session 31|Session 31]]: [[Theobald Clayhollow|Theobald]] casts Zone of Truth. [[Mitarella Randall|Mitarella]], [[Remus Kyp|Remus Kyp]], and 4 royal guards.
+- [[Session 33|Session 33]]: The party interrogates [[Rickard Kyp|Rickard]]; [[Theobald Clayhollow|Theobald]] casts Zone of Truth. [[Michaela Randall|Michaela]] and [[Mitarella Randall|Mitarella]] succeed the check. [[Kirren Acquermann|Kirren]], [[Remus Kyp|Remus]], and [[Rickard Kyp|Rickard]] fails.
+- [[Session 34|Session 34]]: [[Adikia Unalome|Adikia]], [[Adeena Oberron|Adeena]], [[Theobald Clayhollow|Theobald]], [[Arc|Arc]] and [[Thoradin Goodman|Thoradin]] enters the [[Arcanus Labyrinthus|Arcanus Labyrinthus]].
+- [[Session 36|Session 36]]: The [[Seven Up...|party]] is joined by [[Theobald Clayhollow|Theobald]].
 
 ### All Entries
-- [[../Session Log/Session 13|Session 13]]: [[Theobald Clayhollow|Theobald]] found a book about detailing the jungle continent of [[Suirsya|Suirsya]]:
-- [[../Session Log/Session 31|Session 31]]: [[Theobald Clayhollow|Theobald]] casts Zone of Truth. [[Mitarella Randall|Mitarella]], [[Remus Kyp|Remus Kyp]], and 4 royal guards.
-- [[../Session Log/Session 33|Session 33]]: The party interrogates [[Rickard Kyp|Rickard]]; [[Theobald Clayhollow|Theobald]] casts Zone of Truth. [[Michaela Randall|Michaela]] and [[Mitarella Randall|Mitarella]] succeed the check. [[Kirren Acquermann|Kirren]], [[Remus Kyp|Remus]], and [[Rickard Kyp|Rickard]] fails.
+- [[Session 13|Session 13]]: [[Theobald Clayhollow|Theobald]] found a book about detailing the jungle continent of [[Suirsya|Suirsya]]:
+- [[Session 31|Session 31]]: [[Theobald Clayhollow|Theobald]] casts Zone of Truth. [[Mitarella Randall|Mitarella]], [[Remus Kyp|Remus Kyp]], and 4 royal guards.
+- [[Session 33|Session 33]]: The party interrogates [[Rickard Kyp|Rickard]]; [[Theobald Clayhollow|Theobald]] casts Zone of Truth. [[Michaela Randall|Michaela]] and [[Mitarella Randall|Mitarella]] succeed the check. [[Kirren Acquermann|Kirren]], [[Remus Kyp|Remus]], and [[Rickard Kyp|Rickard]] fails.
+- [[Session 34|Session 34]]: [[Adikia Unalome|Adikia]], [[Adeena Oberron|Adeena]], [[Theobald Clayhollow|Theobald]], [[Arc|Arc]] and [[Thoradin Goodman|Thoradin]] enters the [[Arcanus Labyrinthus|Arcanus Labyrinthus]].
+- [[Session 36|Session 36]]: The [[Seven Up...|party]] is joined by [[Theobald Clayhollow|Theobald]].
