@@ -15,7 +15,7 @@ icon: player
 ## Bio
 > [!infobox]
 > # Noah Skie
-> ![[../zzz_attachments/Noah.png|cover hsmall]]
+> ![cover hsmall](../zzz_attachments/Noah.png)
 > ###### Bio
 > | Type | Stat |
 > | ---- | ---- |
@@ -35,29 +35,29 @@ icon: player
 ### Relationships
 ## Story log
 ### Most Recent
-- [[Session 33|Session 33]]: [[Michaela Randall|Michaela Randall]] wakes [[Noah Skie|Noah]] from her sleep.
-- [[Session 33|Session 33]]: [[Michaela Randall|Michaela]] and [[Noah Skie|Noah]] goes to the dungeons.
-- [[Session 33|Session 33]]: [[Malvin Randall|Malvin Randall]] wants to talk to [[Noah Skie|Noah]].
-- [[Session 33|Session 33]]: [[Malvin Randall|Malvin]] is revealed to be [[Noah Skie|Noah]]'s recruit.
-- [[Session 33|Session 33]]: [[Noah Skie|Noah]] injures [[Malvin Randall|Malvin Randall]].
-- [[Session 33|Session 33]]: [[Noah Skie|Noah]] spots a shadowy figure by the stairs. [[Michaela Randall|Michaela]] does not see it.
-- [[Session 33|Session 33]]: [[Noah Skie|Noah]] tries to attack the figure, but the figure disappears.
-- [[Session 33|Session 33]]: [[Kirren Acquermann|Kirren]] finds [[Noah Skie|Noah]] and [[Michaela Randall|Michaela]] and tells them about the [[Death of King Riordan|Death of King Riordan]].
-- [[Session 33|Session 33]]: [[Noah Skie|Noah]], [[Kirren Acquermann|Kirren]], and [[Michaela Randall|Michaela]] finds [[Kiris Acquermann|Kiris]], who caught [[Rickard Kyp|Rickard]], falling from the air.
-- [[Session 35|Session 35]]: [[Noah Skie|Noah]] and [[Michaela Randall|Michaela]] investigate the library.
+- [Session 33](Session%2033.md): [Michaela Randall](Michaela%20Randall.md) wakes [Noah](Noah%20Skie.md) from her sleep.
+- [Session 33](Session%2033.md): [Michaela](Michaela%20Randall.md) and [Noah](Noah%20Skie.md) goes to the dungeons.
+- [Session 33](Session%2033.md): [Malvin Randall](Malvin%20Randall.md) wants to talk to [Noah](Noah%20Skie.md).
+- [Session 33](Session%2033.md): [Malvin](Malvin%20Randall.md) is revealed to be [Noah](Noah%20Skie.md)'s recruit.
+- [Session 33](Session%2033.md): [Noah](Noah%20Skie.md) injures [Malvin Randall](Malvin%20Randall.md).
+- [Session 33](Session%2033.md): [Noah](Noah%20Skie.md) spots a shadowy figure by the stairs. [Michaela](Michaela%20Randall.md) does not see it.
+- [Session 33](Session%2033.md): [Noah](Noah%20Skie.md) tries to attack the figure, but the figure disappears.
+- [Session 33](Session%2033.md): [Kirren](Kirren%20Acquermann.md) finds [Noah](Noah%20Skie.md) and [Michaela](Michaela%20Randall.md) and tells them about the [Death of King Riordan](Death%20of%20King%20Riordan.md).
+- [Session 33](Session%2033.md): [Noah](Noah%20Skie.md), [Kirren](Kirren%20Acquermann.md), and [Michaela](Michaela%20Randall.md) finds [Kiris](Kiris%20Acquermann.md), who caught [Rickard](Rickard%20Kyp.md), falling from the air.
+- [Session 35](Session%2035.md): [Noah](Noah%20Skie.md) and [Michaela](Michaela%20Randall.md) investigate the library.
 
 ### All Entries
-- [[Session 13|Session 13]]: [[Noah Skie|Noah]] found a book detailing the history of [[Ankor|Ankor]]. She read that [[Curkip|Curkip]] was once under the jurisdiction of [[Bulkip|Bulkip]].
-- [[Session 16|Session 16]]: [[Noah Skie|Noah]] retrieves the [[Twilight Dagger|Twilight Dagger]].
-- [[Session 31|Session 31]]: [[Adeena Oberron|Adeena]] and [[Noah Skie|Noah]] notices [[Kirren Acquermann|Kirren]] sleeping. [[Michaela Randall|Michaela]] is gone.
-- [[Session 31|Session 31]]: [[Seven Up...|Party]] wakes up. [[Arc|Arc]], [[Noah Skie|Noah]] and [[Kirren Acquermann|Kirren]] is not in the quarters.
-- [[Session 33|Session 33]]: [[Michaela Randall|Michaela Randall]] wakes [[Noah Skie|Noah]] from her sleep.
-- [[Session 33|Session 33]]: [[Michaela Randall|Michaela]] and [[Noah Skie|Noah]] goes to the dungeons.
-- [[Session 33|Session 33]]: [[Malvin Randall|Malvin Randall]] wants to talk to [[Noah Skie|Noah]].
-- [[Session 33|Session 33]]: [[Malvin Randall|Malvin]] is revealed to be [[Noah Skie|Noah]]'s recruit.
-- [[Session 33|Session 33]]: [[Noah Skie|Noah]] injures [[Malvin Randall|Malvin Randall]].
-- [[Session 33|Session 33]]: [[Noah Skie|Noah]] spots a shadowy figure by the stairs. [[Michaela Randall|Michaela]] does not see it.
-- [[Session 33|Session 33]]: [[Noah Skie|Noah]] tries to attack the figure, but the figure disappears.
-- [[Session 33|Session 33]]: [[Kirren Acquermann|Kirren]] finds [[Noah Skie|Noah]] and [[Michaela Randall|Michaela]] and tells them about the [[Death of King Riordan|Death of King Riordan]].
-- [[Session 33|Session 33]]: [[Noah Skie|Noah]], [[Kirren Acquermann|Kirren]], and [[Michaela Randall|Michaela]] finds [[Kiris Acquermann|Kiris]], who caught [[Rickard Kyp|Rickard]], falling from the air.
-- [[Session 35|Session 35]]: [[Noah Skie|Noah]] and [[Michaela Randall|Michaela]] investigate the library.
+- [Session 13](Session%2013.md): [Noah](Noah%20Skie.md) found a book detailing the history of [[Ankor|Ankor]]. She read that [Curkip](Curkip.md) was once under the jurisdiction of [Bulkip](Bulkip.md).
+- [Session 16](Session%2016.md): [Noah](Noah%20Skie.md) retrieves the [Twilight Dagger](Twilight%20Dagger.md).
+- [Session 31](Session%2031.md): [Adeena](Adeena%20Oberron.md) and [Noah](Noah%20Skie.md) notices [Kirren](Kirren%20Acquermann.md) sleeping. [Michaela](Michaela%20Randall.md) is gone.
+- [Session 31](Session%2031.md): [[Seven Up...|Party]] wakes up. [Arc](Arc.md), [Noah](Noah%20Skie.md) and [Kirren](Kirren%20Acquermann.md) is not in the quarters.
+- [Session 33](Session%2033.md): [Michaela Randall](Michaela%20Randall.md) wakes [Noah](Noah%20Skie.md) from her sleep.
+- [Session 33](Session%2033.md): [Michaela](Michaela%20Randall.md) and [Noah](Noah%20Skie.md) goes to the dungeons.
+- [Session 33](Session%2033.md): [Malvin Randall](Malvin%20Randall.md) wants to talk to [Noah](Noah%20Skie.md).
+- [Session 33](Session%2033.md): [Malvin](Malvin%20Randall.md) is revealed to be [Noah](Noah%20Skie.md)'s recruit.
+- [Session 33](Session%2033.md): [Noah](Noah%20Skie.md) injures [Malvin Randall](Malvin%20Randall.md).
+- [Session 33](Session%2033.md): [Noah](Noah%20Skie.md) spots a shadowy figure by the stairs. [Michaela](Michaela%20Randall.md) does not see it.
+- [Session 33](Session%2033.md): [Noah](Noah%20Skie.md) tries to attack the figure, but the figure disappears.
+- [Session 33](Session%2033.md): [Kirren](Kirren%20Acquermann.md) finds [Noah](Noah%20Skie.md) and [Michaela](Michaela%20Randall.md) and tells them about the [Death of King Riordan](Death%20of%20King%20Riordan.md).
+- [Session 33](Session%2033.md): [Noah](Noah%20Skie.md), [Kirren](Kirren%20Acquermann.md), and [Michaela](Michaela%20Randall.md) finds [Kiris](Kiris%20Acquermann.md), who caught [Rickard](Rickard%20Kyp.md), falling from the air.
+- [Session 35](Session%2035.md): [Noah](Noah%20Skie.md) and [Michaela](Michaela%20Randall.md) investigate the library.
