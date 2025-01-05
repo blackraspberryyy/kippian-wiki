@@ -30,7 +30,7 @@ icon: player
 ##### Known for: being a not-so-devout paladin of [[Aulephi|Aulephi]]
 ### Description
 #### Class: Paladin
-#### Subclass: [Oath of Judgement](https://www.dandwiki.com/wiki/Oath_of_Judgement_(5e_Subclass)))
+#### Subclass: [Oath of Judgement](https://www.dandwiki.com/wiki/Oath_of_Judgement_(5e_Subclass))
 ### Personality Traits
 ### Relationships
 ## Story log
