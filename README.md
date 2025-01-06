@@ -1,4 +1,5 @@
 # Kippian Wiki
+An attempt to collate every details on our D&D campaign in a wiki-like site. See it in action [here](https://blackraspberryyy.github.io/kippian-wiki/).
 
 ## Get Started
 
