@@ -1,18 +1,15 @@
-# Quartz v4
+# Kippian Wiki
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+## Get Started
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+1. Clone this repository.
+2. Run `npm install`
+3. Run `npx quartz build --serve` to see the site locally on [http://localhost:8080](http://localhost:8080).
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## How to change contents of the Wiki
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+You don't. [@qwertyshade](https://github.com/qwertyshade) has all the power to read and write contents in the wiki.
 
-## Sponsors
+## Documentations
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Read [quartz documentation](https://quartz.jzhao.xyz/) for more info on how to change things in this repo. 
