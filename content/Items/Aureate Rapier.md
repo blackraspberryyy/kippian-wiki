@@ -20,7 +20,7 @@ icon: lore
 > | ---- | ---- |
 > | Other names | Gilded Rapier|
 > | Type|item|
-> | Located in | Ankyra District|
+> | Located in | [Ankyra District](../Locations/Areas/Ankyra%20District.md)|
 ##### Known for:
 ### Description
 ## Lore Mentions
