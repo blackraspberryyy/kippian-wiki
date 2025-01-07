@@ -25,7 +25,7 @@ icon: player
 > | Age | young adult|
 > | Alignment|| 
 > | Background| Sorcerer|
-> | Location|  Yvernus District|
+> | Location|  [Yvernus District](../Locations/Areas/Yvernus%20District.md)|
 > | Faction| [Seven Up...](../Factions/Seven%20Up....md)| 
 ##### Known for being: 
 ### Description
