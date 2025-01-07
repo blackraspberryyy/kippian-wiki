@@ -16,7 +16,7 @@ icon: faction
 > | ---- | ---- |
 > | Aliases | CTG|
 > | Status| ally|
-> | Based in|  Curkip|
+> | Based in|  [Curkip](../Locations/Settlements/Curkip.md)|
 ##### Known for: being a wholesome thieves guild
 ### Description
 ## Organization
