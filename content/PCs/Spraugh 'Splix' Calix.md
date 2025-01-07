@@ -25,7 +25,7 @@ icon: player
 > | Age | young adult|
 > | Alignment|| 
 > | Background| Wizard|
-> | Location|  Effil|
+> | Location|  [Effil](../Locations/Settlements/Effil.md)|
 > | Faction| [Seven Up...](../Factions/Seven%20Up....md)| 
 ##### Known for: being a subpar wizard... for now
 ### Description
