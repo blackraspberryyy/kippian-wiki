@@ -16,8 +16,8 @@ icon: faction
 > | ---- | ---- |
 > | Aliases | High Council|
 > | Status| inactive|
-> | Based in|  Asteri District|
-##### Known for: handling all political matters of theKingdom of United Kippian
+> | Based in|  [Asteri District](../Locations/Areas/Asteri%20District.md)|
+##### Known for: handling all political matters of the[Kingdom of United Kippian](../Locations/Kingdoms/Kingdom%20of%20United%20Kippian.md)
 ### Description
 ##### High Council Seating
 Drakon-Aetos-Chtapodhi-Foenyx-King of Kippian-Ankyra-Yvernus-Duospathia-Lykos
