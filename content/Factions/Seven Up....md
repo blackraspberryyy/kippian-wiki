@@ -17,7 +17,7 @@ icon: player
 > | ---- | ---- |
 > | Aliases | Party,party|
 > | Status| active|
-> | Current Location|  Midkip|
+> | Current Location|  [Midkip](../Locations/Settlements/Midkip.md)|
 ##### Known for:
 ### Description
 ## Organization
@@ -26,13 +26,13 @@ icon: player
 | Name                                                    |
 | ------------------------------------------------------- |
 | [Adeena Oberron](../PCs/Adeena%20Oberron.md)               |
-| [Adikia Unalome](../PCs/Adikia%20Unalome.md)               |
 | [Arc](../PCs/Arc.md)                                     |
-| [Kiris Acquermann](../PCs/Kiris%20Acquermann.md)           |
 | [Noah Skie](../PCs/Noah%20Skie.md)                         |
+| [Kiris Acquermann](../PCs/Kiris%20Acquermann.md)           |
+| [Adikia Unalome](../PCs/Adikia%20Unalome.md)               |
 | [Spraugh 'Splix' Calix](../PCs/Spraugh%20'Splix'%20Calix.md) |
-| [Thoradin Goodman](../PCs/Thoradin%20Goodman.md)           |
 | [Theobald Clayhollow](../PCs/Theobald%20Clayhollow.md)     |
+| [Thoradin Goodman](../PCs/Thoradin%20Goodman.md)           |
 
 ## Goals
 - [ ] Task 1

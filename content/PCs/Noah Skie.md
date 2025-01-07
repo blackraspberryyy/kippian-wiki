@@ -25,7 +25,7 @@ icon: player
 > | Age | middle-aged|
 > | Alignment|| 
 > | Background| Fighter|
-> | Location|  Ankor|
+> | Location|  [Ankor](../Locations/Settlements/Ankor.md)|
 > | Faction| [Seven Up...](../Factions/Seven%20Up....md)| 
 ##### Known for: being the sole survivor of an expedition
 ### Description

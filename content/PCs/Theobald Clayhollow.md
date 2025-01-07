@@ -26,7 +26,7 @@ icon: player
 > | Age | old|
 > | Alignment|| 
 > | Background| Cleric|
-> | Location|  Effil|
+> | Location|  [Effil](../Locations/Settlements/Effil.md)|
 > | Faction| [Seven Up...](../Factions/Seven%20Up....md)| 
 ##### Known for: A devout cleric of Aisef
 ### Description
