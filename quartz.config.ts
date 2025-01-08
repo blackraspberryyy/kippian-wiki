@@ -20,6 +20,7 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
+    hideInfobox: true,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -56,6 +57,7 @@ const config: QuartzConfig = {
   },
   plugins: {
     transformers: [
+      Plugin.HideInfobox(),
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "filesystem"],
