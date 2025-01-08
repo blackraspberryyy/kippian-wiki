@@ -3,17 +3,7 @@ import { find } from 'unist-util-find'
 import { toHtml } from "hast-util-to-html"
 import { Root } from "hast"
 
-interface Options {
-  favouriteNumber: number
-}
-  
-const defaultOptions: Options = {
-  favouriteNumber: 42,
-}
-   
-export default ((userOpts?: Options) => {
-  const opts = { ...userOpts, ...defaultOptions }
-
+export default (() => {
   const Infobox: QuartzComponent = (props: QuartzComponentProps) => {
     // if the config says no (e.g. hideInfobox: false), then just dont bother.
     if (props.cfg && !props.cfg.hideInfobox) {
@@ -35,7 +25,9 @@ export default ((userOpts?: Options) => {
     }
 
     // revert the "display:none" made by HideInfobox transformer
-    (infoboxNode as any).properties.style = `${(infoboxNode as any).properties?.style ?? ''} display:block;`
+    if ((infoboxNode as any)?.properties?.className) {
+      (infoboxNode as any).properties.className = [...(infoboxNode as any)?.properties?.className, 'display-block'];
+    }
 
     // hide the annoying infobox text header on blockquote
     const infoboxheader = find(infoboxNode, (node: any) => {
@@ -45,7 +37,7 @@ export default ((userOpts?: Options) => {
     });
     (infoboxheader as any).value = 'Information'
 
-    return <div dangerouslySetInnerHTML={{__html: toHtml(infoboxNode as Root)}}></div>;
+    return <div class="information-box" dangerouslySetInnerHTML={{__html: toHtml(infoboxNode as Root)}}></div>;
   };
   
   return Infobox

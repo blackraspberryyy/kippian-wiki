@@ -1,3 +1,31 @@
+@use "./variables.scss" as *;
 @use "./base.scss";
 
 // put your custom CSS here!
+.display-none {
+  display: none;
+}
+
+.display-block {
+  display: block;
+}
+
+.sidebar.right {
+  height: unset;
+
+  @media all and ($mobile) {
+    flex-wrap:wrap;
+  }
+}
+
+.information-box {
+  flex: 1;
+
+  & p:has(img) {
+    text-align: center;
+  }
+
+  & table {
+    width: 100%;
+  }
+}

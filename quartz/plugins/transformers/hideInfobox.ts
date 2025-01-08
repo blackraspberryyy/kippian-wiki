@@ -22,9 +22,12 @@ export const HideInfobox: QuartzTransformerPlugin = () => {
               if (
                 node.type === "element"
                 && node.tagName === 'blockquote' 
-                && node?.properties?.className?.split(' ')?.some((c: string) => "infobox")
+                && node?.properties?.className?.split(' ')?.some((c: string) => c === "infobox")
               ) {
-                node.properties["style"] = `${node.properties.style ?? ''} display:none;`
+                if ((node as any)?.properties?.className) {
+                  (node as any).properties.className = [...(node as any)?.properties?.className.split(' '), 'display-none'];
+                }
+
               }
             })
           }
