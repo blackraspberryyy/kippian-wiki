@@ -20,7 +20,7 @@
 
 .information-box {
   @media screen and ($mobile) {
-    flex: 0 1 100%;
+    flex: auto;
   }
 
   & p:has(img) {
