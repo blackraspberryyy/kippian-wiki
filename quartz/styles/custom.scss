@@ -19,7 +19,9 @@
 }
 
 .information-box {
-  flex: 1;
+  @media screen and ($mobile) {
+    flex: 0 1 100%;
+  }
 
   & p:has(img) {
     text-align: center;
