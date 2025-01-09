@@ -1,15 +1,15 @@
 {
-  "name": "@jackyzha0/quartz",
-  "description": "🌱 publish your digital garden and notes as a website",
+  "name": "@blackraspberryyy/kippian-wiki",
+  "description": "An attempt to collate every details on our D&D campaign in a wiki-like site.",
   "private": true,
   "version": "4.4.0",
   "type": "module",
-  "author": "jackyzha0 <j.zhao2k19@gmail.com>",
+  "author": "blackraspberryyy <carlo.valencia066@gmail.com>",
   "license": "MIT",
-  "homepage": "https://quartz.jzhao.xyz",
+  "homepage": "https://blackraspberryyy.github.io/kippian-wiki",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackyzha0/quartz.git"
+    "url": "https://github.com/blackraspberryyy/kippian-wiki.git"
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
@@ -29,7 +29,9 @@
     "digital-garden",
     "markdown",
     "blog",
-    "quartz"
+    "quartz",
+    "kippian-wiki",
+    "kippian"
   ],
   "bin": {
     "quartz": "./quartz/bootstrap-cli.mjs"
@@ -92,6 +94,7 @@
     "to-vfile": "^8.0.0",
     "toml": "^3.0.0",
     "unified": "^11.0.5",
+    "unist-util-find": "^3.0.0",
     "unist-util-visit": "^5.0.0",
     "vfile": "^6.0.3",
     "workerpool": "^9.2.0",

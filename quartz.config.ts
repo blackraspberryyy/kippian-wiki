@@ -16,10 +16,11 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "blackraspberryyy.github.io/heroes-of-kippian-wiki",
+    baseUrl: "blackraspberryyy.github.io/kippian-wiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
+    hideInfobox: true,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -56,6 +57,7 @@ const config: QuartzConfig = {
   },
   plugins: {
     transformers: [
+      Plugin.HideInfobox(),
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "filesystem"],
