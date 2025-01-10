@@ -1,7 +1,9 @@
 import { QuartzTransformerPlugin } from "../types"
-import { Root } from "mdast"
+import { Heading, Root } from "mdast"
 import { visit } from "unist-util-visit"
 import { toString } from "mdast-util-to-string"
+import { find } from "unist-util-find"
+import {is} from 'unist-util-is'
 import Slugger from "github-slugger"
 
 export interface Options {
@@ -38,15 +40,29 @@ export const TableOfContents: QuartzTransformerPlugin<Partial<Options>> = (userO
               slugAnchor.reset()
               const toc: TocEntry[] = []
               let highestDepth: number = opts.maxDepth
+              const excludedNodes: Heading[] = [];
+
+              visit(tree, "blockquote", (node) => {
+                const heading = find(node, (node: any) => {
+                  return node.type === 'heading';
+                });
+
+                excludedNodes.push(heading as Heading);
+              })
+
               visit(tree, "heading", (node) => {
                 if (node.depth <= opts.maxDepth) {
-                  const text = toString(node)
-                  highestDepth = Math.min(highestDepth, node.depth)
-                  toc.push({
-                    depth: node.depth,
-                    text,
-                    slug: slugAnchor.slug(text),
-                  })
+                  if (excludedNodes.some(e => is(node, e))) {
+                    // don't push to toc if the heading is in the blockquote
+                  } else {
+                    const text = toString(node)
+                    highestDepth = Math.min(highestDepth, node.depth)
+                    toc.push({
+                      depth: node.depth,
+                      text,
+                      slug: slugAnchor.slug(text),
+                    })
+                  }
                 }
               })
 

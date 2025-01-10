@@ -18,7 +18,7 @@ export const HideInfobox: QuartzTransformerPlugin = () => {
             }
 
             // visit all element and hide the blockquotes
-            visit(tree, "element", (node, _index, _parent) => {
+            visit(tree, "element", (node) => {
               if (
                 node.type === "element"
                 && node.tagName === 'blockquote' 
