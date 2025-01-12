@@ -30,10 +30,10 @@ Drakon-Aetos-Chtapodhi-Foenyx-King of Kippian-Ankyra-Yvernus-Duospathia-Lykos
 | Armand Gorrel           |
 | Gokare Veegar           |
 | Kayvan Acquermann   |
-| Laurie Furwish         |
 | Mitarella Randall   |
-| Remus Kyp                   |
+| Laurie Furwish         |
 | Riordan Kyp               |
+| Remus Kyp                   |
 | Shemance Ironfleet |
 | Stella Kari               |
 
