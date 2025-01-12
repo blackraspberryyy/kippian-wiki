@@ -25,29 +25,29 @@ icon: player
 ### Known Members
 | Name                                                    |
 | ------------------------------------------------------- |
-| [Adeena Oberron](../PCs/Adeena%20Oberron.md)               |
-| [Arc](../PCs/Arc.md)                                     |
-| [Noah Skie](../PCs/Noah%20Skie.md)                         |
-| [Kiris Acquermann](../PCs/Kiris%20Acquermann.md)           |
 | [Adikia Unalome](../PCs/Adikia%20Unalome.md)               |
+| [Noah Skie](../PCs/Noah%20Skie.md)                         |
+| [Arc](../PCs/Arc.md)                                     |
+| [Kiris Acquermann](../PCs/Kiris%20Acquermann.md)           |
 | [Spraugh 'Splix' Calix](../PCs/Spraugh%20'Splix'%20Calix.md) |
-| [Theobald Clayhollow](../PCs/Theobald%20Clayhollow.md)     |
 | [Thoradin Goodman](../PCs/Thoradin%20Goodman.md)           |
+| [Theobald Clayhollow](../PCs/Theobald%20Clayhollow.md)     |
+| [Adeena Oberon](../PCs/Adeena%20Oberon.md)                 |
 
 ## Goals
 - [ ] Task 1
 ## Story log
 ### Most Recent
-- Session 32: [Arc](Arc.md) is interrogated by the [party](Seven%20Up....md).
-- Session 32: [Kayvan](Kayvan%20Acquermann.md) talks to the [party](Seven%20Up....md).
-- Session 32: [Party](Seven%20Up....md) enters the tower to confront [Rickard Kyp](Rickard%20Kyp.md).
-- Session 32: [Party](Seven%20Up....md) confronts [Rickard Kyp](Rickard%20Kyp.md).
 - Session 32: The [party](Seven%20Up....md) captures [Rickard Kyp](Rickard%20Kyp.md).
 - Session 33: The [party](Seven%20Up....md) takes a short rest.
 - Session 33: The [party](Seven%20Up....md) finds [Mitarella](Mitarella%20Randall.md) and [Remus](Remus%20Kyp.md).
 - Session 35: The [party](Seven%20Up....md) enters the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md).
 - Session 35: The [party](Seven%20Up....md) defeats three golems.
 - Session 36: The [party](Seven%20Up....md) is joined by [Theobald](Theobald%20Clayhollow.md).
+- [Session 38](../Session%20Log/Session%2038.md): [Splix](Spraugh%20'Splix'%20Calix.md) is still experiencing a protracted vision... Other members of the [party](Seven%20Up....md) left him to explore the dungeon.
+- [Session 38](../Session%20Log/Session%2038.md): After inserting the tourmaline resistance gem, the [party](Seven%20Up....md) is shown a vision of [Spekid Frostborn](Spekid%20Frostborn.md) during the war.
+- [Session 38](../Session%20Log/Session%2038.md): The [party](Seven%20Up....md) encounters a dangerous, [Extraplanar Mink](Extraplanar%20Mink.md).
+- [Session 38](../Session%20Log/Session%2038.md): Before the [party](Seven%20Up....md) defeats it, the mink burrows to recuperate.
 
 ### All Entries
 - Session 1: [Ridnor](Ridnor.md) visits [Bulkip](Bulkip.md) and informs the [party](Seven%20Up....md) of the house arrangements
@@ -139,3 +139,7 @@ Someone broke into the royal chambers... The guards are not saying anything. I'm
 - Session 35: The [party](Seven%20Up....md) enters the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md).
 - Session 35: The [party](Seven%20Up....md) defeats three golems.
 - Session 36: The [party](Seven%20Up....md) is joined by [Theobald](Theobald%20Clayhollow.md).
+- [Session 38](../Session%20Log/Session%2038.md): [Splix](Spraugh%20'Splix'%20Calix.md) is still experiencing a protracted vision... Other members of the [party](Seven%20Up....md) left him to explore the dungeon.
+- [Session 38](../Session%20Log/Session%2038.md): After inserting the tourmaline resistance gem, the [party](Seven%20Up....md) is shown a vision of [Spekid Frostborn](Spekid%20Frostborn.md) during the war.
+- [Session 38](../Session%20Log/Session%2038.md): The [party](Seven%20Up....md) encounters a dangerous, [Extraplanar Mink](Extraplanar%20Mink.md).
+- [Session 38](../Session%20Log/Session%2038.md): Before the [party](Seven%20Up....md) defeats it, the mink burrows to recuperate.
