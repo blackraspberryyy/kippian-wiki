@@ -25,13 +25,17 @@ icon: lore
 ### Description
 ## Lore Mentions
 ### Excerpt from **Collected Learnings from Yugad Matunda**
-_Death and life are not the same thing, but to separate one from the other is a folly—a shortsighted and self-serving perspective. There is no other way around it: to bring forth death is to raise life. This amalgamation of death and life is central to understanding true divine power; a hard, unconscionable truth, but a truth nonetheless._
-
-–excerpt from **Collected Learnings from Yugad Matunda**
+>Death and life are not the same thing, but to separate one from the other is a folly—a shortsighted and self-serving perspective. There is no other way around it: to bring forth death is to raise life. This amalgamation of death and life is central to understanding true divine power; a hard, unconscionable truth, but a truth nonetheless.
+>
+>–excerpt from **Collected Learnings from Yugad Matunda**
 ### Excerpt from **Touched by the Divine**
-_While most orders dismiss Matunda’s teaching as either barbaric or paradoxical, it nevertheless had an undeniable influence on the discourse of divine power. It was due to Yugad Matunda’s brazen belief that allowed for the possibility of non-traditional access to divine power._
-
-–excerpt from **Touched by the Divine**, a biographical volume of beings with divine power
+>While most orders dismiss Matunda’s teaching as either barbaric or paradoxical, it nevertheless had an undeniable influence on the discourse of divine power. It was due to Yugad Matunda’s brazen belief that allowed for the possibility of non-traditional access to divine power.
+>
+>–excerpt from **Touched by the Divine**, a biographical volume of beings with divine power
 ### Most Recent
+- [Session 38](../Session%20Log/Session%2038.md): In a vision,[Theobald](Theobald%20Clayhollow.md)'s[Matunda's Mace](Matunda's%20Mace.md) glows,
+> You see Astar, [Theobald](Theobald%20Clayhollow.md)'s lost eagle, traveling to the moon, an ominous sign that your beloved pet is now resting in the afterlife.
 
 ### All Entries
+- [Session 38](../Session%20Log/Session%2038.md): In a vision,[Theobald](Theobald%20Clayhollow.md)'s[Matunda's Mace](Matunda's%20Mace.md) glows,
+> You see Astar, [Theobald](Theobald%20Clayhollow.md)'s lost eagle, traveling to the moon, an ominous sign that your beloved pet is now resting in the afterlife.

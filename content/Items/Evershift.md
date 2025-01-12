@@ -2,8 +2,8 @@
 share: true
 aliases: 
 characters:
-  - "[Mathudim](Mathudim.md)"
-  - "[Adeena Oberron](Adeena%20Oberron.md)"
+  - "Mathudim"
+  - "[Adeena Oberon](Adeena%20Oberon.md)"
 location: 
 fc-date: 
 fc-category: Lore
@@ -24,9 +24,9 @@ icon: lore
 ### Description
 ## Lore Mentions
 ### Excerpt from **Champions of Wycroft**
->_Mathudim dragged the cumbersome **Evershift** into the battlefield; the gigantic, mechanical sword looked more of a burden than a weapon. But when Mathudim swung the Evershift, the rationale behind its design became clear: the hefty sword provided Mathudim with ferocious momentum. He swung it upwards, and with it Mathudim was launched into the air; he swung it forwards and he moved swiftly towards the enemy ranks. And he spun and spun, cutting enemies within Mathudim’s reach._
+>Mathudim dragged the cumbersome [Evershift](Evershift.md) into the battlefield; the gigantic, mechanical sword looked more of a burden than a weapon. But when Mathudim swung the Evershift, the rationale behind its design became clear: the hefty sword provided Mathudim with ferocious momentum. He swung it upwards, and with it Mathudim was launched into the air; he swung it forwards and he moved swiftly towards the enemy ranks. And he spun and spun, cutting enemies within Mathudim’s reach.
 >
-–excerpt from the **Champions of Wycroft**
+>–excerpt from the **Champions of Wycroft**
 
 ### Most Recent
 

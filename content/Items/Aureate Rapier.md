@@ -3,7 +3,7 @@ share: true
 aliases:
   - Gilded Rapier
 characters:
-  - "[Azir Kyp](Azir%20Kyp.md)"
+  - "Azir Kyp"
   - "[Remus Kyp](Remus%20Kyp.md)"
 location: "[[Ankyra District]]"
 fc-date: 
@@ -25,9 +25,9 @@ icon: lore
 ### Description
 ## Lore Mentions
 ### Excerpt from **Selected Biographies of the Royal Line**
-> _It was also said that the young prince is capable of ending a battle even before it started. Such feats are most daring that the readers might assume that most of them are fabricated. This next anecdote, however, is accurate and is substantiated by numerous witnesses._
+> It was also said that the young prince is capable of ending a battle even before it started. Such feats are most daring that the readers might assume that most of them are fabricated. This next anecdote, however, is accurate and is substantiated by numerous witnesses.
 >
->_Once, during a rather uneventful time in the war, Prince Azir let himself be captured and thrown into an enemy prison camp. Couple of days later, he reappeared with a brag to boot: his captured comrades, along with some new recruits, were with him when he returned. No one seemed to be injured, and all were fitted with the enemies’ weapons and armor. Azir made a seemingly daring prison break, but for him it was just another dare._
+>Once, during a rather uneventful time in the war, Azir Kyp let himself be captured and thrown into an enemy prison camp. Couple of days later, he reappeared with a brag to boot: his captured comrades, along with some new recruits, were with him when he returned. No one seemed to be injured, and all were fitted with the enemies’ weapons and armor. Azir made a seemingly daring prison break, but for him it was just another dare.
 >
 >–excerpt from the **Selected Biographies of the Royal Line**
 ### Most Recent

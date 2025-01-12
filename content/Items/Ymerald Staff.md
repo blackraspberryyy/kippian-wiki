@@ -29,9 +29,9 @@ icon: lore
 > –King Agustus Kyp
 
 ### Excerpt from the Magi of Opidys
->*For a time Zagi was known to be a mad wizard. Kippians were wary of the Opidians and their magic: it was irregular, and in some cases even cultic. Zagi was the Grand Magus of Opidys, and mages from Kippian who dared to subdue Zagi went back humbled by the Opidian mage.*
+>For a time Zerrus Zagi was known to be a mad wizard. Kippians were wary of the Opidians and their magic: it was irregular, and in some cases even cultic. Zagi was the Grand Magus of [Opidys](../Locations/Kingdoms/Opidys.md), and mages from [Kippian](../Locations/Kingdoms/Kingdom%20of%20United%20Kippian.md) who dared to subdue Zagi went back humbled by the Opidian mage.
 >
-*But the great war came, and the elven leaders of Ephelus decided to seek the help of the Opydians. Through King Agustus, Zagi gained Opidys its sovereignty in exchange for his service in the war. There were doubts, especially from the elven war-mages, but the moment Zagi descended from the Kippian ship, the tides of war began to shift. All doubts were erased: the Ymerald Evoker was worth much, much more than what he had bargained for.*
+>But the great war came, and the elven leaders of Ephelus decided to seek the help of the Opidians. Through King Agustus, Zagi gained Opidys its sovereignty in exchange for his service in the war. There were doubts, especially from the elven war-mages, but the moment Zagi descended from the Kippian ship, the tides of war began to shift. All doubts were erased: the Ymerald Evoker was worth much, much more than what he had bargained for.
 >
 >–excerpt from **The Magi of Opidys**
 

@@ -31,7 +31,6 @@ icon: player
 ### Description
 #### Class: Wizard
 #### Subclass: [School of Divination](https://dnd5e.wikidot.com/wizard:divination)
-### Personality Traits
 ### Relationships
 ## Story log
 ### Most Recent
@@ -40,6 +39,7 @@ icon: player
 - Session 32: [Arc](Arc.md), [Kiris](Kiris%20Acquermann.md), [Thoradin](Thoradin%20Goodman.md) and [Splix](Spraugh%20'Splix'%20Calix.md) goes to [Kayvan](Kayvan%20Acquermann.md)'s room.
 - Session 35: [Splix](Spraugh%20'Splix'%20Calix.md) retrieves [Ymerald Staff](Ymerald%20Staff.md).
 - Session 37: During a collective vision, [Kiris](Kiris%20Acquermann.md) and [Splix](Spraugh%20'Splix'%20Calix.md), aided by their team, is thrusted into a competitive four-versus-four brawl.
+- [Session 38](../Session%20Log/Session%2038.md): [Splix](Spraugh%20'Splix'%20Calix.md) is still experiencing a protracted vision... Other members of the [[Seven Up...|party]] left him to explore the dungeon.
 
 ### All Entries
 - Session 13: [Splix](Spraugh%20'Splix'%20Calix.md)
@@ -47,3 +47,4 @@ icon: player
 - Session 32: [Arc](Arc.md), [Kiris](Kiris%20Acquermann.md), [Thoradin](Thoradin%20Goodman.md) and [Splix](Spraugh%20'Splix'%20Calix.md) goes to [Kayvan](Kayvan%20Acquermann.md)'s room.
 - Session 35: [Splix](Spraugh%20'Splix'%20Calix.md) retrieves [Ymerald Staff](Ymerald%20Staff.md).
 - Session 37: During a collective vision, [Kiris](Kiris%20Acquermann.md) and [Splix](Spraugh%20'Splix'%20Calix.md), aided by their team, is thrusted into a competitive four-versus-four brawl.
+- [Session 38](../Session%20Log/Session%2038.md): [Splix](Spraugh%20'Splix'%20Calix.md) is still experiencing a protracted vision... Other members of the [[Seven Up...|party]] left him to explore the dungeon.

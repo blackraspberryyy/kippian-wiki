@@ -24,7 +24,7 @@ icon: lore
 ### Description
 ## Lore Mentions
 ### Excerpt from **Infamous: Dangerous Rogues**
->_Kwonyr, the self-proclaimed Queen of Rogues, wielded the **[Twilight Dagger](Twilight%20Dagger.md)** during her reign. Accounts of those lucky enough to escape Kwonyr report that the dagger is a separate, malevolent entity: the dagger was the manifestation of the shadows, and through it Kwonyr became master of the dark._
+>Kwonyr, the self-proclaimed Queen of Rogues, wielded the *[Twilight Dagger](Twilight%20Dagger.md)* during her reign. Accounts of those lucky enough to escape Kwonyr report that the dagger is a separate, malevolent entity: the dagger was the manifestation of the shadows, and through it Kwonyr became master of the dark.
 >
 >–excerpt from **Infamous: Dangerous Rogues**
 ### Most Recent

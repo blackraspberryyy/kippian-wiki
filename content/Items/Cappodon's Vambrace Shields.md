@@ -25,15 +25,15 @@ icon: lore
 ### Description
 ## Lore Mentions
 ### Excerpt from **Chronicles of the Kippian-Sumber War**
->_“That man is not a fighter… That man is a protector—and if he is loyal to a cause, a reliable ally. Release him, and bring him to me. I have yet to find a man as unyielding as that gladiator.”_
+>“That man is not a fighter… That man is a protector—and if he is loyal to a cause, a reliable ally. Release him, and bring him to me. I have yet to find a man as unyielding as that gladiator.”
 >
-–Agustus Kyp
+>–Agustus Kyp
 >
-_Even when he was just a gladiator, Johannes Cappodon never had an inclination to an aggressive way of fighting. Armed with a singular buckler and a dull blade, he defended and wore down his opponents. His bouts were feats of stamina—his enemies conceding due to fatigue, with Johannes outlasting all fighters in the arena._
+>Even when he was just a gladiator, Johannes Cappodon never had an inclination to an aggressive way of fighting. Armed with a singular buckler and a dull blade, he defended and wore down his opponents. His bouts were feats of stamina—his enemies conceding due to fatigue, with Johannes outlasting all fighters in the arena.
 >
-_One summer night, the audience was understandably bored waiting for Johannes’ protracted duel to end. However, a young prince seated in the royal balcony was delighted about the warrior’s inane display of defense. That prince soon became King Agustus Kyp, and he brought with him the loyal gladiator who became one of the most important figures of the great Kippian-Sumber war._
+>One summer night, the audience was understandably bored waiting for Johannes’ protracted duel to end. However, a young prince seated in the royal balcony was delighted about the warrior’s inane display of defense. That prince soon became King Agustus Kyp, and he brought with him the loyal gladiator who became one of the most important figures of the great Kippian-Sumber war.
 >
-–excerpt from **Chronicles of the Kippian-Sumber War**
+>–excerpt from **Chronicles of the Kippian-Sumber War**
 ### Most Recent
 
 ### All Entries
