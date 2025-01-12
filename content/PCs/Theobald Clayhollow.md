@@ -32,19 +32,22 @@ icon: player
 ### Description
 #### Class: Cleric
 #### Subclass: [Life Domain](https://dnd5e.wikidot.com/cleric:life)
-### Personality Traits
 ### Relationships
 ## Story log
 ### Most Recent
 - Session 13: [Theobald](Theobald%20Clayhollow.md) found a book about detailing the jungle continent of [Suirsya](Suirsya.md):
 - Session 31: [Theobald](Theobald%20Clayhollow.md) casts Zone of Truth. [Mitarella](Mitarella%20Randall.md), [Remus Kyp](Remus%20Kyp.md), and 4 royal guards.
 - Session 33: The party interrogates [Rickard](Rickard%20Kyp.md); [Theobald](Theobald%20Clayhollow.md) casts Zone of Truth. [Michaela](Michaela%20Randall.md) and [Mitarella](Mitarella%20Randall.md) succeed the check. [Kirren](Kirren%20Acquermann.md), [Remus](Remus%20Kyp.md), and [Rickard](Rickard%20Kyp.md) fails.
-- Session 34: [Adikia](Adikia%20Unalome.md), [Adeena](Adeena%20Oberron.md), [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Thoradin](Thoradin%20Goodman.md) enters the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md).
+- Session 34: [Adikia](Adikia%20Unalome.md), [Adeena](Adeena%20Oberon.md), [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Thoradin](Thoradin%20Goodman.md) enters the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md).
 - Session 36: The [[Seven Up...|party]] is joined by [Theobald](Theobald%20Clayhollow.md).
+- [Session 38](../Session%20Log/Session%2038.md): In a vision,[Theobald](Theobald%20Clayhollow.md)'s[Matunda's Mace](Matunda's%20Mace.md) glows,
+> You see Astar, [Theobald](Theobald%20Clayhollow.md)'s lost eagle, traveling to the moon, an ominous sign that your beloved pet is now resting in the afterlife.
 
 ### All Entries
 - Session 13: [Theobald](Theobald%20Clayhollow.md) found a book about detailing the jungle continent of [Suirsya](Suirsya.md):
 - Session 31: [Theobald](Theobald%20Clayhollow.md) casts Zone of Truth. [Mitarella](Mitarella%20Randall.md), [Remus Kyp](Remus%20Kyp.md), and 4 royal guards.
 - Session 33: The party interrogates [Rickard](Rickard%20Kyp.md); [Theobald](Theobald%20Clayhollow.md) casts Zone of Truth. [Michaela](Michaela%20Randall.md) and [Mitarella](Mitarella%20Randall.md) succeed the check. [Kirren](Kirren%20Acquermann.md), [Remus](Remus%20Kyp.md), and [Rickard](Rickard%20Kyp.md) fails.
-- Session 34: [Adikia](Adikia%20Unalome.md), [Adeena](Adeena%20Oberron.md), [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Thoradin](Thoradin%20Goodman.md) enters the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md).
+- Session 34: [Adikia](Adikia%20Unalome.md), [Adeena](Adeena%20Oberon.md), [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Thoradin](Thoradin%20Goodman.md) enters the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md).
 - Session 36: The [[Seven Up...|party]] is joined by [Theobald](Theobald%20Clayhollow.md).
+- [Session 38](../Session%20Log/Session%2038.md): In a vision,[Theobald](Theobald%20Clayhollow.md)'s[Matunda's Mace](Matunda's%20Mace.md) glows,
+> You see Astar, [Theobald](Theobald%20Clayhollow.md)'s lost eagle, traveling to the moon, an ominous sign that your beloved pet is now resting in the afterlife.
