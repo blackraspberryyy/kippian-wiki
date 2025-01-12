@@ -1,7 +1,7 @@
 ---
 name: Feature request
-about: Suggest an idea or improvement for Quartz
-title: ''
+about: Suggest an idea or improvement for kippian-wiki
+title: "[FEAT] - "
 labels: enhancement
 assignees: ''
 
