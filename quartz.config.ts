@@ -40,6 +40,7 @@ const config: QuartzConfig = {
           tertiary: "#dd9e9e",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
+          blockquotebg: "rgba(236, 211, 193, 0.6)"
         },
         darkMode: {
           light: "#161618",
@@ -51,6 +52,7 @@ const config: QuartzConfig = {
           tertiary: "#dd9e9e",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",
+          blockquotebg: "rgba(17, 17, 15, 0.6)"
         },
       },
     },
