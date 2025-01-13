@@ -2,6 +2,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { find } from 'unist-util-find'
 import { toHtml } from "hast-util-to-html"
 import { Root } from "hast"
+import infoboxStyle from "./styles/infobox.scss"
 
 export default (() => {
   const Infobox: QuartzComponent = (props: QuartzComponentProps) => {
@@ -40,5 +41,7 @@ export default (() => {
     return <div class="information-box" dangerouslySetInnerHTML={{__html: toHtml(infoboxNode as Root)}}></div>;
   };
   
+  Infobox.css = infoboxStyle
+
   return Infobox
 }) satisfies QuartzComponentConstructor
