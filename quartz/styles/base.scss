@@ -306,10 +306,17 @@ input[type="checkbox"] {
 }
 
 blockquote {
-  margin: 1rem 0;
-  border-left: 3px solid var(--secondary);
-  padding-left: 1rem;
+  border-radius: 10px;
+  background-color: var(--blockquotebg);
+  margin: 0 3rem;
+  padding: 1rem 2rem;
   transition: border-color 0.2s ease;
+
+  p {
+    margin: 0;
+    text-align: normal;
+    font-style: italic;
+  }
 }
 
 h1,
