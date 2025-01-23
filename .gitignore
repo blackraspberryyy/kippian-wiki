@@ -9,3 +9,4 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+built_calendar_events.json

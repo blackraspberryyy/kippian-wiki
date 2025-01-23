@@ -6,6 +6,7 @@ import toml from "toml"
 import { slugTag } from "../../util/path"
 import { QuartzPluginData } from "../vfile"
 import { i18n } from "../../i18n"
+import { insertToJson } from "../../util/calendar"
 
 export interface Options {
   delimiters: string | [string, string]
@@ -87,6 +88,19 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
 
             if (socialImage) data.socialImage = socialImage
 
+            if (data['fc-date']) data.fcDate = data['fc-date'];
+            if (data['fc-category']) data.fcCategory = data['fc-category'];
+
+            // when we read thru all the markdown files, let's see their frontmatter if they have fc-date.
+            // if so, let's save it to built_calendar_events.json
+            if (data?.fcDate) {
+              insertToJson({
+                name: data?.title || 'Unnamed Event',
+                date: data?.fcDate,
+                category: data?.fcCategory || 'Session'
+              });
+            }
+
             // fill in frontmatter
             file.data.frontmatter = data as QuartzPluginData["frontmatter"]
           }
@@ -113,7 +127,9 @@ declare module "vfile" {
         enableToc: string
         cssclasses: string[]
         socialImage: string
-        comments: boolean | string
+        comments: boolean | string,
+        fcDate: string,
+        fcCategory: "Session" | "Calendar" | "Lore",
       }>
   }
 }
