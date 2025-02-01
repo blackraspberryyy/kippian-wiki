@@ -25,29 +25,32 @@ icon: player
 ### Known Members
 | Name                                                    |
 | ------------------------------------------------------- |
-| [Adikia Unalome](../PCs/Adikia%20Unalome.md)               |
-| [Noah Skie](../PCs/Noah%20Skie.md)                         |
 | [Arc](../PCs/Arc.md)                                     |
+| [Adeena Oberon](../PCs/Adeena%20Oberon.md)                 |
 | [Kiris Acquermann](../PCs/Kiris%20Acquermann.md)           |
 | [Spraugh 'Splix' Calix](../PCs/Spraugh%20'Splix'%20Calix.md) |
 | [Thoradin Goodman](../PCs/Thoradin%20Goodman.md)           |
+| [Adikia Unalome](../PCs/Adikia%20Unalome.md)               |
+| [Noah Skie](../PCs/Noah%20Skie.md)                         |
 | [Theobald Clayhollow](../PCs/Theobald%20Clayhollow.md)     |
-| [Adeena Oberon](../PCs/Adeena%20Oberon.md)                 |
+| [Nokia](../PCs/Companions/Nokia.md)                      |
+| [Astar](../PCs/Companions/Astar.md)                      |
 
 ## Goals
 - [ ] Task 1
 ## Story log
 ### Most Recent
-- Session 32: The [party](Seven%20Up....md) captures [Rickard Kyp](Rickard%20Kyp.md).
-- Session 33: The [party](Seven%20Up....md) takes a short rest.
-- Session 33: The [party](Seven%20Up....md) finds [Mitarella](Mitarella%20Randall.md) and [Remus](Remus%20Kyp.md).
-- Session 35: The [party](Seven%20Up....md) enters the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md).
 - Session 35: The [party](Seven%20Up....md) defeats three golems.
 - Session 36: The [party](Seven%20Up....md) is joined by [Theobald](Theobald%20Clayhollow.md).
 - [Session 38](../Session%20Log/Session%2038.md): [Splix](Spraugh%20'Splix'%20Calix.md) is still experiencing a protracted vision... Other members of the [party](Seven%20Up....md) left him to explore the dungeon.
 - [Session 38](../Session%20Log/Session%2038.md): After inserting the tourmaline resistance gem, the [party](Seven%20Up....md) is shown a vision of [Spekid Frostborn](Spekid%20Frostborn.md) during the war.
 - [Session 38](../Session%20Log/Session%2038.md): The [party](Seven%20Up....md) encounters a dangerous, [Extraplanar Mink](Extraplanar%20Mink.md).
 - [Session 38](../Session%20Log/Session%2038.md): Before the [party](Seven%20Up....md) defeats it, the mink burrows to recuperate.
+- [Session 39](../Session%20Log/Session%2039.md): The [party](Seven%20Up....md) defeats the [Extraplanar Mink](Extraplanar%20Mink.md).
+- [Session 39](../Session%20Log/Session%2039.md): The [party](Seven%20Up....md) takes a long rest.
+- [Session 39](../Session%20Log/Session%2039.md): The [party](Seven%20Up....md) encounters a door with the following inscription:
+> Beyond these doors are [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md). Constructed by the great mages, [Zagi](Zerrus%20Zagi.md) and [Spekid](Spekid%20Frostborn.md), these constructs guard the hallowed hall within...
+- [Session 39](../Session%20Log/Session%2039.md): The [party](Seven%20Up....md) fights and defeats the [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md), with relative ease...
 
 ### All Entries
 - Session 1: [Ridnor](Ridnor.md) visits [Bulkip](Bulkip.md) and informs the [party](Seven%20Up....md) of the house arrangements
@@ -114,6 +117,9 @@ icon: player
 - Session 16: The [party](Seven%20Up....md) tracks the werewolves to Eastern [Lykos](Lykos%20District.md).
 - Session 16: The [party](Seven%20Up....md) fights [Jarran Gorrel](Jarran%20Gorrel.md).
 - Session 17: [Janna Furwish](Janna%20Furwish.md) visits the [party](Seven%20Up....md) and asks them to investigate about a lead regarding a [Furwish](Furwish%20Clan.md) [Miledu](Miledu.md) supporter, [Auriel Furwish](Auriel%20Furwish.md).
+- Session 18: The [party](Seven%20Up....md) delves into the dungeon.
+- Session 19: [Auriel Furwish](Auriel%20Furwish.md) attacks the [party](Seven%20Up....md).
+- Session 20: [[Midkip|Midelia]]'s elven retinue captures the [party](Seven%20Up....md).
 - Session 31: [Party](Seven%20Up....md) exits from the Labyrinthus
 - Session 31: [Party](Seven%20Up....md) takes a long rest.
 - Session 31: [Party](Seven%20Up....md) wakes up. [Arc](Arc.md), [Noah](Noah%20Skie.md) and [Kirren](Kirren%20Acquermann.md) is not in the quarters.
@@ -143,3 +149,8 @@ Someone broke into the royal chambers... The guards are not saying anything. I'm
 - [Session 38](../Session%20Log/Session%2038.md): After inserting the tourmaline resistance gem, the [party](Seven%20Up....md) is shown a vision of [Spekid Frostborn](Spekid%20Frostborn.md) during the war.
 - [Session 38](../Session%20Log/Session%2038.md): The [party](Seven%20Up....md) encounters a dangerous, [Extraplanar Mink](Extraplanar%20Mink.md).
 - [Session 38](../Session%20Log/Session%2038.md): Before the [party](Seven%20Up....md) defeats it, the mink burrows to recuperate.
+- [Session 39](../Session%20Log/Session%2039.md): The [party](Seven%20Up....md) defeats the [Extraplanar Mink](Extraplanar%20Mink.md).
+- [Session 39](../Session%20Log/Session%2039.md): The [party](Seven%20Up....md) takes a long rest.
+- [Session 39](../Session%20Log/Session%2039.md): The [party](Seven%20Up....md) encounters a door with the following inscription:
+> Beyond these doors are [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md). Constructed by the great mages, [Zagi](Zerrus%20Zagi.md) and [Spekid](Spekid%20Frostborn.md), these constructs guard the hallowed hall within...
+- [Session 39](../Session%20Log/Session%2039.md): The [party](Seven%20Up....md) fights and defeats the [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md), with relative ease...
