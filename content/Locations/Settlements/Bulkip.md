@@ -1,6 +1,7 @@
 ---
 share: true
-aliases: 
+aliases:
+  - Bulwicke
 location: "[[Kingdom of United Kippian]]"
 status: 
 lore_type: location
@@ -43,7 +44,7 @@ Mostly human, some elven traders from Ephelus, especially from Effil.
 | ---------------------- | --------------------- | ------------------------------- |
 | Name                   | Note                  |                                 |
 | The Wailing Trouts     | Against BCO supremacy | Former business owners/artisans |
-| [The Cult of Miledu](../../Factions/The%20Cult%20of%20Miledu.md) |                       |                                 |
+| The Cult of Miledu |                       |                                 |
 ## Notable Places
 
 | Name                                | Legend | Note                                                 |

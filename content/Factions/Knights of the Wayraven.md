@@ -3,7 +3,7 @@ share: true
 aliases:
   - Wayravens
 location: "[Yvernus](../Locations/Areas/Yvernus%20District.md)"
-status: 
+status: active
 lore_type: faction
 icon: faction
 ---
@@ -15,7 +15,7 @@ icon: faction
 > |   |  |
 > | ---- | ---- |
 > | Aliases | Wayravens|
-> | Status| |
+> | Status| active|
 > | Based in|  [Yvernus District](../Locations/Areas/Yvernus%20District.md)|
 ##### Known for: being a secret organization based in [Yvernus](../Locations/Areas/Yvernus%20District.md).
 ### Description

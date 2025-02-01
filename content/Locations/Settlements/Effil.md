@@ -18,12 +18,17 @@ icon: settlement
 ##### Known for: A large elven settlement
 ### Description
 ## Notable Locations
-| Name |
-| ---- |
+| Name                                                            |
+| --------------------------------------------------------------- |
+| [Temple of Aisef](../Buildings/Temple%20of%20Aisef.md)     |
+| [Effil Orphanage](../Buildings/Effil%20Orphanage.md)     |
+| [Savras University](../Buildings/Savras%20University.md) |
 
 ## Notable NPCs
 | Name                                                    |
 | ------------------------------------------------------- |
+| Adzana Furwish              |
+| Steckun Calix                |
 | [Spraugh 'Splix' Calix](../../PCs/Spraugh%20'Splix'%20Calix.md) |
 | [Theobald Clayhollow](../../PCs/Theobald%20Clayhollow.md)     |
 

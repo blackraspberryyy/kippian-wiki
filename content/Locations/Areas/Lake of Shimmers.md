@@ -1,33 +1,31 @@
 ---
 share: true
 aliases: 
-location: 
+location: "[[Opidys]]"
 status: 
 lore_type: location
 icon: map
 ---
 ## Basic Information
 > [!infobox]
-> # Feywild
+> # Lake of Shimmers
 > ![cover hsmall](insertimage.png)
 > ###### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Type | 
-> | Located in | |
+> | Located in | [Opidys](../Kingdoms/Opidys.md)|
 ##### Known for:
 ### Description
 ## Notable Locations
-| Name                                    |
-| --------------------------------------- |
-| [Feypeak](../Areas/Feypeak.md) |
+| Name |
+| ---- |
 
 ## Notable NPCs
 | Name |
 | ---- |
 
 ## Factions
-| Name                                     |
-| ---------------------------------------- |
-| [The Eladrin](../../Factions/The%20Eladrin.md) |
+| Name |
+| ---- |

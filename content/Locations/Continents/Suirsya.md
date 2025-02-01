@@ -24,8 +24,10 @@ icon: map
 | [Starsteer](../Settlements/Starsteer.md) |
 
 ## Notable NPCs
-| Name |
-| ---- |
+| Name                                                 |
+| ---------------------------------------------------- |
+| Theodore Clayhollow |
+| Agatha                           |
 
 ## Factions
 | Name |

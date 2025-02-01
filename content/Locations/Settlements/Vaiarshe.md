@@ -1,21 +1,23 @@
 ---
 share: true
 aliases: 
-location: "[[Kingdom of United Kippian]]"
+location: "[[Elven Kingdom of Ephelus]]"
 status: 
 lore_type: location
 icon: settlement
 ---
 ## Basic Information
 > [!infobox]
-> # Ankor
+> # Vaiarshe
 > ![cover hsmall](insertimage.png)
 > ###### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
-> | Located in | [Kingdom of United Kippian](../Kingdoms/Kingdom%20of%20United%20Kippian.md)|
+> | Type | 
+> | Located in | [Elven Kingdom of Ephelus](../Kingdoms/Elven%20Kingdom%20of%20Ephelus.md)|
 ##### Known for:
+### Description
 ## Notable Locations
 | Name |
 | ---- |
@@ -23,10 +25,8 @@ icon: settlement
 ## Notable NPCs
 | Name                                       |
 | ------------------------------------------ |
-| Elijah Orstadt |
-| Norman Skie       |
-| Sophia Skie       |
-| [Noah Skie](../../PCs/Noah%20Skie.md)            |
+| Idril Bluedrin |
+| Poldo Bluedrin |
 
 ## Factions
 | Name |

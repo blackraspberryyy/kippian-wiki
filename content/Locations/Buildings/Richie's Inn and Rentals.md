@@ -1,22 +1,22 @@
 ---
 share: true
 aliases:
-  - Southern Soliven
-location: "[[Soliven]]"
+  - Richie's Tavern
+location: "[[Curkip]]"
 status: 
 lore_type: location
-icon: map
+icon: building
 ---
 ## Basic Information
 > [!infobox]
-> # Soliven Forest
+> # Richie's Inn and Rentals
 > ![cover hsmall](insertimage.png)
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | Southern Soliven|
+> | Other names | Richie's Tavern|
 > | Type | 
-> | Located in | [Soliven](./Soliven.md)|
+> | Located in | [Curkip](../Settlements/Curkip.md)|
 ##### Known for:
 ### Description
 ## Notable Locations

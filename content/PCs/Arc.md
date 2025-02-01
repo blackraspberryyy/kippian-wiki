@@ -34,7 +34,6 @@ icon: player
 ### Relationships
 ## Story log
 ### Most Recent
-- Session 32: [Arc](Arc.md), [Kiris](Kiris%20Acquermann.md), [Thoradin](Thoradin%20Goodman.md) and [Splix](Spraugh%20'Splix'%20Calix.md) goes to [Kayvan](Kayvan%20Acquermann.md)'s room.
 - Session 33: [Korvin](Korvin%20Acquermann.md) and [Kayriel](Kayriel%20Acquermann.md) are revealed to be members of [The Cult of Miledu](The%20Cult%20of%20Miledu.md). [Korvin](Korvin%20Acquermann.md) is part of the eight cult members in [Bulkip](Bulkip.md), while [Kayriel](Kayriel%20Acquermann.md) is shown to be the figure that [Arc](Arc.md) met.
 - Session 34: [Adikia](Adikia%20Unalome.md), [Adeena](Adeena%20Oberon.md), [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Thoradin](Thoradin%20Goodman.md) enters the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md).
 - Session 35: [Kirren](Kirren%20Acquermann.md): "What if [Kayriel](Kayriel%20Acquermann.md) is not actually the individual [Arc](Arc.md) saw yesterday?"
@@ -43,8 +42,10 @@ icon: player
 - [Session 38](../Session%20Log/Session%2038.md): The ghost then touches [Noah](Noah%20Skie.md), allowing her to change her Arcane Shot ability(Beguiling to Enfeebling).
 - [Session 38](../Session%20Log/Session%2038.md): [Arc](Arc.md) hears whispers of the dead:
 > Absence of the cold releaseth sand, and creatures of leather.
-- [Session 38](../Session%20Log/Session%2038.md): During exploration, [Arc](Arc.md) sees a statue of [Zerrus Zagi](Zerrus%20Zagi.md). The inscription says, “The Mad Mage lived within a sand tower. Those who tried to scale it are burnt asunder.”
+- [Session 38](../Session%20Log/Session%2038.md): During exploration, [Arc](Arc.md) sees a statue of [Zerrus Zagi](Zerrus%20Zagi.md). The inscription says,
+> The Mad Mage lived within a sand tower. Those who tried to scale it are burnt asunder.
 - [Session 38](../Session%20Log/Session%2038.md): [Arc](Arc.md) and the party encounters a [Sand Elemental](Sand%20Elemental.md).
+- [Session 39](../Session%20Log/Session%2039.md): [Thoradin Goodman](Thoradin%20Goodman.md) retrieves (and keeps) the [Bloodstone Arcane Gem](Bloodstone%20Arcane%20Gem.md) (Fireball DC 15).
 
 ### All Entries
 - Session 13: [Arc](Arc.md) learns that wood elves are locals of the [Soliven Forest](Soliven%20Forest.md).
@@ -63,5 +64,7 @@ icon: player
 - [Session 38](../Session%20Log/Session%2038.md): The ghost then touches [Noah](Noah%20Skie.md), allowing her to change her Arcane Shot ability(Beguiling to Enfeebling).
 - [Session 38](../Session%20Log/Session%2038.md): [Arc](Arc.md) hears whispers of the dead:
 > Absence of the cold releaseth sand, and creatures of leather.
-- [Session 38](../Session%20Log/Session%2038.md): During exploration, [Arc](Arc.md) sees a statue of [Zerrus Zagi](Zerrus%20Zagi.md). The inscription says, “The Mad Mage lived within a sand tower. Those who tried to scale it are burnt asunder.”
+- [Session 38](../Session%20Log/Session%2038.md): During exploration, [Arc](Arc.md) sees a statue of [Zerrus Zagi](Zerrus%20Zagi.md). The inscription says,
+> The Mad Mage lived within a sand tower. Those who tried to scale it are burnt asunder.
 - [Session 38](../Session%20Log/Session%2038.md): [Arc](Arc.md) and the party encounters a [Sand Elemental](Sand%20Elemental.md).
+- [Session 39](../Session%20Log/Session%2039.md): [Thoradin Goodman](Thoradin%20Goodman.md) retrieves (and keeps) the [Bloodstone Arcane Gem](Bloodstone%20Arcane%20Gem.md) (Fireball DC 15).

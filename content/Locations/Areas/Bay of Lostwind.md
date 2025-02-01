@@ -1,33 +1,31 @@
 ---
 share: true
 aliases: 
-location: 
+location: "[[Elven Kingdom of Ephelus]]"
 status: 
 lore_type: location
 icon: map
 ---
 ## Basic Information
 > [!infobox]
-> # Feywild
+> # Bay of Lostwind
 > ![cover hsmall](insertimage.png)
 > ###### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Type | 
-> | Located in | |
+> | Located in | [Elven Kingdom of Ephelus](../Kingdoms/Elven%20Kingdom%20of%20Ephelus.md)|
 ##### Known for:
 ### Description
 ## Notable Locations
-| Name                                    |
-| --------------------------------------- |
-| [Feypeak](../Areas/Feypeak.md) |
+| Name |
+| ---- |
 
 ## Notable NPCs
 | Name |
 | ---- |
 
 ## Factions
-| Name                                     |
-| ---------------------------------------- |
-| [The Eladrin](../../Factions/The%20Eladrin.md) |
+| Name |
+| ---- |

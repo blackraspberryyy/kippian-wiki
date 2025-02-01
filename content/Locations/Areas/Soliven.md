@@ -1,35 +1,33 @@
 ---
 share: true
 aliases: 
-location: "[[Kippian]]"
+location: "[[Elven Kingdom of Ephelus]]"
 status: 
 lore_type: location
 icon: map
 ---
 ## Basic Information
 > [!infobox]
-> # Opidys
+> # Soliven
 > ![cover hsmall](insertimage.png)
 > ###### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Type | 
-> | Located in | [Kippian](../Continents/Kippian.md)|
-##### Known for:
+> | Located in | [Elven Kingdom of Ephelus](../Kingdoms/Elven%20Kingdom%20of%20Ephelus.md)|
+##### Known for: elven subcontinent in [Kippian](../Continents/Kippian.md)
 ### Description
 ## Notable Locations
 | Name                                                      |
 | --------------------------------------------------------- |
-| [Lake of Shimmers](../Areas/Lake%20of%20Shimmers.md) |
-| [Onix](../Settlements/Onix.md)                   |
-| [Qwartz](../Settlements/Qwartz.md)               |
+| [Soliven Forest](./Soliven%20Forest.md)     |
+| [Northern Soliven](./Northern%20Soliven.md) |
 
 ## Notable NPCs
 | Name |
 | ---- |
 
 ## Factions
-| Name                                       |
-| ------------------------------------------ |
-| [Kortusk Orcs](../../Factions/Kortusk%20Orcs.md) |
+| Name |
+| ---- |

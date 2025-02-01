@@ -1,33 +1,31 @@
 ---
 share: true
 aliases: 
-location: 
+location: "[Kippian](Kingdom%20of%20United%20Kippian.md)"
 status: 
 lore_type: location
 icon: map
 ---
 ## Basic Information
 > [!infobox]
-> # Feywild
+> # Bay of Freezewind
 > ![cover hsmall](insertimage.png)
 > ###### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Type | 
-> | Located in | |
+> | Located in | [Kippian](../Kingdoms/Kingdom%20of%20United%20Kippian.md)|
 ##### Known for:
 ### Description
 ## Notable Locations
-| Name                                    |
-| --------------------------------------- |
-| [Feypeak](../Areas/Feypeak.md) |
+| Name |
+| ---- |
 
 ## Notable NPCs
 | Name |
 | ---- |
 
 ## Factions
-| Name                                     |
-| ---------------------------------------- |
-| [The Eladrin](../../Factions/The%20Eladrin.md) |
+| Name |
+| ---- |

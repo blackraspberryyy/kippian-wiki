@@ -1,35 +1,33 @@
 ---
 share: true
-aliases:
-  - Talons
+aliases: 
 location: "[[Sumber]]"
-status: enemy
+status: active
 lore_type: faction
 icon: faction
 ---
 ## Information
 > [!infobox]
-> # Dusk Talons
+> # Followers of Yekora
 > ![cover hsmall](insertimage.png)
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Aliases | Talons|
-> | Status| enemy|
+> | Aliases | |
+> | Status| active|
 > | Based in|  [Sumber](../Locations/Continents/Sumber.md)|
 ##### Known for:
 ### Description
 ## Organization
 ##### Leader:
 ### Known Members
-| Name |
-| ---- |
+| Name                                           |
+| ---------------------------------------------- |
+| Frederick Oberon |
 
 ## Goals
 - [ ] Task 1
 ## Story log
 ### Most Recent
-- Session 14: The assassin bears the sigil of the [Dusk Talons](Dusk%20Talons.md), an assassins guild based in [[Sumber|Sumber]].
 
 ### All Entries
-- Session 14: The assassin bears the sigil of the [Dusk Talons](Dusk%20Talons.md), an assassins guild based in [[Sumber|Sumber]].

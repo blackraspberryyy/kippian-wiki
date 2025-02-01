@@ -36,8 +36,12 @@ Find it there; light it back home
 >–verse from a popular bardic song about Amlaena
 ### Most Recent
 - [Session 38](../Session%20Log/Session%2038.md): [Noah](Noah%20Skie.md) sees an apparition in front of her...
->"As the new keeper of the [Evanescent Shortbow](Evanescent%20Shortbow.md), I shall help you on your journey." [Amlaena](Amlaena%20Gustkil.md) helps her aim the [Evanescent Shortbow](Evanescent%20Shortbow.md) into her bag.
+> [Amlaena](Amlaena%20Gustkil.md) trains [Noah](Noah%20Skie.md) to use the [Evanescent Shortbow](Evanescent%20Shortbow.md).
+> >[!quote|mark] [Amlaena Gustkil](Amlaena%20Gustkil.md)
+> "As the new keeper of the [Evanescent Shortbow](Evanescent%20Shortbow.md), I shall help you on your journey."
 
 ### All Entries
 - [Session 38](../Session%20Log/Session%2038.md): [Noah](Noah%20Skie.md) sees an apparition in front of her...
->"As the new keeper of the [Evanescent Shortbow](Evanescent%20Shortbow.md), I shall help you on your journey." [Amlaena](Amlaena%20Gustkil.md) helps her aim the [Evanescent Shortbow](Evanescent%20Shortbow.md) into her bag.
+> [Amlaena](Amlaena%20Gustkil.md) trains [Noah](Noah%20Skie.md) to use the [Evanescent Shortbow](Evanescent%20Shortbow.md).
+> >[!quote|mark] [Amlaena Gustkil](Amlaena%20Gustkil.md)
+> "As the new keeper of the [Evanescent Shortbow](Evanescent%20Shortbow.md), I shall help you on your journey."
