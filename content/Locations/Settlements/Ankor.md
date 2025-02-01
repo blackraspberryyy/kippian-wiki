@@ -24,6 +24,8 @@ icon: settlement
 | Name                                       |
 | ------------------------------------------ |
 | Elijah Orstadt |
+| Norman Skie       |
+| Sophia Skie       |
 | [Noah Skie](../../PCs/Noah%20Skie.md)            |
 
 ## Factions
