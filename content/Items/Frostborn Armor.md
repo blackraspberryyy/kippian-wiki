@@ -33,18 +33,28 @@ icon: lore
 >–a diary entry from **Engor**, the king’s scribe
 ### Most Recent
 - Session 36: [Adeena](Adeena%20Oberon.md) retrieved Engor's Diary and read an excerpt showcasing the [Frostborn Armor](Frostborn%20Armor.md)'s powers.
-- Session 37: During the combat, [Kiris](Kiris%20Acquermann.md) is seen wielding the [Frostborn Armor](Frostborn%20Armor.md).
+- [Session 37](../Session%20Log/Session%2037.md): During the combat, [Kiris](Kiris%20Acquermann.md) is seen wearing the [Frostborn Armor](Frostborn%20Armor.md).
 - [Session 38](../Session%20Log/Session%2038.md): In a vision, [Spekid Frostborn](Spekid%20Frostborn.md) appears to [Kiris](Kiris%20Acquermann.md).
-> The serious sorcerer evokes a mild chuckle, "I saw you beat my rival's successor. As a reward, I shall imbue you with the power of the Northern Frost."
+> The serious sorcerer evokes a mild chuckle,
+> >[!quote|mark] [Spekid Frostborn](Spekid%20Frostborn.md)
+> "I saw you beat my rival's successor. As a reward, I shall imbue you with the power of the Northern Frost."
+>
 > Then, [Spekid](Spekid%20Frostborn.md) draws the sigil of the Northern Frost on [Kiris](Kiris%20Acquermann.md)' forehead. He then doffs the [Frostborn Armor](Frostborn%20Armor.md).
+>
+> >[!quote|mark] [Spekid Frostborn](Spekid%20Frostborn.md)
 > "But my power is still tethered to this extraplanar domain. To unlock it, you must defeat the construct that still wields remnants of me and [Zerrus Zagi](Zerrus%20Zagi.md)'s power."
 - [Session 38](../Session%20Log/Session%2038.md): [Kiris](Kiris%20Acquermann.md) wakes up with the [Frostborn Armor](Frostborn%20Armor.md) attached to him. But it only has 1 frost charge... and it is weighing [Kiris](Kiris%20Acquermann.md) down---the armor does not attune to him.
 
 ### All Entries
 - Session 36: [Adeena](Adeena%20Oberon.md) retrieved Engor's Diary and read an excerpt showcasing the [Frostborn Armor](Frostborn%20Armor.md)'s powers.
-- Session 37: During the combat, [Kiris](Kiris%20Acquermann.md) is seen wielding the [Frostborn Armor](Frostborn%20Armor.md).
+- [Session 37](../Session%20Log/Session%2037.md): During the combat, [Kiris](Kiris%20Acquermann.md) is seen wearing the [Frostborn Armor](Frostborn%20Armor.md).
 - [Session 38](../Session%20Log/Session%2038.md): In a vision, [Spekid Frostborn](Spekid%20Frostborn.md) appears to [Kiris](Kiris%20Acquermann.md).
-> The serious sorcerer evokes a mild chuckle, "I saw you beat my rival's successor. As a reward, I shall imbue you with the power of the Northern Frost."
+> The serious sorcerer evokes a mild chuckle,
+> >[!quote|mark] [Spekid Frostborn](Spekid%20Frostborn.md)
+> "I saw you beat my rival's successor. As a reward, I shall imbue you with the power of the Northern Frost."
+>
 > Then, [Spekid](Spekid%20Frostborn.md) draws the sigil of the Northern Frost on [Kiris](Kiris%20Acquermann.md)' forehead. He then doffs the [Frostborn Armor](Frostborn%20Armor.md).
+>
+> >[!quote|mark] [Spekid Frostborn](Spekid%20Frostborn.md)
 > "But my power is still tethered to this extraplanar domain. To unlock it, you must defeat the construct that still wields remnants of me and [Zerrus Zagi](Zerrus%20Zagi.md)'s power."
 - [Session 38](../Session%20Log/Session%2038.md): [Kiris](Kiris%20Acquermann.md) wakes up with the [Frostborn Armor](Frostborn%20Armor.md) attached to him. But it only has 1 frost charge... and it is weighing [Kiris](Kiris%20Acquermann.md) down---the armor does not attune to him.
