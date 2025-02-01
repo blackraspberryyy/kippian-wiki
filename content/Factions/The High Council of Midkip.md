@@ -30,12 +30,12 @@ Drakon-Aetos-Chtapodhi-Foenyx-King of Kippian-Ankyra-Yvernus-Duospathia-Lykos
 | Armand Gorrel           |
 | Gokare Veegar           |
 | Kayvan Acquermann   |
-| Mitarella Randall   |
 | Laurie Furwish         |
-| Riordan Kyp               |
+| Mitarella Randall   |
 | Remus Kyp                   |
-| Shemance Ironfleet |
+| Riordan Kyp               |
 | Stella Kari               |
+| Shemance Ironfleet |
 
 ## Goals
 - [ ] Task 1
