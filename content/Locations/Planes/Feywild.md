@@ -28,5 +28,6 @@ icon: map
 | ---- |
 
 ## Factions
-| Name |
-| ---- |
+| Name                                     |
+| ---------------------------------------- |
+| [The Eladrin](../../Factions/The%20Eladrin.md) |
