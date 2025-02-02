@@ -25,6 +25,3 @@ icon: lore
 ### Most Recent
 
 ### All Entries
-
-
-- Timeline: [Kippian-Sumber War](Kippian-Sumber%20War.md)
