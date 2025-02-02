@@ -1,7 +1,6 @@
 ---
 share: true
-aliases:
-  - The Great War
+aliases: 
 characters: 
 location: 
 fc-date: 
@@ -11,17 +10,19 @@ icon: lore
 ---
 ## Basic Information
 > [!infobox]
-> # Kippian-Sumber War
+> # Fesai
 > ![cover hsmall](insertimage.png)
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | The Great War|
+> | Other names | |
 > | Type||
 > | Located in | |
-##### Known for:
+##### Known for: being the God of Poison
 ### Description
 ## Lore Mentions
 ### Most Recent
+- Session 13: It is also noted in the book that the continent harbors remnants of the cult of [Fesai](Fesai.md).
 
 ### All Entries
+- Session 13: It is also noted in the book that the continent harbors remnants of the cult of [Fesai](Fesai.md).

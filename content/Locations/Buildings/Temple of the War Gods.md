@@ -17,7 +17,7 @@ icon: building
 > | Located in | [Duospathia District](../Areas/Duospathia%20District.md)|
 ##### Known for:
 ### Description
-- Enchor, Macchi, Matunda
+- [Enchor](../../Deities/New%20Gods/Enchor.md), [Macchi](../../Deities/New%20Gods/Macchi.md), [Matunda](../../Deities/Old%20Gods/Matunda.md)
 ## Notable Locations
 | Name |
 | ---- |

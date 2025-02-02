@@ -26,8 +26,8 @@ icon: map
 ## Notable NPCs
 | Name                                                 |
 | ---------------------------------------------------- |
-| Theodore Clayhollow |
 | Agatha                           |
+| Theodore Clayhollow |
 
 ## Factions
 | Name |

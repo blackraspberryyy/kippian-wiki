@@ -1,7 +1,6 @@
 ---
 share: true
-aliases:
-  - The Great War
+aliases: 
 characters: 
 location: 
 fc-date: 
@@ -11,15 +10,15 @@ icon: lore
 ---
 ## Basic Information
 > [!infobox]
-> # Kippian-Sumber War
+> # Gorbogi
 > ![cover hsmall](insertimage.png)
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | The Great War|
+> | Other names | |
 > | Type||
 > | Located in | |
-##### Known for:
+##### Known for: being a God of Bravery and Honor
 ### Description
 ## Lore Mentions
 ### Most Recent

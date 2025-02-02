@@ -33,14 +33,16 @@ icon: player
 #### Subclass: [School of Divination](https://dnd5e.wikidot.com/wizard:divination)
 ### Backstory
 
->[!note] ##### First Letter to Fiamil Underwood
-Sporcester Alley, [Effil](../Locations/Settlements/Effil.md)
-Cappodon, the 16th
-Of the year 1078
+>[!note] First Letter to Fiamil Underwood
+>
+>Sporcester Alley, [Effil](../Locations/Settlements/Effil.md)
+>Cappodon, the 16th
+>Of the year 1078
 >
 >Dear Fiamil Underwood,
 >
 >Let me tell you my story. But, before we go to that, it’s only fitting to tell you where I came from, right? Well here it goes.
+>
 >
 >My father used to be a human merchant residing at the outskirts of [Midkip](../Locations/Settlements/Midkip.md). He worked perseveringly, not only there, mind you, but also to numerous places, sometimes even across the [Elven Kingdom of Ephelus](../Locations/Kingdoms/Elven%20Kingdom%20of%20Ephelus.md). My father, along with his kin, served as a humble farmer for a local lord. He once pondered what it would be like seeing different landscapes, crossing mountainous borders, resting at secluded forest groves and the like, and so, he dreamt of becoming a travelling merchant. He had an interest in spellcasting and had observed the elves, mimicking their hand gestures and incantations, but to no avail. He had no teacher and not a bit of magic in his body (Curse Miledu!). It was okay for him, however, since it was not the only passion he had: he also loves farming and, eventually, being a merchant.
 >
@@ -56,14 +58,14 @@ Of the year 1078
 >
 >My soon-to-be mother loves nature and that absolutely made her fall in love more with my father, who was firstly a farmer. She worked with her colleagues cooperatively; and as same as my father, she has a kind attitude towards others and in fact was well known for that. She was from a middle-class family and had a desire to be in a wealthy space to continue her research, which is perfect for my father who had riches to spare. After that fateful meeting he intentionally visited [Vaiarshe](../Locations/Settlements/Vaiarshe.md) regularly not only to sell his goods but also to meet and spend time with her. They eventually married each other and lived down south of the [Elven Kingdom](../Locations/Kingdoms/Elven%20Kingdom%20of%20Ephelus.md), [Effil](../Locations/Settlements/Effil.md), where they started raising their own family. Why here? Well, they said that they wanted to get away from their familial ties, but mostly I think that they just wanted to start a new life for themselves. My father sold his farm in [Midkip](../Locations/Settlements/Midkip.md) to one of his merchants, but it’s not like my father needed more money, right? Then, they had me as their son. Oh, if I had not stated earlier, my father’s name is Steckun Calix, and my mother’s is Adzana Furwish. Yes, they are my parents. I’m pretty lucky, right?
 >
->*Hail to Savras!*
+>*Hail to [Savras](../Deities/New%20Gods/Savras.md)!*
 >
 >From your ever-friend, 
 >**[Splix](Spraugh%20'Splix'%20Calix.md)**
 >
 >P. S. More letters to come. I have an errand to do and the messenger has come to pick up the letter. See ya!
 
->[!note] ##### Second Letter to Fiamil Underwood
+>[!note] Second Letter to Fiamil Underwood
 >Sporcester Alley, [Effil](../Locations/Settlements/Effil.md)
 >Cappodon, the 19th
 >Of the year 1078
@@ -86,18 +88,18 @@ Of the year 1078
 >
 >Now I don’t believe that I was going to be a powerful mage, but the dreams made me curious, and, soon enough, I had my father’s inclination towards learning spells. I was mimicking the elves’ movements and speech, hoping that I would get that spark. I am half-elf after all, unlike my father. Well, I felt I had it in me, but I had no teacher at the time. I could not wait to enter the university.
 >
->The time finally came and I entered [Savras University](../Locations/Buildings/Savras%20University.md). That is when reality finally hit. I rediscovered that I was only a half-elf, and, as such, had “lesser” magic than the “pure-blood” elves I studied with. (Savras is an exception. He was a human touched by Akenatun. That, my friend, is a different case altogether.) I would always find myself ranked at the bottom half of the class, except in my divination classes where I had a better grasp of the material, or rather, the immaterial.
+>The time finally came and I entered [Savras University](../Locations/Buildings/Savras%20University.md). That is when reality finally hit. I rediscovered that I was only a half-elf, and, as such, had “lesser” magic than the “pure-blood” elves I studied with. ([Savras](../Deities/New%20Gods/Savras.md) is an exception. He was a human touched by [Akenatun](../Deities/Old%20Gods/Akenatun.md). That, my friend, is a different case altogether.) I would always find myself ranked at the bottom half of the class, except in my divination classes where I had a better grasp of the material, or rather, the immaterial.
 >
->For the first 2 years in the university I was barely hanging on to my studies. My colleagues graduated while I can only create measly fire out of thin air. Very basic stuff, I know. I was considering dropping out of the university when I met my mentor, Dorfir Embersense, and soon after, you, dear Fiamil Underwood. This was also the moment I became more religious towards Savras. He was the university’s patron, after all. 
+>For the first 2 years in the university I was barely hanging on to my studies. My colleagues graduated while I can only create measly fire out of thin air. Very basic stuff, I know. I was considering dropping out of the university when I met my mentor, Dorfir Embersense, and soon after, you, dear Fiamil Underwood. This was also the moment I became more religious towards [Savras](../Deities/New%20Gods/Savras.md). He was the university’s patron, after all. 
 >
 >Anyway, that’s the story of my life so far. I wouldn’t mind hearing from you soon!
 >
->*Hail to Savras!*
+>*Hail to [Savras](../Deities/New%20Gods/Savras.md)!*
 >
 >From your ever-friend,
 >**[Splix](Spraugh%20'Splix'%20Calix.md)**
 
->[!note] ##### Letter to Dorfir Embersense
+>[!note] Dorfir Embersense
 >
 >[Savras University](../Locations/Buildings/Savras%20University.md)
 >Mastkil, the 21st
@@ -105,7 +107,7 @@ Of the year 1078
 >
 >Dorfir Embersense,
 >
-We are pleased to report to you that we mastered the following spells required of us by the university to advance.
+>We are pleased to report to you that we mastered the following spells required of us by the university to advance.
 ><li>Control Flames</li>
 ><li>Light</li>
 ><li>Thunderwave</li>
@@ -119,14 +121,14 @@ We are pleased to report to you that we mastered the following spells required o
 >
 >We will be entering the final year of our studies soon. We hope to meet you soon, Dorfir Embersense.
 >
->*Hail to our patron, Savras! Hail to the mage goddess Amlin!*
+>*Hail to our patron, [Savras](../Deities/New%20Gods/Savras.md)! Hail to the mage goddess [Amlin](../Deities/New%20Gods/Amlin.md)!*
 >
 >Signed by: 
 >**[Splix](Spraugh%20'Splix'%20Calix.md)** and **Fiamil Underwood**
 >
 >P. S. Our work at the library paid off! Thank you for trusting us, professor. We hope you are fine on your scholarly travels.
 
->[!note] ##### Third Letter to Fiamil Underwood
+>[!note] Third Letter to Fiamil Underwood
 >Sporcester Alley, [Effil](../Locations/Settlements/Effil.md)
 >Bastordyl, the 27th
 >Of the year 1083
@@ -145,7 +147,7 @@ We are pleased to report to you that we mastered the following spells required o
 >
 >I waited for hours until all that was left of the house was charred remains. By then some friends of my parents came to comfort me. Two indistinguishable charred remains, purportedly from my parents, and the body of the wizard was taken out of the ravaged mansion. I looked at them and I identified them as such.
 >
->My parents were given proper burial, fitting for nobles. They were blessed with the fire of Akenatun and the ashes were kept in the city’s Matunda urn.
+>My parents were given proper burial, fitting for nobles. They were blessed with the fire of [Akenatun](../Deities/Old%20Gods/Akenatun.md) and the ashes were kept in the city’s [Matunda](../Deities/Old%20Gods/Matunda.md) urn.
 >
 >I appraised and sold all the property and valuables my parents had. I only kept personal trinkets. There was nothing left for me in [Effil](../Locations/Settlements/Effil.md) so I left town and headed to the university. There I gathered all my belongings and sold the unnecessary stuff.
 >
@@ -155,7 +157,7 @@ We are pleased to report to you that we mastered the following spells required o
 >
 >Thank you for being a good friend all these years. I hope to see you someday, as you are the only family I have left.
 >
->*Hail to Savras.*
+>*Hail to [Savras](../Deities/New%20Gods/Savras.md).*
 >
 >From your ever-friend, 
 >**[Splix](Spraugh%20'Splix'%20Calix.md)**

@@ -1,7 +1,6 @@
 ---
 share: true
-aliases:
-  - The Great War
+aliases: 
 characters: 
 location: 
 fc-date: 
@@ -11,12 +10,12 @@ icon: lore
 ---
 ## Basic Information
 > [!infobox]
-> # Kippian-Sumber War
+> # Age of the New Gods
 > ![cover hsmall](insertimage.png)
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | The Great War|
+> | Other names | |
 > | Type||
 > | Located in | |
 ##### Known for:

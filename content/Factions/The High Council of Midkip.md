@@ -34,8 +34,8 @@ Drakon-Aetos-Chtapodhi-Foenyx-King of Kippian-Ankyra-Yvernus-Duospathia-Lykos
 | Mitarella Randall   |
 | Remus Kyp                   |
 | Riordan Kyp               |
-| Stella Kari               |
 | Shemance Ironfleet |
+| Stella Kari               |
 
 ## Goals
 - [ ] Task 1

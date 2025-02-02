@@ -1,7 +1,6 @@
 ---
 share: true
-aliases:
-  - The Great War
+aliases: 
 characters: 
 location: 
 fc-date: 
@@ -11,15 +10,15 @@ icon: lore
 ---
 ## Basic Information
 > [!infobox]
-> # Kippian-Sumber War
-> ![cover hsmall](insertimage.png)
+> # Antasha
+> ![cover hsmall](../../zzz_attachments/Antasha.png)
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | The Great War|
+> | Other names | |
 > | Type||
 > | Located in | |
-##### Known for:
+##### Known for: being the Goddess of the Land
 ### Description
 ## Lore Mentions
 ### Most Recent

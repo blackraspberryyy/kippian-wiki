@@ -26,7 +26,7 @@ icon: calendar
 > "As the new keeper of the [Evanescent Shortbow](../Items/Evanescent%20Shortbow.md), I shall help you on your journey."
 - The ghost then touches [Noah](../PCs/Noah%20Skie.md), allowing her to change her Arcane Shot ability(Beguiling to Enfeebling).
 - [Adeena](../PCs/Adeena%20Oberon.md) experiences the following vision:
->[Adeena](../PCs/Adeena%20Oberon.md) sees a familiar coin, while a voice whispers, "Dear child... Save those threatened by the fallen soldiers of Yekora. Judge the heathens as prescribed by your oath."
+>[Adeena](../PCs/Adeena%20Oberon.md) sees a familiar coin, while a voice whispers, "Dear child... Save those threatened by the fallen soldiers of [Yekora](../Deities/New%20Gods/Yekora.md). Judge the heathens as prescribed by your oath."
 - [Arc](../PCs/Arc.md) hears whispers of the dead:
 > Absence of the cold releaseth sand, and creatures of leather.
 - In a vision,[Theobald](../PCs/Theobald%20Clayhollow.md)'s[Matunda's Mace](../Items/Matunda's%20Mace.md) glows,

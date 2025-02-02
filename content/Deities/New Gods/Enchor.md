@@ -1,7 +1,6 @@
 ---
 share: true
-aliases:
-  - The Great War
+aliases: 
 characters: 
 location: 
 fc-date: 
@@ -11,16 +10,17 @@ icon: lore
 ---
 ## Basic Information
 > [!infobox]
-> # Kippian-Sumber War
+> # Enchor
 > ![cover hsmall](insertimage.png)
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | The Great War|
+> | Other names | |
 > | Type||
 > | Located in | |
-##### Known for:
+##### Known for: being the patron deity of [Curkip](../../Locations/Settlements/Curkip.md)
 ### Description
+[Enchor](Enchor.md) is a lesser god attached to the ideals of bravery, honor, and nobility. The city of [Curkip](../../Locations/Settlements/Curkip.md) reveres the deity.
 ## Lore Mentions
 ### Most Recent
 
