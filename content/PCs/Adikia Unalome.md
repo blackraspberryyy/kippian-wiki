@@ -51,11 +51,11 @@ A year and a half passed and [Adikia](Adikia%20Unalome.md) longed for the Bluedr
 
 Nearby, the wall was laden with strange yet familiar inscriptions. She took note of them and read it:
 
->The winterborn of Corleus is always at war
->with the summerborn of [Soliven](../Locations/Areas/Soliven.md).
->You should never feel safe
->in this realm that you escaped to.
->You cannot hide forever in the light, princess.
+> The winterborn of Corleus is always at war
+> with the summerborn of [Soliven](../Locations/Areas/Soliven.md).
+> You should never feel safe
+> in this realm that you escaped to.
+> You cannot hide forever in the light, princess.
 
 [Adikia](Adikia%20Unalome.md) could not recognize for whom the message, but she intuited that it was for her. “Winterborn, summerborn…”, these words describe the race of [The Eladrin](../Factions/The%20Eladrin.md), a near mythical house of elves that were believed to be extinct and only resided in myths and songs that [Adikia](Adikia%20Unalome.md) regularly plays. When she considered her newfound power, her slightly different stature and color with respect to the Ephelian elves, she pondered: was she from the famed elven race of the [The Eladrin](../Factions/The%20Eladrin.md), the descendants of the goddess [Ela](../Deities/New%20Gods/Ela.md)? If that is so, could it be that she really is a princess? Or is this all a case of mistaken identity, many of such instances have happened to her before?
 
