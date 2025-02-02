@@ -23,7 +23,7 @@ icon: faction
 ### Known Members
 | Name                                           |
 | ---------------------------------------------- |
-| Frederick Oberon |
+| [Frederick Oberon](../../Frederick%20Oberon.md) |
 
 ## Goals
 - [ ] Task 1
