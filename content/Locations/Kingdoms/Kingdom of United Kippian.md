@@ -21,13 +21,13 @@ icon: map
 ## Notable Locations
 | Name                                                        |
 | ----------------------------------------------------------- |
-| [The Veiled Woods](../Areas/The%20Veiled%20Woods.md)   |
 | [Bay of Freezewind](../Areas/Bay%20of%20Freezewind.md) |
+| [The Veiled Woods](../Areas/The%20Veiled%20Woods.md)   |
 | [Ankor](../Settlements/Ankor.md)                   |
 | [Bulkip](../Settlements/Bulkip.md)                 |
+| [Curkip](../Settlements/Curkip.md)                 |
 | [Midkip](../Settlements/Midkip.md)                 |
 | [Midkor](../Settlements/Midkor.md)                 |
-| [Curkip](../Settlements/Curkip.md)                 |
 | [Vonkor](../Settlements/Vonkor.md)                 |
 | [Walkor](../Settlements/Walkor.md)                 |
 | [Yelkor](../Settlements/Yelkor.md)                 |
