@@ -22,9 +22,9 @@ icon: lore
 ### Description
 ## Lore Mentions
 ### Most Recent
-- Session 1: [Yekora](Yekora.md) assassins vs Eladrin assassin vs [party](Seven%20Up....md)
-- Session 1: Yekora spies/cult fanatic stops the party, Eladrin assassin jumps in and joins the fray.
+- [Session 1](../../../Session%201.md): [Yekora](Yekora.md) assassins vs Eladrin assassin vs [party](Seven%20Up....md)
+- [Session 1](../../../Session%201.md): Yekora spies/cult fanatic stops the party, Eladrin assassin jumps in and joins the fray.
 
 ### All Entries
-- Session 1: [Yekora](Yekora.md) assassins vs Eladrin assassin vs [party](Seven%20Up....md)
-- Session 1: Yekora spies/cult fanatic stops the party, Eladrin assassin jumps in and joins the fray.
+- [Session 1](../../../Session%201.md): [Yekora](Yekora.md) assassins vs Eladrin assassin vs [party](Seven%20Up....md)
+- [Session 1](../../../Session%201.md): Yekora spies/cult fanatic stops the party, Eladrin assassin jumps in and joins the fray.

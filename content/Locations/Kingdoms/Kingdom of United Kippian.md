@@ -25,8 +25,8 @@ icon: map
 | [The Veiled Woods](../Areas/The%20Veiled%20Woods.md)   |
 | [Ankor](../Settlements/Ankor.md)                   |
 | [Bulkip](../Settlements/Bulkip.md)                 |
-| [Curkip](../Settlements/Curkip.md)                 |
 | [Midkip](../Settlements/Midkip.md)                 |
+| [Curkip](../Settlements/Curkip.md)                 |
 | [Midkor](../Settlements/Midkor.md)                 |
 | [Vonkor](../Settlements/Vonkor.md)                 |
 | [Walkor](../Settlements/Walkor.md)                 |

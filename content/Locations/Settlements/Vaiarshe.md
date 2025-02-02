@@ -25,8 +25,8 @@ icon: settlement
 ## Notable NPCs
 | Name                                       |
 | ------------------------------------------ |
-| Idril Bluedrin |
-| Poldo Bluedrin |
+| [Idril Bluedrin](../../../Idril%20Bluedrin.md) |
+| [Poldo Bluedrin](../../../Poldo%20Bluedrin.md) |
 
 ## Factions
 | Name |

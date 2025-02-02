@@ -25,7 +25,7 @@ icon: map
 ## Notable NPCs
 | Name                                 |
 | ------------------------------------ |
-| Stella Kari |
+| [Stella Kari](../../../Stella%20Kari.md) |
 
 ## Factions
 | Name |

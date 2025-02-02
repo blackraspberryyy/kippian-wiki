@@ -2,7 +2,7 @@
 share: true
 aliases: 
 characters:
-  - "Kwonyr"
+  - "[Kwonyr](../../Kwonyr.md)"
   - "[Arc](Arc.md)"
 location: 
 fc-date: 
@@ -24,11 +24,11 @@ icon: lore
 ### Description
 ## Lore Mentions
 ### Excerpt from **Infamous: Dangerous Rogues**
->Kwonyr, the self-proclaimed Queen of Rogues, wielded the *[Twilight Dagger](Twilight%20Dagger.md)* during her reign. Accounts of those lucky enough to escape Kwonyr report that the dagger is a separate, malevolent entity: the dagger was the manifestation of the shadows, and through it Kwonyr became master of the dark.
+>[Kwonyr](../../Kwonyr.md), the self-proclaimed Queen of Rogues, wielded the *[Twilight Dagger](Twilight%20Dagger.md)* during her reign. Accounts of those lucky enough to escape Kwonyr report that the dagger is a separate, malevolent entity: the dagger was the manifestation of the shadows, and through it Kwonyr became master of the dark.
 >
 >–excerpt from **Infamous: Dangerous Rogues**
 ### Most Recent
-- Session 16: [Noah](Noah%20Skie.md) retrieves the [Twilight Dagger](Twilight%20Dagger.md).
+- [Session 16](../../Session%2016.md): [Noah](Noah%20Skie.md) retrieves the [Twilight Dagger](Twilight%20Dagger.md).
 
 ### All Entries
-- Session 16: [Noah](Noah%20Skie.md) retrieves the [Twilight Dagger](Twilight%20Dagger.md).
+- [Session 16](../../Session%2016.md): [Noah](Noah%20Skie.md) retrieves the [Twilight Dagger](Twilight%20Dagger.md).

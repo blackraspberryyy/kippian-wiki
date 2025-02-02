@@ -22,7 +22,7 @@ icon: lore
 ### Description
 ## Lore Mentions
 ### Most Recent
-- Session 13: It is also noted in the book that the continent harbors remnants of the cult of [Fesai](Fesai.md).
+- [Session 13](../../../Session%2013.md): It is also noted in the book that the continent harbors remnants of the cult of [Fesai](Fesai.md).
 
 ### All Entries
-- Session 13: It is also noted in the book that the continent harbors remnants of the cult of [Fesai](Fesai.md).
+- [Session 13](../../../Session%2013.md): It is also noted in the book that the continent harbors remnants of the cult of [Fesai](Fesai.md).

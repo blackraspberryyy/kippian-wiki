@@ -23,19 +23,19 @@ icon: faction
 Drakon-Aetos-Chtapodhi-Foenyx-King of Kippian-Ankyra-Yvernus-Duospathia-Lykos
 
 ## Organization
-##### Leader: Riordan Kyp
+##### Leader: [King Riordan](../../Riordan%20Kyp.md)
 ### Known Members
 | Name                                               |
 | -------------------------------------------------- |
-| Armand Gorrel           |
-| Gokare Veegar           |
-| Kayvan Acquermann   |
-| Laurie Furwish         |
-| Mitarella Randall   |
-| Remus Kyp                   |
-| Riordan Kyp               |
-| Shemance Ironfleet |
-| Stella Kari               |
+| [Armand Gorrel](../../Armand%20Gorrel.md)           |
+| [Gokare Veegar](../../Gokare%20Veegar.md)           |
+| [Kayvan Acquermann](../../Kayvan%20Acquermann.md)   |
+| [Laurie Furwish](../../Laurie%20Furwish.md)         |
+| [Mitarella Randall](../../Mitarella%20Randall.md)   |
+| [Riordan Kyp](../../Riordan%20Kyp.md)               |
+| [Remus Kyp](../../Remus%20Kyp.md)                   |
+| [Shemance Ironfleet](../../Shemance%20Ironfleet.md) |
+| [Stella Kari](../../Stella%20Kari.md)               |
 
 ## Goals
 - [ ] Task 1
