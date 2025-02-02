@@ -24,7 +24,7 @@ icon: map
 ## Notable NPCs
 | Name                                       |
 | ------------------------------------------ |
-| Laurie Furwish |
+| [Laurie Furwish](../../../Laurie%20Furwish.md) |
 
 ## Factions
 | Name |
