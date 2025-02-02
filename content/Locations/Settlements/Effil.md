@@ -20,9 +20,9 @@ icon: settlement
 ## Notable Locations
 | Name                                                            |
 | --------------------------------------------------------------- |
-| [Temple of Aisef](../Buildings/Temple%20of%20Aisef.md)     |
 | [Effil Orphanage](../Buildings/Effil%20Orphanage.md)     |
 | [Savras University](../Buildings/Savras%20University.md) |
+| [Temple of Aisef](../Buildings/Temple%20of%20Aisef.md)     |
 
 ## Notable NPCs
 | Name                                                    |
