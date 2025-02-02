@@ -32,19 +32,18 @@ icon: player
 #### Class: Wizard
 #### Subclass: [School of Divination](https://dnd5e.wikidot.com/wizard:divination)
 ### Backstory
-
->[!note] First Letter to Fiamil Underwood
->
+>[!note] First Letter to [Fiamil](../../Fiamil%20Underwood.md)
 >Sporcester Alley, [Effil](../Locations/Settlements/Effil.md)
->Cappodon, the 16th
->Of the year 1078
 >
->Dear Fiamil Underwood,
+>Cappodon, the 16th
+>
+>Of the year 1078
+><br>
+>Dear [Fiamil](../../Fiamil%20Underwood.md),
 >
 >Let me tell you my story. But, before we go to that, it’s only fitting to tell you where I came from, right? Well here it goes.
 >
->
->My father used to be a human merchant residing at the outskirts of [Midkip](../Locations/Settlements/Midkip.md). He worked perseveringly, not only there, mind you, but also to numerous places, sometimes even across the [Elven Kingdom of Ephelus](../Locations/Kingdoms/Elven%20Kingdom%20of%20Ephelus.md). My father, along with his kin, served as a humble farmer for a local lord. He once pondered what it would be like seeing different landscapes, crossing mountainous borders, resting at secluded forest groves and the like, and so, he dreamt of becoming a travelling merchant. He had an interest in spellcasting and had observed the elves, mimicking their hand gestures and incantations, but to no avail. He had no teacher and not a bit of magic in his body (Curse Miledu!). It was okay for him, however, since it was not the only passion he had: he also loves farming and, eventually, being a merchant.
+>My father used to be a human merchant residing at the outskirts of [Midkip](../Locations/Settlements/Midkip.md). He worked perseveringly, not only there, mind you, but also to numerous places, sometimes even across the [Elven Kingdom of Ephelus](../Locations/Kingdoms/Elven%20Kingdom%20of%20Ephelus.md). My father, along with his kin, served as a humble farmer for a local lord. He once pondered what it would be like seeing different landscapes, crossing mountainous borders, resting at secluded forest groves and the like, and so, he dreamt of becoming a travelling merchant. He had an interest in spellcasting and had observed the elves, mimicking their hand gestures and incantations, but to no avail. He had no teacher and not a bit of magic in his body (Curse [Miledu](../../Miledu.md)!). It was okay for him, however, since it was not the only passion he had: he also loves farming and, eventually, being a merchant.
 >
 >After a bit of hard work, and with the help of his siblings, he was able to buy fertile land in the eastern region just outside of [Midkip](../Locations/Settlements/Midkip.md). Near the river waters that meet the [Bay of Freezewind](../Locations/Areas/Bay%20of%20Freezewind.md), he cultivated the rich land and brought upon a farm that he thought he could make a living from. He was selling basic farm goods such as carrots, onions, and cabbages, then expanding to livestock goods and, before you know it, he became the sought-after farm goods merchant in the area. As his estate expanded, he hired farmers and merchants that he could trust. He then traveled from town to town, even across borders, in order to seek advantageous deals and to set up stalls for his merchants. Still, he lived as if he was still a humble farmer. 
 >
@@ -56,7 +55,7 @@ icon: player
 >
 >He told me many more anecdotes about what happened then and the days after that. He always felt like talking to the wide-eyed Elven woman. Slowly yet willingly, he immediately thought that that elven beauty was the person he had wanted to raise a family with. She really was a lovely woman, and I attest to that.
 >
->My soon-to-be mother loves nature and that absolutely made her fall in love more with my father, who was firstly a farmer. She worked with her colleagues cooperatively; and as same as my father, she has a kind attitude towards others and in fact was well known for that. She was from a middle-class family and had a desire to be in a wealthy space to continue her research, which is perfect for my father who had riches to spare. After that fateful meeting he intentionally visited [Vaiarshe](../Locations/Settlements/Vaiarshe.md) regularly not only to sell his goods but also to meet and spend time with her. They eventually married each other and lived down south of the [Elven Kingdom](../Locations/Kingdoms/Elven%20Kingdom%20of%20Ephelus.md), [Effil](../Locations/Settlements/Effil.md), where they started raising their own family. Why here? Well, they said that they wanted to get away from their familial ties, but mostly I think that they just wanted to start a new life for themselves. My father sold his farm in [Midkip](../Locations/Settlements/Midkip.md) to one of his merchants, but it’s not like my father needed more money, right? Then, they had me as their son. Oh, if I had not stated earlier, my father’s name is Steckun Calix, and my mother’s is Adzana Furwish. Yes, they are my parents. I’m pretty lucky, right?
+>My soon-to-be mother loves nature and that absolutely made her fall in love more with my father, who was firstly a farmer. She worked with her colleagues cooperatively; and as same as my father, she has a kind attitude towards others and in fact was well known for that. She was from a middle-class family and had a desire to be in a wealthy space to continue her research, which is perfect for my father who had riches to spare. After that fateful meeting he intentionally visited [Vaiarshe](../Locations/Settlements/Vaiarshe.md) regularly not only to sell his goods but also to meet and spend time with her. They eventually married each other and lived down south of the [Elven Kingdom](../Locations/Kingdoms/Elven%20Kingdom%20of%20Ephelus.md), [Effil](../Locations/Settlements/Effil.md), where they started raising their own family. Why here? Well, they said that they wanted to get away from their familial ties, but mostly I think that they just wanted to start a new life for themselves. My father sold his farm in [Midkip](../Locations/Settlements/Midkip.md) to one of his merchants, but it’s not like my father needed more money, right? Then, they had me as their son. Oh, if I had not stated earlier, my father’s name is [Steckun Calix](../../Steckun%20Calix.md), and my mother’s is [Adzana Furwish](../../Adzana%20Furwish.md). Yes, they are my parents. I’m pretty lucky, right?
 >
 >*Hail to [Savras](../Deities/New%20Gods/Savras.md)!*
 >
@@ -65,16 +64,18 @@ icon: player
 >
 >P. S. More letters to come. I have an errand to do and the messenger has come to pick up the letter. See ya!
 
->[!note] Second Letter to Fiamil Underwood
+>[!note] Second Letter to [Fiamil](../../Fiamil%20Underwood.md)
 >Sporcester Alley, [Effil](../Locations/Settlements/Effil.md)
->Cappodon, the 19th
->Of the year 1078
 >
->Dearest Fiamil Underwood,
+>Cappodon, the 19th
+>
+>Of the year 1078
+><br>
+>Dearest [Fiamil](../../Fiamil%20Underwood.md),
 >
 >I hope you received this letter and the previous letter in quick succession. The last one’s a little bit of a cliffhanger, eh?
 >
->Anyway, to continue my story (or rather, Steckun Calix’s story), my father insisted on having a new farm in the riverbanks of [Effil](../Locations/Settlements/Effil.md) so he can continue being a merchant, albeit now for pastime (and to gain a little more wealth). My mother also retained her job. She works far away from home at times to investigate remote places as usual, though most of the time she works in our home, writing incessantly about her travels.
+>Anyway, to continue my story (or rather, [Steckun](../../Steckun%20Calix.md)’s story), my father insisted on having a new farm in the riverbanks of [Effil](../Locations/Settlements/Effil.md) so he can continue being a merchant, albeit now for pastime (and to gain a little more wealth). My mother also retained her job. She works far away from home at times to investigate remote places as usual, though most of the time she works in our home, writing incessantly about her travels.
 >
 >And that’s the current situation of my family right now. But enough about them: now I’ll tell you the reason for entering the university. 
 >
@@ -90,7 +91,7 @@ icon: player
 >
 >The time finally came and I entered [Savras University](../Locations/Buildings/Savras%20University.md). That is when reality finally hit. I rediscovered that I was only a half-elf, and, as such, had “lesser” magic than the “pure-blood” elves I studied with. ([Savras](../Deities/New%20Gods/Savras.md) is an exception. He was a human touched by [Akenatun](../Deities/Old%20Gods/Akenatun.md). That, my friend, is a different case altogether.) I would always find myself ranked at the bottom half of the class, except in my divination classes where I had a better grasp of the material, or rather, the immaterial.
 >
->For the first 2 years in the university I was barely hanging on to my studies. My colleagues graduated while I can only create measly fire out of thin air. Very basic stuff, I know. I was considering dropping out of the university when I met my mentor, Dorfir Embersense, and soon after, you, dear Fiamil Underwood. This was also the moment I became more religious towards [Savras](../Deities/New%20Gods/Savras.md). He was the university’s patron, after all. 
+>For the first 2 years in the university I was barely hanging on to my studies. My colleagues graduated while I can only create measly fire out of thin air. Very basic stuff, I know. I was considering dropping out of the university when I met my mentor, [Dorfir Embersense](../../Dorfir%20Embersense.md), and soon after, you, dear [Fiamil](../../Fiamil%20Underwood.md). This was also the moment I became more religious towards [Savras](../Deities/New%20Gods/Savras.md). He was the university’s patron, after all. 
 >
 >Anyway, that’s the story of my life so far. I wouldn’t mind hearing from you soon!
 >
@@ -99,13 +100,14 @@ icon: player
 >From your ever-friend,
 >**[Splix](Spraugh%20'Splix'%20Calix.md)**
 
->[!note] Dorfir Embersense
->
+>[!note] Letter to [Professor Embersense](../../Dorfir%20Embersense.md)
 >[Savras University](../Locations/Buildings/Savras%20University.md)
->Mastkil, the 21st
->Of the year 1082
 >
->Dorfir Embersense,
+>Mastkil, the 21st
+>
+>Of the year 1082
+><br>
+>[Professor Embersense](../../Dorfir%20Embersense.md),
 >
 >We are pleased to report to you that we mastered the following spells required of us by the university to advance.
 ><li>Control Flames</li>
@@ -119,21 +121,23 @@ icon: player
 >
 >We have also mastered reading and writing in Magiscript, according to Professor Aufel. We have also passed our tests in geography, advanced mathematics, basic alchemy, Kippian history, theological history, botany and zoology, mythologies, rune cryptography, and mage conduct. We were also given the Book of Savras by the university as required reading.
 >
->We will be entering the final year of our studies soon. We hope to meet you soon, Dorfir Embersense.
+>We will be entering the final year of our studies soon. We hope to meet you soon, [Professor Embersense](../../Dorfir%20Embersense.md).
 >
 >*Hail to our patron, [Savras](../Deities/New%20Gods/Savras.md)! Hail to the mage goddess [Amlin](../Deities/New%20Gods/Amlin.md)!*
 >
 >Signed by: 
->**[Splix](Spraugh%20'Splix'%20Calix.md)** and **Fiamil Underwood**
+>**[Splix](Spraugh%20'Splix'%20Calix.md)** and **[Fiamil](../../Fiamil%20Underwood.md)**
 >
 >P. S. Our work at the library paid off! Thank you for trusting us, professor. We hope you are fine on your scholarly travels.
 
->[!note] Third Letter to Fiamil Underwood
+>[!note] Third Letter to [Fiamil](../../Fiamil%20Underwood.md)
 >Sporcester Alley, [Effil](../Locations/Settlements/Effil.md)
->Bastordyl, the 27th
->Of the year 1083
 >
->To Fiamil Underwood,
+>Bastordyl, the 27th
+>
+>Of the year 1083
+><br>
+>To [Fiamil](../../Fiamil%20Underwood.md),
 >
 >I have terrible news: I have no home now. 
 >
@@ -163,27 +167,29 @@ icon: player
 >**[Splix](Spraugh%20'Splix'%20Calix.md)**
 ### Relationships
 #### Family
-- Parents: Steckun Calix and Adzana Furwish
+- Parents: [Steckun Calix](../../Steckun%20Calix.md) and [Adzana Furwish](../../Adzana%20Furwish.md)
 #### Friends
-- University friend: Fiamil Underwood
-- University professor and mentor: Dorfir Embersense
+- University friend: [Fiamil](../../Fiamil%20Underwood.md)
+- University professor and mentor: [Dorfir Embersense](../../Dorfir%20Embersense.md)
 ## Story log
 ### Most Recent
-- Session 13: [Splix](Spraugh%20'Splix'%20Calix.md)
-- Session 30: [Splix](Spraugh%20'Splix'%20Calix.md) has an amulet with a Gem of Acid Resistance.
-- Session 31: [Splix](Spraugh%20'Splix'%20Calix.md) realizes that the [[Seven Up...|party]] is not allured by the [Aureate Rapier](Aureate%20Rapier.md) wielded by [Remus Kyp](Remus%20Kyp.md).
-- Session 32: [Arc](Arc.md), [Kiris](Kiris%20Acquermann.md), [Thoradin](Thoradin%20Goodman.md) and [Splix](Spraugh%20'Splix'%20Calix.md) goes to [Kayvan](Kayvan%20Acquermann.md)'s room.
-- Session 35: [Splix](Spraugh%20'Splix'%20Calix.md) retrieves [Ymerald Staff](Ymerald%20Staff.md).
+- [Session 13](../../Session%2013.md): [Splix](Spraugh%20'Splix'%20Calix.md)
+- [Session 30](../../Session%2030.md): [Splix](Spraugh%20'Splix'%20Calix.md) has an amulet with a Gem of Acid Resistance.
+- [Session 31](../../Session%2031.md): [Splix](Spraugh%20'Splix'%20Calix.md) realizes that the [[Seven Up...|party]] is not allured by the [Aureate Rapier](Aureate%20Rapier.md) wielded by [Remus Kyp](Remus%20Kyp.md).
+- [Session 32](../../Session%2032.md): [Arc](Arc.md), [Kiris](Kiris%20Acquermann.md), [Thoradin](Thoradin%20Goodman.md) and [Splix](Spraugh%20'Splix'%20Calix.md) goes to [Kayvan](Kayvan%20Acquermann.md)'s room.
+- [Session 35](../../Session%2035.md): [Splix](Spraugh%20'Splix'%20Calix.md) retrieves [Ymerald Staff](Ymerald%20Staff.md).
 - [Session 37](../Session%20Log/Session%2037.md): During a collective vision, [Kiris](Kiris%20Acquermann.md) and [Splix](Spraugh%20'Splix'%20Calix.md), aided by their team, is thrusted into a competitive four-versus-four brawl.
 - [Session 38](../Session%20Log/Session%2038.md): [Splix](Spraugh%20'Splix'%20Calix.md) is still experiencing a protracted vision... Other members of the [[Seven Up...|party]] left him to explore the dungeon.
 - [Session 39](../Session%20Log/Session%2039.md): [Splix](Spraugh%20'Splix'%20Calix.md) gains the following spells: Burning Hands, Scorching Ray, Fireball, Lightning Bolt, Wall of Fire, Fire Shield, Wall of Sand.
+- [Session 40](../Session%20Log/Session%2040.md): [Splix](Spraugh%20'Splix'%20Calix.md) triggers an arcane trap, trapping [Noah](Noah%20Skie.md) inside an invisible force barrier.
 
 ### All Entries
-- Session 13: [Splix](Spraugh%20'Splix'%20Calix.md)
-- Session 30: [Splix](Spraugh%20'Splix'%20Calix.md) has an amulet with a Gem of Acid Resistance.
-- Session 31: [Splix](Spraugh%20'Splix'%20Calix.md) realizes that the [[Seven Up...|party]] is not allured by the [Aureate Rapier](Aureate%20Rapier.md) wielded by [Remus Kyp](Remus%20Kyp.md).
-- Session 32: [Arc](Arc.md), [Kiris](Kiris%20Acquermann.md), [Thoradin](Thoradin%20Goodman.md) and [Splix](Spraugh%20'Splix'%20Calix.md) goes to [Kayvan](Kayvan%20Acquermann.md)'s room.
-- Session 35: [Splix](Spraugh%20'Splix'%20Calix.md) retrieves [Ymerald Staff](Ymerald%20Staff.md).
+- [Session 13](../../Session%2013.md): [Splix](Spraugh%20'Splix'%20Calix.md)
+- [Session 30](../../Session%2030.md): [Splix](Spraugh%20'Splix'%20Calix.md) has an amulet with a Gem of Acid Resistance.
+- [Session 31](../../Session%2031.md): [Splix](Spraugh%20'Splix'%20Calix.md) realizes that the [[Seven Up...|party]] is not allured by the [Aureate Rapier](Aureate%20Rapier.md) wielded by [Remus Kyp](Remus%20Kyp.md).
+- [Session 32](../../Session%2032.md): [Arc](Arc.md), [Kiris](Kiris%20Acquermann.md), [Thoradin](Thoradin%20Goodman.md) and [Splix](Spraugh%20'Splix'%20Calix.md) goes to [Kayvan](Kayvan%20Acquermann.md)'s room.
+- [Session 35](../../Session%2035.md): [Splix](Spraugh%20'Splix'%20Calix.md) retrieves [Ymerald Staff](Ymerald%20Staff.md).
 - [Session 37](../Session%20Log/Session%2037.md): During a collective vision, [Kiris](Kiris%20Acquermann.md) and [Splix](Spraugh%20'Splix'%20Calix.md), aided by their team, is thrusted into a competitive four-versus-four brawl.
 - [Session 38](../Session%20Log/Session%2038.md): [Splix](Spraugh%20'Splix'%20Calix.md) is still experiencing a protracted vision... Other members of the [[Seven Up...|party]] left him to explore the dungeon.
 - [Session 39](../Session%20Log/Session%2039.md): [Splix](Spraugh%20'Splix'%20Calix.md) gains the following spells: Burning Hands, Scorching Ray, Fireball, Lightning Bolt, Wall of Fire, Fire Shield, Wall of Sand.
+- [Session 40](../Session%20Log/Session%2040.md): [Splix](Spraugh%20'Splix'%20Calix.md) triggers an arcane trap, trapping [Noah](Noah%20Skie.md) inside an invisible force barrier.

@@ -23,7 +23,7 @@ icon: faction
 ### Known Members
 | Name                       |
 | -------------------------- |
-| Agatha |
+| [Agatha](../../Agatha.md) |
 
 ## Goals
 - [ ] Task 1

@@ -26,8 +26,8 @@ icon: building
 ## Notable NPCs
 | Name                                             |
 | ------------------------------------------------ |
-| Dorfir Embersense |
-| Fiamil Underwood   |
+| [Dorfir Embersense](../../../Dorfir%20Embersense.md) |
+| [Fiamil Underwood](../../../Fiamil%20Underwood.md)   |
 
 ## Factions
 | Name |

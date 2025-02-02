@@ -23,10 +23,10 @@ icon: map
 | ---- |
 
 ## Notable NPCs
-##### [High Council](../../Factions/The%20High%20Council%20of%20Midkip.md) Representative: Riordan Kyp
+##### [High Council](../../Factions/The%20High%20Council%20of%20Midkip.md) Representative: [King Riordan](../../../Riordan%20Kyp.md)
 | Name                                 |
 | ------------------------------------ |
-| Riordan Kyp |
+| [Riordan Kyp](../../../Riordan%20Kyp.md) |
 
 ## Factions
 | Name                                                                   |
