@@ -20,7 +20,7 @@ icon: building
 Kippian History 2nd floor
 War Journals and Tactics 1st floor
 Weapon Exhibit - basement
-Jocasta Randall
+[Jocasta Randall](../../../Jocasta%20Randall.md)
 
 ## Notable Locations
 | Name |
@@ -29,7 +29,7 @@ Jocasta Randall
 ## Notable NPCs
 | Name                                         |
 | -------------------------------------------- |
-| Jocasta Randall |
+| [Jocasta Randall](../../../Jocasta%20Randall.md) |
 
 ## Factions
 | Name |
