@@ -25,8 +25,8 @@ icon: settlement
 ## Notable NPCs
 | Name                                           |
 | ---------------------------------------------- |
-| Thorvald Goodman |
 | Seris Goodman       |
+| Thorvald Goodman |
 
 ## Factions
 | Name |
