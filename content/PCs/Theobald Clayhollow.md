@@ -28,14 +28,14 @@ icon: player
 > | Background| Cleric|
 > | Location|  [Effil](../Locations/Settlements/Effil.md)|
 > | Faction| [Seven Up...](../Factions/Seven%20Up....md)| 
-##### Known for: A devout cleric of Aisef
+##### Known for: A devout cleric of [Aisef](../Deities/New%20Gods/Aisef.md)
 ### Description
 #### Class: Cleric
 #### Subclass: [Life Domain](https://dnd5e.wikidot.com/cleric:life)
 ### Backstory
 [Theobald](Theobald%20Clayhollow.md) hailed from [Yelkor](../Locations/Settlements/Yelkor.md), a town on the outskirts of [Curkip](../Locations/Settlements/Curkip.md). His beloved parents, Theo Clayhollow and Rhela Clayhollow, owned a family business selling mostly pots, bowls, and cups. Their clay business gave Theobald and his older brother, Theodore Clayhollow, a fairly decent living. In his younger years, [Theobald](Theobald%20Clayhollow.md) used to work with his father and brother as traveling merchants. Theodore was always in charge of helming the caravan, while [Theobald](Theobald%20Clayhollow.md) preached their wares to the people.
 
->Theobald is an optimistic, delightful, wholesome, elderly human cleric that resides in [Effil](../Locations/Settlements/Effil.md). All his life, he is an acolyte to Aiseff, the Goddess of Healing. He used to preach the words of Aisef from the [Temple of Aisef](../Locations/Buildings/Temple%20of%20Aisef.md) in Effil for a long time; that is, until he decided to volunteer in the [Effil Orphanage](../Locations/Buildings/Effil%20Orphanage.md) as a Lifetender. A preacher first, and a healer second, Theobald uses his divine gifts to heal the sick orphans in his care. “To acquire a body that is healthy, and a soul that is pure '', that is what he tells the children. When he is not healing, he likes to share stories to the kids. He always tells the stories of Aisef and her way of life to the kids before bedtime.  As time went by, his stories became repetitive. One time, a little girl in her pajamas, bored and fed up with the never-ending stories of Aisef goes to him and asks: 
+>Theobald is an optimistic, delightful, wholesome, elderly human cleric that resides in [Effil](../Locations/Settlements/Effil.md). All his life, he is an acolyte to [Aisef](../Deities/New%20Gods/Aisef.md)f, the Goddess of Healing. He used to preach the words of [Aisef](../Deities/New%20Gods/Aisef.md) from the [Temple of Aisef](../Locations/Buildings/Temple%20of%20Aisef.md) in Effil for a long time; that is, until he decided to volunteer in the [Effil Orphanage](../Locations/Buildings/Effil%20Orphanage.md) as a Lifetender. A preacher first, and a healer second, Theobald uses his divine gifts to heal the sick orphans in his care. “To acquire a body that is healthy, and a soul that is pure '', that is what he tells the children. When he is not healing, he likes to share stories to the kids. He always tells the stories of [Aisef](../Deities/New%20Gods/Aisef.md) and her way of life to the kids before bedtime.  As time went by, his stories became repetitive. One time, a little girl in her pajamas, bored and fed up with the never-ending stories of [Aisef](../Deities/New%20Gods/Aisef.md) goes to him and asks: 
 >
 >*“Grandpa Theo, do you have any other stories other than the Everhealing Goddess? Maybe something that you did yourself?”*
 
@@ -45,17 +45,17 @@ The family business made significant profits selling claywares to the surroundin
 
 A female voice echoed through the air:
 
->[!quote|mark] Aisef
+>[!quote|mark] [Aisef](../Deities/New%20Gods/Aisef.md)
 >*“[Theobald](Theobald%20Clayhollow.md), son of Theo Clayhollow, worry not, for I hear you.”*
 
 After hearing the faint echoes of that eerily familiar voice, he realized that he was clutching a pendant with a curious symbol. He held it firmly and it began to glow faintly. A divine energy emanating from the necklace seemed to traverse to his hand. [Theobald](Theobald%20Clayhollow.md) raised his hand, and a bright light burst from it, scaring the wolves away. He then placed his hand on Theodore Clayhollow’s wounds, and they sealed almost instantly.
 
-[Theobald](Theobald%20Clayhollow.md) carried Theodore Clayhollow and headed back to [Yelkor](../Locations/Settlements/Yelkor.md). Theo Clayhollow and Rhela Clayhollow immediately tended to Theodore Clayhollow, who was unconscious half the time. Tired from the journey, [Theobald](Theobald%20Clayhollow.md) slept on his bed. As [Theobald](Theobald%20Clayhollow.md) was deep in his sleep, a vision from the goddess Aisef occurred to him. In that instant, he awoke. He packed up his things and prepared himself for his journey. His parents, still half asleep, noticed him gathering his things. 
+[Theobald](Theobald%20Clayhollow.md) carried Theodore Clayhollow and headed back to [Yelkor](../Locations/Settlements/Yelkor.md). Theo Clayhollow and Rhela Clayhollow immediately tended to Theodore Clayhollow, who was unconscious half the time. Tired from the journey, [Theobald](Theobald%20Clayhollow.md) slept on his bed. As [Theobald](Theobald%20Clayhollow.md) was deep in his sleep, a vision from the goddess [Aisef](../Deities/New%20Gods/Aisef.md) occurred to him. In that instant, he awoke. He packed up his things and prepared himself for his journey. His parents, still half asleep, noticed him gathering his things. 
 
 >[!quote|mark] [Theobald](Theobald%20Clayhollow.md)
->*“Father, I finally know my purpose. I am going to [Effil](../Locations/Settlements/Effil.md) to preach Aisef. Aisef needs me. Mother, please take care of my brother, and tell him that Aisef relieved him from his pain, not me. I may be gone for a long time, but I will try to visit when I get the chance. Thank you for everything.”* 
+>*“Father, I finally know my purpose. I am going to [Effil](../Locations/Settlements/Effil.md) to preach [Aisef](../Deities/New%20Gods/Aisef.md). [Aisef](../Deities/New%20Gods/Aisef.md) needs me. Mother, please take care of my brother, and tell him that [Aisef](../Deities/New%20Gods/Aisef.md) relieved him from his pain, not me. I may be gone for a long time, but I will try to visit when I get the chance. Thank you for everything.”* 
 
-He headed to [Effil](../Locations/Settlements/Effil.md) and served Aisef for the rest of his life. For the next 40 years, he preached the words of Aisef, performed her sacred rites, healed the sick and injured, and made offerings. That was until an orphanage was built not far from the [Temple of Aisef](../Locations/Buildings/Temple%20of%20Aisef.md). He took this opportunity to gain more worshippers by preaching words of Aisef to the little kids at the orphanage.
+He headed to [Effil](../Locations/Settlements/Effil.md) and served [Aisef](../Deities/New%20Gods/Aisef.md) for the rest of his life. For the next 40 years, he preached the words of [Aisef](../Deities/New%20Gods/Aisef.md), performed her sacred rites, healed the sick and injured, and made offerings. That was until an orphanage was built not far from the [Temple of Aisef](../Locations/Buildings/Temple%20of%20Aisef.md). He took this opportunity to gain more worshippers by preaching words of [Aisef](../Deities/New%20Gods/Aisef.md) to the little kids at the orphanage.
 
 As his responsibilities in the orphanage increased, [Theobald](Theobald%20Clayhollow.md) eventually decided to reside there permanently. Those who were wounded or sick go to the orphanage from time to time to request divine healing from [Theobald](Theobald%20Clayhollow.md), and he happily obliged. The kids witnessed all these divine miracles, which brought them closer to [Theobald](Theobald%20Clayhollow.md) and to his goddess.
 
@@ -67,11 +67,11 @@ As his responsibilities in the orphanage increased, [Theobald](Theobald%20Clayho
 >
 >“Yes! All the time!” The little girl interjected. “Grandpa Theo, do you have other awesome adventures that you did yourself?”
 >
->Theobald, who was a devotee of Aisef for most of his life replied: 
+>Theobald, who was a devotee of [Aisef](../Deities/New%20Gods/Aisef.md) for most of his life replied: 
 >
 >*“I haven’t been on an adventure before. But tell you what, if you brush your teeth now and go to bed early, I promise to tell you the most epic story of your life. I’m not sure when, but you will be the first one to hear!”*
 
-A little later, Theobald left for [Curkip](../Locations/Settlements/Curkip.md), searching for an adventure. What ordeals he will confront, he does not know: all he knows is that his goddess Aisef will always be with him.
+A little later, Theobald left for [Curkip](../Locations/Settlements/Curkip.md), searching for an adventure. What ordeals he will confront, he does not know: all he knows is that his goddess [Aisef](../Deities/New%20Gods/Aisef.md) will always be with him.
 ### Relationships
 #### Family
 - Parents: Theo Clayhollow, Rhela Clayhollow 
