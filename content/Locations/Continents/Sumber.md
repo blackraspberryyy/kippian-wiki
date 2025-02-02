@@ -19,13 +19,19 @@ icon: map
 ##### Known for:
 ### Description
 ## Notable Locations
-| Name |
-| ---- |
+| Name                                    |
+| --------------------------------------- |
+| Corleus |
 
 ## Notable NPCs
-| Name |
-| ---- |
+| Name                                           |
+| ---------------------------------------------- |
+| Cain Othburn         |
+| Frederick Oberon |
+| [Adeena Oberon](../../PCs/Adeena%20Oberon.md)        |
 
 ## Factions
-| Name |
-| ---- |
+| Name                                                     |
+| -------------------------------------------------------- |
+| [Dusk Talons](../../Factions/Dusk%20Talons.md)                 |
+| [Followers of Yekora](../../Factions/Followers%20of%20Yekora.md) |

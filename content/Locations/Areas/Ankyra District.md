@@ -25,8 +25,8 @@ icon: map
 ## Notable NPCs
 | Name                                 |
 | ------------------------------------ |
-| Rickard Kyp |
 | Remus Kyp     |
+| Rickard Kyp |
 
 ## Factions
 | Name |

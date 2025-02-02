@@ -19,15 +19,19 @@ icon: map
 ##### Known for:
 ### Description
 ## Notable Locations
-| Name                                                  |
-| ----------------------------------------------------- |
-| [Soliven Forest](../Areas/Soliven%20Forest.md) |
-| [Effil](../Settlements/Effil.md)             |
+| Name                                                    |
+| ------------------------------------------------------- |
+| [Bay of Lostwind](../Areas/Bay%20of%20Lostwind.md) |
+| [Soliven](../Areas/Soliven.md)                 |
+| [Effil](../Settlements/Effil.md)               |
+| [Iselia](../Settlements/Iselia.md)             |
+| [Vaiarshe](../Settlements/Vaiarshe.md)         |
 
 ## Notable NPCs
 | Name |
 | ---- |
 
 ## Factions
-| Name |
-| ---- |
+| Name                                                       |
+| ---------------------------------------------------------- |
+| [Followers of Aulephi](../../Factions/Followers%20of%20Aulephi.md) |

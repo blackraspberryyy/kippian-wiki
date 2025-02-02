@@ -23,16 +23,16 @@ icon: map
 | ------------------------------------------------------------------------------------------------------- |
 | [Arena of the Dueling Swords](../Buildings/Arena%20of%20the%20Dueling%20Swords.md)                     |
 | [Duospathia Smithing Guild Compound](../Buildings/Duospathia%20Smithing%20Guild%20Compound.md)       |
-| [Spathian Library and Military Academy](../Buildings/Spathian%20Library%20and%20Military%20Academy.md) |
 | [Duospathia District Hall](../Buildings/Duospathia%20District%20Hall.md)                           |
+| [Spathian Library and Military Academy](../Buildings/Spathian%20Library%20and%20Military%20Academy.md) |
 | [Spathian Mithril Refinery](../Buildings/Spathian%20Mithril%20Refinery.md)                         |
 | [Temple of the War Gods](../Buildings/Temple%20of%20the%20War%20Gods.md)                               |
 
 ## Notable NPCs
 | Name                                             |
 | ------------------------------------------------ |
-| Michaela Randall   |
 | Mitarella Randall |
+| Michaela Randall   |
 
 ## Factions
 | Name |

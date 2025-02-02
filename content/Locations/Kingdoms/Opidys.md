@@ -19,13 +19,17 @@ icon: map
 ##### Known for:
 ### Description
 ## Notable Locations
-| Name |
-| ---- |
+| Name                                                      |
+| --------------------------------------------------------- |
+| [Lake of Shimmers](../Areas/Lake%20of%20Shimmers.md) |
+| [Qwartz](../Settlements/Qwartz.md)               |
+| [Onix](../Settlements/Onix.md)                   |
 
 ## Notable NPCs
 | Name |
 | ---- |
 
 ## Factions
-| Name |
-| ---- |
+| Name                                       |
+| ------------------------------------------ |
+| [Kortusk Orcs](../../Factions/Kortusk%20Orcs.md) |

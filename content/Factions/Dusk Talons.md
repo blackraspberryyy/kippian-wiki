@@ -1,8 +1,9 @@
 ---
 share: true
-aliases: 
-location: 
-status: 
+aliases:
+  - Talons
+location: "[[Sumber]]"
+status: enemy
 lore_type: faction
 icon: faction
 ---
@@ -13,9 +14,9 @@ icon: faction
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Aliases | |
-> | Status| |
-> | Based in|  |
+> | Aliases | Talons|
+> | Status| enemy|
+> | Based in|  [Sumber](../Locations/Continents/Sumber.md)|
 ##### Known for:
 ### Description
 ## Organization
@@ -28,7 +29,7 @@ icon: faction
 - [ ] Task 1
 ## Story log
 ### Most Recent
-- Session 14: The assassin bears the sigil of the [Dusk Talons](Dusk%20Talons.md), an assassins guild based in [Sumber](Sumber.md).
+- Session 14: The assassin bears the sigil of the [Dusk Talons](Dusk%20Talons.md), an assassins guild based in [[Sumber|Sumber]].
 
 ### All Entries
-- Session 14: The assassin bears the sigil of the [Dusk Talons](Dusk%20Talons.md), an assassins guild based in [Sumber](Sumber.md).
+- Session 14: The assassin bears the sigil of the [Dusk Talons](Dusk%20Talons.md), an assassins guild based in [[Sumber|Sumber]].

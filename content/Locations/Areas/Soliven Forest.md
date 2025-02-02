@@ -1,7 +1,8 @@
 ---
 share: true
-aliases: 
-location: "[[Elven Kingdom of Ephelus]]"
+aliases:
+  - Southern Soliven
+location: "[[Soliven]]"
 status: 
 lore_type: location
 icon: map
@@ -13,9 +14,9 @@ icon: map
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | |
+> | Other names | Southern Soliven|
 > | Type | 
-> | Located in | [Elven Kingdom of Ephelus](../Kingdoms/Elven%20Kingdom%20of%20Ephelus.md)|
+> | Located in | [Soliven](./Soliven.md)|
 ##### Known for:
 ### Description
 ## Notable Locations
