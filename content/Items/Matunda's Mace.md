@@ -2,7 +2,7 @@
 share: true
 aliases: 
 characters:
-  - "Matunda"
+  - "[Matunda](../Deities/Old%20Gods/Matunda.md)"
   - "[Theobald Clayhollow](Theobald%20Clayhollow.md)"
   - "[Stella Kari](Stella%20Kari.md)"
 location: 
@@ -21,7 +21,7 @@ icon: lore
 > | Other names | |
 > | Type|item|
 > | Located in | |
-##### Known for: a mace imbued with the power of Matunda
+##### Known for: a mace imbued with the power of [Matunda](../Deities/Old%20Gods/Matunda.md)
 ### Description
 ## Lore Mentions
 ### Excerpt from **Collected Learnings from Yugad Matunda**
@@ -29,7 +29,7 @@ icon: lore
 >
 >–excerpt from **Collected Learnings from Yugad Matunda**
 ### Excerpt from **Touched by the Divine**
->While most orders dismiss Matunda’s teaching as either barbaric or paradoxical, it nevertheless had an undeniable influence on the discourse of divine power. It was due to Yugad Matunda’s brazen belief that allowed for the possibility of non-traditional access to divine power.
+>While most orders dismiss [Matunda](../Deities/Old%20Gods/Matunda.md)’s teaching as either barbaric or paradoxical, it nevertheless had an undeniable influence on the discourse of divine power. It was due to Yugad Matunda’s brazen belief that allowed for the possibility of non-traditional access to divine power.
 >
 >–excerpt from **Touched by the Divine**, a biographical volume of beings with divine power
 ### Most Recent
