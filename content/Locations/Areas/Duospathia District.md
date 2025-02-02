@@ -25,14 +25,14 @@ icon: map
 | [Duospathia Smithing Guild Compound](../Buildings/Duospathia%20Smithing%20Guild%20Compound.md)       |
 | [Duospathia District Hall](../Buildings/Duospathia%20District%20Hall.md)                           |
 | [Spathian Library and Military Academy](../Buildings/Spathian%20Library%20and%20Military%20Academy.md) |
-| [Spathian Mithril Refinery](../Buildings/Spathian%20Mithril%20Refinery.md)                         |
 | [Temple of the War Gods](../Buildings/Temple%20of%20the%20War%20Gods.md)                               |
+| [Spathian Mithril Refinery](../Buildings/Spathian%20Mithril%20Refinery.md)                         |
 
 ## Notable NPCs
 | Name                                             |
 | ------------------------------------------------ |
-| Mitarella Randall |
-| Michaela Randall   |
+| [Michaela Randall](../../../Michaela%20Randall.md)   |
+| [Mitarella Randall](../../../Mitarella%20Randall.md) |
 
 ## Factions
 | Name |
