@@ -26,8 +26,8 @@ icon: map
 ## Notable NPCs
 | Name                                           |
 | ---------------------------------------------- |
-| Frederick Oberon |
 | Cain Othburn         |
+| Frederick Oberon |
 | [Adeena Oberon](../../PCs/Adeena%20Oberon.md)        |
 
 ## Factions
