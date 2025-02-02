@@ -21,8 +21,8 @@ icon: map
 ## Notable Locations
 | Name                                                      |
 | --------------------------------------------------------- |
-| [Soliven Forest](./Soliven%20Forest.md)     |
 | [Northern Soliven](./Northern%20Soliven.md) |
+| [Soliven Forest](./Soliven%20Forest.md)     |
 
 ## Notable NPCs
 | Name |
