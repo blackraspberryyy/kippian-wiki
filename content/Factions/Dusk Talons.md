@@ -29,7 +29,7 @@ icon: faction
 - [ ] Task 1
 ## Story log
 ### Most Recent
-- Session 14: The assassin bears the sigil of the [Dusk Talons](Dusk%20Talons.md), an assassins guild based in [[Sumber|Sumber]].
+- [Session 14](../../Session%2014.md): The assassin bears the sigil of the [Dusk Talons](Dusk%20Talons.md), an assassins guild based in [[Sumber|Sumber]].
 
 ### All Entries
-- Session 14: The assassin bears the sigil of the [Dusk Talons](Dusk%20Talons.md), an assassins guild based in [[Sumber|Sumber]].
+- [Session 14](../../Session%2014.md): The assassin bears the sigil of the [Dusk Talons](Dusk%20Talons.md), an assassins guild based in [[Sumber|Sumber]].
