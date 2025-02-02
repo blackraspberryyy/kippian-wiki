@@ -24,13 +24,13 @@ icon: faction
 ### Known Members
 | Name                                                   |
 | ------------------------------------------------------ |
-| Kristofer Acquermann |
+| [Kristofer Acquermann](../../Kristofer%20Acquermann.md) |
 
 ## Goals
 - [ ] Task 1
 ## Story log
 ### Most Recent
-- Session 12: [Kirren](Kirren%20Acquermann.md) also reveals that their dead father, [Kristofer](Kristofer%20Acquermann.md), is the Lord Knight Acquermann of the [Wayravens](Knights%20of%20the%20Wayraven.md).
+- [Session 12](../../Session%2012.md): [Kirren](Kirren%20Acquermann.md) also reveals that their dead father, [Kristofer](Kristofer%20Acquermann.md), is the Lord Knight Acquermann of the [Wayravens](Knights%20of%20the%20Wayraven.md).
 
 ### All Entries
-- Session 12: [Kirren](Kirren%20Acquermann.md) also reveals that their dead father, [Kristofer](Kristofer%20Acquermann.md), is the Lord Knight Acquermann of the [Wayravens](Knights%20of%20the%20Wayraven.md).
+- [Session 12](../../Session%2012.md): [Kirren](Kirren%20Acquermann.md) also reveals that their dead father, [Kristofer](Kristofer%20Acquermann.md), is the Lord Knight Acquermann of the [Wayravens](Knights%20of%20the%20Wayraven.md).
