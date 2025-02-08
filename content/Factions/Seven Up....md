@@ -25,16 +25,16 @@ icon: player
 ### Known Members
 | Name                                                    |
 | ------------------------------------------------------- |
-| [Adeena Oberon](../PCs/Adeena%20Oberon.md)                 |
 | [Adikia Unalome](../PCs/Adikia%20Unalome.md)               |
 | [Arc](../PCs/Arc.md)                                     |
-| [Noah Skie](../PCs/Noah%20Skie.md)                         |
-| [Spraugh 'Splix' Calix](../PCs/Spraugh%20'Splix'%20Calix.md) |
-| [Theobald Clayhollow](../PCs/Theobald%20Clayhollow.md)     |
-| [Thoradin Goodman](../PCs/Thoradin%20Goodman.md)           |
-| [Kiris Acquermann](../PCs/Kiris%20Acquermann.md)           |
 | [Nokia](../PCs/Companions/Nokia.md)                      |
 | [Astar](../PCs/Companions/Astar.md)                      |
+| [Adeena Oberon](../PCs/Adeena%20Oberon.md)                 |
+| [Kiris Acquermann](../PCs/Kiris%20Acquermann.md)           |
+| [Spraugh 'Splix' Calix](../PCs/Spraugh%20'Splix'%20Calix.md) |
+| [Thoradin Goodman](../PCs/Thoradin%20Goodman.md)           |
+| [Noah Skie](../PCs/Noah%20Skie.md)                         |
+| [Theobald Clayhollow](../PCs/Theobald%20Clayhollow.md)     |
 
 ## Goals
 - [ ] Task 1
