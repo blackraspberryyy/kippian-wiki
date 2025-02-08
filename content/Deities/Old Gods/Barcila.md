@@ -18,7 +18,7 @@ icon: lore
 > | Other names | |
 > | Type||
 > | Located in | |
-##### Known for:
+##### Known for: God of Kindness, patron deity of halflings
 ### Description
 ## Lore Mentions
 ### Most Recent
