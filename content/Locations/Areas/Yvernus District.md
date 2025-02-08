@@ -26,8 +26,8 @@ icon: map
 ## Notable NPCs
 | Name                                             |
 | ------------------------------------------------ |
-| [Kirren Acquermann](../../../Kirren%20Acquermann.md) |
 | [Kayvan Acquermann](../../../Kayvan%20Acquermann.md) |
+| [Kirren Acquermann](../../../Kirren%20Acquermann.md) |
 | [Kiris Acquermann](../../PCs/Kiris%20Acquermann.md)    |
 
 ## Factions

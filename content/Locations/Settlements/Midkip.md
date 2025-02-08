@@ -24,14 +24,14 @@ icon: settlement
 ## Notable Locations
 | Name                                                            |
 | --------------------------------------------------------------- |
-| [Asteri District](../Areas/Asteri%20District.md)         |
 | [Ankyra District](../Areas/Ankyra%20District.md)         |
 | [Aetos District](../Areas/Aetos%20District.md)           |
-| [Drakon District](../Areas/Drakon%20District.md)         |
 | [Chtapodhi District](../Areas/Chtapodhi%20District.md)   |
-| [Foenyx District](../Areas/Foenyx%20District.md)         |
+| [Drakon District](../Areas/Drakon%20District.md)         |
+| [Asteri District](../Areas/Asteri%20District.md)         |
 | [Duospathia District](../Areas/Duospathia%20District.md) |
 | [Lykos District](../Areas/Lykos%20District.md)           |
+| [Foenyx District](../Areas/Foenyx%20District.md)         |
 | [Yvernus District](../Areas/Yvernus%20District.md)       |
 
 ## Notable NPCs

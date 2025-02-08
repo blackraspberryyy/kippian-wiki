@@ -18,7 +18,7 @@ icon: lore
 > | Other names | |
 > | Type||
 > | Located in | |
-##### Known for:
+##### Known for: God of the Seas
 ### Description
 ## Lore Mentions
 ### Most Recent

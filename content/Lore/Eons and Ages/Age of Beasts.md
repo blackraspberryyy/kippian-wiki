@@ -10,16 +10,17 @@ icon: lore
 ---
 ## Basic Information
 > [!infobox]
-> # Corlion
-> ![cover hsmall](../../zzz_attachments/Corlion.png)
+> # Age of Beasts
+> ![cover hsmall](insertimage.png)
 > ###### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Type||
 > | Located in | |
-##### Known for: God of Order, patron deity of elves
+##### Known for:
 ### Description
+- [Miledu](../../../Miledu.md) sends beasts and other lesser creatures to invade the world.
 ## Lore Mentions
 ### Most Recent
 
