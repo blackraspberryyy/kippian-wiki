@@ -21,8 +21,8 @@ icon: settlement
 | Name                                                            |
 | --------------------------------------------------------------- |
 | [Effil Orphanage](../Buildings/Effil%20Orphanage.md)     |
-| [Temple of Aisef](../Buildings/Temple%20of%20Aisef.md)     |
 | [Savras University](../Buildings/Savras%20University.md) |
+| [Temple of Aisef](../Buildings/Temple%20of%20Aisef.md)     |
 
 ## Notable NPCs
 | Name                                                    |
