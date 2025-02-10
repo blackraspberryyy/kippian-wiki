@@ -6,7 +6,7 @@ fc-date: 1083-06-04
 fc-category: Session
 icon: calendar
 ---
-### Start Log
+### Exploring the [Labyrinthus](../Locations/Areas/Labyrinthus.md), part 4
 ##### Exploring the Labyrinthus
 ###### After-combat visions
 -  In a vision, [Spekid Frostborn](../../Spekid%20Frostborn.md) appears to [Kiris](../PCs/Kiris%20Acquermann.md). 
