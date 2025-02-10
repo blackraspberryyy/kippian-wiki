@@ -1,28 +1,26 @@
 ---
 share: true
-aliases:
-  - Plane of Shadows
-location: 
+aliases: 
+location: "[[Labyrinthus]]"
 status: 
 lore_type: location
-icon: map
+icon: building
 ---
 ## Basic Information
 > [!infobox]
-> # Shadowfell
+> # Hall of Akenatun
 > ![cover hsmall](insertimage.png)
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | Plane of Shadows|
+> | Other names | |
 > | Type | 
-> | Located in | |
+> | Located in | [Labyrinthus](../Areas/Labyrinthus.md)|
 ##### Known for:
 ### Description
 ## Notable Locations
-| Name                                            |
-| ----------------------------------------------- |
-| [Labyrinthus](../Areas/Labyrinthus.md) |
+| Name |
+| ---- |
 
 ## Notable NPCs
 | Name |

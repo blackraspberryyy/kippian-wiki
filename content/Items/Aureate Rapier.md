@@ -36,6 +36,9 @@ icon: lore
 - [Session 31](../../Session%2031.md): [Remus Kyp](Remus%20Kyp.md) forgot that he left the [Aureate Rapier](Aureate%20Rapier.md) with the [King](Riordan%20Kyp.md) last night.
 - [Session 32](../../Session%2032.md): [Adikia](Adikia%20Unalome.md) retrieves the [Aureate Rapier](Aureate%20Rapier.md).
 - [Session 34](../../Session%2034.md): [Remus Kyp](Remus%20Kyp.md) "gives" the [Aureate Rapier](Aureate%20Rapier.md) to [Adikia](Adikia%20Unalome.md).
+- [Session 41](../../Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
+- [Session 41](../../Session%2041.md): [Adikia](Adikia%20Unalome.md) asks the casters about the lore of her [Aureate Rapier](Aureate%20Rapier.md).
+> *"The [Aureate Rapier](Aureate%20Rapier.md) was a ceremonial rapier passed down to the heirs of [United Kippian](Kingdom%20of%20United%20Kippian.md). Its hidden power was only a manifestation of [Prince Azir](Azir%20Kyp.md)'s charisma."*
 
 ### All Entries
 - [Session 31](../../Session%2031.md): [Splix](Spraugh%20'Splix'%20Calix.md) realizes that the [party](Seven%20Up....md) is not allured by the [Aureate Rapier](Aureate%20Rapier.md) wielded by [Remus Kyp](Remus%20Kyp.md).
@@ -43,3 +46,6 @@ icon: lore
 - [Session 31](../../Session%2031.md): [Remus Kyp](Remus%20Kyp.md) forgot that he left the [Aureate Rapier](Aureate%20Rapier.md) with the [King](Riordan%20Kyp.md) last night.
 - [Session 32](../../Session%2032.md): [Adikia](Adikia%20Unalome.md) retrieves the [Aureate Rapier](Aureate%20Rapier.md).
 - [Session 34](../../Session%2034.md): [Remus Kyp](Remus%20Kyp.md) "gives" the [Aureate Rapier](Aureate%20Rapier.md) to [Adikia](Adikia%20Unalome.md).
+- [Session 41](../../Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
+- [Session 41](../../Session%2041.md): [Adikia](Adikia%20Unalome.md) asks the casters about the lore of her [Aureate Rapier](Aureate%20Rapier.md).
+> *"The [Aureate Rapier](Aureate%20Rapier.md) was a ceremonial rapier passed down to the heirs of [United Kippian](Kingdom%20of%20United%20Kippian.md). Its hidden power was only a manifestation of [Prince Azir](Azir%20Kyp.md)'s charisma."*

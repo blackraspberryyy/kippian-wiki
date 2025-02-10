@@ -21,7 +21,6 @@ icon: lore
 > | Located in | |
 ##### Known for:
 ### Description
-1083-06-04T00:00:00.000-15:56
 ## Lore Mentions
 ### Most Recent
 - [Session 31](../../../Session%2031.md): [Death of King Riordan](Death%20of%20King%20Riordan.md): The [King](Riordan%20Kyp.md)'s dead!
