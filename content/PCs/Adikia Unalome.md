@@ -72,16 +72,20 @@ There was no time to think as she heard the local guards traversing the snow, cl
 - Musical instrument: Vionna
 ## Story log
 ### Most Recent
-- [Session 13](../../Session%2013.md): [Adikia](Adikia%20Unalome.md) enters a vision: She saw that [Feypeak](Feypeak.md) was somewhere in the east.
-- [Session 13](../../Session%2013.md): [Adikia](Adikia%20Unalome.md) read a book detailing the [Feywild](Feywild.md). She learns the following:
-- [Session 29](../../Session%2029.md): [Adikia](Adikia%20Unalome.md) uses Speak with the Dead to question
-- [Session 32](../../Session%2032.md): [Adikia](Adikia%20Unalome.md) retrieves the [Aureate Rapier](Aureate%20Rapier.md).
-- [Session 34](../../Session%2034.md): [Remus Kyp](Remus%20Kyp.md) "gives" the [Aureate Rapier](Aureate%20Rapier.md) to [Adikia](Adikia%20Unalome.md).
 - [Session 34](../../Session%2034.md): [Adikia](Adikia%20Unalome.md), [Adeena](Adeena%20Oberon.md), [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Thoradin](Thoradin%20Goodman.md) enters the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md).
 - [Session 38](../Session%20Log/Session%2038.md): [Nokia](Nokia.md), [Adikia](Adikia%20Unalome.md)'s eagle, and companion, asks her to search the dungeon for a thing.
 - [Session 39](../Session%20Log/Session%2039.md): [Adikia](Adikia%20Unalome.md) sees a statue; inside it is [Nokia](Nokia.md), which turns into her ancient companion.
 - [Session 40](../Session%20Log/Session%2040.md): [Adikia](Adikia%20Unalome.md) investigates the statue. She sees the following inscription:
 >Fashioned from the hall's stone golems, the [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md) are immune to most magic.
+- [Session 41](../../Session%2041.md): [Adikia](Adikia%20Unalome.md) perceives [Noah](Noah%20Skie.md) appearing into existence.
+- [Session 41](../../Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
+- [Session 41](../../Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
+- [Session 41](../../Session%2041.md): [Adikia](Adikia%20Unalome.md) asks the [Shadow Knight](Shadow%20Knight.md) about [Feypeak](Feypeak.md).
+> The [Shadow Knight](Shadow%20Knight.md) assures [Adikia](Adikia%20Unalome.md) that the portal to the [Feywild](Feywild.md) exists.
+- [Session 41](../../Session%2041.md): [Adikia](Adikia%20Unalome.md) asks the casters about [Feypeak](Feypeak.md)
+> *"As an [Eladrin](The%20Eladrin.md), the [Feywild](Feywild.md) is your home. It is sure that you will find your way back to the [Feywild](Feywild.md)."*
+- [Session 41](../../Session%2041.md): [Adikia](Adikia%20Unalome.md) asks the casters about the lore of her [Aureate Rapier](Aureate%20Rapier.md).
+> *"The [Aureate Rapier](Aureate%20Rapier.md) was a ceremonial rapier passed down to the heirs of [United Kippian](Kingdom%20of%20United%20Kippian.md). Its hidden power was only a manifestation of [Prince Azir](Azir%20Kyp.md)'s charisma."*
 
 ### All Entries
 - [Session 13](../../Session%2013.md): [Adikia](Adikia%20Unalome.md) read a book detailing the [Feywild](Feywild.md). She learns the following:
@@ -94,3 +98,12 @@ There was no time to think as she heard the local guards traversing the snow, cl
 - [Session 39](../Session%20Log/Session%2039.md): [Adikia](Adikia%20Unalome.md) sees a statue; inside it is [Nokia](Nokia.md), which turns into her ancient companion.
 - [Session 40](../Session%20Log/Session%2040.md): [Adikia](Adikia%20Unalome.md) investigates the statue. She sees the following inscription:
 >Fashioned from the hall's stone golems, the [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md) are immune to most magic.
+- [Session 41](../../Session%2041.md): [Adikia](Adikia%20Unalome.md) perceives [Noah](Noah%20Skie.md) appearing into existence.
+- [Session 41](../../Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
+- [Session 41](../../Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
+- [Session 41](../../Session%2041.md): [Adikia](Adikia%20Unalome.md) asks the [Shadow Knight](Shadow%20Knight.md) about [Feypeak](Feypeak.md).
+> The [Shadow Knight](Shadow%20Knight.md) assures [Adikia](Adikia%20Unalome.md) that the portal to the [Feywild](Feywild.md) exists.
+- [Session 41](../../Session%2041.md): [Adikia](Adikia%20Unalome.md) asks the casters about [Feypeak](Feypeak.md)
+> *"As an [Eladrin](The%20Eladrin.md), the [Feywild](Feywild.md) is your home. It is sure that you will find your way back to the [Feywild](Feywild.md)."*
+- [Session 41](../../Session%2041.md): [Adikia](Adikia%20Unalome.md) asks the casters about the lore of her [Aureate Rapier](Aureate%20Rapier.md).
+> *"The [Aureate Rapier](Aureate%20Rapier.md) was a ceremonial rapier passed down to the heirs of [United Kippian](Kingdom%20of%20United%20Kippian.md). Its hidden power was only a manifestation of [Prince Azir](Azir%20Kyp.md)'s charisma."*
