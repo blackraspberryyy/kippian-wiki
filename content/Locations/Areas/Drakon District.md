@@ -25,8 +25,8 @@ icon: map
 ## Notable NPCs
 | Name                                       |
 | ------------------------------------------ |
-| Djorken Veegar |
-| Gokare Veegar   |
+| [Djorken Veegar](../../../Djorken%20Veegar.md) |
+| [Gokare Veegar](../../../Gokare%20Veegar.md)   |
 
 ## Factions
 | Name |

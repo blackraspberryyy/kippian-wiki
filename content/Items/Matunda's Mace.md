@@ -27,7 +27,7 @@ icon: lore
 ### Excerpt from **Collected Learnings from Yugad Matunda**
 >Death and life are not the same thing, but to separate one from the other is a folly—a shortsighted and self-serving perspective. There is no other way around it: to bring forth death is to raise life. This amalgamation of death and life is central to understanding true divine power; a hard, unconscionable truth, but a truth nonetheless.
 >
->–excerpt from **Collected Learnings from Yugad Matunda**
+>–excerpt from **Collected Learnings from [Yugad Matunda](../../Yugad%20Matunda.md)**
 ### Excerpt from **Touched by the Divine**
 >While most orders dismiss [Matunda](../Deities/Old%20Gods/Matunda.md)’s teaching as either barbaric or paradoxical, it nevertheless had an undeniable influence on the discourse of divine power. It was due to Yugad Matunda’s brazen belief that allowed for the possibility of non-traditional access to divine power.
 >
@@ -35,7 +35,11 @@ icon: lore
 ### Most Recent
 - [Session 38](../Session%20Log/Session%2038.md): In a vision,[Theobald](Theobald%20Clayhollow.md)'s[Matunda's Mace](Matunda's%20Mace.md) glows,
 > You see [Astar](Astar.md), [Theobald](Theobald%20Clayhollow.md)'s lost eagle, traveling to the moon, an ominous sign that your beloved pet is now resting in the afterlife.
+- [Session 41](../../Session%2041.md): [Theobald](Theobald%20Clayhollow.md) asks the casters about the wielder of [Matunda's Mace](Matunda's%20Mace.md).
+> *"[Yugad](Yugad%20Matunda.md), the first amalgam cleric, weaves death and life into a single, inseparable thesis: there is no life without death."*
 
 ### All Entries
 - [Session 38](../Session%20Log/Session%2038.md): In a vision,[Theobald](Theobald%20Clayhollow.md)'s[Matunda's Mace](Matunda's%20Mace.md) glows,
 > You see [Astar](Astar.md), [Theobald](Theobald%20Clayhollow.md)'s lost eagle, traveling to the moon, an ominous sign that your beloved pet is now resting in the afterlife.
+- [Session 41](../../Session%2041.md): [Theobald](Theobald%20Clayhollow.md) asks the casters about the wielder of [Matunda's Mace](Matunda's%20Mace.md).
+> *"[Yugad](Yugad%20Matunda.md), the first amalgam cleric, weaves death and life into a single, inseparable thesis: there is no life without death."*

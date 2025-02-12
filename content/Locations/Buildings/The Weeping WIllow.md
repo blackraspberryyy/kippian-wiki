@@ -23,7 +23,7 @@ icon: building
 ## Notable NPCs
 | Name                           |
 | ------------------------------ |
-| Augustus |
+| [Augustus](../../../Augustus.md) |
 
 ## Factions
 | Name |

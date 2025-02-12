@@ -23,9 +23,9 @@ icon: settlement
 ## Notable NPCs
 | Name                                       |
 | ------------------------------------------ |
-| Elijah Orstadt |
-| Norman Skie       |
-| Sophia Skie       |
+| [Elijah Orstadt](../../../Elijah%20Orstadt.md) |
+| [Norman Skie](../../../Norman%20Skie.md)       |
+| [Sophia Skie](../../../Sophia%20Skie.md)       |
 | [Noah Skie](../../PCs/Noah%20Skie.md)            |
 
 ## Factions

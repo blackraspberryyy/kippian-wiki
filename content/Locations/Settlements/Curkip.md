@@ -9,10 +9,10 @@ icon: settlement
 ## Basic Info
 - Etymology: 'Cur' from Enchor Curkip
 > *"Ahh Curkip. There are troubles, yet there is peace. If I were to start any adventure, it should probably be here."*
-> 	- Nos-Aji, handler of Curkip's thieves guild.
+> 	- [Nos-Aji](../../../Nos-Aji.md), handler of Curkip's thieves guild.
 > 
 > *"Curkip schmurkip. This place is booring."*
-> 	-  Olrac, assistant to the handler
+> 	-  [Olrac](../../../Olrac.md), assistant to the handler
 Curkip is the smallest city in the [Kingdom of United Kippian](../Kingdoms/Kingdom%20of%20United%20Kippian.md). Its southern port connects Kippian to strangers from other continents.
 ## Population: Around 7000
 Mostly human, elves from Effil, traders from Opidys. Occasional influx of new people from Suirsya, Olifur, and Sumber.
@@ -20,8 +20,8 @@ Mostly human, elves from Effil, traders from Opidys. Occasional influx of new pe
 
 | Name               | Race  | Note                                       |
 | ------------------ | ----- | ------------------------------------------ |
-| Nos-Aji        | Human | Curkip's Thieves Guild handler             |
-| Olrac          | Human | TG member, assistant and friend to Nos-Aji |
+| [Nos-Aji](../../../Nos-Aji.md)        | Human | Curkip's Thieves Guild handler             |
+| [Olrac](../../../Olrac.md)          | Human | TG member, assistant and friend to Nos-Aji |
 | Mayor Silvano      | Human | Highest ranking noble in Curkip            |
 | Alie Exa           | Human | Mayor's secretary                          |
 | Gully Ranthour     | Human | Owner of Gully Garments and Armory         |

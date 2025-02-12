@@ -23,7 +23,7 @@ icon: faction
 ### Known Members
 | Name                                   |
 | -------------------------------------- |
-| Cain Othburn |
+| [Cain Othburn](../../Cain%20Othburn.md) |
 
 ## Goals
 - [ ] Task 1

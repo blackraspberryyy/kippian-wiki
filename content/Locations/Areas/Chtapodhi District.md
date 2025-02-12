@@ -25,7 +25,7 @@ icon: map
 ## Notable NPCs
 | Name                                               |
 | -------------------------------------------------- |
-| Shemance Ironfleet |
+| [Shemance Ironfleet](../../../Shemance%20Ironfleet.md) |
 
 ## Factions
 | Name |

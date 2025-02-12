@@ -21,13 +21,13 @@ icon: map
 ## Notable Locations
 | Name                                    |
 | --------------------------------------- |
-| Corleus |
+| [Corleus](../../../Corleus.md) |
 
 ## Notable NPCs
 | Name                                           |
 | ---------------------------------------------- |
-| Cain Othburn         |
-| Frederick Oberon |
+| [Cain Othburn](../../../Cain%20Othburn.md)         |
+| [Frederick Oberon](../../../Frederick%20Oberon.md) |
 | [Adeena Oberon](../../PCs/Adeena%20Oberon.md)        |
 
 ## Factions

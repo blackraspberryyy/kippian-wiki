@@ -20,6 +20,7 @@ icon: lore
 > | Located in | |
 ##### Known for:
 ### Description
+- [Miledu](../../../Miledu.md) sends beasts and other lesser creatures to invade the world.
 ## Lore Mentions
 ### Most Recent
 
