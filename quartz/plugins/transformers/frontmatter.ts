@@ -87,6 +87,9 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
 
             if (socialImage) data.socialImage = socialImage
 
+            if (data['fc-date']) data.fcDate = data['fc-date'];
+            if (data['fc-category']) data.fcCategory = data['fc-category'];
+
             // fill in frontmatter
             file.data.frontmatter = data as QuartzPluginData["frontmatter"]
           }
@@ -113,7 +116,9 @@ declare module "vfile" {
         enableToc: string
         cssclasses: string[]
         socialImage: string
-        comments: boolean | string
+        comments: boolean | string,
+        fcDate: string,
+        fcCategory: "Session" | "Calendar" | "Lore",
       }>
   }
 }

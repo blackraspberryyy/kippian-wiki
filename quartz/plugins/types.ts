@@ -45,3 +45,11 @@ export type QuartzEmitterPluginInstance = {
     resources: StaticResources,
   ): Promise<DepGraph<FilePath>>
 }
+
+export type CalendarEvent = {
+  name: string,
+  date: string,
+  category: "Session" | "Calendar" | "Lore",
+  endDate?: string,
+  slug?: string
+}

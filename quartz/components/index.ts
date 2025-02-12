@@ -21,6 +21,7 @@ import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Infobox from "./Infobox"
+import Calendar from "./pages/Calendar"
 
 export {
   ArticleTitle,
@@ -45,5 +46,6 @@ export {
   NotFound,
   Breadcrumbs,
   Comments,
-  Infobox
+  Infobox,
+  Calendar
 }
