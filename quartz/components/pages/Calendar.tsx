@@ -17,7 +17,7 @@ const Calendar: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
   const calendar = new RPGCalendar(calendarConfig);
 
   const events = readBuiltCalendarEventJson().filter(e => !!e).map(e => ({...e, date: parseDateString(calendar, e.date)}));
-  const sortedEvents = events.sort((a, b) => {
+  const sortedEvents = events.filter(e => e.category != 'Calendar').sort((a, b) => {
     if (!a?.date?.epochDayTime || !b?.date?.epochDayTime) {return 0;}
     if (a.date.epochDayTime < b.date.epochDayTime) {return -1;}
     if (a.date.epochDayTime > b.date.epochDayTime) {return 1;}
@@ -25,14 +25,12 @@ const Calendar: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
   });
 
   // TODO: UI
-  // TOOD: If it's a calendar event, remove it from timeline.
-
   return (
     <>
       {sortedEvents.map(e => (
         <div>
           <span>{e.name}</span><br/>
-          <span>{ordinal_suffix_of(e.date.dayOfMonth!)} of {e.date.monthName}, {e.date.year} ({e.date.dayName})</span><br/>
+          <span>{ordinal_suffix_of(e.date.dayOfMonth!)} of {e.date.monthName}{e.date.year ? `, ${e.date.year}` : ''} ({e.date.dayName})</span><br/>
           <span>{e.category}</span><br/>
           <hr></hr>
         </div>

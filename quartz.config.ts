@@ -133,7 +133,8 @@ const config: QuartzConfig = {
           dayOfMonth: 1,
         },
       ],
-      monthStartOnWeekStart: true
+      monthStartOnWeekStart: true,
+      hasYear0: true
     }
   },
   plugins: {

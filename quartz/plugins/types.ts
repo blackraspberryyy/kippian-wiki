@@ -49,5 +49,6 @@ export type QuartzEmitterPluginInstance = {
 export type CalendarEvent = {
   name: string,
   date: string,
-  category: "Session" | "Calendar" | "Lore"
+  category: "Session" | "Calendar" | "Lore",
+  endDate?: string
 }

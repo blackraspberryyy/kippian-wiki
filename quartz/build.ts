@@ -19,6 +19,10 @@ import { options } from "./util/sourcemap"
 import { Mutex } from "async-mutex"
 import DepGraph from "./depgraph"
 import { getStaticResourcesFromPlugins } from "./plugins"
+import parseFrontMatter from 'front-matter';
+import fs from 'fs';
+import { getFcDateString, insertToJson } from "./util/calendar"
+import { CalendarEvent } from "./plugins/types"
 
 type Dependencies = Record<string, DepGraph<FilePath> | null>
 
@@ -90,6 +94,40 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
       dependencies[emitter.name] =
         (await emitter.getDependencyGraph?.(ctx, filteredContent, staticResources)) ?? null
     }
+  }
+
+  // look for calendar events and put it to 'built_calendar_events'
+  const calendarEvents: CalendarEvent[] = [];
+  filePaths.forEach(fp => {
+    const fileContent = fs.readFileSync(fp, {encoding: 'utf-8'});
+    const frontmatter = parseFrontMatter<{[key: string]: any}>(fileContent);
+
+    const fcDate = frontmatter?.attributes['fc-date'];
+    const fcName = path.basename(fp, '.md');
+    const fcCategory = frontmatter?.attributes['fc-category'];
+    const fcEndDate = frontmatter?.attributes['fc-end'];
+
+    if (!!fcDate) {
+      const obj: CalendarEvent = {
+        name: '',
+        date: '',
+        category: 'Session',
+        endDate: '',
+      };
+
+      obj.name = fcName || 'Unnamed Event';
+      obj.date = getFcDateString(fcDate)   // the fcDate looks like this: 1083-06-05T00:00:00.000Z and we dont want the time part (e.g. "...T00:00:00.000Z")
+      obj.category = fcCategory || 'Session';
+      if (!!fcEndDate) {
+        obj.endDate = getFcDateString(fcEndDate)
+      }
+
+      calendarEvents.push(obj);
+    }
+  })
+
+  if (calendarEvents && calendarEvents.length > 0) {
+    insertToJson(calendarEvents);
   }
 
   await emitContent(ctx, filteredContent)
