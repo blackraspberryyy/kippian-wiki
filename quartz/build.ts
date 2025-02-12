@@ -106,6 +106,7 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
     const fcName = path.basename(fp, '.md');
     const fcCategory = frontmatter?.attributes['fc-category'];
     const fcEndDate = frontmatter?.attributes['fc-end'];
+    const fcSlug = slugifyFilePath(fp);
 
     if (!!fcDate) {
       const obj: CalendarEvent = {
@@ -113,6 +114,7 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
         date: '',
         category: 'Session',
         endDate: '',
+        slug: ''
       };
 
       obj.name = fcName || 'Unnamed Event';
@@ -120,6 +122,10 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
       obj.category = fcCategory || 'Session';
       if (!!fcEndDate) {
         obj.endDate = getFcDateString(fcEndDate)
+      }
+
+      if(!!fcSlug) {
+        obj.slug = fcSlug.replace(`${argv.directory|| 'content'}/`, '')
       }
 
       calendarEvents.push(obj);

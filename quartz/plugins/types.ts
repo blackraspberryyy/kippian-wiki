@@ -50,5 +50,6 @@ export type CalendarEvent = {
   name: string,
   date: string,
   category: "Session" | "Calendar" | "Lore",
-  endDate?: string
+  endDate?: string,
+  slug?: string
 }

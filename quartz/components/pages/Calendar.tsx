@@ -32,6 +32,7 @@ const Calendar: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
           <span>{e.name}</span><br/>
           <span>{ordinal_suffix_of(e.date.dayOfMonth!)} of {e.date.monthName}{e.date.year ? `, ${e.date.year}` : ''} ({e.date.dayName})</span><br/>
           <span>{e.category}</span><br/>
+          <span>{e.slug}</span><br/>
           <hr></hr>
         </div>
       ))}
