@@ -31,8 +31,8 @@ icon: map
 ## Notable NPCs
 | Name                                             |
 | ------------------------------------------------ |
-| [Mitarella Randall](../../../Mitarella%20Randall.md) |
 | [Michaela Randall](../../../Michaela%20Randall.md)   |
+| [Mitarella Randall](../../../Mitarella%20Randall.md) |
 
 ## Factions
 | Name |
