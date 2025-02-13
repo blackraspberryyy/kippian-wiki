@@ -30,10 +30,10 @@ icon: lore
 - [Session 40](../../Session%20Log/Session%2040.md): [Theobald](Theobald%20Clayhollow.md) finds some notes detailing the construction of the [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md) by [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md).
 > Within the [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md) are the keys to disabling the barrier that separates the Hall of [Akenatun](Akenatun.md) from the labyrinthus.
 - [Session 40](../../Session%20Log/Session%2040.md): [Arc](Arc.md) discovers the statue that tells the discovery of the [Scepter of Akenatun](Scepter%20of%20Akenatun.md) by [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md).
-- [Session 41](../../../Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
-- [Session 41](../../../Session%2041.md): The [party](Seven%20Up....md) finds the [Hall of Akenatun](Hall%20of%20Akenatun.md).
-- [Session 41](../../../Session%2041.md): The [Shadow Knight](Shadow%20Knight.md) divulges the identities of the previous visitors of the hall who stole the [Scepter of Akenatun](Scepter%20of%20Akenatun.md) by mimicking their faces.
-- [Session 41](../../../Session%2041.md): [Adeena](Adeena%20Oberon.md) asks the casters if there was a way to open the portal to the [Plane of Dragons](Plane%20of%20Dragons.md).
+- [Session 41](../../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
+- [Session 41](../../Session%20Log/Session%2041.md): The [party](Seven%20Up....md) finds the [Hall of Akenatun](Hall%20of%20Akenatun.md).
+- [Session 41](../../Session%20Log/Session%2041.md): The [Shadow Knight](Shadow%20Knight.md) divulges the identities of the previous visitors of the hall who stole the [Scepter of Akenatun](Scepter%20of%20Akenatun.md) by mimicking their faces.
+- [Session 41](../../Session%20Log/Session%2041.md): [Adeena](Adeena%20Oberon.md) asks the casters if there was a way to open the portal to the [Plane of Dragons](Plane%20of%20Dragons.md).
 > *"[Akenatun](Akenatun.md) locked out the dragons from the [Material Realm](Material%20Realm.md) through the portal in [Yvernus](Yvernus%20District.md)"*
 
 ### All Entries
@@ -43,8 +43,8 @@ icon: lore
 - [Session 40](../../Session%20Log/Session%2040.md): [Theobald](Theobald%20Clayhollow.md) finds some notes detailing the construction of the [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md) by [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md).
 > Within the [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md) are the keys to disabling the barrier that separates the Hall of [Akenatun](Akenatun.md) from the labyrinthus.
 - [Session 40](../../Session%20Log/Session%2040.md): [Arc](Arc.md) discovers the statue that tells the discovery of the [Scepter of Akenatun](Scepter%20of%20Akenatun.md) by [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md).
-- [Session 41](../../../Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
-- [Session 41](../../../Session%2041.md): The [party](Seven%20Up....md) finds the [Hall of Akenatun](Hall%20of%20Akenatun.md).
-- [Session 41](../../../Session%2041.md): The [Shadow Knight](Shadow%20Knight.md) divulges the identities of the previous visitors of the hall who stole the [Scepter of Akenatun](Scepter%20of%20Akenatun.md) by mimicking their faces.
-- [Session 41](../../../Session%2041.md): [Adeena](Adeena%20Oberon.md) asks the casters if there was a way to open the portal to the [Plane of Dragons](Plane%20of%20Dragons.md).
+- [Session 41](../../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
+- [Session 41](../../Session%20Log/Session%2041.md): The [party](Seven%20Up....md) finds the [Hall of Akenatun](Hall%20of%20Akenatun.md).
+- [Session 41](../../Session%20Log/Session%2041.md): The [Shadow Knight](Shadow%20Knight.md) divulges the identities of the previous visitors of the hall who stole the [Scepter of Akenatun](Scepter%20of%20Akenatun.md) by mimicking their faces.
+- [Session 41](../../Session%20Log/Session%2041.md): [Adeena](Adeena%20Oberon.md) asks the casters if there was a way to open the portal to the [Plane of Dragons](Plane%20of%20Dragons.md).
 > *"[Akenatun](Akenatun.md) locked out the dragons from the [Material Realm](Material%20Realm.md) through the portal in [Yvernus](Yvernus%20District.md)"*

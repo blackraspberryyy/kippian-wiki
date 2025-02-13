@@ -21,8 +21,8 @@ icon: map
 ## Notable Locations
 | Name                                                    |
 | ------------------------------------------------------- |
-| [Soliven](../Areas/Soliven.md)                 |
 | [Bay of Lostwind](../Areas/Bay%20of%20Lostwind.md) |
+| [Soliven](../Areas/Soliven.md)                 |
 | [Effil](../Settlements/Effil.md)               |
 | [Iselia](../Settlements/Iselia.md)             |
 | [Vaiarshe](../Settlements/Vaiarshe.md)         |

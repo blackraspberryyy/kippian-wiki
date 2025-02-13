@@ -39,11 +39,11 @@ Find it there; light it back home
 > [Amlaena](Amlaena%20Gustkil.md) trains [Noah](Noah%20Skie.md) to use the [Evanescent Shortbow](Evanescent%20Shortbow.md).
 >
 > "As the new keeper of the [Evanescent Shortbow](Evanescent%20Shortbow.md), I shall help you on your journey."
-- [Session 41](../../Session%2041.md): [Noah](Noah%20Skie.md) has no recollection about what happened to her after being trapped. It could be the effect of her [Evanescent Shortbow](Evanescent%20Shortbow.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Noah](Noah%20Skie.md) has no recollection about what happened to her after being trapped. It could be the effect of her [Evanescent Shortbow](Evanescent%20Shortbow.md).
 
 ### All Entries
 - [Session 38](../Session%20Log/Session%2038.md): [Noah](Noah%20Skie.md) sees an apparition in front of her...
 > [Amlaena](Amlaena%20Gustkil.md) trains [Noah](Noah%20Skie.md) to use the [Evanescent Shortbow](Evanescent%20Shortbow.md).
 >
 > "As the new keeper of the [Evanescent Shortbow](Evanescent%20Shortbow.md), I shall help you on your journey."
-- [Session 41](../../Session%2041.md): [Noah](Noah%20Skie.md) has no recollection about what happened to her after being trapped. It could be the effect of her [Evanescent Shortbow](Evanescent%20Shortbow.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Noah](Noah%20Skie.md) has no recollection about what happened to her after being trapped. It could be the effect of her [Evanescent Shortbow](Evanescent%20Shortbow.md).
