@@ -44,7 +44,7 @@ icon: calendar
 - [Adeena](../PCs/Adeena%20Oberon.md) asks the casters if there was a way to open the portal to the [Plane of Dragons](../Locations/Planes/Plane%20of%20Dragons.md).
 > *"[Akenatun](../Deities/Old%20Gods/Akenatun.md) locked out the dragons from the [Material Realm](../Locations/Planes/Material%20Realm.md) through the portal in [Yvernus](../Locations/Areas/Yvernus%20District.md)"*
 - [Adikia](../PCs/Adikia%20Unalome.md) asks the casters about the lore of her [Aureate Rapier](../Items/Aureate%20Rapier.md).
-> *"The [Aureate Rapier](../Items/Aureate%20Rapier.md) was a ceremonial rapier passed down to the heirs of [United Kippian](../Locations/Kingdoms/Kingdom%20of%20United%20Kippian.md). Its hidden power was only a manifestation of [Prince Azir](../../Azir%20Kyp.md)'s charisma."*
+> *"The [Aureate Rapier](../Items/Aureate%20Rapier.md) was a ceremonial rapier passed down to the heirs of [United Kippian](../Locations/Kingdoms/Kingdom%20of%20United%20Kippian.md). Its hidden power is made known only through [Prince Azir](../../Azir%20Kyp.md)'s daring adventures."*
 - [Noah](../PCs/Noah%20Skie.md) asks the casters about her ghastly visions.
 > *"Death haunts you, [Noah](../PCs/Noah%20Skie.md), so much so that your guilt has allowed you to see beyond several planes. Only a few are blessed, or cursed, of such power."*
 - [Arc](../PCs/Arc.md) asks the casters about his [Twilight Dagger](../Items/Twilight%20Dagger.md)'s power.
