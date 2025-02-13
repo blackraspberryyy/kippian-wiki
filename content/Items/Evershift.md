@@ -19,7 +19,19 @@ icon: lore
 > | ---- | ---- |
 > | Other names | |
 > | Type|item|
-> | Located in | |
+> | Wielder | [Adeena Oberon](../PCs/Adeena%20Oberon.md)|
+> ###### Attributes
+> |   |  |
+> | ---- | ---- |
+> | Weight | 15 lbs. |
+> | **Longsword**||
+> | Damage| 1d8 slashing|
+> | Properties| Heavy, Versatile (1d10)|
+> |   |  |
+> | **Greatsword**||
+> | Damage| 2d6 slashing|
+> | Properties| Heavy, Two-Handed|
+
 ##### Known for:
 ### Description
 
@@ -50,6 +62,7 @@ If you attack immediately after moving, you can use your bonus action to gain a 
 ## Lore Mentions
 ### Excerpt from **Champions of Wycroft**
 >[Mathudim](../../Mathudim.md) dragged the cumbersome [Evershift](Evershift.md) into the battlefield; the gigantic, mechanical sword looked more of a burden than a weapon. But when Mathudim swung the Evershift, the rationale behind its design became clear: the hefty sword provided Mathudim with ferocious momentum. He swung it upwards, and with it Mathudim was launched into the air; he swung it forwards and he moved swiftly towards the enemy ranks. And he spun and spun, cutting enemies within Mathudim’s reach.
+>
 >
 >–excerpt from the **Champions of Wycroft**
 
