@@ -17,33 +17,38 @@ icon: lore
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | |
 > | Type|item|
 > | Wielder | [Adeena Oberon](../PCs/Adeena%20Oberon.md)|
 > ###### Attributes
 > |   |  |
 > | ---- | ---- |
 > | Weight | 15 lbs. |
-> | **Longsword**||
+> ###### Mode: Longsword
+> |   |  |
+> | ---- | ---- |
 > | Damage| 1d8 slashing|
 > | Properties| Heavy, Versatile (1d10)|
+> ###### Mode: Greatsword
 > |   |  |
-> | **Greatsword**||
+> | ---- | ---- |
 > | Damage| 2d6 slashing|
 > | Properties| Heavy, Two-Handed|
 
 ##### Known for:
 ### Description
 
-## Attributes
-##### Weight: 15 lbs.
-#### Mode: Longsword
-- ##### Damage: 1d8, slashing
-- ##### Properties: Heavy, Versatile (1d10)
-
-#### Mode: Greatsword
-- ##### Damage: 2d6, slashing
-- ##### Properties: Heavy, Two-Handed
+> ## Properties
+> #### Sword Shift
+> As a bonus action, you can twist the sword's hilt to switch between its longsword mode or its greatsword mode.
+>
+> #### Evershift Expert
+> You have a +1 bonus to attack and damage rolls made with this weapon. While wielding this weapon, your walking speed is increased by 10 feet.
+> 
+> #### Spinning Swing
+You can use your bonus action to deal 1 slashing damage to all creatures within your reach.
+> 
+> #### Driving Swing
+> If you attack immediately after moving, you can use your bonus action to gain a +1 bonus (max of +5) to your attack's damage roll for every 10 feet of unbroken movement done in a straight line.
 
 ## Properties
 #### Sword Shift
