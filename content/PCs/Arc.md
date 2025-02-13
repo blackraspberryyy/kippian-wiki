@@ -44,11 +44,11 @@ icon: player
 - [Session 40](../Session%20Log/Session%2040.md): [Arc](Arc.md) sees the following hallway inscription across the invisible barrier:
 >Within the [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md) are the keys to disabling the barrier that separates the hall...
 - [Session 40](../Session%20Log/Session%2040.md): [Arc](Arc.md) discovers the statue that tells the discovery of the [Scepter of Akenatun](Scepter%20of%20Akenatun.md) by [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md).
-- [Session 41](../../Session%2041.md): [Theobald](Theobald%20Clayhollow.md), [Thoradin](Thoradin%20Goodman.md) and [Arc](Arc.md) receives gold for their exploration.
-- [Session 41](../../Session%2041.md): The nameless [Shadow Knight](Shadow%20Knight.md) talks to the [[Seven Up...|party]].
+- [Session 41](../Session%20Log/Session%2041.md): [Theobald](Theobald%20Clayhollow.md), [Thoradin](Thoradin%20Goodman.md) and [Arc](Arc.md) receives gold for their exploration.
+- [Session 41](../Session%20Log/Session%2041.md): The nameless [Shadow Knight](Shadow%20Knight.md) talks to the [[Seven Up...|party]].
 > [Arc](Arc.md) shows the [Twilight Dagger](Twilight%20Dagger.md) to the [Shadow Knight](Shadow%20Knight.md).
 > *"That weapon owes its power from the [Plane of Shadows](Shadowfell.md)"*
-- [Session 41](../../Session%2041.md): [Arc](Arc.md) asks the casters about his [Twilight Dagger](Twilight%20Dagger.md)'s power.
+- [Session 41](../Session%20Log/Session%2041.md): [Arc](Arc.md) asks the casters about his [Twilight Dagger](Twilight%20Dagger.md)'s power.
 > *"One day, you will lose the [Twilight Dagger](Twilight%20Dagger.md). Then your character will change; for better or worse is yet to be determined."*
 
 ### All Entries
@@ -75,9 +75,9 @@ icon: player
 - [Session 40](../Session%20Log/Session%2040.md): [Arc](Arc.md) sees the following hallway inscription across the invisible barrier:
 >Within the [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md) are the keys to disabling the barrier that separates the hall...
 - [Session 40](../Session%20Log/Session%2040.md): [Arc](Arc.md) discovers the statue that tells the discovery of the [Scepter of Akenatun](Scepter%20of%20Akenatun.md) by [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md).
-- [Session 41](../../Session%2041.md): [Theobald](Theobald%20Clayhollow.md), [Thoradin](Thoradin%20Goodman.md) and [Arc](Arc.md) receives gold for their exploration.
-- [Session 41](../../Session%2041.md): The nameless [Shadow Knight](Shadow%20Knight.md) talks to the [[Seven Up...|party]].
+- [Session 41](../Session%20Log/Session%2041.md): [Theobald](Theobald%20Clayhollow.md), [Thoradin](Thoradin%20Goodman.md) and [Arc](Arc.md) receives gold for their exploration.
+- [Session 41](../Session%20Log/Session%2041.md): The nameless [Shadow Knight](Shadow%20Knight.md) talks to the [[Seven Up...|party]].
 > [Arc](Arc.md) shows the [Twilight Dagger](Twilight%20Dagger.md) to the [Shadow Knight](Shadow%20Knight.md).
 > *"That weapon owes its power from the [Plane of Shadows](Shadowfell.md)"*
-- [Session 41](../../Session%2041.md): [Arc](Arc.md) asks the casters about his [Twilight Dagger](Twilight%20Dagger.md)'s power.
+- [Session 41](../Session%20Log/Session%2041.md): [Arc](Arc.md) asks the casters about his [Twilight Dagger](Twilight%20Dagger.md)'s power.
 > *"One day, you will lose the [Twilight Dagger](Twilight%20Dagger.md). Then your character will change; for better or worse is yet to be determined."*
