@@ -179,10 +179,10 @@ icon: player
 - [Session 38](../Session%20Log/Session%2038.md): [Splix](Spraugh%20'Splix'%20Calix.md) is still experiencing a protracted vision... Other members of the [[Seven Up...|party]] left him to explore the dungeon.
 - [Session 39](../Session%20Log/Session%2039.md): [Splix](Spraugh%20'Splix'%20Calix.md) gains the following spells: Burning Hands, Scorching Ray, Fireball, Lightning Bolt, Wall of Fire, Fire Shield, Wall of Sand.
 - [Session 40](../Session%20Log/Session%2040.md): [Splix](Spraugh%20'Splix'%20Calix.md) triggers an arcane trap, trapping [Noah](Noah%20Skie.md) inside an invisible force barrier.
-- [Session 41](../../Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
-- [Session 41](../../Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
-- [Session 41](../../Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) shares that [Elvin](Elvin%20Claymore.md) and other members of [cult](The%20Cult%20of%20Miledu.md)
-- [Session 41](../../Session%2041.md): [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md) imparts their power to [Splix](Spraugh%20'Splix'%20Calix.md) and [Kiris](Kiris%20Acquermann.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) shares that [Elvin](Elvin%20Claymore.md) and other members of [cult](The%20Cult%20of%20Miledu.md)
+- [Session 41](../Session%20Log/Session%2041.md): [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md) imparts their power to [Splix](Spraugh%20'Splix'%20Calix.md) and [Kiris](Kiris%20Acquermann.md).
 > *"Tough times are ahead, but with our power, we hope that you can prevail."*
 
 ### All Entries
@@ -195,8 +195,8 @@ icon: player
 - [Session 38](../Session%20Log/Session%2038.md): [Splix](Spraugh%20'Splix'%20Calix.md) is still experiencing a protracted vision... Other members of the [[Seven Up...|party]] left him to explore the dungeon.
 - [Session 39](../Session%20Log/Session%2039.md): [Splix](Spraugh%20'Splix'%20Calix.md) gains the following spells: Burning Hands, Scorching Ray, Fireball, Lightning Bolt, Wall of Fire, Fire Shield, Wall of Sand.
 - [Session 40](../Session%20Log/Session%2040.md): [Splix](Spraugh%20'Splix'%20Calix.md) triggers an arcane trap, trapping [Noah](Noah%20Skie.md) inside an invisible force barrier.
-- [Session 41](../../Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
-- [Session 41](../../Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
-- [Session 41](../../Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) shares that [Elvin](Elvin%20Claymore.md) and other members of [cult](The%20Cult%20of%20Miledu.md)
-- [Session 41](../../Session%2041.md): [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md) imparts their power to [Splix](Spraugh%20'Splix'%20Calix.md) and [Kiris](Kiris%20Acquermann.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) shares that [Elvin](Elvin%20Claymore.md) and other members of [cult](The%20Cult%20of%20Miledu.md)
+- [Session 41](../Session%20Log/Session%2041.md): [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md) imparts their power to [Splix](Spraugh%20'Splix'%20Calix.md) and [Kiris](Kiris%20Acquermann.md).
 > *"Tough times are ahead, but with our power, we hope that you can prevail."*
