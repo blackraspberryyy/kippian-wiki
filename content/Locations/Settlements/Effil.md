@@ -29,8 +29,8 @@ icon: settlement
 | ------------------------------------------------------- |
 | [Adzana Furwish](../../../Adzana%20Furwish.md)              |
 | [Steckun Calix](../../../Steckun%20Calix.md)                |
-| [Theobald Clayhollow](../../PCs/Theobald%20Clayhollow.md)     |
 | [Spraugh 'Splix' Calix](../../PCs/Spraugh%20'Splix'%20Calix.md) |
+| [Theobald Clayhollow](../../PCs/Theobald%20Clayhollow.md)     |
 
 ## Factions
 | Name |
