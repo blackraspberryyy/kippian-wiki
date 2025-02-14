@@ -14,21 +14,21 @@ icon: calendar
  >
  > "I saw you beat my rival's successor. As a reward, I shall imbue you with the power of the Northern Frost."
  > 
- > Then, [Spekid](../../Spekid%20Frostborn.md) draws the sigil of the Northern Frost on [Kiris](../PCs/Kiris%20Acquermann.md)' forehead. He then doffs the [Frostborn Armor](../Items/Frostborn%20Armor.md).
+ > Then, [Spekid](../../Spekid%20Frostborn.md) draws the sigil of the Northern Frost on [Kiris](../PCs/Kiris%20Acquermann.md)' forehead. He then doffs the [Frostborn Armor](../Items/Mythic%20Items/Frostborn%20Armor.md).
  > 
  > "But my power is still tethered to this extraplanar domain. To unlock it, you must defeat the construct that still wields remnants of me and [Zerrus Zagi](../../Zerrus%20Zagi.md)'s power."
 - [Kiris](../PCs/Kiris%20Acquermann.md) swaps his Shield spell to Rime's Binding Ice
-- [Kiris](../PCs/Kiris%20Acquermann.md) wakes up with the [Frostborn Armor](../Items/Frostborn%20Armor.md) attached to him. But it only has 1 frost charge... and it is weighing [Kiris](../PCs/Kiris%20Acquermann.md) down---the armor does not attune to him.
+- [Kiris](../PCs/Kiris%20Acquermann.md) wakes up with the [Frostborn Armor](../Items/Mythic%20Items/Frostborn%20Armor.md) attached to him. But it only has 1 frost charge... and it is weighing [Kiris](../PCs/Kiris%20Acquermann.md) down---the armor does not attune to him.
 - [Noah](../PCs/Noah%20Skie.md) sees an apparition in front of her... 
-> [Amlaena](../../Amlaena%20Gustkil.md) trains [Noah](../PCs/Noah%20Skie.md) to use the [Evanescent Shortbow](../Items/Evanescent%20Shortbow.md).
+> [Amlaena](../../Amlaena%20Gustkil.md) trains [Noah](../PCs/Noah%20Skie.md) to use the [Evanescent Shortbow](../Items/Mythic%20Items/Evanescent%20Shortbow.md).
 >
-> "As the new keeper of the [Evanescent Shortbow](../Items/Evanescent%20Shortbow.md), I shall help you on your journey."
+> "As the new keeper of the [Evanescent Shortbow](../Items/Mythic%20Items/Evanescent%20Shortbow.md), I shall help you on your journey."
 - The ghost then touches [Noah](../PCs/Noah%20Skie.md), allowing her to change her Arcane Shot ability(Beguiling to Enfeebling).
 - [Adeena](../PCs/Adeena%20Oberon.md) experiences the following vision:
 >[Adeena](../PCs/Adeena%20Oberon.md) sees a familiar coin, while a voice whispers, "Dear child... Save those threatened by the fallen soldiers of [Yekora](../Deities/New%20Gods/Yekora.md). Judge the heathens as prescribed by your oath."
 - [Arc](../PCs/Arc.md) hears whispers of the dead:
 > Absence of the cold releaseth sand, and creatures of leather.
-- In a vision,[Theobald](../PCs/Theobald%20Clayhollow.md)'s[Matunda's Mace](../Items/Matunda's%20Mace.md) glows,
+- In a vision,[Theobald](../PCs/Theobald%20Clayhollow.md)'s[Matunda's Mace](../Items/Mythic%20Items/Matunda's%20Mace.md) glows,
 > You see [Astar](../PCs/Companions/Astar.md), [Theobald](../PCs/Theobald%20Clayhollow.md)'s lost eagle, traveling to the moon, an ominous sign that your beloved pet is now resting in the afterlife.
 - In a vision that shows the past, [Thoradin](../PCs/Thoradin%20Goodman.md) sees [Elvin](../../Elvin%20Claymore.md) in the dungeon, searching for something.
 - [Nokia](../PCs/Companions/Nokia.md), [Adikia](../PCs/Adikia%20Unalome.md)'s eagle, and companion, asks her to search the dungeon for a thing.
