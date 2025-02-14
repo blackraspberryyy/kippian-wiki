@@ -23,8 +23,8 @@ icon: map
 | ------------------------------------------------------- |
 | [Bay of Lostwind](../Areas/Bay%20of%20Lostwind.md) |
 | [Soliven](../Areas/Soliven.md)                 |
-| [Effil](../Settlements/Effil.md)               |
 | [Iselia](../Settlements/Iselia.md)             |
+| [Effil](../Settlements/Effil.md)               |
 | [Vaiarshe](../Settlements/Vaiarshe.md)         |
 
 ## Notable NPCs

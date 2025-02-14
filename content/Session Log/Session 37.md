@@ -9,4 +9,4 @@ icon: calendar
 ### Exploring the [Labyrinthus](../Locations/Areas/Labyrinthus.md), part 3
 ##### Team Fight!
 - During a collective vision, [Kiris](../PCs/Kiris%20Acquermann.md) and [Splix](../PCs/Spraugh%20'Splix'%20Calix.md), aided by their team, is thrusted into a competitive four-versus-four brawl.
-- During the combat, [Kiris](../PCs/Kiris%20Acquermann.md) is seen wearing the [Frostborn Armor](../Items/Frostborn%20Armor.md).
+- During the combat, [Kiris](../PCs/Kiris%20Acquermann.md) is seen wearing the [Frostborn Armor](../Items/Mythic%20Items/Frostborn%20Armor.md).
