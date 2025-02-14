@@ -32,13 +32,14 @@ icon: player
 #### Class: Wizard
 #### Subclass: [School of Divination](https://dnd5e.wikidot.com/wizard:divination)
 ### Backstory
+#### First Letter to [Fiamil](../../Fiamil%20Underwood.md)
 >[!note] First Letter to [Fiamil](../../Fiamil%20Underwood.md)
 >Sporcester Alley, [Effil](../Locations/Settlements/Effil.md)
 >
 >Cappodon, the 16th
 >
 >Of the year 1078
-><br>
+>
 >Dear [Fiamil](../../Fiamil%20Underwood.md),
 >
 >Let me tell you my story. But, before we go to that, it’s only fitting to tell you where I came from, right? Well here it goes.
@@ -63,14 +64,14 @@ icon: player
 >**[Splix](Spraugh%20'Splix'%20Calix.md)**
 >
 >P. S. More letters to come. I have an errand to do and the messenger has come to pick up the letter. See ya!
-
+#### Second Letter to [Fiamil](../../Fiamil%20Underwood.md)
 >[!note] Second Letter to [Fiamil](../../Fiamil%20Underwood.md)
 >Sporcester Alley, [Effil](../Locations/Settlements/Effil.md)
 >
 >Cappodon, the 19th
 >
 >Of the year 1078
-><br>
+>
 >Dearest [Fiamil](../../Fiamil%20Underwood.md),
 >
 >I hope you received this letter and the previous letter in quick succession. The last one’s a little bit of a cliffhanger, eh?
@@ -99,14 +100,14 @@ icon: player
 >
 >From your ever-friend,
 >**[Splix](Spraugh%20'Splix'%20Calix.md)**
-
+#### Letter to [Professor Embersense](../../Dorfir%20Embersense.md)
 >[!note] Letter to [Professor Embersense](../../Dorfir%20Embersense.md)
 >[Savras University](../Locations/Buildings/Savras%20University.md)
 >
 >Mastkil, the 21st
 >
 >Of the year 1082
-><br>
+>
 >[Professor Embersense](../../Dorfir%20Embersense.md),
 >
 >We are pleased to report to you that we mastered the following spells required of us by the university to advance.
@@ -129,14 +130,14 @@ icon: player
 >**[Splix](Spraugh%20'Splix'%20Calix.md)** and **[Fiamil](../../Fiamil%20Underwood.md)**
 >
 >P. S. Our work at the library paid off! Thank you for trusting us, professor. We hope you are fine on your scholarly travels.
-
+#### Third Letter to [Fiamil](../../Fiamil%20Underwood.md)
 >[!note] Third Letter to [Fiamil](../../Fiamil%20Underwood.md)
 >Sporcester Alley, [Effil](../Locations/Settlements/Effil.md)
 >
 >Bastordyl, the 27th
 >
 >Of the year 1083
-><br>
+>
 >To [Fiamil](../../Fiamil%20Underwood.md),
 >
 >I have terrible news: I have no home now. 
