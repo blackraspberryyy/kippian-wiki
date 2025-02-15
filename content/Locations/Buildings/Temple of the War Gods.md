@@ -6,26 +6,26 @@ status:
 lore_type: location
 icon: building
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Temple of the War Gods
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Located in | [Duospathia District](../Areas/Duospathia%20District.md)|
-##### Known for:
-### Description
+#### Known for:
+## Description
 - [Enchor](../../Deities/New%20Gods/Enchor.md), [Macchi](../../Deities/Old%20Gods/Macchi.md), [Matunda](../../Deities/Old%20Gods/Matunda.md)
-## Notable Locations
+# Notable Locations
 | Name |
 | ---- |
 
-## Notable NPCs
+# Notable NPCs
 | Name |
 | ---- |
 
-## Factions
+# Factions
 | Name |
 | ---- |
