@@ -1,5 +1,5 @@
 import { RPGCalendarDate, RPGCalendarWeekday } from "rpg-calendar/build/main/lib/types";
-import { CalendarEvent } from "../plugins/types";
+import { CalendarEvent, FCDateObj } from "../plugins/types";
 import fs from "fs";
 import path from "path";
 import chalk from "chalk"
@@ -82,7 +82,6 @@ export function ordinal_suffix_of(i: number) {
   return i + "th";
 }
 
-type FCDateObj = { day: number, month?: number, year?: number }; 
 export function getFcDateString(fcDate: Date | string | FCDateObj) {
   if (typeof (fcDate as Date).getMonth === 'function') {  // date
     return (fcDate as Date).toISOString().split('T')[0];

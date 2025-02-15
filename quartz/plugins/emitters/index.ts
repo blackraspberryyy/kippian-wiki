@@ -8,4 +8,5 @@ export { Static } from "./static"
 export { ComponentResources } from "./componentResources"
 export { NotFoundPage } from "./404"
 export { CNAME } from "./cname"
-export { CalendarPage } from "./calendar"
+export { LoreTimelinePage } from "./loreTimeline"
+export { SessionsTimelinePage } from './sessionsTimeline'

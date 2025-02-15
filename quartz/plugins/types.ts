@@ -5,6 +5,7 @@ import { QuartzComponent } from "../components/types"
 import { FilePath } from "../util/path"
 import { BuildCtx } from "../util/ctx"
 import DepGraph from "../depgraph"
+import { RPGCalendarDate } from "rpg-calendar/build/main/lib/types"
 
 export interface PluginTypes {
   transformers: QuartzTransformerPluginInstance[]
@@ -53,3 +54,10 @@ export type CalendarEvent = {
   endDate?: string,
   slug?: string
 }
+
+// same as CalendarEvent, but the date is parsed to RPGCalendarDate
+export type ParsedCalendarEvent = Omit<CalendarEvent, 'date'> & {date: RPGCalendarDate};
+
+export type FCDateObj = { day: number, month?: number, year?: number }; 
+
+export type FCDate = string | FCDateObj;

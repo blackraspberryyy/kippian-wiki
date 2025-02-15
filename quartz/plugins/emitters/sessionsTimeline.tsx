@@ -6,25 +6,25 @@ import { FilePath, FullSlug } from "../../util/path"
 import { defaultContentPageLayout, sharedPageComponents } from "../../../quartz.layout"
 import { defaultProcessedContent } from "../vfile"
 import { write } from "./helpers"
-import { Calendar } from "../../components"
+import { SessionsTimeline } from "../../components"
 
-export const CalendarPage: QuartzEmitterPlugin = () => {
+export const SessionsTimelinePage: QuartzEmitterPlugin = () => {
   const opts: FullPageLayout = {
     ...sharedPageComponents,
     ...defaultContentPageLayout,
-    pageBody: Calendar(),
+    pageBody: SessionsTimeline(),
   }
 
   const { head, header, beforeBody, pageBody, afterBody, left, right, footer } = opts;
 
   return {
-    name: "CalendarPage",
+    name: "SessionsTimelinePage",
     getQuartzComponents() {
       return [head, ...header, ...beforeBody, pageBody, ...afterBody, ...left, ...right, footer]
     },
     async emit(ctx, _content, resources): Promise<FilePath[]> {
       const cfg = ctx.cfg.configuration
-      const slug = "calendar" as FullSlug
+      const slug = "sessions-timeline" as FullSlug
 
       let url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
       if (ctx.argv.serve) {
@@ -35,9 +35,9 @@ export const CalendarPage: QuartzEmitterPlugin = () => {
       const externalResources = pageResources(path, resources)
       const [tree, vfile] = defaultProcessedContent({
         slug,
-        text: 'Calendar',
-        description: 'A list of events that transpired across the continent of Kippian.',
-        frontmatter: { title: 'Kippian Events', tags: [] },
+        text: 'Sessions Timeline',
+        description: 'A list of sessions that transpired during the campaign.',
+        frontmatter: { title: 'Sessions Timeline', tags: [] },
       })
       const componentData: QuartzComponentProps = {
         ctx,

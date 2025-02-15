@@ -172,7 +172,8 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.NotFoundPage(),
-      Plugin.CalendarPage(),
+      Plugin.LoreTimelinePage(),
+      Plugin.SessionsTimelinePage(),
     ],
   },
 }

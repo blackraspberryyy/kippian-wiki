@@ -1,6 +1,6 @@
 import matter from "gray-matter"
 import remarkFrontmatter from "remark-frontmatter"
-import { QuartzTransformerPlugin } from "../types"
+import { FCDate, QuartzTransformerPlugin } from "../types"
 import yaml from "js-yaml"
 import toml from "toml"
 import { slugTag } from "../../util/path"
@@ -86,8 +86,9 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
             if (published) data.published = published
 
             if (socialImage) data.socialImage = socialImage
-
+            
             if (data['fc-date']) data.fcDate = data['fc-date'];
+            if (data['fc-end']) data.fcDate = data['fc-end'];
             if (data['fc-category']) data.fcCategory = data['fc-category'];
 
             // fill in frontmatter
@@ -117,7 +118,8 @@ declare module "vfile" {
         cssclasses: string[]
         socialImage: string
         comments: boolean | string,
-        fcDate: string,
+        fcDate: FCDate,
+        fcEnd: FCDate,
         fcCategory: "Session" | "Calendar" | "Lore",
       }>
   }

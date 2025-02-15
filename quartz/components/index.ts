@@ -21,7 +21,9 @@ import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Infobox from "./Infobox"
-import Calendar from "./pages/Calendar"
+import Timeline from "./Timeline"
+import SessionsTimeline from "./pages/SessionsTimeline"
+import LoreTimeline from "./pages/LoreTimeline"
 
 export {
   ArticleTitle,
@@ -47,5 +49,7 @@ export {
   Breadcrumbs,
   Comments,
   Infobox,
-  Calendar
+  Timeline,
+  SessionsTimeline,
+  LoreTimeline,
 }
