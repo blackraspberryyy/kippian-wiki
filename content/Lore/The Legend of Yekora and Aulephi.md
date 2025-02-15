@@ -8,20 +8,20 @@ fc-category: Lore
 lore_type: 
 icon: lore
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # The Legend of Yekora and Aulephi
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Type||
 > | Located in | |
-##### Known for:
-### Description
-## Lore Mentions
-### Excerpt from The Elven Deities, by Addeus Furwish
+#### Known for:
+## Description
+# Lore Mentions
+## Excerpt from The Elven Deities, by Addeus Furwish
 There was a time when all elves lived in harmony. This was during the [Age of the New Gods](./Eons%20and%20Ages/Age%20of%20the%20New%20Gods.md), when smaller deities were being added to the [Pantheon of the Lesser Gods](../Deities/New%20Gods/Pantheon%20of%20the%20Lesser%20Gods.md). The elves, descendants of the great god [Corlion](../Deities/Old%20Gods/Corlion.md), by that time, had hoisted and followed these elven gods: [Aisef](../Deities/New%20Gods/Aisef.md) and [Fesai](../Deities/New%20Gods/Fesai.md), twin gods of healing and poison, respectively; [Ela](../Deities/New%20Gods/Ela.md), the goddess of beauty and the progenitor of the [Eladrins](../Factions/The%20Eladrin.md); and [Amlin](../Deities/New%20Gods/Amlin.md), the goddess of magic. The elves had a majority on the pantheon of lesser gods, but their power was weakening due to a decrease in worship.
 
 There were two ways to worship the elven gods. One was to pray in communion with other believers, and the other was to pray in solitude. The former method of worship dedicates to the lesser elven gods by invoking [Corlion](../Deities/Old%20Gods/Corlion.md); the followers of the latter method devotes to [Antasha](../Deities/Old%20Gods/Antasha.md), the great goddess of land and its inhabitants, as they would always pray in the presence of secluded holy groves designated by the god. Now the two great gods need not quarrel over this, but the lesser gods had a discourse. There needed to be one method of worship, but on what method to choose they had arguments. [Aisef](../Deities/New%20Gods/Aisef.md) and [Ela](../Deities/New%20Gods/Ela.md) preferred communion, while [Fesai](../Deities/New%20Gods/Fesai.md) and [Amlin](../Deities/New%20Gods/Amlin.md) wished for solitary worship.
@@ -41,6 +41,6 @@ Even though they were not excellent fighters, [Yekora](../Deities/New%20Gods/Yek
 With no clear winner, it was up to the council of the great gods to decide. [Yekora](../Deities/New%20Gods/Yekora.md) did outlast [Aulephi](../Deities/New%20Gods/Aulephi.md), but it was clearly stated in the rules that whoever exited the arena alive would be considered as the winner. A lengthy discussion with the [The Lesser Gods](../Deities/New%20Gods/Pantheon%20of%20the%20Lesser%20Gods.md) proved to be futile. [Akenatun](../Deities/Old%20Gods/Akenatun.md), displeased with their conduct, thundered above them and took the matter into his own hands. He revived both [Yekora](../Deities/New%20Gods/Yekora.md) and [Aulephi](../Deities/New%20Gods/Aulephi.md); then, he elevated them to godhood. [Akenatun](../Deities/Old%20Gods/Akenatun.md), in doing this, implied to the lesser elven gods to accept both methods of worship. The lesser gods reluctantly agreed at first, but in time they accepted [Akenatun](../Deities/Old%20Gods/Akenatun.md)’s ruling.
 
 As for the mortal elves, a fracture between the two methods continued to persist, albeit diminished in intensity. Still, fervent followers of [Yekora](../Deities/New%20Gods/Yekora.md) and [Aulephi](../Deities/New%20Gods/Aulephi.md) hounded the other which resulted in minor yet bloody clashes. High elves flocked to cities while wood elves dispersed to the forests and secluded places. It was also during that time that the elves established the elven kingdoms of [Ephelus](../Locations/Kingdoms/Elven%20Kingdom%20of%20Ephelus.md) and [Corleus](../../Corleus.md). Pressure from surrounding kingdoms would eventually pit these two elven kingdoms against each other, resulting in what would be called as the [Kippian-Sumber War](./Kippian-Sumber%20War.md), a war that spanned generations and led to disastrous calamities for both sides.
-### Most Recent
+## Most Recent
 
-### All Entries
+## All Entries

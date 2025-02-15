@@ -7,27 +7,27 @@ status: enemy
 lore_type: faction
 icon: faction
 ---
-## Information
+# Information
 > [!infobox]
 > # Kortusk Orcs
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Aliases | Kortusk Cult|
 > | Status| enemy|
 > | Based in|  [Opidys](../Locations/Kingdoms/Opidys.md)|
-##### Known for:
-### Description
-## Organization
-##### Leader:
-### Known Members
+#### Known for:
+## Description
+# Organization
+#### Leader:
+## Known Members
 | Name |
 | ---- |
 
-## Goals
+# Goals
 - [ ] Task 1
-## Story log
-### Most Recent
+# Story log
+## Most Recent
 
-### All Entries
+## All Entries

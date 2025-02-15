@@ -7,21 +7,21 @@ status:
 lore_type: location
 icon: settlement
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Midkip
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | Midelia|
 > | Type | settlement
 > | Located in | [Kingdom of United Kippian](../Kingdoms/Kingdom%20of%20United%20Kippian.md)|
-##### Known for:
-### Description
-### Map
+#### Known for:
+## Description
+## Map
 ![cover](../../zzz_attachments/Midkip%20Distritcts.png)
-## Notable Locations
+# Notable Locations
 | Name                                                            |
 | --------------------------------------------------------------- |
 | [Aetos District](../Areas/Aetos%20District.md)           |
@@ -34,7 +34,7 @@ icon: settlement
 | [Lykos District](../Areas/Lykos%20District.md)           |
 | [Yvernus District](../Areas/Yvernus%20District.md)       |
 
-## Notable NPCs
+# Notable NPCs
 | Name                                      |
 | ----------------------------------------- |
 | [Agustus Kyp](../../../Agustus%20Kyp.md) |
@@ -56,7 +56,7 @@ icon: settlement
 | [zzz_Char Test](../../../zzz_Char%20Test.md)         | \-                 | [Midkip](Midkip.md)                     |
 
 
-## Factions
+# Factions
 | Name                                     |
 | ---------------------------------------- |
 | [Seven Up...](../../Factions/Seven%20Up....md) |

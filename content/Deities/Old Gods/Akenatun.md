@@ -10,20 +10,20 @@ fc-category: Lore
 lore_type: 
 icon: lore
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Akenatun
 > ![cover hsmall](../../zzz_attachments/Akenatun.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | The Sun-god,The All-creator|
 > | Type||
 > | Located in | |
-##### Known for: being the Sun God, and Bringer of all Life and Light
-### Description
-## Lore Mentions
-### Most Recent
+#### Known for: being the Sun God, and Bringer of all Life and Light
+## Description
+# Lore Mentions
+## Most Recent
 - [Session 10](../../../Session%2010.md): [Elix Claymore](Elix%20Claymore.md) holds the [Scepter of Akenatun](Scepter%20of%20Akenatun.md).
 - [Session 10](../../../Session%2010.md): [Elix](Elix%20Claymore.md) uses the [Scepter of Akenatun](Scepter%20of%20Akenatun.md) to force the party to sleep.
 - [Session 12](../../../Session%2012.md): The knights protect [Akenatun](Akenatun.md)'s seal that prevents dragons from passing through the portal under [Yvernus](Yvernus%20District.md).
@@ -36,7 +36,7 @@ icon: lore
 - [Session 41](../../Session%20Log/Session%2041.md): [Adeena](Adeena%20Oberon.md) asks the casters if there was a way to open the portal to the [Plane of Dragons](Plane%20of%20Dragons.md).
 > *"[Akenatun](Akenatun.md) locked out the dragons from the [Material Realm](Material%20Realm.md) through the portal in [Yvernus](Yvernus%20District.md)"*
 
-### All Entries
+## All Entries
 - [Session 10](../../../Session%2010.md): [Elix Claymore](Elix%20Claymore.md) holds the [Scepter of Akenatun](Scepter%20of%20Akenatun.md).
 - [Session 10](../../../Session%2010.md): [Elix](Elix%20Claymore.md) uses the [Scepter of Akenatun](Scepter%20of%20Akenatun.md) to force the party to sleep.
 - [Session 12](../../../Session%2012.md): The knights protect [Akenatun](Akenatun.md)'s seal that prevents dragons from passing through the portal under [Yvernus](Yvernus%20District.md).

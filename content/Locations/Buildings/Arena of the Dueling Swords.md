@@ -6,26 +6,26 @@ status:
 lore_type: location
 icon: building
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Arena of the Dueling Swords
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Located in | [Duospathia District](../Areas/Duospathia%20District.md)|
-##### Known for:
-### Description
+#### Known for:
+## Description
 Statues of Yekora and [Aulephi](../../Deities/New%20Gods/Aulephi.md)---patrons of duels
-## Notable Locations
+# Notable Locations
 | Name |
 | ---- |
 
-## Notable NPCs
+# Notable NPCs
 | Name |
 | ---- |
 
-## Factions
+# Factions
 | Name |
 | ---- |

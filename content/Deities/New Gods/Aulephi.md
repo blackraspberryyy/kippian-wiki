@@ -8,19 +8,19 @@ fc-category: Lore
 lore_type: 
 icon: lore
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Aulephi
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Type||
 > | Located in | |
-##### Known for: being the Goddess of Solitude
-### Description
-## Lore Mentions
-### Most Recent
+#### Known for: being the Goddess of Solitude
+## Description
+# Lore Mentions
+## Most Recent
 
-### All Entries
+## All Entries

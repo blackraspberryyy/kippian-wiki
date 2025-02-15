@@ -9,19 +9,19 @@ fc-category: Lore
 lore_type: 
 icon: lore
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Aisef
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | Everhealing Goddess|
 > | Type||
 > | Located in | |
-##### Known for: being the Goddess of Healing
-### Description
-## Lore Mentions
-### Most Recent
+#### Known for: being the Goddess of Healing
+## Description
+# Lore Mentions
+## Most Recent
 
-### All Entries
+## All Entries

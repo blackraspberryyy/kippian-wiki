@@ -6,7 +6,7 @@ status:
 lore_type: location
 icon: settlement
 ---
-## Basic Info
+# Basic Info
 - Etymology: 'Cur' from Enchor Curkip
 > *"Ahh Curkip. There are troubles, yet there is peace. If I were to start any adventure, it should probably be here."*
 > 	- [Nos-Aji](../../../Nos-Aji.md), handler of Curkip's thieves guild.
@@ -14,9 +14,9 @@ icon: settlement
 > *"Curkip schmurkip. This place is booring."*
 > 	-  [Olrac](../../../Olrac.md), assistant to the handler
 Curkip is the smallest city in the [Kingdom of United Kippian](../Kingdoms/Kingdom%20of%20United%20Kippian.md). Its southern port connects Kippian to strangers from other continents.
-## Population: Around 7000
+# Population: Around 7000
 Mostly human, elves from Effil, traders from Opidys. Occasional influx of new people from Suirsya, Olifur, and Sumber.
-## Notable NPCs
+# Notable NPCs
 
 | Name               | Race  | Note                                       |
 | ------------------ | ----- | ------------------------------------------ |
@@ -30,12 +30,12 @@ Mostly human, elves from Effil, traders from Opidys. Occasional influx of new pe
 | Ivee Ponta         | Human | Owner of Ivee's Drugs and Poisons          |
 | Eduardo Cavins     | Human | Leader of the Enchorites                   |
 | Hademus Schoveildt | Human | Captain of the ship Veneer                 |
-## Organizations
+# Organizations
 | Name                     | Note                                     |
 | ------------------------ | ---------------------------------------- |
 | [Curkip Thieves Guild](../../Factions/Curkip%20Thieves%20Guild.md) | Recently stole from the mayor            |
 | Enchorites               | Arena warriors, part-time jobs as guards |
-## Notable Places
+# Notable Places
 | Name                         | Legend | Note                                                                                 |
 | ---------------------------- | :----: | ------------------------------------------------------------------------------------ |
 | Plaza Silvano                |   1    | City square                                                                          |

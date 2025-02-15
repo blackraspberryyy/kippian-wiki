@@ -7,7 +7,7 @@ status:
 lore_type: location
 icon: settlement
 ---
-## Basic Information
+# Basic Information
 Etymology: Bulwicke+ "-kip" meaning city
 
 > "We got lumber, we got steel.
@@ -20,10 +20,10 @@ Etymology: Bulwicke+ "-kip" meaning city
 > - disappointed listener
 
 The city of Bulkip has many resources. Like a lot.
-## Population: Around 13000
+# Population: Around 13000
 
 Mostly human, some elven traders from Ephelus, especially from Effil.
-## Notable NPCs
+# Notable NPCs
 
 |                           |          |                                                  |
 | ------------------------- | -------- | ------------------------------------------------ |
@@ -38,14 +38,14 @@ Mostly human, some elven traders from Ephelus, especially from Effil.
 | Ivan                      | Human    | Dragonbone Innkeeper                             |
 | Aldous                    | Human    | Half-full Flagon Innkeeper                       |
 
-## Organizations
+# Organizations
 
 |                        |                       |                                 |
 | ---------------------- | --------------------- | ------------------------------- |
 | Name                   | Note                  |                                 |
 | The Wailing Trouts     | Against BCO supremacy | Former business owners/artisans |
 | [The Cult of Miledu](../../../The%20Cult%20of%20Miledu.md) |                       |                                 |
-## Notable Places
+# Notable Places
 
 | Name                                | Legend | Note                                                 |
 | ----------------------------------- | ------ | ---------------------------------------------------- |

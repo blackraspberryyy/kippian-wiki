@@ -6,32 +6,32 @@ gender: male
 race: half-orc
 age: young adult
 alignment: 
-background: Sorcerer
+background: sorcerer
 location: "[[Yvernus District]]"
 status: 
 faction: "[[Seven Up...]]"
 icon: player
 ---
-## Bio
+# Bio
 > [!infobox]
 > # Kiris Acquermann
 > ![cover hsmall](../zzz_attachments/Kiris.png)
-> ###### Bio
-> | Type | Stat |
+> ##### Bio
+> | |  |
 > | ---- | ---- |
 > | Aliases | Kiris|
 > | Race| half-orc |
 > | Gender| male|
 > | Age | young adult|
 > | Alignment|| 
-> | Background| Sorcerer|
+> | Background| sorcerer|
 > | Location|  [Yvernus District](../Locations/Areas/Yvernus%20District.md)|
 > | Faction| [Seven Up...](../Factions/Seven%20Up....md)| 
-##### Known for being: 
-### Description
-#### Class: Sorcerer
-#### Subclass: [Shadow Magic Sorcerer](https://dnd5e.wikidot.com/sorcerer:shadow-magic)
-### Backstory
+#### Known for being: 
+## Description
+### Class: Sorcerer
+### Subclass: [Shadow Magic Sorcerer](https://dnd5e.wikidot.com/sorcerer:shadow-magic)
+## Backstory
 A half orc in search of his lineage. [Kiris](Kiris%20Acquermann.md) was raised by his mother, [Sera](../../Sera.md), in a cursed and secluded place: the cold wilderness of [Lazagog's Forest](../Locations/Areas/Lazagog's%20Forest.md). Growing up, he discovered that he has this untapped magic ability within him. [Kiris](Kiris%20Acquermann.md) tried to control it himself, but to no avail. He can cast basic spells, sure, but he knows that there is much, much more to this uncanny skill; even so for an orc.
 
 And he was an orc, for a time. As he grew older, he began to notice features that resembled a human rather than an orc: smoother skin, lighter pigmentation, smaller set of tusks, and a preference for cooked food. But [Kiris](Kiris%20Acquermann.md) is not only a half-orc; he is a magic-wielding half-orc. He intuits that maybe that is the reason her mother and him lived away from orc tribes: to conceal her peculiar son.
@@ -43,11 +43,11 @@ Time went on, and [Sera](../../Sera.md) became severely ill. [Kiris](Kiris%20Acq
 The box contained a curious emblem, 10 gold pieces, and a note from [Sera](../../Sera.md). The letter warned him that knowing the truth of his father’s identity will just bring him harm. However, knowing that [Kiris](Kiris%20Acquermann.md) would just ignore her warning and would continue to find the truth anyway, she wrote him something that may help him: first, that his name is based on his father’s name; and second, that the emblem that is included in the box is his inheritance from his father.
 
 The contents of the box left [Kiris](Kiris%20Acquermann.md) with more questions than answers, yet he felt closer to the truth. It was now up to him to begin his quest on knowing his lineage and identity, a journey that started from the deep wilds of [Lazagog's Forest](../Locations/Areas/Lazagog's%20Forest.md) to a comfortable tavern in [Curkip](../Locations/Settlements/Curkip.md).
-### Relationships
-#### Family
+## Relationships
+### Family
 - Mother: [Sera](../../Sera.md)
-## Story log
-### Most Recent
+# Story log
+## Most Recent
 - [Session 37](../Session%20Log/Session%2037.md): During a collective vision, [Kiris](Kiris%20Acquermann.md) and [Splix](Spraugh%20'Splix'%20Calix.md), aided by their team, is thrusted into a competitive four-versus-four brawl.
 - [Session 37](../Session%20Log/Session%2037.md): During the combat, [Kiris](Kiris%20Acquermann.md) is seen wearing the [Frostborn Armor](Frostborn%20Armor.md).
 - [Session 38](../Session%20Log/Session%2038.md): In a vision, [Spekid Frostborn](Spekid%20Frostborn.md) appears to [Kiris](Kiris%20Acquermann.md).
@@ -69,7 +69,7 @@ The contents of the box left [Kiris](Kiris%20Acquermann.md) with more questions 
 - [Session 41](../Session%20Log/Session%2041.md): [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md) imparts their power to [Splix](Spraugh%20'Splix'%20Calix.md) and [Kiris](Kiris%20Acquermann.md).
 > *"Tough times are ahead, but with our power, we hope that you can prevail."*
 
-### All Entries
+## All Entries
 - [Session 6](../../Session%206.md): Masked member of [Miledu](Miledu.md)'s cult attack [Kiris Acquermann](Kiris%20Acquermann.md)
 - [Session 8](../../Session%208.md): [Kiris](Kiris%20Acquermann.md)' "calling card" glows. It is revealed to be a high family pass with the following letters: [AQM](Acquermann%20Clan.md)
 - [Session 12](../../Session%2012.md): [Kirren](Kirren%20Acquermann.md) reveals truth about [Kiris](Kiris%20Acquermann.md) and her: they are half-siblings..

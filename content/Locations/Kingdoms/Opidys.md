@@ -6,31 +6,31 @@ status:
 lore_type: location
 icon: map
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Opidys
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Type | 
 > | Located in | [Kippian](../Continents/Kippian.md)|
-##### Known for:
-### Description
-## Notable Locations
+#### Known for:
+## Description
+# Notable Locations
 | Name                                                      |
 | --------------------------------------------------------- |
 | [Lake of Shimmers](../Areas/Lake%20of%20Shimmers.md) |
-| [Qwartz](../Settlements/Qwartz.md)               |
 | [Onix](../Settlements/Onix.md)                   |
+| [Qwartz](../Settlements/Qwartz.md)               |
 | [Ymerald](../Settlements/Ymerald.md)             |
 
-## Notable NPCs
+# Notable NPCs
 | Name |
 | ---- |
 
-## Factions
+# Factions
 | Name                                       |
 | ------------------------------------------ |
 | [Kortusk Orcs](../../Factions/Kortusk%20Orcs.md) |

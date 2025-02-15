@@ -8,19 +8,19 @@ fc-category: Lore
 lore_type: 
 icon: lore
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Gorbogi
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Type||
 > | Located in | |
-##### Known for: being a God of Bravery and Honor
-### Description
-## Lore Mentions
-### Most Recent
+#### Known for: being a God of Bravery and Honor
+## Description
+# Lore Mentions
+## Most Recent
 
-### All Entries
+## All Entries

@@ -7,25 +7,25 @@ status:
 lore_type: location
 icon: map
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Aetos District
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | Aetos|
 > | Located in | [Midkip](../Settlements/Midkip.md)|
-##### Known for: being [Midkip](../Settlements/Midkip.md)'s Elven District
-## Notable Locations
+#### Known for: being [Midkip](../Settlements/Midkip.md)'s Elven District
+# Notable Locations
 | Name |
 | ---- |
 
-## Notable NPCs
+# Notable NPCs
 | Name                                       |
 | ------------------------------------------ |
 | [Laurie Furwish](../../../Laurie%20Furwish.md) |
 
-## Factions
+# Factions
 | Name |
 | ---- |

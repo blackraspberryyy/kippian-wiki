@@ -6,28 +6,28 @@ status: active
 lore_type: faction
 icon: faction
 ---
-## Information
+# Information
 > [!infobox]
 > # Followers of Yekora
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Aliases | |
 > | Status| active|
 > | Based in|  [Sumber](../Locations/Continents/Sumber.md)|
-##### Known for:
-### Description
-## Organization
-##### Leader:
-### Known Members
+#### Known for:
+## Description
+# Organization
+#### Leader:
+## Known Members
 | Name                                           |
 | ---------------------------------------------- |
 | [Frederick Oberon](../../Frederick%20Oberon.md) |
 
-## Goals
+# Goals
 - [ ] Task 1
-## Story log
-### Most Recent
+# Story log
+## Most Recent
 
-### All Entries
+## All Entries

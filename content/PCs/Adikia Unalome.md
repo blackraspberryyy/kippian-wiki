@@ -6,32 +6,32 @@ gender: female
 race: elf
 age: middle-aged
 alignment: 
-background: Bard
+background: bard
 location: 
 status: 
 faction: "[[Seven Up...]]"
 icon: player
 ---
-## Bio
+# Bio
 > [!infobox]
 > # Adikia Unalome
 > ![cover hsmall](../zzz_attachments/Adikia.png)
-> ###### Bio
-> | Type | Stat |
+> ##### Bio
+> |  |  |
 > | ---- | ---- |
 > | Aliases | Adikia|
 > | Race| elf |
 > | Gender| female|
 > | Age | middle-aged|
 > | Alignment|| 
-> | Background| Bard|
+> | Background| bard|
 > | Location|  |
 > | Faction| [Seven Up...](../Factions/Seven%20Up....md)| 
-##### Known for: being a chaotic bard
-### Description
-#### Class: Bard
-#### Subclass: [Mage of Lorehold](https://dnd5e.wikidot.com/multisubclass:mage-of-lorehold-ua)
-#### Backstory
+#### Known for: being a chaotic bard
+## Description
+### Class: Bard
+### Subclass: [Mage of Lorehold](https://dnd5e.wikidot.com/multisubclass:mage-of-lorehold-ua)
+### Backstory
 
 The very first memory that [Adikia Unalome](Adikia%20Unalome.md) still remembers was the bustling streets of [Vaiarshe](../Locations/Settlements/Vaiarshe.md). With it are the hard facts of her life: wearing a crappy shirt with holes that are awful to wear during extreme weathers, stealing food from both the vendors and their customers, and living in a small box she called home. [Adikia](Adikia%20Unalome.md) never knew her heritage and it did not matter to her; all she minds is her survival. During her pastimes, however, she developed a knack for music, a talent which she used to earn coins from entertained elves.
 
@@ -65,13 +65,13 @@ Nearby, the wall was laden with strange yet familiar inscriptions. She took note
 
 There was no time to think as she heard the local guards traversing the snow, closing in on the inn. [Adikia](Adikia%20Unalome.md) gave her parents one last kiss, bolted out of the inn through the broken window and was never seen again in [Vaiarshe](../Locations/Settlements/Vaiarshe.md).
 
-[Adikia](Adikia%20Unalome.md) vowed to learn more about herself and her lineage, and to avenge the death of her parents, both of which took the same path. Like the subject of the bardic myths from [Azir](../../Azir%20Kyp.md), an Ephelian hero, [Adikia](Adikia%20Unalome.md) trusted fate to lead her to her goals. Days later, from a sustenance of cheap wine and even cheaper rations, [Adikia](Adikia%20Unalome.md) found herself on the southern outskirts of the [United Kippian](../Locations/Kingdoms/Kingdom%20of%20United%20Kippian.md). Fate has guided [Adikia](Adikia%20Unalome.md) to this place and, as celebration for her new life mission, she decided to take a sip of good wine at [Richie's Tavern](../Locations/Buildings/Richie's%20Inn%20and%20Rentals.md).
-### Relationships
-#### Family
+[Adikia](Adikia%20Unalome.md) vowed to learn more about herself and her lineage, and to avenge the death of her parents, both of which took the same path. Like the subject of the bardic myths from [Azir](../Lore/Mythical%20Heroes/Azir%20Kyp.md), an Ephelian hero, [Adikia](Adikia%20Unalome.md) trusted fate to lead her to her goals. Days later, from a sustenance of cheap wine and even cheaper rations, [Adikia](Adikia%20Unalome.md) found herself on the southern outskirts of the [United Kippian](../Locations/Kingdoms/Kingdom%20of%20United%20Kippian.md). Fate has guided [Adikia](Adikia%20Unalome.md) to this place and, as celebration for her new life mission, she decided to take a sip of good wine at [Richie's Tavern](../Locations/Buildings/Richie's%20Inn%20and%20Rentals.md).
+## Relationships
+### Family
 - Adoptive parents: [Idril](../../Idril%20Bluedrin.md) and [Poldo Bluedrin](../../Poldo%20Bluedrin.md)
 - Musical instrument: Vionna
-## Story log
-### Most Recent
+# Story log
+## Most Recent
 - [Session 34](../../Session%2034.md): [Adikia](Adikia%20Unalome.md), [Adeena](Adeena%20Oberon.md), [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Thoradin](Thoradin%20Goodman.md) enters the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md).
 - [Session 38](../Session%20Log/Session%2038.md): [Nokia](Nokia.md), [Adikia](Adikia%20Unalome.md)'s eagle, and companion, asks her to search the dungeon for a thing.
 - [Session 39](../Session%20Log/Session%2039.md): [Adikia](Adikia%20Unalome.md) sees a statue; inside it is [Nokia](Nokia.md), which turns into her ancient companion.
@@ -87,7 +87,7 @@ There was no time to think as she heard the local guards traversing the snow, cl
 - [Session 41](../Session%20Log/Session%2041.md): [Adikia](Adikia%20Unalome.md) asks the casters about the lore of her [Aureate Rapier](Aureate%20Rapier.md).
 > *"The [Aureate Rapier](Aureate%20Rapier.md) was a ceremonial rapier passed down to the heirs of [United Kippian](Kingdom%20of%20United%20Kippian.md). Its hidden power is made known only through [Prince Azir](Azir%20Kyp.md)'s daring adventures."*
 
-### All Entries
+## All Entries
 - [Session 13](../../Session%2013.md): [Adikia](Adikia%20Unalome.md) read a book detailing the [Feywild](Feywild.md). She learns the following:
 - [Session 13](../../Session%2013.md): [Adikia](Adikia%20Unalome.md) enters a vision: She saw that [Feypeak](Feypeak.md) was somewhere in the east.
 - [Session 29](../../Session%2029.md): [Adikia](Adikia%20Unalome.md) uses Speak with the Dead to question

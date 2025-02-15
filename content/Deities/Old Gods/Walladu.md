@@ -8,19 +8,19 @@ fc-category: Lore
 lore_type: 
 icon: lore
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Walladu
 > ![cover hsmall](../../zzz_attachments/Walladu.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Type||
 > | Located in | |
-##### Known for: God of the Seas
-### Description
-## Lore Mentions
-### Most Recent
+#### Known for: God of the Seas
+## Description
+# Lore Mentions
+## Most Recent
 
-### All Entries
+## All Entries

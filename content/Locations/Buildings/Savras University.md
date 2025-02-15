@@ -7,28 +7,28 @@ status:
 lore_type: location
 icon: building
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Savras University
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | Effil University|
 > | Type | 
 > | Located in | [Effil](../Settlements/Effil.md)|
-##### Known for:
-### Description
-## Notable Locations
+#### Known for:
+## Description
+# Notable Locations
 | Name |
 | ---- |
 
-## Notable NPCs
+# Notable NPCs
 | Name                                             |
 | ------------------------------------------------ |
 | [Dorfir Embersense](../../../Dorfir%20Embersense.md) |
 | [Fiamil Underwood](../../../Fiamil%20Underwood.md)   |
 
-## Factions
+# Factions
 | Name |
 | ---- |

@@ -7,26 +7,26 @@ status:
 lore_type: location
 icon: map
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Foenyx District
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | Foenyx|
 > | Located in | [Midkip](../Settlements/Midkip.md)|
-##### Known for: being [Midkip](../Settlements/Midkip.md)'s Clerical District
-### Description
-## Notable Locations
+#### Known for: being [Midkip](../Settlements/Midkip.md)'s Clerical District
+## Description
+# Notable Locations
 | Name |
 | ---- |
 
-## Notable NPCs
+# Notable NPCs
 | Name                                 |
 | ------------------------------------ |
 | [Stella Kari](../../../Stella%20Kari.md) |
 
-## Factions
+# Factions
 | Name |
 | ---- |

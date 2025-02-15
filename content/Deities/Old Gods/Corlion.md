@@ -8,19 +8,19 @@ fc-category: Lore
 lore_type: 
 icon: lore
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Corlion
 > ![cover hsmall](../../zzz_attachments/Corlion.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Type||
 > | Located in | |
-##### Known for: God of Order, patron deity of elves
-### Description
-## Lore Mentions
-### Most Recent
+#### Known for: God of Order, patron deity of elves
+## Description
+# Lore Mentions
+## Most Recent
 
-### All Entries
+## All Entries

@@ -6,28 +6,28 @@ status:
 lore_type: location
 icon: settlement
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Vaiarshe
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Type | 
 > | Located in | [Elven Kingdom of Ephelus](../Kingdoms/Elven%20Kingdom%20of%20Ephelus.md)|
-##### Known for:
-### Description
-## Notable Locations
+#### Known for:
+## Description
+# Notable Locations
 | Name |
 | ---- |
 
-## Notable NPCs
+# Notable NPCs
 | Name                                       |
 | ------------------------------------------ |
 | [Idril Bluedrin](../../../Idril%20Bluedrin.md) |
 | [Poldo Bluedrin](../../../Poldo%20Bluedrin.md) |
 
-## Factions
+# Factions
 | Name |
 | ---- |
