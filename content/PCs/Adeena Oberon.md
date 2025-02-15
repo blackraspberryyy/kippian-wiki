@@ -3,35 +3,34 @@ share: true
 aliases:
   - Adeena
 gender: female
-race: 
+race: half-elf
 age: middle-aged
 alignment: 
-background: Paladin
+background: paladin
 location: "[Sumber](../Locations/Continents/Sumber.md)"
 status: 
 faction: "[[Seven Up...]]"
 icon: player
 ---
-## Bio
+# Bio
 > [!infobox]
 > # Adeena Oberon
 > ![cover hsmall](../zzz_attachments/Adeena.png)
-> ###### Bio
-> | Type | Stat |
+> ##### Bio
+> |  |  |
 > | ---- | ---- |
 > | Aliases | Adeena|
-> | Race|  |
+> | Race| half-elf |
 > | Gender| female|
 > | Age | middle-aged|
 > | Alignment|| 
-> | Background| Paladin|
+> | Background| paladin|
 > | Location|  [Sumber](../Locations/Continents/Sumber.md)|
 > | Faction| [Seven Up...](../Factions/Seven%20Up....md)| 
-##### Known for: being a not-so-devout paladin of [Aulephi](../Deities/New%20Gods/Aulephi.md)
-### Description
-#### Class: Paladin
-#### Subclass: [Oath of Judgement](https://www.dandwiki.com/wiki/Oath_of_Judgement_(5e_Subclass))
-### Backstory
+## Description
+### Class: Paladin
+### Subclass: [Oath of Judgement](https://www.dandwiki.com/wiki/Oath_of_Judgement_(5e_Subclass))
+## Backstory
 >[!note] [The Legend of Yekora and Aulephi](../Lore/The%20Legend%20of%20Yekora%20and%20Aulephi.md)
 >There was a time when all elves lived in harmony. This was during the [Age of the New Gods](../Lore/Eons%20and%20Ages/Age%20of%20the%20New%20Gods.md), when smaller deities were being added to the [Pantheon of the Lesser Gods](../Deities/New%20Gods/Pantheon%20of%20the%20Lesser%20Gods.md). The elves, descendants of the great god [Corlion](../Deities/Old%20Gods/Corlion.md), by that time, had hoisted and followed these elven gods: [Aisef](../Deities/New%20Gods/Aisef.md) and [Fesai](../Deities/New%20Gods/Fesai.md), twin gods of healing and poison, respectively; [Ela](../Deities/New%20Gods/Ela.md), the goddess of beauty and the progenitor of the [Eladrins](../Factions/The%20Eladrin.md); and [Amlin](../Deities/New%20Gods/Amlin.md), the goddess of magic. The elves had a majority on the pantheon of lesser gods, but their power was weakening due to a decrease in worship.
 >
@@ -84,13 +83,13 @@ The assassins took [Cain](../../Cain%20Othburn.md)’s lifeless body. [Adeena](A
 [Adeena](Adeena%20Oberon.md) then took her possessions and told the innkeeper to say to those looking for her that she was on her way home to [Sumber](../Locations/Continents/Sumber.md). She departed secretly in the middle of the night and hurried straight to [Curkip](../Locations/Settlements/Curkip.md). 
 
 During her stay at [Richie's Inn](../Locations/Buildings/Richie's%20Inn%20and%20Rentals.md), she met a bunch of individuals. A local leader asked for help regarding a sewer infestation and [Adeena](Adeena%20Oberon.md) and the individuals volunteered to help. The next day, [Adeena](Adeena%20Oberon.md) left the city and worshiped [Aulephi](../Deities/New%20Gods/Aulephi.md). [Adeena](Adeena%20Oberon.md) asked for a sign whether these are the people who would help her in her journey. She received the sign and acknowledged [Aulephi](../Deities/New%20Gods/Aulephi.md). [Adeena](Adeena%20Oberon.md)’s first step in avenging [Cain](../../Cain%20Othburn.md) has begun.
-### Relationships
-#### Family
+## Relationships
+### Family
 - Adoptive father: [Frederick](../../Frederick%20Oberon.md)
-#### Lover
+### Lover
 - [Cain Othburn](../../Cain%20Othburn.md)
-## Story log
-### Most Recent
+# Story log
+## Most Recent
 - [Session 30](../../Session%2030.md): [Adeena](Adeena%20Oberon.md) retrieves Potion of Gaseous Form.
 - [Session 31](../../Session%2031.md): [Adeena](Adeena%20Oberon.md) and [Noah](Noah%20Skie.md) notices [Kirren](Kirren%20Acquermann.md) sleeping. [Michaela](Michaela%20Randall.md) is gone.
 - [Session 31](../../Session%2031.md): [Adeena Oberon](Adeena%20Oberon.md) and [Kiris](Kiris%20Acquermann.md) investigates the [King](Riordan%20Kyp.md)'s death.
@@ -104,7 +103,7 @@ During her stay at [Richie's Inn](../Locations/Buildings/Richie's%20Inn%20and%20
 - [Session 41](../Session%20Log/Session%2041.md): [Adeena](Adeena%20Oberon.md) asks the casters if there was a way to open the portal to the [Plane of Dragons](Plane%20of%20Dragons.md).
 > *"[Akenatun](Akenatun.md) locked out the dragons from the [Material Realm](Material%20Realm.md) through the portal in [Yvernus](Yvernus%20District.md)"*
 
-### All Entries
+## All Entries
 - [Session 12](../../Session%2012.md): [Adeena](Adeena%20Oberon.md) is asked by a stranger what her name is. [Adeena](Adeena%20Oberon.md) answers "Anna".
 - [Session 13](../../Session%2013.md): [Adeena](Adeena%20Oberon.md) read about the continent of [[Sumber]].
 - [Session 14](../../Session%2014.md): The birdfolk assassin attacks [Adeena](Adeena%20Oberon.md).
