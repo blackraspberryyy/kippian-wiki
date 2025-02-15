@@ -7,26 +7,26 @@ status:
 lore_type: location
 icon: map
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Chtapodhi District
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | Chtapodhi|
 > | Located in | [Midkip](../Settlements/Midkip.md)|
-##### Known for: being the merchant and shipbuilding district of [Midkip](../Settlements/Midkip.md). Also seafarers and immigrants
-### Description
-## Notable Locations
+#### Known for: being the merchant and shipbuilding district of [Midkip](../Settlements/Midkip.md). Also seafarers and immigrants
+## Description
+# Notable Locations
 | Name |
 | ---- |
 
-## Notable NPCs
+# Notable NPCs
 | Name                                               |
 | -------------------------------------------------- |
 | [Shemance Ironfleet](../../../Shemance%20Ironfleet.md) |
 
-## Factions
+# Factions
 | Name |
 | ---- |
