@@ -7,25 +7,25 @@ status:
 lore_type: location
 icon: map
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Lykos District
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | Lykos|
 > | Located in | [Midkip](../Settlements/Midkip.md)|
-##### Known for: Being the largest district in [Midkip](../Settlements/Midkip.md)
-## Notable Locations
+#### Known for: Being the largest district in [Midkip](../Settlements/Midkip.md)
+# Notable Locations
 | Name                                                              |
 | ----------------------------------------------------------------- |
 | [The Weeping WIllow](../Buildings/The%20Weeping%20WIllow.md) |
 
-## Notable NPCs
+# Notable NPCs
 | Name |
 | ---- |
 
-## Factions
+# Factions
 | Name |
 | ---- |
