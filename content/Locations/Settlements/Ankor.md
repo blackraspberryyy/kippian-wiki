@@ -6,21 +6,21 @@ status:
 lore_type: location
 icon: settlement
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Ankor
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Located in | [Kingdom of United Kippian](../Kingdoms/Kingdom%20of%20United%20Kippian.md)|
-##### Known for:
-## Notable Locations
+#### Known for:
+# Notable Locations
 | Name |
 | ---- |
 
-## Notable NPCs
+# Notable NPCs
 | Name                                       |
 | ------------------------------------------ |
 | [Elijah Orstadt](../../../Elijah%20Orstadt.md) |
@@ -28,6 +28,6 @@ icon: settlement
 | [Sophia Skie](../../../Sophia%20Skie.md)       |
 | [Noah Skie](../../PCs/Noah%20Skie.md)            |
 
-## Factions
+# Factions
 | Name |
 | ---- |
