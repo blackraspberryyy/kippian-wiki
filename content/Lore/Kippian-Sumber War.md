@@ -9,19 +9,19 @@ fc-category: Lore
 lore_type: 
 icon: lore
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Kippian-Sumber War
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | The Great War|
 > | Type||
 > | Located in | |
-##### Known for:
-### Description
-## Lore Mentions
-### Most Recent
+#### Known for:
+## Description
+# Lore Mentions
+## Most Recent
 
-### All Entries
+## All Entries
