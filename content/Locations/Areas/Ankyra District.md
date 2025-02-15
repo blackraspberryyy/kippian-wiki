@@ -7,27 +7,27 @@ status:
 lore_type: location
 icon: map
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Ankyra District
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | Ankyra|
 > | Located in | [Midkip](../Settlements/Midkip.md)|
-##### Known for: being the oldest district in [Midkip](../Settlements/Midkip.md)
-### Description
-## Notable Locations
+#### Known for: being the oldest district in [Midkip](../Settlements/Midkip.md)
+## Description
+# Notable Locations
 | Name |
 | ---- |
 
-## Notable NPCs
+# Notable NPCs
 | Name                                 |
 | ------------------------------------ |
 | [Remus Kyp](../../../Remus%20Kyp.md)     |
 | [Rickard Kyp](../../../Rickard%20Kyp.md) |
 
-## Factions
+# Factions
 | Name |
 | ---- |
