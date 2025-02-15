@@ -7,26 +7,26 @@ status:
 lore_type: location
 icon: building
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Richie's Inn and Rentals
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | Richie's Tavern|
 > | Type | 
 > | Located in | [Curkip](../Settlements/Curkip.md)|
-##### Known for:
-### Description
-## Notable Locations
+#### Known for:
+## Description
+# Notable Locations
 | Name |
 | ---- |
 
-## Notable NPCs
+# Notable NPCs
 | Name |
 | ---- |
 
-## Factions
+# Factions
 | Name |
 | ---- |
