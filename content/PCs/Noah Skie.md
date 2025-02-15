@@ -6,32 +6,32 @@ gender: female
 race: human
 age: middle-aged
 alignment: 
-background: Fighter
+background: fighter
 location: "[Ankor](../Locations/Settlements/Ankor.md)"
 status: 
 faction: "[[Seven Up...]]"
 icon: player
 ---
-## Bio
+# Bio
 > [!infobox]
 > # Noah Skie
 > ![cover hsmall](../zzz_attachments/Noah.png)
-> ###### Bio
-> | Type | Stat |
+> ##### Bio
+> |  | |
 > | ---- | ---- |
 > | Aliases | Noah|
 > | Race| human |
 > | Gender| female|
 > | Age | middle-aged|
 > | Alignment|| 
-> | Background| Fighter|
+> | Background| fighter|
 > | Location|  [Ankor](../Locations/Settlements/Ankor.md)|
 > | Faction| [Seven Up...](../Factions/Seven%20Up....md)| 
-##### Known for: being the sole survivor of an expedition
-### Description
-#### Class: Fighter
-#### Subclass: [Arcane Archer](https://dnd5e.wikidot.com/fighter:arcane-archer)
-### Backstory
+#### Known for: being the sole survivor of an expedition
+## Description
+### Class: Fighter
+### Subclass: [Arcane Archer](https://dnd5e.wikidot.com/fighter:arcane-archer)
+## Backstory
 [Noah Skie](Noah%20Skie.md) is a cheerful yet fearless woman residing in a town near [Curkip](../Locations/Settlements/Curkip.md). She was part of the [Kippian Military](../Factions/United%20Kippian%20Military.md) who traveled to [Suirsya](../Locations/Continents/Suirsya.md). There, she was promoted to a scout because of her ability to adapt to different situations. She doesn't back down from any missions her officer gave her. She does everything with precision and proficiency.
 
 [Noah](Noah%20Skie.md) was born into a rich family in [Ankor](../Locations/Settlements/Ankor.md). The Skies own a part of the river in which they provide leases for fishermen to rent. [Norman Skie](../../Norman%20Skie.md), her father, also collects taxes from them, but he tweaks the prices a little bit higher for his personal gain. [Norman](../../Norman%20Skie.md) is so focused on his business that [Noah](Noah%20Skie.md) barely sees him at home; and for good reason, as he does not see [Noah](Noah%20Skie.md) worthy of being his child. He had hoped for a son to carry their family name, but instead, she got a daughter in [Noah](Noah%20Skie.md). And for [Norman Skie](../../Norman%20Skie.md), a woman is lesser than a man.
@@ -65,13 +65,13 @@ After two weeks, the military lost communication with the party, which was expec
 She thought that she would only use her strength for peace: it would be her way from now on. If peace is an option, she would always go that way.
 
 [Noah](Noah%20Skie.md) was thinking of going home, but she thought that she had no face to show to her father. Going back home will just prove to her father that he was right: [Noah](Noah%20Skie.md) was useless all along. She went to the tavern to think how to go about things. And then she met a bunch of individuals that she felt were bound to her fate.
-### Relationships
-#### Family
+## Relationships
+### Family
 - Parents: [Norman](../../Norman%20Skie.md) and [Sophia Skie](../../Sophia%20Skie.md)
-#### Friends
+### Friends
 - [Agatha](../../Agatha.md)
-## Story log
-### Most Recent
+# Story log
+## Most Recent
 - [Session 35](../../Session%2035.md): [Noah](Noah%20Skie.md) and [Michaela](Michaela%20Randall.md) investigate the library.
 - [Session 38](../Session%20Log/Session%2038.md): [Noah](Noah%20Skie.md) sees an apparition in front of her...
 > [Amlaena](Amlaena%20Gustkil.md) trains [Noah](Noah%20Skie.md) to use the [Evanescent Shortbow](Evanescent%20Shortbow.md).
@@ -87,7 +87,7 @@ She thought that she would only use her strength for peace: it would be her way 
 - [Session 41](../Session%20Log/Session%2041.md): [Noah](Noah%20Skie.md) asks the casters about her ghastly visions.
 > *"Death haunts you, [Noah](Noah%20Skie.md), so much so that your guilt has allowed you to see beyond several planes. Only a few are blessed, or cursed, of such power."*
 
-### All Entries
+## All Entries
 - [Session 13](../../Session%2013.md): [Noah](Noah%20Skie.md) found a book detailing the history of [[Ankor|Ankor]]. She read that [Curkip](Curkip.md) was once under the jurisdiction of [Bulkip](Bulkip.md).
 - [Session 16](../../Session%2016.md): [Noah](Noah%20Skie.md) retrieves the [Twilight Dagger](Twilight%20Dagger.md).
 - [Session 30](../../Session%2030.md): [Noah](Noah%20Skie.md) retrieves the Lexicon of Primordial Language ().
