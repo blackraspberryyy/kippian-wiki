@@ -27,30 +27,31 @@ icon: player
 | ------------------------------------------------------- |
 | [Adeena Oberon](../PCs/Adeena%20Oberon.md)                 |
 | [Adikia Unalome](../PCs/Adikia%20Unalome.md)               |
+| [Astar](../PCs/Companions/Astar.md)                      |
+| [Nokia](../PCs/Companions/Nokia.md)                      |
 | [Arc](../PCs/Arc.md)                                     |
-| [Noah Skie](../PCs/Noah%20Skie.md)                         |
+| [Kiris Acquermann](../PCs/Kiris%20Acquermann.md)           |
 | [Spraugh 'Splix' Calix](../PCs/Spraugh%20'Splix'%20Calix.md) |
+| [Noah Skie](../PCs/Noah%20Skie.md)                         |
 | [Theobald Clayhollow](../PCs/Theobald%20Clayhollow.md)     |
 | [Thoradin Goodman](../PCs/Thoradin%20Goodman.md)           |
-| [Kiris Acquermann](../PCs/Kiris%20Acquermann.md)           |
-| [Nokia](../PCs/Companions/Nokia.md)                      |
-| [Astar](../PCs/Companions/Astar.md)                      |
 
 ## Goals
 - [ ] Task 1
 ## Story log
 ### Most Recent
-- [Session 36](../../Session%2036.md): The [party](Seven%20Up....md) is joined by [Theobald](Theobald%20Clayhollow.md).
-- [Session 38](../Session%20Log/Session%2038.md): [Splix](Spraugh%20'Splix'%20Calix.md) is still experiencing a protracted vision... Other members of the [party](Seven%20Up....md) left him to explore the dungeon.
-- [Session 38](../Session%20Log/Session%2038.md): After inserting the tourmaline resistance gem, the [party](Seven%20Up....md) is shown a vision of [Spekid Frostborn](Spekid%20Frostborn.md) during the war.
-- [Session 38](../Session%20Log/Session%2038.md): The [party](Seven%20Up....md) encounters a dangerous, [Extraplanar Mink](Extraplanar%20Mink.md).
-- [Session 38](../Session%20Log/Session%2038.md): Before the [party](Seven%20Up....md) defeats it, the mink burrows to recuperate.
-- [Session 39](../Session%20Log/Session%2039.md): The [party](Seven%20Up....md) defeats the [Extraplanar Mink](Extraplanar%20Mink.md).
-- [Session 39](../Session%20Log/Session%2039.md): The [party](Seven%20Up....md) takes a long rest.
-- [Session 39](../Session%20Log/Session%2039.md): The [party](Seven%20Up....md) encounters a door with the following inscription:
-> Beyond these doors are [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md). Constructed by the great mages, [Zagi](Zerrus%20Zagi.md) and [Spekid](Spekid%20Frostborn.md), these constructs guard the hallowed hall within...
 - [Session 39](../Session%20Log/Session%2039.md): The [party](Seven%20Up....md) fights and defeats the [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md), with relative ease...
 - [Session 40](../Session%20Log/Session%2040.md): [Party](Seven%20Up....md) encounters and defeats the actual [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md).
+- [Session 41](../../Session%2041.md): The [party](Seven%20Up....md) explores the dungeon after their long rest.
+- [Session 41](../../Session%2041.md): The offering allows the [party](Seven%20Up....md) access to the vault in front of the altar. However, the vault is already looted.
+- [Session 41](../../Session%2041.md): The [party](Seven%20Up....md) finds the [Hall of Akenatun](Hall%20of%20Akenatun.md).
+- [Session 41](../../Session%2041.md): Upon their exit, the a [Shadow Knight](Shadow%20Knight.md) confronts the [party](Seven%20Up....md).
+- [Session 41](../../Session%2041.md): The [party](Seven%20Up....md) stops the [Shadow Knight](Shadow%20Knight.md) from being hostile.
+- [Session 41](../../Session%2041.md): The nameless [Shadow Knight](Shadow%20Knight.md) talks to the [party](Seven%20Up....md).
+> [Arc](Arc.md) shows the [Twilight Dagger](Twilight%20Dagger.md) to the [Shadow Knight](Shadow%20Knight.md).
+> *"That weapon owes its power from the [Plane of Shadows](Shadowfell.md)"*
+- [Session 41](../../Session%2041.md): The [party](Seven%20Up....md) identifies the two of the three interlopers, [Elvin Claymore](Elvin%20Claymore.md) and [Rickard Kyp](Rickard%20Kyp.md).
+- [Session 41](../../Session%2041.md): Apparitions of [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md) appears in front of the [party](Seven%20Up....md).
 
 ### All Entries
 - [Session 1](../../Session%201.md): [Ridnor](Ridnor.md) visits [Bulkip](Bulkip.md) and informs the [party](Seven%20Up....md) of the house arrangements
@@ -155,3 +156,13 @@ Someone broke into the royal chambers... The guards are not saying anything. I'm
 > Beyond these doors are [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md). Constructed by the great mages, [Zagi](Zerrus%20Zagi.md) and [Spekid](Spekid%20Frostborn.md), these constructs guard the hallowed hall within...
 - [Session 39](../Session%20Log/Session%2039.md): The [party](Seven%20Up....md) fights and defeats the [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md), with relative ease...
 - [Session 40](../Session%20Log/Session%2040.md): [Party](Seven%20Up....md) encounters and defeats the actual [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md).
+- [Session 41](../../Session%2041.md): The [party](Seven%20Up....md) explores the dungeon after their long rest.
+- [Session 41](../../Session%2041.md): The offering allows the [party](Seven%20Up....md) access to the vault in front of the altar. However, the vault is already looted.
+- [Session 41](../../Session%2041.md): The [party](Seven%20Up....md) finds the [Hall of Akenatun](Hall%20of%20Akenatun.md).
+- [Session 41](../../Session%2041.md): Upon their exit, the a [Shadow Knight](Shadow%20Knight.md) confronts the [party](Seven%20Up....md).
+- [Session 41](../../Session%2041.md): The [party](Seven%20Up....md) stops the [Shadow Knight](Shadow%20Knight.md) from being hostile.
+- [Session 41](../../Session%2041.md): The nameless [Shadow Knight](Shadow%20Knight.md) talks to the [party](Seven%20Up....md).
+> [Arc](Arc.md) shows the [Twilight Dagger](Twilight%20Dagger.md) to the [Shadow Knight](Shadow%20Knight.md).
+> *"That weapon owes its power from the [Plane of Shadows](Shadowfell.md)"*
+- [Session 41](../../Session%2041.md): The [party](Seven%20Up....md) identifies the two of the three interlopers, [Elvin Claymore](Elvin%20Claymore.md) and [Rickard Kyp](Rickard%20Kyp.md).
+- [Session 41](../../Session%2041.md): Apparitions of [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md) appears in front of the [party](Seven%20Up....md).

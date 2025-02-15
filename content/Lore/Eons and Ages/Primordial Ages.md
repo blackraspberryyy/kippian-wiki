@@ -10,7 +10,7 @@ icon: lore
 ---
 ## Basic Information
 > [!infobox]
-> # Age of the New Gods
+> # Primordial Ages
 > ![cover hsmall](insertimage.png)
 > ###### Information
 > |   |  |

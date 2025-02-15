@@ -19,12 +19,7 @@ export const getDayName = (weekdays: RPGCalendarWeekday[], date: RPGCalendarDate
   return (daysInWeek > 0 && weekdays[weekdayIndex-1] && weekdays[weekdayIndex-1].name) || 'Unknown' ;
 };
 
-export const insertToJson = async (calendarEvent: CalendarEvent) => {
-  // if no date provided, it's prolly not an event.
-  if (!calendarEvent?.date) {
-    return;
-  }
-
+export const insertToJson = (calendarEvents: CalendarEvent[]) => {
   // get the user-written calendar_events and use it as default data
   const existingCalendarEventsFile = path.resolve('quartz', 'calendar_events.json');
   let defaultData = fs.readFileSync(existingCalendarEventsFile, {encoding: 'utf-8'});
@@ -39,17 +34,14 @@ export const insertToJson = async (calendarEvent: CalendarEvent) => {
   // delete the built file if it exists
   if (fs.existsSync(filename)) {
     fs.unlinkSync(filename);
-    console.log(chalk.blue(`\n'${filename}' found. Deleting it and creating new...`))
-  } else {
-    console.log(chalk.blue(`\nCreating '${filename}'`))
-
+    console.log(chalk.yellow(`\n'${filename}' found. Deleting it and creating new...`))
   }
 
   // write to a file
-  const events = [...defaultData, calendarEvent];
+  const events = [...defaultData, ...calendarEvents];
   fs.writeFileSync(filename, JSON.stringify(events) , {encoding: 'utf-8', flag: 'w'});
 
-  console.log(chalk.green(`Done inserting "${calendarEvent.name}" event to "${filename}".`))
+  console.log(chalk.green(`"${filename}" file has been generated.`))
 }
 
 export const readBuiltCalendarEventJson = (): CalendarEvent[] => {
@@ -68,10 +60,6 @@ export const parseDateString = (calendar: RPGCalendar, dateString: string): RPGC
   let year = parseInt(strs[0]);
   const month = parseInt(strs[1]);
   const day = parseInt(strs[2]);
-
-  if (year === 0) {
-    year = 1083;  // default year
-  }
 
   return calendar.createDate(year, month, day);
 }
@@ -92,4 +80,17 @@ export function ordinal_suffix_of(i: number) {
     return i + "rd";
   }
   return i + "th";
+}
+
+type FCDateObj = { day: number, month?: number, year?: number }; 
+export function getFcDateString(fcDate: Date | string | FCDateObj) {
+  if (typeof (fcDate as Date).getMonth === 'function') {  // date
+    return (fcDate as Date).toISOString().split('T')[0];
+  } else if (typeof fcDate === 'string') {  // string
+    return fcDate;
+  } else if (typeof fcDate === 'object' && typeof (fcDate as FCDateObj).month === 'number') {  // FCDateObj
+    return `${(fcDate as FCDateObj)?.year || '0000'}-${(fcDate as FCDateObj)?.month || '00'}-${(fcDate as FCDateObj)?.day || '00'}`;
+  } else {
+    return '';
+  }
 }

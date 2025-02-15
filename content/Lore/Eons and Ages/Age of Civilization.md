@@ -10,16 +10,17 @@ icon: lore
 ---
 ## Basic Information
 > [!infobox]
-> # Corlion
-> ![cover hsmall](../../zzz_attachments/Corlion.png)
+> # Age of Civilization
+> ![cover hsmall](insertimage.png)
 > ###### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Type||
 > | Located in | |
-##### Known for: God of Order, patron deity of elves
+##### Known for:
 ### Description
+The first age of the [Eon of Akenatun's Descent](./Eon%20of%20Akenatun's%20Descent.md).
 ## Lore Mentions
 ### Most Recent
 

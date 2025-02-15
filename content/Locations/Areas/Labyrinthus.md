@@ -1,26 +1,27 @@
 ---
 share: true
 aliases: 
-location: "[[Duospathia District]]"
+location: "[[Shadowfell]]"
 status: 
 lore_type: location
-icon: building
+icon: map
 ---
 ## Basic Information
 > [!infobox]
-> # Temple of the War Gods
+> # Labyrinthus
 > ![cover hsmall](insertimage.png)
 > ###### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
-> | Located in | [Duospathia District](../Areas/Duospathia%20District.md)|
+> | Type | 
+> | Located in | [Shadowfell](../Planes/Shadowfell.md)|
 ##### Known for:
 ### Description
-- [Enchor](../../Deities/New%20Gods/Enchor.md), [Macchi](../../Deities/Old%20Gods/Macchi.md), [Matunda](../../Deities/Old%20Gods/Matunda.md)
 ## Notable Locations
-| Name |
-| ---- |
+| Name                                                          |
+| ------------------------------------------------------------- |
+| [Hall of Akenatun](../Buildings/Hall%20of%20Akenatun.md) |
 
 ## Notable NPCs
 | Name |

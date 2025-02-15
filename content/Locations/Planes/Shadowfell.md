@@ -1,6 +1,7 @@
 ---
 share: true
-aliases: 
+aliases:
+  - Plane of Shadows
 location: 
 status: 
 lore_type: location
@@ -13,14 +14,15 @@ icon: map
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | |
+> | Other names | Plane of Shadows|
 > | Type | 
 > | Located in | |
 ##### Known for:
 ### Description
 ## Notable Locations
-| Name |
-| ---- |
+| Name                                            |
+| ----------------------------------------------- |
+| [Labyrinthus](../Areas/Labyrinthus.md) |
 
 ## Notable NPCs
 | Name |

@@ -10,15 +10,15 @@ icon: lore
 ---
 ## Basic Information
 > [!infobox]
-> # Corlion
-> ![cover hsmall](../../zzz_attachments/Corlion.png)
+> # Macchi
+> ![cover hsmall](insertimage.png)
 > ###### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Type||
 > | Located in | |
-##### Known for: God of Order, patron deity of elves
+##### Known for: God of Strength, patron deity of Orcs
 ### Description
 ## Lore Mentions
 ### Most Recent

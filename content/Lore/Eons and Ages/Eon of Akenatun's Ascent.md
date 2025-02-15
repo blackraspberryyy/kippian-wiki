@@ -1,6 +1,7 @@
 ---
 share: true
-aliases: 
+aliases:
+  - EAA
 characters: 
 location: 
 fc-date: 
@@ -10,15 +11,15 @@ icon: lore
 ---
 ## Basic Information
 > [!infobox]
-> # Corlion
-> ![cover hsmall](../../zzz_attachments/Corlion.png)
+> # Eon of Akenatun's Ascent
+> ![cover hsmall](insertimage.png)
 > ###### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | |
+> | Other names | EAA|
 > | Type||
 > | Located in | |
-##### Known for: God of Order, patron deity of elves
+##### Known for:
 ### Description
 ## Lore Mentions
 ### Most Recent

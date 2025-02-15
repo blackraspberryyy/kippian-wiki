@@ -1,26 +1,31 @@
 ---
 share: true
 aliases: 
-characters: 
 location: 
-fc-date: 
-fc-category: Lore
-lore_type: 
-icon: lore
+status: 
+lore_type: location
+icon: map
 ---
 ## Basic Information
 > [!infobox]
-> # Age of Orcs
+> # Elemental Planes
 > ![cover hsmall](insertimage.png)
 > ###### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
-> | Type||
+> | Type | 
 > | Located in | |
 ##### Known for:
 ### Description
-## Lore Mentions
-### Most Recent
+## Notable Locations
+| Name |
+| ---- |
 
-### All Entries
+## Notable NPCs
+| Name |
+| ---- |
+
+## Factions
+| Name |
+| ---- |

@@ -6,7 +6,7 @@ fc-date: 1083-06-05
 fc-category: Session
 icon: calendar
 ---
-### Exploring the Labyrinthus
+### Exploring the [Labyrinthus](../Locations/Areas/Labyrinthus.md), part 6
 ##### [Guardians of Ice and Fire](../../Guardians%20of%20Ice%20and%20Fire.md)
 - [Adikia](../PCs/Adikia%20Unalome.md) investigates the statue. She sees the following inscription:
 >Fashioned from the hall's stone golems, the [Guardians of Ice and Fire](../../Guardians%20of%20Ice%20and%20Fire.md) are immune to most magic.

@@ -34,8 +34,8 @@ Drakon-Aetos-Chtapodhi-Foenyx-King of Kippian-Ankyra-Yvernus-Duospathia-Lykos
 | [Mitarella Randall](../../Mitarella%20Randall.md)   |
 | [Riordan Kyp](../../Riordan%20Kyp.md)               |
 | [Remus Kyp](../../Remus%20Kyp.md)                   |
-| [Shemance Ironfleet](../../Shemance%20Ironfleet.md) |
 | [Stella Kari](../../Stella%20Kari.md)               |
+| [Shemance Ironfleet](../../Shemance%20Ironfleet.md) |
 
 ## Goals
 - [ ] Task 1

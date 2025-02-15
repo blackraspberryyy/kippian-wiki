@@ -5,7 +5,7 @@ characters:
 location: 
 fc-date:
   day: 1
-  month: 1
+  month: 0
 fc-end:
   day: 28
   month: 5

@@ -10,7 +10,7 @@ icon: lore
 ---
 ## Basic Information
 > [!infobox]
-> # Macchi
+> # Age of Humans
 > ![cover hsmall](insertimage.png)
 > ###### Information
 > |   |  |
@@ -18,8 +18,9 @@ icon: lore
 > | Other names | |
 > | Type||
 > | Located in | |
-##### Known for: being the God of Strength and the God of Orcs
+##### Known for:
 ### Description
+- [Miledu](../../../Miledu.md) created humans and uses them to wage war against the other beings.
 ## Lore Mentions
 ### Most Recent
 

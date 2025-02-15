@@ -10,16 +10,18 @@ icon: lore
 ---
 ## Basic Information
 > [!infobox]
-> # Corlion
-> ![cover hsmall](../../zzz_attachments/Corlion.png)
+> # Age of Dragons
+> ![cover hsmall](insertimage.png)
 > ###### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Type||
 > | Located in | |
-##### Known for: God of Order, patron deity of elves
+##### Known for:
 ### Description
+- [Miledu](../../../Miledu.md) sends dragons to attack and invade the mortal realm.
+- The [Old Gods](../../Deities/Old%20Gods/Pantheon%20of%20the%20Old%20Gods.md) restrain the dragons.
 ## Lore Mentions
 ### Most Recent
 
