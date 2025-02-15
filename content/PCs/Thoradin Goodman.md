@@ -6,32 +6,32 @@ gender: male
 race: dwarf
 age: middle-aged
 alignment: 
-background: Paladin
+background: paladin
 location: 
 status: 
 faction: "[[Seven Up...]]"
 icon: player
 ---
-## Bio
+# Bio
 > [!infobox]
 > # Thoradin Goodman
 > ![cover hsmall](../zzz_attachments/Thoradin.png)
-> ###### Bio
-> | Type | Stat |
+> ##### Bio
+> | |  |
 > | ---- | ---- |
 > | Aliases | Thoradin|
 > | Race| dwarf |
 > | Gender| male|
 > | Age | middle-aged|
 > | Alignment|| 
-> | Background| Paladin|
+> | Background| paladin|
 > | Location|  |
 > | Faction| [Seven Up...](../Factions/Seven%20Up....md)| 
-##### Known for: being a staunch paladin of [Macchi](../Deities/Old%20Gods/Macchi.md)
-### Description
-#### Class: Paladin
-#### Subclass: [Oath of the Shield](https://www.dandwiki.com/wiki/Oath_of_the_Shield_(5e_Subclass))
-#### Backstory
+#### Known for: being a staunch paladin of [Macchi](../Deities/Old%20Gods/Macchi.md)
+## Description
+### Class: Paladin
+### Subclass: [Oath of the Shield](https://www.dandwiki.com/wiki/Oath_of_the_Shield_(5e_Subclass))
+### Backstory
 [Thoradin Goodman](Thoradin%20Goodman.md) grew up in [Onix](../Locations/Settlements/Onix.md), a small mountain village near the [Opidian](../Locations/Kingdoms/Opidys.md) city of [Qwartz](../Locations/Settlements/Qwartz.md). The region was believed to be the place where the [Age of Orcs](../Lore/Eons%20and%20Ages/Age%20of%20Orcs.md) started. Thus, followers of [Macchi](../Deities/Old%20Gods/Macchi.md) settled here in case new [Kortusk](../Deities/New%20Gods/Kortusk.md) orcs began spawning. The legend passed from generations to generations, and the followers of [Macchi](../Deities/Old%20Gods/Macchi.md) dwindled; however, some of them stayed loyal, as was the case of [Thoradin](Thoradin%20Goodman.md)’s lineage. [Thorvald Goodman](../../Thorvald%20Goodman.md), [Thoradin](Thoradin%20Goodman.md)’s father, is a devout paladin dedicated to [Macchi](../Deities/Old%20Gods/Macchi.md). [Seris](../../Seris%20Goodman.md), his mother, on the other hand, is an oracle and a herald for the same god.
 
 > [!note] [The Corruption of Kortusk](../Lore/The%20Corruption%20of%20Kortusk.md)
@@ -61,13 +61,13 @@ Somehow, even if they were enemies and had met for just a few moments, [Thoradin
 
 The grim scene left [Thoradin](Thoradin%20Goodman.md) with enormous guilt. The deaths of his companions were his, but so was the kid’s life. Ashamed to go back to [Onix](../Locations/Settlements/Onix.md), [Thoradin](Thoradin%20Goodman.md) left [Opidian](../Locations/Kingdoms/Opidys.md) and ended up in a tavern in the bustling town of [Curkip](../Locations/Settlements/Curkip.md). In that southern human city, [Thoradin](Thoradin%20Goodman.md) hopes to absolve himself from remorse and to find answers on why the blood feud between the Macchians and Kortusks, which had cost many innocent lives, persists to this day.
 
-### Relationships
-#### Family
+## Relationships
+### Family
 - Parents: [Thorvald](../../Thorvald%20Goodman.md) and [Seris Goodman](../../Seris%20Goodman.md)
-#### Friends
+### Friends
 - Childhood friend: [Elix Claymore](../../Elix%20Claymore.md)
-## Story log
-### Most Recent
+# Story log
+## Most Recent
 - [Session 31](../../Session%2031.md): [Mitarella](Mitarella%20Randall.md) meets [Thoradin](Thoradin%20Goodman.md) in the [[Seven Up...|party]]'s quarters.
 - [Session 31](../../Session%2031.md): [Mitarella](Mitarella%20Randall.md) asks [Thoradin](Thoradin%20Goodman.md) to join the [[Seven Up...|party]].
 - [Session 32](../../Session%2032.md): [Arc](Arc.md), [Kiris](Kiris%20Acquermann.md), [Thoradin](Thoradin%20Goodman.md) and [Splix](Spraugh%20'Splix'%20Calix.md) goes to [Kayvan](Kayvan%20Acquermann.md)'s room.
@@ -80,7 +80,7 @@ The grim scene left [Thoradin](Thoradin%20Goodman.md) with enormous guilt. The d
 - [Session 41](../Session%20Log/Session%2041.md): [Thoradin](Thoradin%20Goodman.md) asks the casters about the existence of [The Cult of Miledu](The%20Cult%20of%20Miledu.md).
 > *"[Miledu](Miledu.md) and his [cult](The%20Cult%20of%20Miledu.md) was nonexistent during our time. It is unfortunate that their existence has resurfaced in this age."*
 
-### All Entries
+## All Entries
 - [Session 13](../../Session%2013.md): [Thoradin](Thoradin%20Goodman.md) fought a few guards. He manages to gain the guards' respect.
 - [Session 13](../../Session%2013.md): [Thoradin](Thoradin%20Goodman.md) read a book about [Opidys](Opidys.md). There he read about [Zerrus Zagi](Zerrus%20Zagi.md), the mad mage.
 - [Session 31](../../Session%2031.md): [Mitarella](Mitarella%20Randall.md) meets [Thoradin](Thoradin%20Goodman.md) in the [[Seven Up...|party]]'s quarters.
