@@ -8,38 +8,38 @@ status: active
 lore_type: faction
 icon: player
 ---
-## Information
+# Information
 > [!infobox]
 > # Seven Up...
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Aliases | Party,party|
 > | Status| active|
 > | Current Location|  [Midkip](../Locations/Settlements/Midkip.md)|
-##### Known for:
-### Description
-## Organization
-##### Leader:
-### Known Members
+#### Known for:
+## Description
+# Organization
+#### Leader:
+## Known Members
 | Name                                                    |
 | ------------------------------------------------------- |
 | [Adeena Oberon](../PCs/Adeena%20Oberon.md)                 |
-| [Arc](../PCs/Arc.md)                                     |
-| [Nokia](../PCs/Companions/Nokia.md)                      |
-| [Astar](../PCs/Companions/Astar.md)                      |
 | [Adikia Unalome](../PCs/Adikia%20Unalome.md)               |
+| [Arc](../PCs/Arc.md)                                     |
+| [Astar](../PCs/Companions/Astar.md)                      |
+| [Nokia](../PCs/Companions/Nokia.md)                      |
+| [Kiris Acquermann](../PCs/Kiris%20Acquermann.md)           |
 | [Noah Skie](../PCs/Noah%20Skie.md)                         |
 | [Spraugh 'Splix' Calix](../PCs/Spraugh%20'Splix'%20Calix.md) |
 | [Theobald Clayhollow](../PCs/Theobald%20Clayhollow.md)     |
 | [Thoradin Goodman](../PCs/Thoradin%20Goodman.md)           |
-| [Kiris Acquermann](../PCs/Kiris%20Acquermann.md)           |
 
-## Goals
+# Goals
 - [ ] Task 1
-## Story log
-### Most Recent
+# Story log
+## Most Recent
 - [Session 39](../Session%20Log/Session%2039.md): The [party](Seven%20Up....md) fights and defeats the [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md), with relative ease...
 - [Session 40](../Session%20Log/Session%2040.md): [Party](Seven%20Up....md) encounters and defeats the actual [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md).
 - [Session 41](../Session%20Log/Session%2041.md): The [party](Seven%20Up....md) explores the dungeon after their long rest.
@@ -53,7 +53,7 @@ icon: player
 - [Session 41](../Session%20Log/Session%2041.md): The [party](Seven%20Up....md) identifies the two of the three interlopers, [Elvin Claymore](Elvin%20Claymore.md) and [Rickard Kyp](Rickard%20Kyp.md).
 - [Session 41](../Session%20Log/Session%2041.md): Apparitions of [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md) appears in front of the [party](Seven%20Up....md).
 
-### All Entries
+## All Entries
 - [Session 1](../../Session%201.md): [Ridnor](Ridnor.md) visits [Bulkip](Bulkip.md) and informs the [party](Seven%20Up....md) of the house arrangements
 - [Session 1](../../Session%201.md): [Yekora](Yekora.md) assassins vs Eladrin assassin vs [party](Seven%20Up....md)
 - [Session 2](../../Session%202.md): [Party](Seven%20Up....md) successfully defends[Bulkip](Bulkip.md) from undead
@@ -143,7 +143,7 @@ Someone broke into the royal chambers... The guards are not saying anything. I'm
 - [Session 32](../../Session%2032.md): The [party](Seven%20Up....md) captures [Rickard Kyp](Rickard%20Kyp.md).
 - [Session 33](../../Session%2033.md): The [party](Seven%20Up....md) takes a short rest.
 - [Session 33](../../Session%2033.md): The [party](Seven%20Up....md) finds [Mitarella](Mitarella%20Randall.md) and [Remus](Remus%20Kyp.md).
-- [Session 35](../../Session%2035.md): The [party](Seven%20Up....md) enters the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md).
+- [Session 35](../../Session%2035.md): The [party](Seven%20Up....md) uses the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md) to enter the [Labyrinthus](Labyrinthus.md).
 - [Session 35](../../Session%2035.md): The [party](Seven%20Up....md) defeats three golems.
 - [Session 36](../../Session%2036.md): The [party](Seven%20Up....md) is joined by [Theobald](Theobald%20Clayhollow.md).
 - [Session 38](../Session%20Log/Session%2038.md): [Splix](Spraugh%20'Splix'%20Calix.md) is still experiencing a protracted vision... Other members of the [party](Seven%20Up....md) left him to explore the dungeon.
