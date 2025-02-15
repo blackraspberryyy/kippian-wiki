@@ -6,26 +6,26 @@ status:
 lore_type: location
 icon: building
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Temple of The Sealed Path
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Type | 
 > | Located in | [Yvernus District](../Areas/Yvernus%20District.md)|
-##### Known for:
-### Description
-## Notable Locations
+#### Known for:
+## Description
+# Notable Locations
 | Name |
 | ---- |
 
-## Notable NPCs
+# Notable NPCs
 | Name |
 | ---- |
 
-## Factions
+# Factions
 | Name |
 | ---- |
