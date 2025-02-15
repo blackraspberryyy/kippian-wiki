@@ -8,19 +8,19 @@ fc-category: Lore
 lore_type: 
 icon: lore
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Age of the Old Gods
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Type||
 > | Located in | |
-##### Known for:
-### Description
-#### Events
+#### Known for:
+## Description
+### Events
 - [Akenatun](../../Deities/Old%20Gods/Akenatun.md) and [Matunda](../../Deities/Old%20Gods/Matunda.md) come into existence.
 - [Miledu](../../../Miledu.md) arrives from the the void. [Akenatun](../../Deities/Old%20Gods/Akenatun.md) and [Matunda](../../Deities/Old%20Gods/Matunda.md) declares war against [Miledu](../../../Miledu.md) and defeats it.
 - [Miledu](../../../Miledu.md) is forced to go underground.
@@ -28,7 +28,7 @@ icon: lore
 - [Antasha](../../Deities/Old%20Gods/Antasha.md) and [Walladu](../../Deities/Old%20Gods/Walladu.md), using the power harnessed from the [Elemental Planes](../../Locations/Planes/Elemental%20Planes.md), cover the world with land and water.
 - [Akenatun](../../Deities/Old%20Gods/Akenatun.md) and [Matunda](../../Deities/Old%20Gods/Matunda.md) stand watch over the world. The primordial gods become the sun and the moon.
 - [Corlion](../../Deities/Old%20Gods/Corlion.md), [Arygyra](../../Deities/Old%20Gods/Arygyra.md), [Barcila](../../Deities/Old%20Gods/Barcila.md), and [Macchi](../../Deities/Old%20Gods/Macchi.md) are born. 
-## Lore Mentions
-### Most Recent
+# Lore Mentions
+## Most Recent
 
-### All Entries
+## All Entries
