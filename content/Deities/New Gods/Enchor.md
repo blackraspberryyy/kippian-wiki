@@ -8,20 +8,20 @@ fc-category: Lore
 lore_type: 
 icon: lore
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Enchor
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Type||
 > | Located in | |
-##### Known for: being the patron deity of [Curkip](../../Locations/Settlements/Curkip.md)
-### Description
+#### Known for: being the patron deity of [Curkip](../../Locations/Settlements/Curkip.md)
+## Description
 [Enchor](Enchor.md) is a lesser god attached to the ideals of bravery, honor, and nobility. The city of [Curkip](../../Locations/Settlements/Curkip.md) reveres the deity.
-## Lore Mentions
-### Most Recent
+# Lore Mentions
+## Most Recent
 
-### All Entries
+## All Entries
