@@ -99,9 +99,9 @@ During her stay at [Richie's Inn](../Locations/Buildings/Richie's%20Inn%20and%20
 - [Session 38](../Session%20Log/Session%2038.md): [Adeena](Adeena%20Oberon.md) experiences the following vision:
 >[Adeena](Adeena%20Oberon.md) sees a familiar coin, while a voice whispers, "Dear child... Save those threatened by the fallen soldiers of [Yekora](Yekora.md). Judge the heathens as prescribed by your oath."
 - [Session 40](../Session%20Log/Session%2040.md): [Adeena](Adeena%20Oberon.md) finds the continuation of the hallway inscription.
-- [Session 41](../../Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
-- [Session 41](../../Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
-- [Session 41](../../Session%2041.md): [Adeena](Adeena%20Oberon.md) asks the casters if there was a way to open the portal to the [Plane of Dragons](Plane%20of%20Dragons.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Adeena](Adeena%20Oberon.md) asks the casters if there was a way to open the portal to the [Plane of Dragons](Plane%20of%20Dragons.md).
 > *"[Akenatun](Akenatun.md) locked out the dragons from the [Material Realm](Material%20Realm.md) through the portal in [Yvernus](Yvernus%20District.md)"*
 
 ### All Entries
@@ -116,7 +116,7 @@ During her stay at [Richie's Inn](../Locations/Buildings/Richie's%20Inn%20and%20
 - [Session 38](../Session%20Log/Session%2038.md): [Adeena](Adeena%20Oberon.md) experiences the following vision:
 >[Adeena](Adeena%20Oberon.md) sees a familiar coin, while a voice whispers, "Dear child... Save those threatened by the fallen soldiers of [Yekora](Yekora.md). Judge the heathens as prescribed by your oath."
 - [Session 40](../Session%20Log/Session%2040.md): [Adeena](Adeena%20Oberon.md) finds the continuation of the hallway inscription.
-- [Session 41](../../Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
-- [Session 41](../../Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
-- [Session 41](../../Session%2041.md): [Adeena](Adeena%20Oberon.md) asks the casters if there was a way to open the portal to the [Plane of Dragons](Plane%20of%20Dragons.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Adeena](Adeena%20Oberon.md) asks the casters if there was a way to open the portal to the [Plane of Dragons](Plane%20of%20Dragons.md).
 > *"[Akenatun](Akenatun.md) locked out the dragons from the [Material Realm](Material%20Realm.md) through the portal in [Yvernus](Yvernus%20District.md)"*

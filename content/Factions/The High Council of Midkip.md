@@ -28,14 +28,14 @@ Drakon-Aetos-Chtapodhi-Foenyx-King of Kippian-Ankyra-Yvernus-Duospathia-Lykos
 | Name                                               |
 | -------------------------------------------------- |
 | [Armand Gorrel](../../Armand%20Gorrel.md)           |
-| [Gokare Veegar](../../Gokare%20Veegar.md)           |
 | [Kayvan Acquermann](../../Kayvan%20Acquermann.md)   |
-| [Laurie Furwish](../../Laurie%20Furwish.md)         |
 | [Mitarella Randall](../../Mitarella%20Randall.md)   |
-| [Riordan Kyp](../../Riordan%20Kyp.md)               |
 | [Remus Kyp](../../Remus%20Kyp.md)                   |
-| [Stella Kari](../../Stella%20Kari.md)               |
+| [Riordan Kyp](../../Riordan%20Kyp.md)               |
 | [Shemance Ironfleet](../../Shemance%20Ironfleet.md) |
+| [Stella Kari](../../Stella%20Kari.md)               |
+| [Gokare Veegar](../../Gokare%20Veegar.md)           |
+| [Laurie Furwish](../../Laurie%20Furwish.md)         |
 
 ## Goals
 - [ ] Task 1

@@ -32,13 +32,14 @@ icon: player
 #### Class: Wizard
 #### Subclass: [School of Divination](https://dnd5e.wikidot.com/wizard:divination)
 ### Backstory
+#### First Letter to [Fiamil](../../Fiamil%20Underwood.md)
 >[!note] First Letter to [Fiamil](../../Fiamil%20Underwood.md)
 >Sporcester Alley, [Effil](../Locations/Settlements/Effil.md)
 >
 >Cappodon, the 16th
 >
 >Of the year 1078
-><br>
+>
 >Dear [Fiamil](../../Fiamil%20Underwood.md),
 >
 >Let me tell you my story. But, before we go to that, it’s only fitting to tell you where I came from, right? Well here it goes.
@@ -63,14 +64,14 @@ icon: player
 >**[Splix](Spraugh%20'Splix'%20Calix.md)**
 >
 >P. S. More letters to come. I have an errand to do and the messenger has come to pick up the letter. See ya!
-
+#### Second Letter to [Fiamil](../../Fiamil%20Underwood.md)
 >[!note] Second Letter to [Fiamil](../../Fiamil%20Underwood.md)
 >Sporcester Alley, [Effil](../Locations/Settlements/Effil.md)
 >
 >Cappodon, the 19th
 >
 >Of the year 1078
-><br>
+>
 >Dearest [Fiamil](../../Fiamil%20Underwood.md),
 >
 >I hope you received this letter and the previous letter in quick succession. The last one’s a little bit of a cliffhanger, eh?
@@ -99,14 +100,14 @@ icon: player
 >
 >From your ever-friend,
 >**[Splix](Spraugh%20'Splix'%20Calix.md)**
-
+#### Letter to [Professor Embersense](../../Dorfir%20Embersense.md)
 >[!note] Letter to [Professor Embersense](../../Dorfir%20Embersense.md)
 >[Savras University](../Locations/Buildings/Savras%20University.md)
 >
 >Mastkil, the 21st
 >
 >Of the year 1082
-><br>
+>
 >[Professor Embersense](../../Dorfir%20Embersense.md),
 >
 >We are pleased to report to you that we mastered the following spells required of us by the university to advance.
@@ -129,14 +130,14 @@ icon: player
 >**[Splix](Spraugh%20'Splix'%20Calix.md)** and **[Fiamil](../../Fiamil%20Underwood.md)**
 >
 >P. S. Our work at the library paid off! Thank you for trusting us, professor. We hope you are fine on your scholarly travels.
-
+#### Third Letter to [Fiamil](../../Fiamil%20Underwood.md)
 >[!note] Third Letter to [Fiamil](../../Fiamil%20Underwood.md)
 >Sporcester Alley, [Effil](../Locations/Settlements/Effil.md)
 >
 >Bastordyl, the 27th
 >
 >Of the year 1083
-><br>
+>
 >To [Fiamil](../../Fiamil%20Underwood.md),
 >
 >I have terrible news: I have no home now. 
@@ -179,10 +180,10 @@ icon: player
 - [Session 38](../Session%20Log/Session%2038.md): [Splix](Spraugh%20'Splix'%20Calix.md) is still experiencing a protracted vision... Other members of the [[Seven Up...|party]] left him to explore the dungeon.
 - [Session 39](../Session%20Log/Session%2039.md): [Splix](Spraugh%20'Splix'%20Calix.md) gains the following spells: Burning Hands, Scorching Ray, Fireball, Lightning Bolt, Wall of Fire, Fire Shield, Wall of Sand.
 - [Session 40](../Session%20Log/Session%2040.md): [Splix](Spraugh%20'Splix'%20Calix.md) triggers an arcane trap, trapping [Noah](Noah%20Skie.md) inside an invisible force barrier.
-- [Session 41](../../Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
-- [Session 41](../../Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
-- [Session 41](../../Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) shares that [Elvin](Elvin%20Claymore.md) and other members of [cult](The%20Cult%20of%20Miledu.md)
-- [Session 41](../../Session%2041.md): [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md) imparts their power to [Splix](Spraugh%20'Splix'%20Calix.md) and [Kiris](Kiris%20Acquermann.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) shares that [Elvin](Elvin%20Claymore.md) and other members of [cult](The%20Cult%20of%20Miledu.md)
+- [Session 41](../Session%20Log/Session%2041.md): [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md) imparts their power to [Splix](Spraugh%20'Splix'%20Calix.md) and [Kiris](Kiris%20Acquermann.md).
 > *"Tough times are ahead, but with our power, we hope that you can prevail."*
 
 ### All Entries
@@ -195,8 +196,8 @@ icon: player
 - [Session 38](../Session%20Log/Session%2038.md): [Splix](Spraugh%20'Splix'%20Calix.md) is still experiencing a protracted vision... Other members of the [[Seven Up...|party]] left him to explore the dungeon.
 - [Session 39](../Session%20Log/Session%2039.md): [Splix](Spraugh%20'Splix'%20Calix.md) gains the following spells: Burning Hands, Scorching Ray, Fireball, Lightning Bolt, Wall of Fire, Fire Shield, Wall of Sand.
 - [Session 40](../Session%20Log/Session%2040.md): [Splix](Spraugh%20'Splix'%20Calix.md) triggers an arcane trap, trapping [Noah](Noah%20Skie.md) inside an invisible force barrier.
-- [Session 41](../../Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
-- [Session 41](../../Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
-- [Session 41](../../Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) shares that [Elvin](Elvin%20Claymore.md) and other members of [cult](The%20Cult%20of%20Miledu.md)
-- [Session 41](../../Session%2041.md): [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md) imparts their power to [Splix](Spraugh%20'Splix'%20Calix.md) and [Kiris](Kiris%20Acquermann.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) shares that [Elvin](Elvin%20Claymore.md) and other members of [cult](The%20Cult%20of%20Miledu.md)
+- [Session 41](../Session%20Log/Session%2041.md): [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md) imparts their power to [Splix](Spraugh%20'Splix'%20Calix.md) and [Kiris](Kiris%20Acquermann.md).
 > *"Tough times are ahead, but with our power, we hope that you can prevail."*

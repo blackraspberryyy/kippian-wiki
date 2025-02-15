@@ -21,10 +21,10 @@ icon: map
 ## Notable Locations
 | Name                                                    |
 | ------------------------------------------------------- |
-| [Soliven](../Areas/Soliven.md)                 |
 | [Bay of Lostwind](../Areas/Bay%20of%20Lostwind.md) |
-| [Effil](../Settlements/Effil.md)               |
+| [Soliven](../Areas/Soliven.md)                 |
 | [Iselia](../Settlements/Iselia.md)             |
+| [Effil](../Settlements/Effil.md)               |
 | [Vaiarshe](../Settlements/Vaiarshe.md)         |
 
 ## Notable NPCs

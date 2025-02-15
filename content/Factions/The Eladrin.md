@@ -27,9 +27,9 @@ icon: faction
 
 ## Story log
 ### Most Recent
-- [Session 41](../../Session%2041.md): [Adikia](Adikia%20Unalome.md) asks the casters about [Feypeak](Feypeak.md)
+- [Session 41](../Session%20Log/Session%2041.md): [Adikia](Adikia%20Unalome.md) asks the casters about [Feypeak](Feypeak.md)
 > *"As an [Eladrin](The%20Eladrin.md), the [[Feywild|Feywild]] is your home. It is sure that you will find your way back to the [[Feywild|Feywild]]."*
 
 ### All Entries
-- [Session 41](../../Session%2041.md): [Adikia](Adikia%20Unalome.md) asks the casters about [Feypeak](Feypeak.md)
+- [Session 41](../Session%20Log/Session%2041.md): [Adikia](Adikia%20Unalome.md) asks the casters about [Feypeak](Feypeak.md)
 > *"As an [Eladrin](The%20Eladrin.md), the [[Feywild|Feywild]] is your home. It is sure that you will find your way back to the [[Feywild|Feywild]]."*

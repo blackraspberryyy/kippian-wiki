@@ -76,8 +76,8 @@ The grim scene left [Thoradin](Thoradin%20Goodman.md) with enormous guilt. The d
 - [Session 38](../Session%20Log/Session%2038.md): In a vision that shows the past, [Thoradin](Thoradin%20Goodman.md) sees [Elvin](Elvin%20Claymore.md) in the dungeon, searching for something.
 - [Session 39](../Session%20Log/Session%2039.md): [Thoradin Goodman](Thoradin%20Goodman.md) retrieves (and keeps) the [Bloodstone Arcane Gem](Bloodstone%20Arcane%20Gem.md) (Fireball DC 15).
 - [Session 40](../Session%20Log/Session%2040.md): [Thoradin](Thoradin%20Goodman.md) retrieves the keys to disable the force barrier.
-- [Session 41](../../Session%2041.md): [Theobald](Theobald%20Clayhollow.md), [Thoradin](Thoradin%20Goodman.md) and [Arc](Arc.md) receives gold for their exploration.
-- [Session 41](../../Session%2041.md): [Thoradin](Thoradin%20Goodman.md) asks the casters about the existence of [The Cult of Miledu](The%20Cult%20of%20Miledu.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Theobald](Theobald%20Clayhollow.md), [Thoradin](Thoradin%20Goodman.md) and [Arc](Arc.md) receives gold for their exploration.
+- [Session 41](../Session%20Log/Session%2041.md): [Thoradin](Thoradin%20Goodman.md) asks the casters about the existence of [The Cult of Miledu](The%20Cult%20of%20Miledu.md).
 > *"[Miledu](Miledu.md) and his [cult](The%20Cult%20of%20Miledu.md) was nonexistent during our time. It is unfortunate that their existence has resurfaced in this age."*
 
 ### All Entries
@@ -91,6 +91,6 @@ The grim scene left [Thoradin](Thoradin%20Goodman.md) with enormous guilt. The d
 - [Session 38](../Session%20Log/Session%2038.md): In a vision that shows the past, [Thoradin](Thoradin%20Goodman.md) sees [Elvin](Elvin%20Claymore.md) in the dungeon, searching for something.
 - [Session 39](../Session%20Log/Session%2039.md): [Thoradin Goodman](Thoradin%20Goodman.md) retrieves (and keeps) the [Bloodstone Arcane Gem](Bloodstone%20Arcane%20Gem.md) (Fireball DC 15).
 - [Session 40](../Session%20Log/Session%2040.md): [Thoradin](Thoradin%20Goodman.md) retrieves the keys to disable the force barrier.
-- [Session 41](../../Session%2041.md): [Theobald](Theobald%20Clayhollow.md), [Thoradin](Thoradin%20Goodman.md) and [Arc](Arc.md) receives gold for their exploration.
-- [Session 41](../../Session%2041.md): [Thoradin](Thoradin%20Goodman.md) asks the casters about the existence of [The Cult of Miledu](The%20Cult%20of%20Miledu.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Theobald](Theobald%20Clayhollow.md), [Thoradin](Thoradin%20Goodman.md) and [Arc](Arc.md) receives gold for their exploration.
+- [Session 41](../Session%20Log/Session%2041.md): [Thoradin](Thoradin%20Goodman.md) asks the casters about the existence of [The Cult of Miledu](The%20Cult%20of%20Miledu.md).
 > *"[Miledu](Miledu.md) and his [cult](The%20Cult%20of%20Miledu.md) was nonexistent during our time. It is unfortunate that their existence has resurfaced in this age."*

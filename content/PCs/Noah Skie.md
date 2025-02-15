@@ -80,11 +80,11 @@ She thought that she would only use her strength for peace: it would be her way 
 - [Session 38](../Session%20Log/Session%2038.md): The ghost then touches [Noah](Noah%20Skie.md), allowing her to change her Arcane Shot ability(Beguiling to Enfeebling).
 - [Session 40](../Session%20Log/Session%2040.md): [Splix](Spraugh%20'Splix'%20Calix.md) triggers an arcane trap, trapping [Noah](Noah%20Skie.md) inside an invisible force barrier.
 - [Session 40](../Session%20Log/Session%2040.md): The barrier disappears, but [Noah](Noah%20Skie.md) is nowhere to be found.
-- [Session 41](../../Session%2041.md): [Adikia](Adikia%20Unalome.md) perceives [Noah](Noah%20Skie.md) appearing into existence.
-- [Session 41](../../Session%2041.md): [Noah](Noah%20Skie.md) has no recollection about what happened to her after being trapped. It could be the effect of her [Evanescent Shortbow](Evanescent%20Shortbow.md).
-- [Session 41](../../Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
-- [Session 41](../../Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
-- [Session 41](../../Session%2041.md): [Noah](Noah%20Skie.md) asks the casters about her ghastly visions.
+- [Session 41](../Session%20Log/Session%2041.md): [Adikia](Adikia%20Unalome.md) perceives [Noah](Noah%20Skie.md) appearing into existence.
+- [Session 41](../Session%20Log/Session%2041.md): [Noah](Noah%20Skie.md) has no recollection about what happened to her after being trapped. It could be the effect of her [Evanescent Shortbow](Evanescent%20Shortbow.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Noah](Noah%20Skie.md) asks the casters about her ghastly visions.
 > *"Death haunts you, [Noah](Noah%20Skie.md), so much so that your guilt has allowed you to see beyond several planes. Only a few are blessed, or cursed, of such power."*
 
 ### All Entries
@@ -110,9 +110,9 @@ She thought that she would only use her strength for peace: it would be her way 
 - [Session 38](../Session%20Log/Session%2038.md): The ghost then touches [Noah](Noah%20Skie.md), allowing her to change her Arcane Shot ability(Beguiling to Enfeebling).
 - [Session 40](../Session%20Log/Session%2040.md): [Splix](Spraugh%20'Splix'%20Calix.md) triggers an arcane trap, trapping [Noah](Noah%20Skie.md) inside an invisible force barrier.
 - [Session 40](../Session%20Log/Session%2040.md): The barrier disappears, but [Noah](Noah%20Skie.md) is nowhere to be found.
-- [Session 41](../../Session%2041.md): [Adikia](Adikia%20Unalome.md) perceives [Noah](Noah%20Skie.md) appearing into existence.
-- [Session 41](../../Session%2041.md): [Noah](Noah%20Skie.md) has no recollection about what happened to her after being trapped. It could be the effect of her [Evanescent Shortbow](Evanescent%20Shortbow.md).
-- [Session 41](../../Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
-- [Session 41](../../Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
-- [Session 41](../../Session%2041.md): [Noah](Noah%20Skie.md) asks the casters about her ghastly visions.
+- [Session 41](../Session%20Log/Session%2041.md): [Adikia](Adikia%20Unalome.md) perceives [Noah](Noah%20Skie.md) appearing into existence.
+- [Session 41](../Session%20Log/Session%2041.md): [Noah](Noah%20Skie.md) has no recollection about what happened to her after being trapped. It could be the effect of her [Evanescent Shortbow](Evanescent%20Shortbow.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Noah](Noah%20Skie.md) asks the casters about her ghastly visions.
 > *"Death haunts you, [Noah](Noah%20Skie.md), so much so that your guilt has allowed you to see beyond several planes. Only a few are blessed, or cursed, of such power."*

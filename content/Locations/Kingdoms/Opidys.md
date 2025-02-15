@@ -24,6 +24,7 @@ icon: map
 | [Lake of Shimmers](../Areas/Lake%20of%20Shimmers.md) |
 | [Qwartz](../Settlements/Qwartz.md)               |
 | [Onix](../Settlements/Onix.md)                   |
+| [Ymerald](../Settlements/Ymerald.md)             |
 
 ## Notable NPCs
 | Name |
