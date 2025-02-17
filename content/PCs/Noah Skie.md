@@ -72,20 +72,23 @@ She thought that she would only use her strength for peace: it would be her way 
 - [Agatha](../../Agatha.md)
 # Story log
 ## Most Recent
-- [Session 35](../../Session%2035.md): [Noah](Noah%20Skie.md) and [Michaela](Michaela%20Randall.md) investigate the library.
-- [Session 38](../Session%20Log/Session%2038.md): [Noah](Noah%20Skie.md) sees an apparition in front of her...
-> [Amlaena](Amlaena%20Gustkil.md) trains [Noah](Noah%20Skie.md) to use the [Evanescent Shortbow](Evanescent%20Shortbow.md).
->
-> "As the new keeper of the [Evanescent Shortbow](Evanescent%20Shortbow.md), I shall help you on your journey."
-- [Session 38](../Session%20Log/Session%2038.md): The ghost then touches [Noah](Noah%20Skie.md), allowing her to change her Arcane Shot ability(Beguiling to Enfeebling).
-- [Session 40](../Session%20Log/Session%2040.md): [Splix](Spraugh%20'Splix'%20Calix.md) triggers an arcane trap, trapping [Noah](Noah%20Skie.md) inside an invisible force barrier.
-- [Session 40](../Session%20Log/Session%2040.md): The barrier disappears, but [Noah](Noah%20Skie.md) is nowhere to be found.
 - [Session 41](../Session%20Log/Session%2041.md): [Adikia](Adikia%20Unalome.md) perceives [Noah](Noah%20Skie.md) appearing into existence.
 - [Session 41](../Session%20Log/Session%2041.md): [Noah](Noah%20Skie.md) has no recollection about what happened to her after being trapped. It could be the effect of her [Evanescent Shortbow](Evanescent%20Shortbow.md).
 - [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
 - [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
 - [Session 41](../Session%20Log/Session%2041.md): [Noah](Noah%20Skie.md) asks the casters about her ghastly visions.
 > *"Death haunts you, [Noah](Noah%20Skie.md), so much so that your guilt has allowed you to see beyond several planes. Only a few are blessed, or cursed, of such power."*
+- [Session 42](../Session%20Log/Session%2042.md): The [[Seven Up...|party]], except [Noah](Noah%20Skie.md), drinks a tea fashioned from the ginger where the First Tre grew. It is a traditional drink honoring [Antasha](Antasha.md), goddess of the land.
+- [Session 42](../Session%20Log/Session%2042.md): [Noah](Noah%20Skie.md) overhears [Kirren](Kirren%20Acquermann.md) and [Michaela](Michaela%20Randall.md) talking. [Kirren](Kirren%20Acquermann.md) asks if [Michaela](Michaela%20Randall.md) if she knew about [Leneia](Leneia%20Yarumcy.md). [Michaela](Michaela%20Randall.md) denies it, and consoles [Kirren](Kirren%20Acquermann.md).
+- [Session 42](../Session%20Log/Session%2042.md): [Noah](Noah%20Skie.md) overhears that [Professor Aufel](Aufel%20Fernquill.md) and [Michaela](Michaela%20Randall.md) talking. The [professor](Aufel%20Fernquill.md)'s there to conduct research within the [Ankyra's Old Castle Compound](Ankyra's%20Old%20Castle%20Compound.md)'s library that could help with the [Yvernus](Yvernus%20District.md) situation.
+- [Session 42](../Session%20Log/Session%2042.md): As the [Noah](Noah%20Skie.md) steps out of the [Ankyra's Old Castle Compound](Ankyra's%20Old%20Castle%20Compound.md), the [[Seven Up...|party]] hears a whistle and the sound of detonation originating from the [Ironfleet Compound](Ironfleet%20Compound.md).
+- [Session 42](../Session%20Log/Session%2042.md): [Noah](Noah%20Skie.md) reads her translation book for primordial language. She became privy to the chronological succession of the [Primordial Ages](Primordial%20Ages.md).
+> The chronological list of the [Primordial Ages](Primordial%20Ages.md):
+> [Age of the Old Gods](Age%20of%20the%20Old%20Gods.md)
+> [Age of Dragons](Age%20of%20Dragons.md)
+> [Age of Beasts](Age%20of%20Beasts.md)
+> [Age of Orcs](Age%20of%20Orcs.md)
+> [Age of Humans](Age%20of%20Humans.md)
 
 ## All Entries
 - [Session 13](../../Session%2013.md): [Noah](Noah%20Skie.md) found a book detailing the history of [[Ankor|Ankor]]. She read that [Curkip](Curkip.md) was once under the jurisdiction of [Bulkip](Bulkip.md).
@@ -116,3 +119,14 @@ She thought that she would only use her strength for peace: it would be her way 
 - [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
 - [Session 41](../Session%20Log/Session%2041.md): [Noah](Noah%20Skie.md) asks the casters about her ghastly visions.
 > *"Death haunts you, [Noah](Noah%20Skie.md), so much so that your guilt has allowed you to see beyond several planes. Only a few are blessed, or cursed, of such power."*
+- [Session 42](../Session%20Log/Session%2042.md): The [[Seven Up...|party]], except [Noah](Noah%20Skie.md), drinks a tea fashioned from the ginger where the First Tre grew. It is a traditional drink honoring [Antasha](Antasha.md), goddess of the land.
+- [Session 42](../Session%20Log/Session%2042.md): [Noah](Noah%20Skie.md) overhears [Kirren](Kirren%20Acquermann.md) and [Michaela](Michaela%20Randall.md) talking. [Kirren](Kirren%20Acquermann.md) asks if [Michaela](Michaela%20Randall.md) if she knew about [Leneia](Leneia%20Yarumcy.md). [Michaela](Michaela%20Randall.md) denies it, and consoles [Kirren](Kirren%20Acquermann.md).
+- [Session 42](../Session%20Log/Session%2042.md): [Noah](Noah%20Skie.md) overhears that [Professor Aufel](Aufel%20Fernquill.md) and [Michaela](Michaela%20Randall.md) talking. The [professor](Aufel%20Fernquill.md)'s there to conduct research within the [Ankyra's Old Castle Compound](Ankyra's%20Old%20Castle%20Compound.md)'s library that could help with the [Yvernus](Yvernus%20District.md) situation.
+- [Session 42](../Session%20Log/Session%2042.md): [Noah](Noah%20Skie.md) reads her translation book for primordial language. She became privy to the chronological succession of the [Primordial Ages](Primordial%20Ages.md).
+> The chronological list of the [Primordial Ages](Primordial%20Ages.md):
+> [Age of the Old Gods](Age%20of%20the%20Old%20Gods.md)
+> [Age of Dragons](Age%20of%20Dragons.md)
+> [Age of Beasts](Age%20of%20Beasts.md)
+> [Age of Orcs](Age%20of%20Orcs.md)
+> [Age of Humans](Age%20of%20Humans.md)
+- [Session 42](../Session%20Log/Session%2042.md): As the [Noah](Noah%20Skie.md) steps out of the [Ankyra's Old Castle Compound](Ankyra's%20Old%20Castle%20Compound.md), the [[Seven Up...|party]] hears a whistle and the sound of detonation originating from the [Ironfleet Compound](Ironfleet%20Compound.md).
