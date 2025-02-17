@@ -90,9 +90,6 @@ During her stay at [Richie's Inn](../Locations/Buildings/Richie's%20Inn%20and%20
 - [Cain Othburn](../../Cain%20Othburn.md)
 # Story log
 ## Most Recent
-- [Session 30](../../Session%2030.md): [Adeena](Adeena%20Oberon.md) retrieves Potion of Gaseous Form.
-- [Session 31](../../Session%2031.md): [Adeena](Adeena%20Oberon.md) and [Noah](Noah%20Skie.md) notices [Kirren](Kirren%20Acquermann.md) sleeping. [Michaela](Michaela%20Randall.md) is gone.
-- [Session 31](../../Session%2031.md): [Adeena Oberon](Adeena%20Oberon.md) and [Kiris](Kiris%20Acquermann.md) investigates the [King](Riordan%20Kyp.md)'s death.
 - [Session 34](../../Session%2034.md): [Adikia](Adikia%20Unalome.md), [Adeena](Adeena%20Oberon.md), [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Thoradin](Thoradin%20Goodman.md) enters the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md).
 - [Session 36](../../Session%2036.md): [Adeena](Adeena%20Oberon.md) retrieved Engor's Diary and read an excerpt showcasing the [Frostborn Armor](Frostborn%20Armor.md)'s powers.
 - [Session 38](../Session%20Log/Session%2038.md): [Adeena](Adeena%20Oberon.md) experiences the following vision:
@@ -102,6 +99,12 @@ During her stay at [Richie's Inn](../Locations/Buildings/Richie's%20Inn%20and%20
 - [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
 - [Session 41](../Session%20Log/Session%2041.md): [Adeena](Adeena%20Oberon.md) asks the casters if there was a way to open the portal to the [Plane of Dragons](Plane%20of%20Dragons.md).
 > *"[Akenatun](Akenatun.md) locked out the dragons from the [Material Realm](Material%20Realm.md) through the portal in [Yvernus](Yvernus%20District.md)"*
+- [Session 42](../Session%20Log/Session%2042.md): The [[Seven Up...|party]] incurs temporal displacement sickness. [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Adeena](Adeena%20Oberon.md) are more affected by the sickness.
+- [Session 42](../Session%20Log/Session%2042.md): [Adeena](Adeena%20Oberon.md) opts to meditate and talk to [Aulephi](Aulephi.md). [Arc](Arc.md) opts to rest instead.
+- [Session 42](../Session%20Log/Session%2042.md): [Arc](Arc.md) wakes up, and [Adeena](Adeena%20Oberon.md) is not in the room. She left the following note:
+> [!NOTE]
+> From [Adeena](Adeena%20Oberon.md)
+> I need to fulfill my oath.
 
 ## All Entries
 - [Session 12](../../Session%2012.md): [Adeena](Adeena%20Oberon.md) is asked by a stranger what her name is. [Adeena](Adeena%20Oberon.md) answers "Anna".
@@ -119,3 +122,9 @@ During her stay at [Richie's Inn](../Locations/Buildings/Richie's%20Inn%20and%20
 - [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
 - [Session 41](../Session%20Log/Session%2041.md): [Adeena](Adeena%20Oberon.md) asks the casters if there was a way to open the portal to the [Plane of Dragons](Plane%20of%20Dragons.md).
 > *"[Akenatun](Akenatun.md) locked out the dragons from the [Material Realm](Material%20Realm.md) through the portal in [Yvernus](Yvernus%20District.md)"*
+- [Session 42](../Session%20Log/Session%2042.md): The [[Seven Up...|party]] incurs temporal displacement sickness. [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Adeena](Adeena%20Oberon.md) are more affected by the sickness.
+- [Session 42](../Session%20Log/Session%2042.md): [Adeena](Adeena%20Oberon.md) opts to meditate and talk to [Aulephi](Aulephi.md). [Arc](Arc.md) opts to rest instead.
+- [Session 42](../Session%20Log/Session%2042.md): [Arc](Arc.md) wakes up, and [Adeena](Adeena%20Oberon.md) is not in the room. She left the following note:
+> [!NOTE]
+> From [Adeena](Adeena%20Oberon.md)
+> I need to fulfill my oath.
