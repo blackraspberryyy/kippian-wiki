@@ -68,10 +68,6 @@ The grim scene left [Thoradin](Thoradin%20Goodman.md) with enormous guilt. The d
 - Childhood friend: [Elix Claymore](../../Elix%20Claymore.md)
 # Story log
 ## Most Recent
-- [Session 31](../../Session%2031.md): [Mitarella](Mitarella%20Randall.md) meets [Thoradin](Thoradin%20Goodman.md) in the [[Seven Up...|party]]'s quarters.
-- [Session 31](../../Session%2031.md): [Mitarella](Mitarella%20Randall.md) asks [Thoradin](Thoradin%20Goodman.md) to join the [[Seven Up...|party]].
-- [Session 32](../../Session%2032.md): [Arc](Arc.md), [Kiris](Kiris%20Acquermann.md), [Thoradin](Thoradin%20Goodman.md) and [Splix](Spraugh%20'Splix'%20Calix.md) goes to [Kayvan](Kayvan%20Acquermann.md)'s room.
-- [Session 32](../../Session%2032.md): [Thoradin](Thoradin%20Goodman.md) mentions [Elix](Elix%20Claymore.md) to [Kayvan](Kayvan%20Acquermann.md).
 - [Session 34](../../Session%2034.md): [Adikia](Adikia%20Unalome.md), [Adeena](Adeena%20Oberon.md), [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Thoradin](Thoradin%20Goodman.md) enters the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md).
 - [Session 38](../Session%20Log/Session%2038.md): In a vision that shows the past, [Thoradin](Thoradin%20Goodman.md) sees [Elvin](Elvin%20Claymore.md) in the dungeon, searching for something.
 - [Session 39](../Session%20Log/Session%2039.md): [Thoradin Goodman](Thoradin%20Goodman.md) retrieves (and keeps) the [Bloodstone Arcane Gem](Bloodstone%20Arcane%20Gem.md) (Fireball DC 15).
@@ -79,6 +75,11 @@ The grim scene left [Thoradin](Thoradin%20Goodman.md) with enormous guilt. The d
 - [Session 41](../Session%20Log/Session%2041.md): [Theobald](Theobald%20Clayhollow.md), [Thoradin](Thoradin%20Goodman.md) and [Arc](Arc.md) receives gold for their exploration.
 - [Session 41](../Session%20Log/Session%2041.md): [Thoradin](Thoradin%20Goodman.md) asks the casters about the existence of [The Cult of Miledu](The%20Cult%20of%20Miledu.md).
 > *"[Miledu](Miledu.md) and his [cult](The%20Cult%20of%20Miledu.md) was nonexistent during our time. It is unfortunate that their existence has resurfaced in this age."*
+- [Session 42](../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) talks to the royal guards. During a friendly contest, [Thoradin](Thoradin%20Goodman.md) sees two runic inscriptions inside his [Vambrace Shields](Vambrace%20Shields.md).
+- [Session 42](../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) bursts into action and rides a steed. The [[Seven Up...|party]] rides a closed carriage pulled by two horses. [Theobald](Theobald%20Clayhollow.md) drives the carriage.
+- [Session 42](../Session%20Log/Session%2042.md): During their frantic run, [Thoradin](Thoradin%20Goodman.md) is hit by a crossbow bolt. A hidden assailant attacks [Thoradin](Thoradin%20Goodman.md), stopping the [[Seven Up...|party]] from their tracks.
+- [Session 42](../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) asks [Adikia](Adikia%20Unalome.md) to read the inscriptions on his [Vambrace Shields](Vambrace%20Shields.md).
+> From [Wycroft](Wycroft%20Mountain%20Kingdom.md), To [Quigymara](Quigymara.md).
 
 ## All Entries
 - [Session 13](../../Session%2013.md): [Thoradin](Thoradin%20Goodman.md) fought a few guards. He manages to gain the guards' respect.
@@ -94,3 +95,8 @@ The grim scene left [Thoradin](Thoradin%20Goodman.md) with enormous guilt. The d
 - [Session 41](../Session%20Log/Session%2041.md): [Theobald](Theobald%20Clayhollow.md), [Thoradin](Thoradin%20Goodman.md) and [Arc](Arc.md) receives gold for their exploration.
 - [Session 41](../Session%20Log/Session%2041.md): [Thoradin](Thoradin%20Goodman.md) asks the casters about the existence of [The Cult of Miledu](The%20Cult%20of%20Miledu.md).
 > *"[Miledu](Miledu.md) and his [cult](The%20Cult%20of%20Miledu.md) was nonexistent during our time. It is unfortunate that their existence has resurfaced in this age."*
+- [Session 42](../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) talks to the royal guards. During a friendly contest, [Thoradin](Thoradin%20Goodman.md) sees two runic inscriptions inside his [Vambrace Shields](Vambrace%20Shields.md).
+- [Session 42](../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) asks [Adikia](Adikia%20Unalome.md) to read the inscriptions on his [Vambrace Shields](Vambrace%20Shields.md).
+> From [Wycroft](Wycroft%20Mountain%20Kingdom.md), To [Quigymara](Quigymara.md).
+- [Session 42](../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) bursts into action and rides a steed. The [[Seven Up...|party]] rides a closed carriage pulled by two horses. [Theobald](Theobald%20Clayhollow.md) drives the carriage.
+- [Session 42](../Session%20Log/Session%2042.md): During their frantic run, [Thoradin](Thoradin%20Goodman.md) is hit by a crossbow bolt. A hidden assailant attacks [Thoradin](Thoradin%20Goodman.md), stopping the [[Seven Up...|party]] from their tracks.
