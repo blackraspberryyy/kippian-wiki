@@ -23,5 +23,7 @@ icon: lore
 ## Description
 # Lore Mentions
 ## Most Recent
+- [Session 42](../../Session%20Log/Session%2042.md): [Theobald](Theobald%20Clayhollow.md) prays to [Aisef](Aisef.md).
 
 ## All Entries
+- [Session 42](../../Session%20Log/Session%2042.md): [Theobald](Theobald%20Clayhollow.md) prays to [Aisef](Aisef.md).

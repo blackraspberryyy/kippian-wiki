@@ -30,5 +30,19 @@ icon: lore
 - [Corlion](../../Deities/Old%20Gods/Corlion.md), [Arygyra](../../Deities/Old%20Gods/Arygyra.md), [Barcila](../../Deities/Old%20Gods/Barcila.md), and [Macchi](../../Deities/Old%20Gods/Macchi.md) are born. 
 # Lore Mentions
 ## Most Recent
+- [Session 42](../../Session%20Log/Session%2042.md): [Noah](Noah%20Skie.md) reads her translation book for primordial language. She became privy to the chronological succession of the [Primordial Ages](Primordial%20Ages.md).
+> The chronological list of the [Primordial Ages](Primordial%20Ages.md):
+> [Age of the Old Gods](Age%20of%20the%20Old%20Gods.md)
+> [Age of Dragons](Age%20of%20Dragons.md)
+> [Age of Beasts](Age%20of%20Beasts.md)
+> [Age of Orcs](Age%20of%20Orcs.md)
+> [Age of Humans](Age%20of%20Humans.md)
 
 ## All Entries
+- [Session 42](../../Session%20Log/Session%2042.md): [Noah](Noah%20Skie.md) reads her translation book for primordial language. She became privy to the chronological succession of the [Primordial Ages](Primordial%20Ages.md).
+> The chronological list of the [Primordial Ages](Primordial%20Ages.md):
+> [Age of the Old Gods](Age%20of%20the%20Old%20Gods.md)
+> [Age of Dragons](Age%20of%20Dragons.md)
+> [Age of Beasts](Age%20of%20Beasts.md)
+> [Age of Orcs](Age%20of%20Orcs.md)
+> [Age of Humans](Age%20of%20Humans.md)

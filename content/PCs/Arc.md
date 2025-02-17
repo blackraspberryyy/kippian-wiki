@@ -34,13 +34,6 @@ icon: player
 ## Relationships
 # Story log
 ## Most Recent
-- [Session 38](../Session%20Log/Session%2038.md): The ghost then touches [Noah](Noah%20Skie.md), allowing her to change her Arcane Shot ability(Beguiling to Enfeebling).
-- [Session 38](../Session%20Log/Session%2038.md): [Arc](Arc.md) hears whispers of the dead:
-> Absence of the cold releaseth sand, and creatures of leather.
-- [Session 38](../Session%20Log/Session%2038.md): During exploration, [Arc](Arc.md) sees a statue of [Zerrus Zagi](Zerrus%20Zagi.md). The inscription says,
-> The Mad Mage lived within a sand tower. Those who tried to scale it are burnt asunder.
-- [Session 38](../Session%20Log/Session%2038.md): [Arc](Arc.md) and the party encounters a [Sand Elemental](Sand%20Elemental.md).
-- [Session 39](../Session%20Log/Session%2039.md): [Thoradin Goodman](Thoradin%20Goodman.md) retrieves (and keeps) the [Bloodstone Arcane Gem](Bloodstone%20Arcane%20Gem.md) (Fireball DC 15).
 - [Session 40](../Session%20Log/Session%2040.md): [Arc](Arc.md) sees the following hallway inscription across the invisible barrier:
 >Within the [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md) are the keys to disabling the barrier that separates the hall...
 - [Session 40](../Session%20Log/Session%2040.md): [Arc](Arc.md) discovers the statue that tells the discovery of the [Scepter of Akenatun](Scepter%20of%20Akenatun.md) by [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md).
@@ -50,6 +43,14 @@ icon: player
 > *"That weapon owes its power from the [Plane of Shadows](Shadowfell.md)"*
 - [Session 41](../Session%20Log/Session%2041.md): [Arc](Arc.md) asks the casters about his [Twilight Dagger](Twilight%20Dagger.md)'s power.
 > *"One day, you will lose the [Twilight Dagger](Twilight%20Dagger.md). Then your character will change; for better or worse is yet to be determined."*
+- [Session 42](../Session%20Log/Session%2042.md): The [[Seven Up...|party]] incurs temporal displacement sickness. [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Adeena](Adeena%20Oberon.md) are more affected by the sickness.
+- [Session 42](../Session%20Log/Session%2042.md): [Adeena](Adeena%20Oberon.md) opts to meditate and talk to [Aulephi](Aulephi.md). [Arc](Arc.md) opts to rest instead.
+- [Session 42](../Session%20Log/Session%2042.md): [Professor Aufel](Aufel%20Fernquill.md) inspects the staff, and is boggled by it. [Splix](Spraugh%20'Splix'%20Calix.md) then shows the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md). [Professor Aufel](Aufel%20Fernquill.md) is understandably confused.
+- [Session 42](../Session%20Log/Session%2042.md): [Arc](Arc.md) wakes up, and [Adeena](Adeena%20Oberon.md) is not in the room. She left the following note:
+> [!NOTE]
+> From [Adeena](Adeena%20Oberon.md)
+> I need to fulfill my oath.
+- [Session 42](../Session%20Log/Session%2042.md): [Arc](Arc.md) sneaks out of the [compound](Ankyra's%20Old%20Castle%20Compound.md) to sell some stuff. [Arc](Arc.md) stumbles upon a dagger with a [Sumberian](Sumber.md) design.
 
 ## All Entries
 - [Session 13](../../Session%2013.md): [Arc](Arc.md) learns that wood elves are locals of the [Soliven Forest](Soliven%20Forest.md).
@@ -81,3 +82,11 @@ icon: player
 > *"That weapon owes its power from the [Plane of Shadows](Shadowfell.md)"*
 - [Session 41](../Session%20Log/Session%2041.md): [Arc](Arc.md) asks the casters about his [Twilight Dagger](Twilight%20Dagger.md)'s power.
 > *"One day, you will lose the [Twilight Dagger](Twilight%20Dagger.md). Then your character will change; for better or worse is yet to be determined."*
+- [Session 42](../Session%20Log/Session%2042.md): The [[Seven Up...|party]] incurs temporal displacement sickness. [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Adeena](Adeena%20Oberon.md) are more affected by the sickness.
+- [Session 42](../Session%20Log/Session%2042.md): [Adeena](Adeena%20Oberon.md) opts to meditate and talk to [Aulephi](Aulephi.md). [Arc](Arc.md) opts to rest instead.
+- [Session 42](../Session%20Log/Session%2042.md): [Professor Aufel](Aufel%20Fernquill.md) inspects the staff, and is boggled by it. [Splix](Spraugh%20'Splix'%20Calix.md) then shows the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md). [Professor Aufel](Aufel%20Fernquill.md) is understandably confused.
+- [Session 42](../Session%20Log/Session%2042.md): [Arc](Arc.md) wakes up, and [Adeena](Adeena%20Oberon.md) is not in the room. She left the following note:
+> [!NOTE]
+> From [Adeena](Adeena%20Oberon.md)
+> I need to fulfill my oath.
+- [Session 42](../Session%20Log/Session%2042.md): [Arc](Arc.md) sneaks out of the [compound](Ankyra's%20Old%20Castle%20Compound.md) to sell some stuff. [Arc](Arc.md) stumbles upon a dagger with a [Sumberian](Sumber.md) design.

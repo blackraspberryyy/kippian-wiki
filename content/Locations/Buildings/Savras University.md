@@ -26,6 +26,7 @@ icon: building
 # Notable NPCs
 | Name                                             |
 | ------------------------------------------------ |
+| [Aufel Fernquill](../../../Aufel%20Fernquill.md)     |
 | [Dorfir Embersense](../../../Dorfir%20Embersense.md) |
 | [Fiamil Underwood](../../../Fiamil%20Underwood.md)   |
 

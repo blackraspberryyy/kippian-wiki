@@ -78,10 +78,6 @@ A little later, Theobald left for [Curkip](../Locations/Settlements/Curkip.md), 
 - Brother: [Theodore Clayhollow](../../Theodore%20Clayhollow.md)
 # Story log
 ## Most Recent
-- [Session 31](../../Session%2031.md): [Theobald](Theobald%20Clayhollow.md) casts Zone of Truth. [Mitarella](Mitarella%20Randall.md), [Remus Kyp](Remus%20Kyp.md), and 4 royal guards.
-- [Session 33](../../Session%2033.md): The party interrogates [Rickard](Rickard%20Kyp.md); [Theobald](Theobald%20Clayhollow.md) casts Zone of Truth. [Michaela](Michaela%20Randall.md) and [Mitarella](Mitarella%20Randall.md) succeed the check. [Kirren](Kirren%20Acquermann.md), [Remus](Remus%20Kyp.md), and [Rickard](Rickard%20Kyp.md) fails.
-- [Session 34](../../Session%2034.md): [Adikia](Adikia%20Unalome.md), [Adeena](Adeena%20Oberon.md), [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Thoradin](Thoradin%20Goodman.md) enters the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md).
-- [Session 36](../../Session%2036.md): The [[Seven Up...|party]] is joined by [Theobald](Theobald%20Clayhollow.md).
 - [Session 38](../Session%20Log/Session%2038.md): In a vision,[Theobald](Theobald%20Clayhollow.md)'s[Matunda's Mace](Matunda's%20Mace.md) glows,
 > You see [Astar](Astar.md), [Theobald](Theobald%20Clayhollow.md)'s lost eagle, traveling to the moon, an ominous sign that your beloved pet is now resting in the afterlife.
 - [Session 40](../Session%20Log/Session%2040.md): [Theobald](Theobald%20Clayhollow.md) finds some notes detailing the construction of the [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md) by [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md).
@@ -89,10 +85,14 @@ A little later, Theobald left for [Curkip](../Locations/Settlements/Curkip.md), 
 - [Session 41](../Session%20Log/Session%2041.md): [Theobald](Theobald%20Clayhollow.md), [Thoradin](Thoradin%20Goodman.md) and [Arc](Arc.md) receives gold for their exploration.
 - [Session 41](../Session%20Log/Session%2041.md): The [Shadow Knight](Shadow%20Knight.md) bestows [Theobald](Theobald%20Clayhollow.md) a Shadow Sigil resembling that of [Kiris](Kiris%20Acquermann.md)' sigil. The [Knights of the Wayraven](Knights%20of%20the%20Wayraven.md) are revealed to inhabit the [Plane of Shadows](Shadowfell.md).
 > [Kiris](Kiris%20Acquermann.md) shows the [Shadow Knight](Shadow%20Knight.md) his sigil.
-> *"That sigil belongs to the [Wayravens](Knights%20of%20the%20Wayraven.md), masters from the [Material Realm](Material%20Realm.md) who holds dominion over the [Plane of Shadows](Shadowfell.md)".*
+> *"That sigil belongs to the [Wayravens](Knights%20of%20the%20Wayraven.md), masters from the [Material Realm](Material%20Realm.md) who holds dominion over the [Plane of Shadows](Shadowfell.md)."*
 - [Session 41](../Session%20Log/Session%2041.md): [Theobald](Theobald%20Clayhollow.md) gives the Shadow Sigil to [Kiris](Kiris%20Acquermann.md).
 - [Session 41](../Session%20Log/Session%2041.md): [Theobald](Theobald%20Clayhollow.md) asks the casters about the wielder of [Matunda's Mace](Matunda's%20Mace.md).
-> *"[Yugad](Yugad%20Matunda.md), the first amalgam cleric, weaves death and life into a single, inseparable thesis: there is no life without death."*
+> *"[Yugad](Yugad%20Matunda.md), the first [Amalgam Cleric](Yugad%20Matunda.md), weaves death and life into a single, inseparable thesis: there is no life without death."*
+- [Session 42](../Session%20Log/Session%2042.md): The [[Seven Up...|party]] incurs temporal displacement sickness. [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Adeena](Adeena%20Oberon.md) are more affected by the sickness.
+- [Session 42](../Session%20Log/Session%2042.md): During the traditional intermission, [Mitarella](Mitarella%20Randall.md) talks to [Adikia](Adikia%20Unalome.md), [Theobald](Theobald%20Clayhollow.md), and [Kiris](Kiris%20Acquermann.md).
+- [Session 42](../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) bursts into action and rides a steed. The [[Seven Up...|party]] rides a closed carriage pulled by two horses. [Theobald](Theobald%20Clayhollow.md) drives the carriage.
+- [Session 42](../Session%20Log/Session%2042.md): [Theobald](Theobald%20Clayhollow.md) prays to [Aisef](Aisef.md).
 
 ## All Entries
 - [Session 13](../../Session%2013.md): [Theobald](Theobald%20Clayhollow.md) found a book about detailing the jungle continent of [Suirsya](Suirsya.md):
@@ -107,7 +107,11 @@ A little later, Theobald left for [Curkip](../Locations/Settlements/Curkip.md), 
 - [Session 41](../Session%20Log/Session%2041.md): [Theobald](Theobald%20Clayhollow.md), [Thoradin](Thoradin%20Goodman.md) and [Arc](Arc.md) receives gold for their exploration.
 - [Session 41](../Session%20Log/Session%2041.md): The [Shadow Knight](Shadow%20Knight.md) bestows [Theobald](Theobald%20Clayhollow.md) a Shadow Sigil resembling that of [Kiris](Kiris%20Acquermann.md)' sigil. The [Knights of the Wayraven](Knights%20of%20the%20Wayraven.md) are revealed to inhabit the [Plane of Shadows](Shadowfell.md).
 > [Kiris](Kiris%20Acquermann.md) shows the [Shadow Knight](Shadow%20Knight.md) his sigil.
-> *"That sigil belongs to the [Wayravens](Knights%20of%20the%20Wayraven.md), masters from the [Material Realm](Material%20Realm.md) who holds dominion over the [Plane of Shadows](Shadowfell.md)".*
+> *"That sigil belongs to the [Wayravens](Knights%20of%20the%20Wayraven.md), masters from the [Material Realm](Material%20Realm.md) who holds dominion over the [Plane of Shadows](Shadowfell.md)."*
 - [Session 41](../Session%20Log/Session%2041.md): [Theobald](Theobald%20Clayhollow.md) gives the Shadow Sigil to [Kiris](Kiris%20Acquermann.md).
 - [Session 41](../Session%20Log/Session%2041.md): [Theobald](Theobald%20Clayhollow.md) asks the casters about the wielder of [Matunda's Mace](Matunda's%20Mace.md).
-> *"[Yugad](Yugad%20Matunda.md), the first amalgam cleric, weaves death and life into a single, inseparable thesis: there is no life without death."*
+> *"[Yugad](Yugad%20Matunda.md), the first [Amalgam Cleric](Yugad%20Matunda.md), weaves death and life into a single, inseparable thesis: there is no life without death."*
+- [Session 42](../Session%20Log/Session%2042.md): The [[Seven Up...|party]] incurs temporal displacement sickness. [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Adeena](Adeena%20Oberon.md) are more affected by the sickness.
+- [Session 42](../Session%20Log/Session%2042.md): During the traditional intermission, [Mitarella](Mitarella%20Randall.md) talks to [Adikia](Adikia%20Unalome.md), [Theobald](Theobald%20Clayhollow.md), and [Kiris](Kiris%20Acquermann.md).
+- [Session 42](../Session%20Log/Session%2042.md): [Theobald](Theobald%20Clayhollow.md) prays to [Aisef](Aisef.md).
+- [Session 42](../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) bursts into action and rides a steed. The [[Seven Up...|party]] rides a closed carriage pulled by two horses. [Theobald](Theobald%20Clayhollow.md) drives the carriage.

@@ -33,24 +33,25 @@ icon: lore
 ### Mythic Keeper: [Johannes Cappodon](../../Lore/Mythical%20Heroes/Johannes%20Cappodon.md)
 Worn by [Johannes Cappodon](../../Lore/Mythical%20Heroes/Johannes%20Cappodon.md) during [The Great War](../../Lore/Kippian-Sumber%20War.md), the adamantium-alloyed and battle-worn [Vambrace Shields](Vambrace%20Shields.md) provided unflinching defense to the general and his army during the war.
 # Properties
-### Shield, +1
+## Shield, +1
 While holding both shields, you have a +1 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.
-
-### Shield Attack III
+## Shield Attack III
 On a hit, the Vambrace Shield deals 1d8 bludgeoning damage.
-
-### Shieldbearer
+## Shieldbearer
 To harness the Vambrace Shields' enchantment, you must defer using any other weapon. In order to receive the shield's AC bonus and to use its properties, you must be wielding both Vambrace Shields.
-
-### Shield Attack Proficiency
+## Shield Attack Proficiency
 You can now attack with the Vambrace Shields as if you are proficient with it. In addition, if you use Shield Attack as an action, you can use your bonus action to shove a creature within 5 feet of you.
-
-### Shield Wall
+## Shield Wall
 As an action, you can provide protection to yourself and a chosen ally creature within 5 feet. Creatures attacking you or your ally receive disadvantage on their attack rolls until the start of your next turn.
-
-### Proactive Defense
+## Proactive Defense
 You can use your reaction to provide this item's total AC bonus to another creature within 15 feet that is targeted by an attack.
 # Story Log
 ## Most Recent
+- [Session 42](../../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) talks to the royal guards. During a friendly contest, [Thoradin](Thoradin%20Goodman.md) sees two runic inscriptions inside his [Vambrace Shields](Vambrace%20Shields.md).
+- [Session 42](../../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) asks [Adikia](Adikia%20Unalome.md) to read the inscriptions on his [Vambrace Shields](Vambrace%20Shields.md).
+> From [Wycroft](Wycroft%20Mountain%20Kingdom.md), To [Quigymara](Quigymara.md).
 
 ## All Entries
+- [Session 42](../../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) talks to the royal guards. During a friendly contest, [Thoradin](Thoradin%20Goodman.md) sees two runic inscriptions inside his [Vambrace Shields](Vambrace%20Shields.md).
+- [Session 42](../../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) asks [Adikia](Adikia%20Unalome.md) to read the inscriptions on his [Vambrace Shields](Vambrace%20Shields.md).
+> From [Wycroft](Wycroft%20Mountain%20Kingdom.md), To [Quigymara](Quigymara.md).

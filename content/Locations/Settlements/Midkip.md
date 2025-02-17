@@ -50,7 +50,7 @@ icon: settlement
 | [Laurie Furwish](../../../Laurie%20Furwish.md)       | Laurie             | [Aetos District](../Areas/Aetos%20District.md)           |
 | [Michaela Randall](../../../Michaela%20Randall.md)   | Michaela           | [Duospathia District](../Areas/Duospathia%20District.md) |
 | [Mitarella Randall](../../../Mitarella%20Randall.md) | Mitarella          | [Duospathia District](../Areas/Duospathia%20District.md) |
-| [Remus Kyp](../../../Remus%20Kyp.md)                 | \-                 | [Ankyra District](../Areas/Ankyra%20District.md)         |
+| [Remus Kyp](../../../Remus%20Kyp.md)                 | Remus              | [Ankyra District](../Areas/Ankyra%20District.md)         |
 | [Rickard Kyp](../../../Rickard%20Kyp.md)             | Rickard            | [Ankyra District](../Areas/Ankyra%20District.md)         |
 | [Riordan Kyp](../../../Riordan%20Kyp.md)             | King, King Riordan | [Asteri District](../Areas/Asteri%20District.md)         |
 | [zzz_Char Test](../../../zzz_Char%20Test.md)         | \-                 | [Midkip](Midkip.md)                     |

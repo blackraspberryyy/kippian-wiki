@@ -34,22 +34,17 @@ The [Aureate Rapier](Aureate%20Rapier.md) is not meant to be used as a weapon. I
 ### Mythic Keeper: [Azir Kyp](../../Lore/Mythical%20Heroes/Azir%20Kyp.md)
 The [Aureate Rapier](Aureate%20Rapier.md) is a golden ceremonial rapier given to [Kippian](../../Locations/Kingdoms/Kingdom%20of%20United%20Kippian.md)'s royal princes. Its power, which is exploited to its fullest potential by [Azir Kyp](../../Lore/Mythical%20Heroes/Azir%20Kyp.md) during [The Great War](../../Lore/Kippian-Sumber%20War.md), magnifies its wielder's innate charisma.
 # Properties
-### Chipped Gold
+## Chipped Gold
 You can sell the chipped gold for 1 gp. You can only do this once per day. A chipped Aureate Rapier deals half its normal damage.
-
-### Alchemical Nature
+## Alchemical Nature
 The Aureate Rapier retained some of its alchemical magic, allowing it to self-mend its chipped parts. Next dawn, the Aureate Rapier is back to its unchipped state.
-
-### Bargaining Chip
+## Bargaining Chip
 You gain advantage on your Charisma checks whenever you use the Chipped Gold as a bargaining asset. In addition, you can now sell the chipped gold for 5 gp.
-
-### Golden Allure
+## Golden Allure
 If you are wielding the Aureate Rapier, target one creature who can see this weapon. The target has disadvantage on all Wisdom checks. You can change the target (or targets) of Golden Allure at the start of your next turn.
-
-### Alluring Appearance I
+## Alluring Appearance I
 You can now target up to two creatures with Golden Allure.
-
-### Disarming Presence
+## Disarming Presence
 Choose one enemy creature affected by Golden Allure. You can use your action to impose disadvantage on its next attack roll. In addition, it takes one additional die for the next damage source it would receive. These effects last until the start of your next turn.
 # Story Log
 ## Most Recent
