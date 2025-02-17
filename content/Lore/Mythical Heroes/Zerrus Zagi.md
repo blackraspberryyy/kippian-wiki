@@ -69,7 +69,7 @@ The sixth month, Zagi, is named after [Zerrus Zagi](Zerrus%20Zagi.md).
 > Within the [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md) are the keys to disabling the barrier that separates the Hall of [Akenatun](Akenatun.md) from the labyrinthus.
 - [Session 40](../../Session%20Log/Session%2040.md): [Arc](Arc.md) discovers the statue that tells the discovery of the [Scepter of Akenatun](Scepter%20of%20Akenatun.md) by [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md).
 - [Session 41](../../Session%20Log/Session%2041.md): Apparitions of [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md) appears in front of the [party](Seven%20Up....md).
-- [Session 41](../../Session%20Log/Session%2041.md): [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md) imparts their power to [Splix](Spraugh%20'Splix'%20Calix.md) and [Kiris](Kiris%20Acquermann.md).
+- [Session 41](../../Session%20Log/Session%2041.md): [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md) imparts their power to [Splix](Spraugh%20'Splix'%20Calix.md) and [Kiris](Kiris%20Acquermann.md) through the [Ymerald Staff](Ymerald%20Staff.md) and the [Frostborn Armor](Frostborn%20Armor.md).
 > *"Tough times are ahead, but with our power, we hope that you can prevail."*
 
 ## All Entries
@@ -91,5 +91,5 @@ The sixth month, Zagi, is named after [Zerrus Zagi](Zerrus%20Zagi.md).
 > Within the [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md) are the keys to disabling the barrier that separates the Hall of [Akenatun](Akenatun.md) from the labyrinthus.
 - [Session 40](../../Session%20Log/Session%2040.md): [Arc](Arc.md) discovers the statue that tells the discovery of the [Scepter of Akenatun](Scepter%20of%20Akenatun.md) by [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md).
 - [Session 41](../../Session%20Log/Session%2041.md): Apparitions of [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md) appears in front of the [party](Seven%20Up....md).
-- [Session 41](../../Session%20Log/Session%2041.md): [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md) imparts their power to [Splix](Spraugh%20'Splix'%20Calix.md) and [Kiris](Kiris%20Acquermann.md).
+- [Session 41](../../Session%20Log/Session%2041.md): [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md) imparts their power to [Splix](Spraugh%20'Splix'%20Calix.md) and [Kiris](Kiris%20Acquermann.md) through the [Ymerald Staff](Ymerald%20Staff.md) and the [Frostborn Armor](Frostborn%20Armor.md).
 > *"Tough times are ahead, but with our power, we hope that you can prevail."*
