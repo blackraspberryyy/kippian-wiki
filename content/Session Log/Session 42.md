@@ -36,10 +36,15 @@ icon: calendar
 - [Kiris](../PCs/Kiris%20Acquermann.md) asks [Kirren](../../Kirren%20Acquermann.md) about the [Shadow Sigil](../../Shadow%20Sigil.md). [Kirren](../../Kirren%20Acquermann.md) claims that she does not know about it other than that it looks familiar to the [Wayravens](../Factions/Knights%20of%20the%20Wayraven.md)' sigil.
 - [Noah](../PCs/Noah%20Skie.md) reads her translation book for primordial language. She became privy to the chronological succession of the [Primordial Ages](../Lore/Eons%20and%20Ages/Primordial%20Ages.md).
 > The chronological list of the [Primordial Ages](../Lore/Eons%20and%20Ages/Primordial%20Ages.md):
+> 
 > [Age of the Old Gods](../Lore/Eons%20and%20Ages/Age%20of%20the%20Old%20Gods.md)
+> 
 > [Age of Dragons](../Lore/Eons%20and%20Ages/Age%20of%20Dragons.md)
+> 
 > [Age of Beasts](../Lore/Eons%20and%20Ages/Age%20of%20Beasts.md)
+> 
 > [Age of Orcs](../Lore/Eons%20and%20Ages/Age%20of%20Orcs.md)
+> 
 > [Age of Humans](../Lore/Eons%20and%20Ages/Age%20of%20Humans.md)
 - [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) visits [Professor Aufel](../../Aufel%20Fernquill.md) and asks the professor to teach him an evocation spell. [Professor Aufel](../../Aufel%20Fernquill.md) asks for a thorough inspection of the [Ymerald Staff](../Items/Mythic%20Items/Ymerald%20Staff.md) in exchange.
 ## Back to the Ironfleets...?
