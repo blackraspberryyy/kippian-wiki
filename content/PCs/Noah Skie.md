@@ -84,10 +84,15 @@ She thought that she would only use her strength for peace: it would be her way 
 - [Session 42](../Session%20Log/Session%2042.md): As the [Noah](Noah%20Skie.md) steps out of the [Ankyra's Old Castle Compound](Ankyra's%20Old%20Castle%20Compound.md), the [[Seven Up...|party]] hears a whistle and the sound of detonation originating from the [Ironfleet Compound](Ironfleet%20Compound.md).
 - [Session 42](../Session%20Log/Session%2042.md): [Noah](Noah%20Skie.md) reads her translation book for primordial language. She became privy to the chronological succession of the [Primordial Ages](Primordial%20Ages.md).
 > The chronological list of the [Primordial Ages](Primordial%20Ages.md):
+>
 > [Age of the Old Gods](Age%20of%20the%20Old%20Gods.md)
+>
 > [Age of Dragons](Age%20of%20Dragons.md)
+>
 > [Age of Beasts](Age%20of%20Beasts.md)
+>
 > [Age of Orcs](Age%20of%20Orcs.md)
+>
 > [Age of Humans](Age%20of%20Humans.md)
 
 ## All Entries
@@ -124,9 +129,14 @@ She thought that she would only use her strength for peace: it would be her way 
 - [Session 42](../Session%20Log/Session%2042.md): [Noah](Noah%20Skie.md) overhears that [Professor Aufel](Aufel%20Fernquill.md) and [Michaela](Michaela%20Randall.md) talking. The [professor](Aufel%20Fernquill.md)'s there to conduct research within the [Ankyra's Old Castle Compound](Ankyra's%20Old%20Castle%20Compound.md)'s library that could help with the [Yvernus](Yvernus%20District.md) situation.
 - [Session 42](../Session%20Log/Session%2042.md): [Noah](Noah%20Skie.md) reads her translation book for primordial language. She became privy to the chronological succession of the [Primordial Ages](Primordial%20Ages.md).
 > The chronological list of the [Primordial Ages](Primordial%20Ages.md):
+>
 > [Age of the Old Gods](Age%20of%20the%20Old%20Gods.md)
+>
 > [Age of Dragons](Age%20of%20Dragons.md)
+>
 > [Age of Beasts](Age%20of%20Beasts.md)
+>
 > [Age of Orcs](Age%20of%20Orcs.md)
+>
 > [Age of Humans](Age%20of%20Humans.md)
 - [Session 42](../Session%20Log/Session%2042.md): As the [Noah](Noah%20Skie.md) steps out of the [Ankyra's Old Castle Compound](Ankyra's%20Old%20Castle%20Compound.md), the [[Seven Up...|party]] hears a whistle and the sound of detonation originating from the [Ironfleet Compound](Ironfleet%20Compound.md).
