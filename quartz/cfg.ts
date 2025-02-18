@@ -1,3 +1,4 @@
+import { RPGCalendarConfig } from "rpg-calendar/build/main/lib/types"
 import { ValidDateType } from "./components/Date"
 import { QuartzComponent } from "./components/types"
 import { ValidLocale } from "./i18n"
@@ -75,7 +76,15 @@ export interface GlobalConfiguration {
    * Region Codes: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
    */
   locale: ValidLocale,
-  hideInfobox: boolean
+  /**
+   * Hides infobox callouts, and move them on the right sidebar
+   */
+  hideInfobox?: boolean,
+  /**
+   * Kippian Calendar Config
+   * Ref: https://github.com/steamedcotton/rpg-calendar
+   */
+  calendarConfig: RPGCalendarConfig
 }
 
 export interface QuartzConfig {
