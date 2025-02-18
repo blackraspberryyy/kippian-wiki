@@ -120,7 +120,7 @@ icon: player
 ><li>Chromatic Orb</li>
 ><li>Alarm</li>
 >
->We have also mastered reading and writing in Magiscript, according to Professor Aufel. We have also passed our tests in geography, advanced mathematics, basic alchemy, Kippian history, theological history, botany and zoology, mythologies, rune cryptography, and mage conduct. We were also given the Book of Savras by the university as required reading.
+>We have also mastered reading and writing in Magiscript, according to [Professor Aufel](../../Aufel%20Fernquill.md). We have also passed our tests in geography, advanced mathematics, basic alchemy, [Kippian](../Locations/Kingdoms/Kingdom%20of%20United%20Kippian.md) history, theological history, botany and zoology, mythologies, rune cryptography, and mage conduct. We were also given the Book of Savras by the university as required reading.
 >
 >We will be entering the final year of our studies soon. We hope to meet you soon, [Professor Embersense](../../Dorfir%20Embersense.md).
 >
