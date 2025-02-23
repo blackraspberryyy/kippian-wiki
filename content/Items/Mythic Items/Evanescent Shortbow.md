@@ -34,19 +34,15 @@ The [Evanescent Shortbow](Evanescent%20Shortbow.md) is a bow fashioned from hard
 ### Mythic Keeper: [Amlaena Gustkil](../../Lore/Mythical%20Heroes/Amlaena%20Gustkil.md)
 The [Evanescent Shortbow](Evanescent%20Shortbow.md) allowed [Amlaena Gustkil](../../Lore/Mythical%20Heroes/Amlaena%20Gustkil.md) to be elusive and untraceable during [The Great War](../../Lore/Kippian-Sumber%20War.md).
 # Properties
-### Shortbow, +1
+## Shortbow, +1
 You gain a +1 bonus to attack and damage rolls made with this weapon.
-
-### Translucence
+## Translucence
 When placed on glass-like surfaces, the weapon becomes invisible, except to its attuned wielder. Furthermore, nonmagical arrows used as ammunition for this weapon gain the **Translucent** property upon firing. Translucent arrows are invisible, and they dissipate into the ethereal plane after it hits a creature or an object.
-
-### Ethereal Quiver
+## Ethereal Quiver
 You can use your bonus action to draw an Ethereal Arrow from thin air. Ethereal arrows inherently have the Translucent property. Damage dealt by using an ethereal arrow is halved (rounded down). Ethereal arrows cannot be used as ammunition to other weapons, and they will dissipate after 6 seconds when not fired.
-
-### Luminescence
+## Luminescence
 You can cast the Light and Daylight spells, but with either the shortbow or an Ethereal Arrow as the spell's target. You can only cast Daylight once per long rest.
-
-### Transparency
+## Transparency
 You gain advantage on Dexterity (Stealth) checks made to hide. Furthermore, once per long rest, you can use your action to gain the effect of Invisibility spell for one minute.
 # Story Log
 ## Most Recent
