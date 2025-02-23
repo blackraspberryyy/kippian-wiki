@@ -36,27 +36,3 @@ icon: lore
 ## Most Recent
 
 ## All Entries
-
-# Pre-Descent
-# Age of the Old Gods 
-- [Akenatun](../../Deities/Old%20Gods/Akenatun.md) and [Matunda](../../Deities/Old%20Gods/Matunda.md) declares war against [Miledu](../../../Miledu.md)
-- [Miledu](../../../Miledu.md) is forced to go underground.  Antasha and Walladu created(or became) the lands and the sea by drawing power from the elemental planes.
-- [Akenatun](../../Deities/Old%20Gods/Akenatun.md) resided on the sun, [Matunda](../../Deities/Old%20Gods/Matunda.md) on the moon. They meet every solar eclipse
-# Age of Dragons
-- [Miledu](../../../Miledu.md) sends dragons to invade the world
-# Age of Beasts
-- [Miledu](../../../Miledu.md) sends many lesser creatures to invade the world
-# Age of Orcs
-- [Miledu](../../../Miledu.md) tricked the orcs and tried to invade the world.
-- [Akenatun](../../Deities/Old%20Gods/Akenatun.md) curses the orcs and punished [Macchi](../../Deities/Old%20Gods/Macchi.md) to be the guard of [Miledu](../../../Miledu.md)'s domain.
-# Age of Humans
-- [Miledu](../../../Miledu.md) sends humans to wage war against the beings
-# Descent
-# Age of the New Gods 
-[Akenatun](../../Deities/Old%20Gods/Akenatun.md) purifies the human race. Humans receive divine protection from [Akenatun](../../Deities/Old%20Gods/Akenatun.md)
-# Age of Kings
-# Age of Heroes
-- [Kippian-Sumber War](../Kippian-Sumber%20War.md)
-# Post-Descent
-# Age of Civilization
-- Start of the current year count

@@ -90,21 +90,21 @@ During her stay at [Richie's Inn](../Locations/Buildings/Richie's%20Inn%20and%20
 - [Cain Othburn](../../Cain%20Othburn.md)
 # Story log
 ## Most Recent
-- [Session 34](../../Session%2034.md): [Adikia](Adikia%20Unalome.md), [Adeena](Adeena%20Oberon.md), [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Thoradin](Thoradin%20Goodman.md) enters the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md).
-- [Session 36](../../Session%2036.md): [Adeena](Adeena%20Oberon.md) retrieved Engor's Diary and read an excerpt showcasing the [Frostborn Armor](Frostborn%20Armor.md)'s powers.
-- [Session 38](../Session%20Log/Session%2038.md): [Adeena](Adeena%20Oberon.md) experiences the following vision:
->[Adeena](Adeena%20Oberon.md) sees a familiar coin, while a voice whispers, "Dear child... Save those threatened by the fallen soldiers of [Yekora](Yekora.md). Judge the heathens as prescribed by your oath."
-- [Session 40](../Session%20Log/Session%2040.md): [Adeena](Adeena%20Oberon.md) finds the continuation of the hallway inscription.
-- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
-- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
-- [Session 41](../Session%20Log/Session%2041.md): [Adeena](Adeena%20Oberon.md) asks the casters if there was a way to open the portal to the [Plane of Dragons](Plane%20of%20Dragons.md).
-> *"[Akenatun](Akenatun.md) locked out the dragons from the [Material Realm](Material%20Realm.md) through the portal in [Yvernus](Yvernus%20District.md)"*
-- [Session 42](../Session%20Log/Session%2042.md): The [[Seven Up...|party]] incurs temporal displacement sickness. [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Adeena](Adeena%20Oberon.md) are more affected by the sickness.
-- [Session 42](../Session%20Log/Session%2042.md): [Adeena](Adeena%20Oberon.md) opts to meditate and talk to [Aulephi](Aulephi.md). [Arc](Arc.md) opts to rest instead.
 - [Session 42](../Session%20Log/Session%2042.md): [Arc](Arc.md) wakes up, and [Adeena](Adeena%20Oberon.md) is not in the room. She left the following note:
 > [!NOTE]
 > From [Adeena](Adeena%20Oberon.md)
 > I need to fulfill my oath.
+- [Session 43](../Session%20Log/Session%2043.md): [Adeena](Adeena%20Oberon.md) surveys the [Ironfleet Compound](Ironfleet%20Compound.md) and found [Dusk Talons](Dusk%20Talons.md) planning to assault it.
+- [Session 43](../Session%20Log/Session%2043.md): [Adeena](Adeena%20Oberon.md) heard a booming sound; she investigates it and sees that it was the main gate of the compound destroyed.
+- [Session 43](../Session%20Log/Session%2043.md): [Adeena](Adeena%20Oberon.md) sees [Gandour](Gandour%20Ironfleet.md) directing his men to guard the breached gate.
+- [Session 43](../Session%20Log/Session%2043.md): [Adeena](Adeena%20Oberon.md) realizes that the breach is a distraction to weaken the compound's defenses at other points.
+- [Session 43](../Session%20Log/Session%2043.md): While resting, [Adeena](Adeena%20Oberon.md) is attacked. It is revealed to be "Candor," [Frederick](Frederick%20Oberon.md)'s right hand man.
+> *"Finally, I see you again, [Adeena](Adeena%20Oberon.md)."*
+- [Session 43](../Session%20Log/Session%2043.md): The [[Seven Up...|party]], minus [Adeena](Adeena%20Oberon.md), rushes to the [compound](Ironfleet%20Compound.md).
+- [Session 43](../Session%20Log/Session%2043.md): There, they saw [Adeena](Adeena%20Oberon.md) surrendering to a man hidden behind the shadows.
+- [Session 43](../Session%20Log/Session%2043.md): [Adikia](Adikia%20Unalome.md) rushes forwards and attempts to grab the man. [Adikia](Adikia%20Unalome.md) fails; however, she figures out that the man [Adeena](Adeena%20Oberon.md) is surrendering to is [Kayriel](Kayriel%20Acquermann.md), or at least resembles its face.
+- [Session 43](../Session%20Log/Session%2043.md): [Kayriel](Kayriel%20Acquermann.md) is defeated; however, it turns out that it is not the real body of [Kayriel](Kayriel%20Acquermann.md) either. The body melts again, as the illusion bids another warning.
+> *"We shall meet again, [Adeena](Adeena%20Oberon.md)."*
 
 ## All Entries
 - [Session 12](../../Session%2012.md): [Adeena](Adeena%20Oberon.md) is asked by a stranger what her name is. [Adeena](Adeena%20Oberon.md) answers "Anna".
@@ -128,3 +128,14 @@ During her stay at [Richie's Inn](../Locations/Buildings/Richie's%20Inn%20and%20
 > [!NOTE]
 > From [Adeena](Adeena%20Oberon.md)
 > I need to fulfill my oath.
+- [Session 43](../Session%20Log/Session%2043.md): [Adeena](Adeena%20Oberon.md) surveys the [Ironfleet Compound](Ironfleet%20Compound.md) and found [Dusk Talons](Dusk%20Talons.md) planning to assault it.
+- [Session 43](../Session%20Log/Session%2043.md): [Adeena](Adeena%20Oberon.md) heard a booming sound; she investigates it and sees that it was the main gate of the compound destroyed.
+- [Session 43](../Session%20Log/Session%2043.md): [Adeena](Adeena%20Oberon.md) sees [Gandour](Gandour%20Ironfleet.md) directing his men to guard the breached gate.
+- [Session 43](../Session%20Log/Session%2043.md): [Adeena](Adeena%20Oberon.md) realizes that the breach is a distraction to weaken the compound's defenses at other points.
+- [Session 43](../Session%20Log/Session%2043.md): While resting, [Adeena](Adeena%20Oberon.md) is attacked. It is revealed to be "Candor," [Frederick](Frederick%20Oberon.md)'s right hand man.
+> *"Finally, I see you again, [Adeena](Adeena%20Oberon.md)."*
+- [Session 43](../Session%20Log/Session%2043.md): The [[Seven Up...|party]], minus [Adeena](Adeena%20Oberon.md), rushes to the [compound](Ironfleet%20Compound.md).
+- [Session 43](../Session%20Log/Session%2043.md): There, they saw [Adeena](Adeena%20Oberon.md) surrendering to a man hidden behind the shadows.
+- [Session 43](../Session%20Log/Session%2043.md): [Adikia](Adikia%20Unalome.md) rushes forwards and attempts to grab the man. [Adikia](Adikia%20Unalome.md) fails; however, she figures out that the man [Adeena](Adeena%20Oberon.md) is surrendering to is [Kayriel](Kayriel%20Acquermann.md), or at least resembles its face.
+- [Session 43](../Session%20Log/Session%2043.md): [Kayriel](Kayriel%20Acquermann.md) is defeated; however, it turns out that it is not the real body of [Kayriel](Kayriel%20Acquermann.md) either. The body melts again, as the illusion bids another warning.
+> *"We shall meet again, [Adeena](Adeena%20Oberon.md)."*

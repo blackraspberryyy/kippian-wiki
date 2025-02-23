@@ -49,8 +49,8 @@ The tenth and final month, Yugad, is named after [Yugad Matunda](Yugad%20Matunda
 # Story Log
 ## Most Recent
 - [Session 41](../../Session%20Log/Session%2041.md): [Theobald](Theobald%20Clayhollow.md) asks the casters about the wielder of [Matunda's Mace](Matunda's%20Mace.md).
-> *"[Yugad](Yugad%20Matunda.md), the first amalgam cleric, weaves death and life into a single, inseparable thesis: there is no life without death."*
+> *"[Yugad](Yugad%20Matunda.md), the first [Amalgam Cleric](Yugad%20Matunda.md), weaves death and life into a single, inseparable thesis: there is no life without death."*
 
 ## All Entries
 - [Session 41](../../Session%20Log/Session%2041.md): [Theobald](Theobald%20Clayhollow.md) asks the casters about the wielder of [Matunda's Mace](Matunda's%20Mace.md).
-> *"[Yugad](Yugad%20Matunda.md), the first amalgam cleric, weaves death and life into a single, inseparable thesis: there is no life without death."*
+> *"[Yugad](Yugad%20Matunda.md), the first [Amalgam Cleric](Yugad%20Matunda.md), weaves death and life into a single, inseparable thesis: there is no life without death."*

@@ -72,8 +72,6 @@ There was no time to think as she heard the local guards traversing the snow, cl
 - Musical instrument: Vionna
 # Story log
 ## Most Recent
-- [Session 40](../Session%20Log/Session%2040.md): [Adikia](Adikia%20Unalome.md) investigates the statue. She sees the following inscription:
->Fashioned from the hall's stone golems, the [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md) are immune to most magic.
 - [Session 41](../Session%20Log/Session%2041.md): [Adikia](Adikia%20Unalome.md) perceives [Noah](Noah%20Skie.md) appearing into existence.
 - [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
 - [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
@@ -86,6 +84,7 @@ There was no time to think as she heard the local guards traversing the snow, cl
 - [Session 42](../Session%20Log/Session%2042.md): During the traditional intermission, [Mitarella](Mitarella%20Randall.md) talks to [Adikia](Adikia%20Unalome.md), [Theobald](Theobald%20Clayhollow.md), and [Kiris](Kiris%20Acquermann.md).
 - [Session 42](../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) asks [Adikia](Adikia%20Unalome.md) to read the inscriptions on his [Vambrace Shields](Vambrace%20Shields.md).
 > From [Wycroft](Wycroft%20Mountain%20Kingdom.md), To [Quigymara](Quigymara.md).
+- [Session 43](../Session%20Log/Session%2043.md): [Adikia](Adikia%20Unalome.md) rushes forwards and attempts to grab the man. [Adikia](Adikia%20Unalome.md) fails; however, she figures out that the man [Adeena](Adeena%20Oberon.md) is surrendering to is [Kayriel](Kayriel%20Acquermann.md), or at least resembles its face.
 
 ## All Entries
 - [Session 13](../../Session%2013.md): [Adikia](Adikia%20Unalome.md) read a book detailing the [Feywild](Feywild.md). She learns the following:
@@ -110,3 +109,4 @@ There was no time to think as she heard the local guards traversing the snow, cl
 - [Session 42](../Session%20Log/Session%2042.md): During the traditional intermission, [Mitarella](Mitarella%20Randall.md) talks to [Adikia](Adikia%20Unalome.md), [Theobald](Theobald%20Clayhollow.md), and [Kiris](Kiris%20Acquermann.md).
 - [Session 42](../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) asks [Adikia](Adikia%20Unalome.md) to read the inscriptions on his [Vambrace Shields](Vambrace%20Shields.md).
 > From [Wycroft](Wycroft%20Mountain%20Kingdom.md), To [Quigymara](Quigymara.md).
+- [Session 43](../Session%20Log/Session%2043.md): [Adikia](Adikia%20Unalome.md) rushes forwards and attempts to grab the man. [Adikia](Adikia%20Unalome.md) fails; however, she figures out that the man [Adeena](Adeena%20Oberon.md) is surrendering to is [Kayriel](Kayriel%20Acquermann.md), or at least resembles its face.

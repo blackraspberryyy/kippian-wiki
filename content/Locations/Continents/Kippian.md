@@ -28,9 +28,9 @@ icon: map
 | [Stonethorn Mountains](../Areas/Stonethorn%20Mountains.md)              |
 | [Yorvengarde Mountains](../Areas/Yorvengarde%20Mountains.md)            |
 | [Elven Kingdom of Ephelus](../Kingdoms/Elven%20Kingdom%20of%20Ephelus.md)   |
-| [Kingdom of United Kippian](../Kingdoms/Kingdom%20of%20United%20Kippian.md) |
-| [Wycroft Mountain Kingdom](../Kingdoms/Wycroft%20Mountain%20Kingdom.md)   |
 | [Opidys](../Kingdoms/Opidys.md)                                       |
+| [Wycroft Mountain Kingdom](../Kingdoms/Wycroft%20Mountain%20Kingdom.md)   |
+| [Kingdom of United Kippian](../Kingdoms/Kingdom%20of%20United%20Kippian.md) |
 
 # Notable NPCs
 | Name |

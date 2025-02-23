@@ -34,8 +34,6 @@ icon: player
 ## Relationships
 # Story log
 ## Most Recent
-- [Session 40](../Session%20Log/Session%2040.md): [Arc](Arc.md) sees the following hallway inscription across the invisible barrier:
->Within the [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md) are the keys to disabling the barrier that separates the hall...
 - [Session 40](../Session%20Log/Session%2040.md): [Arc](Arc.md) discovers the statue that tells the discovery of the [Scepter of Akenatun](Scepter%20of%20Akenatun.md) by [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md).
 - [Session 41](../Session%20Log/Session%2041.md): [Theobald](Theobald%20Clayhollow.md), [Thoradin](Thoradin%20Goodman.md) and [Arc](Arc.md) receives gold for their exploration.
 - [Session 41](../Session%20Log/Session%2041.md): The nameless [Shadow Knight](Shadow%20Knight.md) talks to the [[Seven Up...|party]].
@@ -51,6 +49,7 @@ icon: player
 > From [Adeena](Adeena%20Oberon.md)
 > I need to fulfill my oath.
 - [Session 42](../Session%20Log/Session%2042.md): [Arc](Arc.md) sneaks out of the [compound](Ankyra's%20Old%20Castle%20Compound.md) to sell some stuff. [Arc](Arc.md) stumbles upon a dagger with a [Sumberian](Sumber.md) design.
+- [Session 43](../Session%20Log/Session%2043.md): [Arc](Arc.md) climbs the nearby structure and finds three [Dusk Talons](Dusk%20Talons.md) overlooking the [Compound](Ironfleet%20Compound.md).
 
 ## All Entries
 - [Session 13](../../Session%2013.md): [Arc](Arc.md) learns that wood elves are locals of the [Soliven Forest](Soliven%20Forest.md).
@@ -90,3 +89,4 @@ icon: player
 > From [Adeena](Adeena%20Oberon.md)
 > I need to fulfill my oath.
 - [Session 42](../Session%20Log/Session%2042.md): [Arc](Arc.md) sneaks out of the [compound](Ankyra's%20Old%20Castle%20Compound.md) to sell some stuff. [Arc](Arc.md) stumbles upon a dagger with a [Sumberian](Sumber.md) design.
+- [Session 43](../Session%20Log/Session%2043.md): [Arc](Arc.md) climbs the nearby structure and finds three [Dusk Talons](Dusk%20Talons.md) overlooking the [Compound](Ironfleet%20Compound.md).

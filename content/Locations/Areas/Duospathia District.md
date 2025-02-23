@@ -2,7 +2,7 @@
 share: true
 aliases:
   - Duospathia
-location: "[Midkip](../Settlements/Midkip.md)"
+location: "[[Midkip]]"
 status: 
 lore_type: location
 icon: map
@@ -16,8 +16,10 @@ icon: map
 > | ---- | ---- |
 > | Other names | Duospathia|
 > | Located in | [Midkip](../Settlements/Midkip.md)|
-#### Known for: being [Midkip](../Settlements/Midkip.md)'s army district
 ## Description
+[Duospathia](Duospathia%20District.md) is the district where the [United Kippian Military](../../Factions/United%20Kippian%20Military.md) is housed and trained. 
+
+The [Randall Clan](../../../Randall%20Clan.md) oversees the military district. [Mitarella Randall](../../../Mitarella%20Randall.md) serves not only as the district's representative to the [High Council](../../Factions/The%20High%20Council%20of%20Midkip.md) but also as the [King](../../../Riordan%20Kyp.md)'s most trusted advisor.
 # Notable Locations
 | Name                                                                                                    |
 | ------------------------------------------------------------------------------------------------------- |

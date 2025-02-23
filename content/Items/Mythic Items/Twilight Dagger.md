@@ -33,22 +33,17 @@ The [Twilight Dagger](Twilight%20Dagger.md) is a weapon whose powers are magnifi
 ### Mythic Keeper: [Kwonyr Karst](../../Lore/Mythical%20Heroes/Kwonyr%20Karst.md)
 The [Twilight Dagger](Twilight%20Dagger.md) is a weapon imbued with the power of darkness and shadows. Its past wielder, [Kwonyr](../../Lore/Mythical%20Heroes/Kwonyr%20Karst.md), brandished it to sow fear against the many abusers of [The Great War](../../Lore/Kippian-Sumber%20War.md). 
 # Properties
-### Dagger, +1
+## Dagger, +1
 You gain a +1 bonus to attack and damage rolls made with this weapon.
-
-### Dreadful
+## Dreadful
 Any creature hit by the Twilight Dagger must succeed a WIS Saving Throw (DC 14) or be frightened of you until the end of your next turn. You can only use this ability during nighttime.
-
-### Horrific 
+## Horrific 
 You deal an extra 1d4 necrotic damage with this weapon when attacking a creature frightened of you.
-
-### Fearful
+## Fearful
 If not attuned to a new keeper, the Twilight Dagger magically returns to its attuned keeper at dusk.
-
-### Eyes in the Dark
+## Eyes in the Dark
 During nighttime, you gain darkvision out to a range of 60 feet. You also gain advantage on Perception rolls relying on sight during nighttime.
-
-### Shadow Step
+## Shadow Step
 As a bonus action, you can teleport up to 30 feet to an unoccupied space that you can see. In addition, if you attack a creature with this weapon on the same turn after using Shadow Step, you gain advantage on the attack roll. You can only cast this once per short rest, and only during nighttime.
 # Story Log
 ## Most Recent

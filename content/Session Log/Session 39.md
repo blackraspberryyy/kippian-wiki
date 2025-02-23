@@ -7,7 +7,7 @@ fc-category: Session
 icon: calendar
 ---
 # Exploring the [Labyrinthus](../Locations/Areas/Labyrinthus.md), part 5
-## 
+## Exploration
 - [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) gains the following spells: Burning Hands, Scorching Ray, Fireball, Lightning Bolt, Wall of Fire, Fire Shield, Wall of Sand.
 - [Adikia](../PCs/Adikia%20Unalome.md) sees a statue; inside it is [Nokia](../PCs/Companions/Nokia.md), which turns into her ancient companion.
 - The [party](../Factions/Seven%20Up....md) defeats the [Extraplanar Mink](../../Extraplanar%20Mink.md).

@@ -1,7 +1,7 @@
 ---
 share: true
 creation_date: 2025-02-16 16:24
-location: 
+location: "[[Ankyra District]]"
 fc-date: 1083-06-05
 fc-category: Session
 icon: calendar
@@ -14,7 +14,7 @@ icon: calendar
 - [Adeena](../PCs/Adeena%20Oberon.md) opts to meditate and talk to [Aulephi](../Deities/New%20Gods/Aulephi.md). [Arc](../PCs/Arc.md) opts to rest instead.
 - [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) casts Augury with a couple of coins.
 > [Splix](../PCs/Spraugh%20'Splix'%20Calix.md)'s Augury reveals: "Weal, maybe woe."
-- The [party](../Factions/Seven%20Up....md), except [Noah](../PCs/Noah%20Skie.md), drinks a tea fashioned from the ginger where the First Tre grew. It is a traditional drink honoring [Antasha](../Deities/Old%20Gods/Antasha.md), goddess of the land.
+- The [party](../Factions/Seven%20Up....md), except [Noah](../PCs/Noah%20Skie.md), drinks a tea fashioned from the ginger where [The First Tree](../Locations/Areas/The%20First%20Tree.md) grew. It is a traditional drink honoring [Antasha](../Deities/Old%20Gods/Antasha.md), goddess of the land.
 - During the traditional intermission, [Mitarella](../../Mitarella%20Randall.md) talks to [Adikia](../PCs/Adikia%20Unalome.md), [Theobald](../PCs/Theobald%20Clayhollow.md), and [Kiris](../PCs/Kiris%20Acquermann.md).
 - [Mitarella](../../Mitarella%20Randall.md) shares that [Kayriel Acquermann](../../Kayriel%20Acquermann.md) is not in [Sumber](../Locations/Continents/Sumber.md). She has had no success communicating with [Kayriel Acquermann](../../Kayriel%20Acquermann.md)
 - [Noah](../PCs/Noah%20Skie.md) overhears [Kirren](../../Kirren%20Acquermann.md) and [Michaela](../../Michaela%20Randall.md) talking. [Kirren](../../Kirren%20Acquermann.md) asks if [Michaela](../../Michaela%20Randall.md) if she knew about [Leneia](../../Leneia%20Yarumcy.md). [Michaela](../../Michaela%20Randall.md) denies it, and consoles [Kirren](../../Kirren%20Acquermann.md).
