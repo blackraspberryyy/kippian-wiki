@@ -32,28 +32,25 @@ icon: lore
 ### Mythic Keeper: [Yugad Matunda](../../Lore/Mythical%20Heroes/Yugad%20Matunda.md)
 [Matunda's Mace](Matunda's%20Mace.md) is a weapon wielded by [Yugad Matunda](../../Lore/Mythical%20Heroes/Yugad%20Matunda.md) during [The Great War](../../Lore/Kippian-Sumber%20War.md). The mace is powered by sapping the life essence of enemies or by channeling divine power.
 # Properties
-### Mace, +1
+## Mace, +1
 You have a +1 bonus to attack and damage rolls made with this weapon.
-
-### Soul Charge
+## Soul Charge
 The maximum amount of soul charges the mace can contain is equal to your character's level. You gain soul charges in two ways:
 - **Soul Rend.** Whenever you successfully hit an enemy creature with this weapon, you gain one soul charge.
 - **Divine Sacrifice.** You channel your divine power to imbue Matunda's Mace with soul charges. You can expend a use of your Channel Divinity to gain soul charges. Using your action, you gain the maximum amount of soul charges. You can only use this Channel Divinity option once per long rest.
-
-### Soul Transfusion II
+## Soul Transfusion II
 As an action, you spend soul charges to restore you or your ally's hit points by three times the amount of soul charges spent (3 hp per spent soul charge). You can choose creatures within 30 feet of you and divide the hit points among them.
-
-### Essence Removal
+## Essence Removal
 Whenever you successfully hit an enemy creature with this weapon, instead of gaining a soul charge, you spend soul charges to damage an enemy creature. You deal necrotic damage equal to the amount of soul charges spent.
 # Story Log
 ## Most Recent
 - [Session 38](../../Session%20Log/Session%2038.md): In a vision,[Theobald](Theobald%20Clayhollow.md)'s[Matunda's Mace](Matunda's%20Mace.md) glows,
 > You see [Astar](Astar.md), [Theobald](Theobald%20Clayhollow.md)'s lost eagle, traveling to the moon, an ominous sign that your beloved pet is now resting in the afterlife.
 - [Session 41](../../Session%20Log/Session%2041.md): [Theobald](Theobald%20Clayhollow.md) asks the casters about the wielder of [Matunda's Mace](Matunda's%20Mace.md).
-> *"[Yugad](Yugad%20Matunda.md), the first amalgam cleric, weaves death and life into a single, inseparable thesis: there is no life without death."*
+> *"[Yugad](Yugad%20Matunda.md), the first [Amalgam Cleric](Yugad%20Matunda.md), weaves death and life into a single, inseparable thesis: there is no life without death."*
 
 ## All Entries
 - [Session 38](../../Session%20Log/Session%2038.md): In a vision,[Theobald](Theobald%20Clayhollow.md)'s[Matunda's Mace](Matunda's%20Mace.md) glows,
 > You see [Astar](Astar.md), [Theobald](Theobald%20Clayhollow.md)'s lost eagle, traveling to the moon, an ominous sign that your beloved pet is now resting in the afterlife.
 - [Session 41](../../Session%20Log/Session%2041.md): [Theobald](Theobald%20Clayhollow.md) asks the casters about the wielder of [Matunda's Mace](Matunda's%20Mace.md).
-> *"[Yugad](Yugad%20Matunda.md), the first amalgam cleric, weaves death and life into a single, inseparable thesis: there is no life without death."*
+> *"[Yugad](Yugad%20Matunda.md), the first [Amalgam Cleric](Yugad%20Matunda.md), weaves death and life into a single, inseparable thesis: there is no life without death."*
