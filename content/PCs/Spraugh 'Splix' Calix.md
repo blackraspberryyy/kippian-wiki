@@ -174,7 +174,6 @@ icon: player
 - University professor and mentor: [Dorfir Embersense](../../Dorfir%20Embersense.md)
 # Story log
 ## Most Recent
-- [Session 40](../Session%20Log/Session%2040.md): [Splix](Spraugh%20'Splix'%20Calix.md) triggers an arcane trap, trapping [Noah](Noah%20Skie.md) inside an invisible force barrier.
 - [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
 - [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
 - [Session 41](../Session%20Log/Session%2041.md): During the battle, [Splix](Spraugh%20'Splix'%20Calix.md) saw a vision that allowed him to expose a nearby teleportation circle.
@@ -186,6 +185,7 @@ icon: player
 - [Session 42](../Session%20Log/Session%2042.md): [Splix](Spraugh%20'Splix'%20Calix.md) spots [Professor Aufel](Aufel%20Fernquill.md) and talk to him. During their reunion, [Splix](Spraugh%20'Splix'%20Calix.md) showed his professor his [Ymerald Staff](Ymerald%20Staff.md).
 - [Session 42](../Session%20Log/Session%2042.md): [Professor Aufel](Aufel%20Fernquill.md) inspects the staff, and is boggled by it. [Splix](Spraugh%20'Splix'%20Calix.md) then shows the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md). [Professor Aufel](Aufel%20Fernquill.md) is understandably confused.
 - [Session 42](../Session%20Log/Session%2042.md): [Splix](Spraugh%20'Splix'%20Calix.md) visits [Professor Aufel](Aufel%20Fernquill.md) and asks the professor to teach him an evocation spell. [Professor Aufel](Aufel%20Fernquill.md) asks for a thorough inspection of the [Ymerald Staff](Ymerald%20Staff.md) in exchange.
+- [Session 43](../Session%20Log/Session%2043.md): [Splix](Spraugh%20'Splix'%20Calix.md) casts Locate Creature, and finds a similar creature near the [Ironfleet Compound](Ironfleet%20Compound.md).
 
 ## All Entries
 - [Session 13](../../Session%2013.md): [Splix](Spraugh%20'Splix'%20Calix.md)
@@ -208,3 +208,4 @@ icon: player
 - [Session 42](../Session%20Log/Session%2042.md): [Splix](Spraugh%20'Splix'%20Calix.md) spots [Professor Aufel](Aufel%20Fernquill.md) and talk to him. During their reunion, [Splix](Spraugh%20'Splix'%20Calix.md) showed his professor his [Ymerald Staff](Ymerald%20Staff.md).
 - [Session 42](../Session%20Log/Session%2042.md): [Professor Aufel](Aufel%20Fernquill.md) inspects the staff, and is boggled by it. [Splix](Spraugh%20'Splix'%20Calix.md) then shows the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md). [Professor Aufel](Aufel%20Fernquill.md) is understandably confused.
 - [Session 42](../Session%20Log/Session%2042.md): [Splix](Spraugh%20'Splix'%20Calix.md) visits [Professor Aufel](Aufel%20Fernquill.md) and asks the professor to teach him an evocation spell. [Professor Aufel](Aufel%20Fernquill.md) asks for a thorough inspection of the [Ymerald Staff](Ymerald%20Staff.md) in exchange.
+- [Session 43](../Session%20Log/Session%2043.md): [Splix](Spraugh%20'Splix'%20Calix.md) casts Locate Creature, and finds a similar creature near the [Ironfleet Compound](Ironfleet%20Compound.md).
