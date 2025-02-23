@@ -1,7 +1,7 @@
 ---
 share: true
 creation_date: 2025-02-02 15:41
-location: 
+location: "[Labyrinthus](../Locations/Areas/Labyrinthus.md)"
 fc-date: 1083-06-05
 fc-category: Session
 icon: calendar
