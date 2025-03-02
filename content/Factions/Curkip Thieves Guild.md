@@ -7,29 +7,29 @@ status: ally
 lore_type: faction
 icon: faction
 ---
-## Information
+# Information
 > [!infobox]
 > # Curkip Thieves Guild
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Aliases | CTG|
 > | Status| ally|
 > | Based in|  [Curkip](../Locations/Settlements/Curkip.md)|
-##### Known for: being a wholesome thieves guild
-### Description
-## Organization
-##### Leader: [Nos-Aji](../../Nos-Aji.md)
-### Known Members
+#### Known for: being a wholesome thieves guild
+## Description
+# Organization
+#### Leader: [Nos-Aji](../../Nos-Aji.md)
+## Known Members
 | Name                         |
 | ---------------------------- |
 | [Nos-Aji](../../Nos-Aji.md) |
 | [Olrac](../../Olrac.md)     |
 
-## Goals
+# Goals
 - [ ] Task 1
-## Story log
-### Most Recent
+# Story log
+## Most Recent
 
-### All Entries
+## All Entries

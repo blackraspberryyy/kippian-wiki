@@ -6,17 +6,17 @@ status:
 lore_type: location
 icon: building
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Duospathia District Hall
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Located in | [Duospathia District](../Areas/Duospathia%20District.md)|
-##### Known for:
-### Description
+#### Known for:
+## Description
 Gorran Johns, sergeant-at-arms 
 	Half-goliath
 Guards
@@ -25,14 +25,14 @@ Guards
 		- Mitchell - hired 
 		- March - hired
 		- Opal
-## Notable Locations
+# Notable Locations
 | Name |
 | ---- |
 
-## Notable NPCs
+# Notable NPCs
 | Name |
 | ---- |
 
-## Factions
+# Factions
 | Name |
 | ---- |

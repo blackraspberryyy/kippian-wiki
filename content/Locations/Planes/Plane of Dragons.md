@@ -6,26 +6,26 @@ status:
 lore_type: location
 icon: map
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Plane of Dragons
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Type | 
 > | Located in | |
-##### Known for: being the intersection of the Void and Celestial Planes
-### Description
-## Notable Locations
+#### Known for: being the intersection of the Void and Celestial Planes
+## Description
+# Notable Locations
 | Name |
 | ---- |
 
-## Notable NPCs
+# Notable NPCs
 | Name |
 | ---- |
 
-## Factions
+# Factions
 | Name |
 | ---- |

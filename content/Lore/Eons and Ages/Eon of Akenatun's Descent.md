@@ -9,19 +9,19 @@ fc-category: Lore
 lore_type: 
 icon: lore
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Eon of Akenatun's Descent
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | EAD|
 > | Type||
 > | Located in | |
-##### Known for:
-### Description
-## Lore Mentions
-### Most Recent
+#### Known for:
+## Description
+# Lore Mentions
+## Most Recent
 
-### All Entries
+## All Entries

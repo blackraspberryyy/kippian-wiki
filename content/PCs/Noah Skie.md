@@ -6,32 +6,32 @@ gender: female
 race: human
 age: middle-aged
 alignment: 
-background: Fighter
+background: fighter
 location: "[Ankor](../Locations/Settlements/Ankor.md)"
 status: 
 faction: "[[Seven Up...]]"
 icon: player
 ---
-## Bio
+# Bio
 > [!infobox]
 > # Noah Skie
 > ![cover hsmall](../zzz_attachments/Noah.png)
-> ###### Bio
-> | Type | Stat |
+> ##### Bio
+> |  | |
 > | ---- | ---- |
 > | Aliases | Noah|
 > | Race| human |
 > | Gender| female|
 > | Age | middle-aged|
 > | Alignment|| 
-> | Background| Fighter|
+> | Background| fighter|
 > | Location|  [Ankor](../Locations/Settlements/Ankor.md)|
 > | Faction| [Seven Up...](../Factions/Seven%20Up....md)| 
-##### Known for: being the sole survivor of an expedition
-### Description
-#### Class: Fighter
-#### Subclass: [Arcane Archer](https://dnd5e.wikidot.com/fighter:arcane-archer)
-### Backstory
+#### Known for: being the sole survivor of an expedition
+## Description
+### Class: Fighter
+### Subclass: [Arcane Archer](https://dnd5e.wikidot.com/fighter:arcane-archer)
+## Backstory
 [Noah Skie](Noah%20Skie.md) is a cheerful yet fearless woman residing in a town near [Curkip](../Locations/Settlements/Curkip.md). She was part of the [Kippian Military](../Factions/United%20Kippian%20Military.md) who traveled to [Suirsya](../Locations/Continents/Suirsya.md). There, she was promoted to a scout because of her ability to adapt to different situations. She doesn't back down from any missions her officer gave her. She does everything with precision and proficiency.
 
 [Noah](Noah%20Skie.md) was born into a rich family in [Ankor](../Locations/Settlements/Ankor.md). The Skies own a part of the river in which they provide leases for fishermen to rent. [Norman Skie](../../Norman%20Skie.md), her father, also collects taxes from them, but he tweaks the prices a little bit higher for his personal gain. [Norman](../../Norman%20Skie.md) is so focused on his business that [Noah](Noah%20Skie.md) barely sees him at home; and for good reason, as he does not see [Noah](Noah%20Skie.md) worthy of being his child. He had hoped for a son to carry their family name, but instead, she got a daughter in [Noah](Noah%20Skie.md). And for [Norman Skie](../../Norman%20Skie.md), a woman is lesser than a man.
@@ -65,29 +65,37 @@ After two weeks, the military lost communication with the party, which was expec
 She thought that she would only use her strength for peace: it would be her way from now on. If peace is an option, she would always go that way.
 
 [Noah](Noah%20Skie.md) was thinking of going home, but she thought that she had no face to show to her father. Going back home will just prove to her father that he was right: [Noah](Noah%20Skie.md) was useless all along. She went to the tavern to think how to go about things. And then she met a bunch of individuals that she felt were bound to her fate.
-### Relationships
-#### Family
+## Relationships
+### Family
 - Parents: [Norman](../../Norman%20Skie.md) and [Sophia Skie](../../Sophia%20Skie.md)
-#### Friends
+### Friends
 - [Agatha](../../Agatha.md)
-## Story log
-### Most Recent
-- [Session 35](../../Session%2035.md): [Noah](Noah%20Skie.md) and [Michaela](Michaela%20Randall.md) investigate the library.
-- [Session 38](../Session%20Log/Session%2038.md): [Noah](Noah%20Skie.md) sees an apparition in front of her...
-> [Amlaena](Amlaena%20Gustkil.md) trains [Noah](Noah%20Skie.md) to use the [Evanescent Shortbow](Evanescent%20Shortbow.md).
->
-> "As the new keeper of the [Evanescent Shortbow](Evanescent%20Shortbow.md), I shall help you on your journey."
-- [Session 38](../Session%20Log/Session%2038.md): The ghost then touches [Noah](Noah%20Skie.md), allowing her to change her Arcane Shot ability(Beguiling to Enfeebling).
-- [Session 40](../Session%20Log/Session%2040.md): [Splix](Spraugh%20'Splix'%20Calix.md) triggers an arcane trap, trapping [Noah](Noah%20Skie.md) inside an invisible force barrier.
-- [Session 40](../Session%20Log/Session%2040.md): The barrier disappears, but [Noah](Noah%20Skie.md) is nowhere to be found.
+# Story log
+## Most Recent
 - [Session 41](../Session%20Log/Session%2041.md): [Adikia](Adikia%20Unalome.md) perceives [Noah](Noah%20Skie.md) appearing into existence.
 - [Session 41](../Session%20Log/Session%2041.md): [Noah](Noah%20Skie.md) has no recollection about what happened to her after being trapped. It could be the effect of her [Evanescent Shortbow](Evanescent%20Shortbow.md).
 - [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
 - [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
 - [Session 41](../Session%20Log/Session%2041.md): [Noah](Noah%20Skie.md) asks the casters about her ghastly visions.
 > *"Death haunts you, [Noah](Noah%20Skie.md), so much so that your guilt has allowed you to see beyond several planes. Only a few are blessed, or cursed, of such power."*
+- [Session 42](../Session%20Log/Session%2042.md): The [[Seven Up...|party]], except [Noah](Noah%20Skie.md), drinks a tea fashioned from the ginger where [The First Tree](The%20First%20Tree.md) grew. It is a traditional drink honoring [Antasha](Antasha.md), goddess of the land.
+- [Session 42](../Session%20Log/Session%2042.md): [Noah](Noah%20Skie.md) overhears [Kirren](Kirren%20Acquermann.md) and [Michaela](Michaela%20Randall.md) talking. [Kirren](Kirren%20Acquermann.md) asks if [Michaela](Michaela%20Randall.md) if she knew about [Leneia](Leneia%20Yarumcy.md). [Michaela](Michaela%20Randall.md) denies it, and consoles [Kirren](Kirren%20Acquermann.md).
+- [Session 42](../Session%20Log/Session%2042.md): [Noah](Noah%20Skie.md) overhears that [Professor Aufel](Aufel%20Fernquill.md) and [Michaela](Michaela%20Randall.md) talking. The [professor](Aufel%20Fernquill.md)'s there to conduct research within the [Ankyra's Old Castle Compound](Ankyra's%20Old%20Castle%20Compound.md)'s library that could help with the [Yvernus](Yvernus%20District.md) situation.
+- [Session 42](../Session%20Log/Session%2042.md): As the [Noah](Noah%20Skie.md) steps out of the [Ankyra's Old Castle Compound](Ankyra's%20Old%20Castle%20Compound.md), the [[Seven Up...|party]] hears a whistle and the sound of detonation originating from the [Ironfleet Compound](Ironfleet%20Compound.md).
+- [Session 42](../Session%20Log/Session%2042.md): [Noah](Noah%20Skie.md) reads her translation book for primordial language. She became privy to the chronological succession of the [Primordial Ages](Primordial%20Ages.md).
+> The chronological list of the [Primordial Ages](Primordial%20Ages.md):
+>
+> [Age of the Old Gods](Age%20of%20the%20Old%20Gods.md)
+>
+> [Age of Dragons](Age%20of%20Dragons.md)
+>
+> [Age of Beasts](Age%20of%20Beasts.md)
+>
+> [Age of Orcs](Age%20of%20Orcs.md)
+>
+> [Age of Humans](Age%20of%20Humans.md)
 
-### All Entries
+## All Entries
 - [Session 13](../../Session%2013.md): [Noah](Noah%20Skie.md) found a book detailing the history of [[Ankor|Ankor]]. She read that [Curkip](Curkip.md) was once under the jurisdiction of [Bulkip](Bulkip.md).
 - [Session 16](../../Session%2016.md): [Noah](Noah%20Skie.md) retrieves the [Twilight Dagger](Twilight%20Dagger.md).
 - [Session 30](../../Session%2030.md): [Noah](Noah%20Skie.md) retrieves the Lexicon of Primordial Language ().
@@ -116,3 +124,19 @@ She thought that she would only use her strength for peace: it would be her way 
 - [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
 - [Session 41](../Session%20Log/Session%2041.md): [Noah](Noah%20Skie.md) asks the casters about her ghastly visions.
 > *"Death haunts you, [Noah](Noah%20Skie.md), so much so that your guilt has allowed you to see beyond several planes. Only a few are blessed, or cursed, of such power."*
+- [Session 42](../Session%20Log/Session%2042.md): The [[Seven Up...|party]], except [Noah](Noah%20Skie.md), drinks a tea fashioned from the ginger where [The First Tree](The%20First%20Tree.md) grew. It is a traditional drink honoring [Antasha](Antasha.md), goddess of the land.
+- [Session 42](../Session%20Log/Session%2042.md): [Noah](Noah%20Skie.md) overhears [Kirren](Kirren%20Acquermann.md) and [Michaela](Michaela%20Randall.md) talking. [Kirren](Kirren%20Acquermann.md) asks if [Michaela](Michaela%20Randall.md) if she knew about [Leneia](Leneia%20Yarumcy.md). [Michaela](Michaela%20Randall.md) denies it, and consoles [Kirren](Kirren%20Acquermann.md).
+- [Session 42](../Session%20Log/Session%2042.md): [Noah](Noah%20Skie.md) overhears that [Professor Aufel](Aufel%20Fernquill.md) and [Michaela](Michaela%20Randall.md) talking. The [professor](Aufel%20Fernquill.md)'s there to conduct research within the [Ankyra's Old Castle Compound](Ankyra's%20Old%20Castle%20Compound.md)'s library that could help with the [Yvernus](Yvernus%20District.md) situation.
+- [Session 42](../Session%20Log/Session%2042.md): [Noah](Noah%20Skie.md) reads her translation book for primordial language. She became privy to the chronological succession of the [Primordial Ages](Primordial%20Ages.md).
+> The chronological list of the [Primordial Ages](Primordial%20Ages.md):
+>
+> [Age of the Old Gods](Age%20of%20the%20Old%20Gods.md)
+>
+> [Age of Dragons](Age%20of%20Dragons.md)
+>
+> [Age of Beasts](Age%20of%20Beasts.md)
+>
+> [Age of Orcs](Age%20of%20Orcs.md)
+>
+> [Age of Humans](Age%20of%20Humans.md)
+- [Session 42](../Session%20Log/Session%2042.md): As the [Noah](Noah%20Skie.md) steps out of the [Ankyra's Old Castle Compound](Ankyra's%20Old%20Castle%20Compound.md), the [[Seven Up...|party]] hears a whistle and the sound of detonation originating from the [Ironfleet Compound](Ironfleet%20Compound.md).

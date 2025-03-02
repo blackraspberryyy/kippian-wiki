@@ -8,19 +8,19 @@ fc-category: Lore
 lore_type: 
 icon: lore
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Barcila
 > ![cover hsmall](../../zzz_attachments/Barcila.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Type||
 > | Located in | |
-##### Known for: God of Kindness, patron deity of halflings
-### Description
-## Lore Mentions
-### Most Recent
+#### Known for: God of Kindness, patron deity of halflings
+## Description
+# Lore Mentions
+## Most Recent
 
-### All Entries
+## All Entries

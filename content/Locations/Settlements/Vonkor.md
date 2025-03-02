@@ -6,25 +6,25 @@ status:
 lore_type: location
 icon: settlement
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Vonkor
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Located in | [Kingdom of United Kippian](../Kingdoms/Kingdom%20of%20United%20Kippian.md)|
-##### Known for:
-### Description
-## Notable Locations
+#### Known for:
+## Description
+# Notable Locations
 | Name |
 | ---- |
 
-## Notable NPCs
+# Notable NPCs
 | Name |
 | ---- |
 
-## Factions
+# Factions
 | Name |
 | ---- |

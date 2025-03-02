@@ -8,27 +8,27 @@ status:
 lore_type: faction
 icon: faction
 ---
-## Information
+# Information
 > [!infobox]
 > # Pantheon of the Lesser Gods
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Aliases | The New Gods,The Lesser Gods|
 > | Status| |
 > | Based in|  |
-##### Known for:
-### Description
-## Organization
-##### Leader:
-### Known Members
+#### Known for:
+## Description
+# Organization
+#### Leader:
+## Known Members
 | Name |
 | ---- |
 
-## Goals
+# Goals
 - [ ] Task 1
-## Story log
-### Most Recent
+# Story log
+## Most Recent
 
-### All Entries
+## All Entries

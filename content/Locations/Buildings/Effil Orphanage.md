@@ -6,26 +6,26 @@ status:
 lore_type: location
 icon: building
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Effil Orphanage
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Type | 
 > | Located in | [Effil](../Settlements/Effil.md)|
-##### Known for:
-### Description
-## Notable Locations
+#### Known for:
+## Description
+# Notable Locations
 | Name |
 | ---- |
 
-## Notable NPCs
+# Notable NPCs
 | Name |
 | ---- |
 
-## Factions
+# Factions
 | Name |
 | ---- |

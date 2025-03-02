@@ -6,32 +6,32 @@ gender: female
 race: elf
 age: middle-aged
 alignment: 
-background: Bard
+background: bard
 location: 
 status: 
 faction: "[[Seven Up...]]"
 icon: player
 ---
-## Bio
+# Bio
 > [!infobox]
 > # Adikia Unalome
 > ![cover hsmall](../zzz_attachments/Adikia.png)
-> ###### Bio
-> | Type | Stat |
+> ##### Bio
+> |  |  |
 > | ---- | ---- |
 > | Aliases | Adikia|
 > | Race| elf |
 > | Gender| female|
 > | Age | middle-aged|
 > | Alignment|| 
-> | Background| Bard|
+> | Background| bard|
 > | Location|  |
 > | Faction| [Seven Up...](../Factions/Seven%20Up....md)| 
-##### Known for: being a chaotic bard
-### Description
-#### Class: Bard
-#### Subclass: [Mage of Lorehold](https://dnd5e.wikidot.com/multisubclass:mage-of-lorehold-ua)
-#### Backstory
+#### Known for: being a chaotic bard
+## Description
+### Class: Bard
+### Subclass: [Mage of Lorehold](https://dnd5e.wikidot.com/multisubclass:mage-of-lorehold-ua)
+### Backstory
 
 The very first memory that [Adikia Unalome](Adikia%20Unalome.md) still remembers was the bustling streets of [Vaiarshe](../Locations/Settlements/Vaiarshe.md). With it are the hard facts of her life: wearing a crappy shirt with holes that are awful to wear during extreme weathers, stealing food from both the vendors and their customers, and living in a small box she called home. [Adikia](Adikia%20Unalome.md) never knew her heritage and it did not matter to her; all she minds is her survival. During her pastimes, however, she developed a knack for music, a talent which she used to earn coins from entertained elves.
 
@@ -65,29 +65,28 @@ Nearby, the wall was laden with strange yet familiar inscriptions. She took note
 
 There was no time to think as she heard the local guards traversing the snow, closing in on the inn. [Adikia](Adikia%20Unalome.md) gave her parents one last kiss, bolted out of the inn through the broken window and was never seen again in [Vaiarshe](../Locations/Settlements/Vaiarshe.md).
 
-[Adikia](Adikia%20Unalome.md) vowed to learn more about herself and her lineage, and to avenge the death of her parents, both of which took the same path. Like the subject of the bardic myths from [Azir](../../Azir%20Kyp.md), an Ephelian hero, [Adikia](Adikia%20Unalome.md) trusted fate to lead her to her goals. Days later, from a sustenance of cheap wine and even cheaper rations, [Adikia](Adikia%20Unalome.md) found herself on the southern outskirts of the [United Kippian](../Locations/Kingdoms/Kingdom%20of%20United%20Kippian.md). Fate has guided [Adikia](Adikia%20Unalome.md) to this place and, as celebration for her new life mission, she decided to take a sip of good wine at [Richie's Tavern](../Locations/Buildings/Richie's%20Inn%20and%20Rentals.md).
-### Relationships
-#### Family
+[Adikia](Adikia%20Unalome.md) vowed to learn more about herself and her lineage, and to avenge the death of her parents, both of which took the same path. Like the subject of the bardic myths from [Azir](../Lore/Mythical%20Heroes/Azir%20Kyp.md), an Ephelian hero, [Adikia](Adikia%20Unalome.md) trusted fate to lead her to her goals. Days later, from a sustenance of cheap wine and even cheaper rations, [Adikia](Adikia%20Unalome.md) found herself on the southern outskirts of the [United Kippian](../Locations/Kingdoms/Kingdom%20of%20United%20Kippian.md). Fate has guided [Adikia](Adikia%20Unalome.md) to this place and, as celebration for her new life mission, she decided to take a sip of good wine at [Richie's Tavern](../Locations/Buildings/Richie's%20Inn%20and%20Rentals.md).
+## Relationships
+### Family
 - Adoptive parents: [Idril](../../Idril%20Bluedrin.md) and [Poldo Bluedrin](../../Poldo%20Bluedrin.md)
 - Musical instrument: Vionna
-## Story log
-### Most Recent
-- [Session 34](../../Session%2034.md): [Adikia](Adikia%20Unalome.md), [Adeena](Adeena%20Oberon.md), [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Thoradin](Thoradin%20Goodman.md) enters the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md).
-- [Session 38](../Session%20Log/Session%2038.md): [Nokia](Nokia.md), [Adikia](Adikia%20Unalome.md)'s eagle, and companion, asks her to search the dungeon for a thing.
-- [Session 39](../Session%20Log/Session%2039.md): [Adikia](Adikia%20Unalome.md) sees a statue; inside it is [Nokia](Nokia.md), which turns into her ancient companion.
-- [Session 40](../Session%20Log/Session%2040.md): [Adikia](Adikia%20Unalome.md) investigates the statue. She sees the following inscription:
->Fashioned from the hall's stone golems, the [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md) are immune to most magic.
+# Story log
+## Most Recent
 - [Session 41](../Session%20Log/Session%2041.md): [Adikia](Adikia%20Unalome.md) perceives [Noah](Noah%20Skie.md) appearing into existence.
 - [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
 - [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
 - [Session 41](../Session%20Log/Session%2041.md): [Adikia](Adikia%20Unalome.md) asks the [Shadow Knight](Shadow%20Knight.md) about [Feypeak](Feypeak.md).
-> The [Shadow Knight](Shadow%20Knight.md) assures [Adikia](Adikia%20Unalome.md) that the portal to the [Feywild](Feywild.md) exists.
-- [Session 41](../Session%20Log/Session%2041.md): [Adikia](Adikia%20Unalome.md) asks the casters about [Feypeak](Feypeak.md)
+- [Session 41](../Session%20Log/Session%2041.md): The [Shadow Knight](Shadow%20Knight.md) assures [Adikia](Adikia%20Unalome.md) that the portal to the [Feywild](Feywild.md) exists.
+- [Session 41](../Session%20Log/Session%2041.md): [Adikia](Adikia%20Unalome.md) asks the casters about [Feypeak](Feypeak.md).
 > *"As an [Eladrin](The%20Eladrin.md), the [Feywild](Feywild.md) is your home. It is sure that you will find your way back to the [Feywild](Feywild.md)."*
 - [Session 41](../Session%20Log/Session%2041.md): [Adikia](Adikia%20Unalome.md) asks the casters about the lore of her [Aureate Rapier](Aureate%20Rapier.md).
 > *"The [Aureate Rapier](Aureate%20Rapier.md) was a ceremonial rapier passed down to the heirs of [United Kippian](Kingdom%20of%20United%20Kippian.md). Its hidden power is made known only through [Prince Azir](Azir%20Kyp.md)'s daring adventures."*
+- [Session 42](../Session%20Log/Session%2042.md): During the traditional intermission, [Mitarella](Mitarella%20Randall.md) talks to [Adikia](Adikia%20Unalome.md), [Theobald](Theobald%20Clayhollow.md), and [Kiris](Kiris%20Acquermann.md).
+- [Session 42](../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) asks [Adikia](Adikia%20Unalome.md) to read the inscriptions on his [Vambrace Shields](Vambrace%20Shields.md).
+> From [Wycroft](Wycroft%20Mountain%20Kingdom.md), To [Quigymara](Quigymara.md).
+- [Session 43](../Session%20Log/Session%2043.md): [Adikia](Adikia%20Unalome.md) rushes forwards and attempts to grab the man. [Adikia](Adikia%20Unalome.md) fails; however, she figures out that the man [Adeena](Adeena%20Oberon.md) is surrendering to is [Kayriel](Kayriel%20Acquermann.md), or at least resembles its face.
 
-### All Entries
+## All Entries
 - [Session 13](../../Session%2013.md): [Adikia](Adikia%20Unalome.md) read a book detailing the [Feywild](Feywild.md). She learns the following:
 - [Session 13](../../Session%2013.md): [Adikia](Adikia%20Unalome.md) enters a vision: She saw that [Feypeak](Feypeak.md) was somewhere in the east.
 - [Session 29](../../Session%2029.md): [Adikia](Adikia%20Unalome.md) uses Speak with the Dead to question
@@ -102,8 +101,12 @@ There was no time to think as she heard the local guards traversing the snow, cl
 - [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
 - [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
 - [Session 41](../Session%20Log/Session%2041.md): [Adikia](Adikia%20Unalome.md) asks the [Shadow Knight](Shadow%20Knight.md) about [Feypeak](Feypeak.md).
-> The [Shadow Knight](Shadow%20Knight.md) assures [Adikia](Adikia%20Unalome.md) that the portal to the [Feywild](Feywild.md) exists.
-- [Session 41](../Session%20Log/Session%2041.md): [Adikia](Adikia%20Unalome.md) asks the casters about [Feypeak](Feypeak.md)
+- [Session 41](../Session%20Log/Session%2041.md): The [Shadow Knight](Shadow%20Knight.md) assures [Adikia](Adikia%20Unalome.md) that the portal to the [Feywild](Feywild.md) exists.
+- [Session 41](../Session%20Log/Session%2041.md): [Adikia](Adikia%20Unalome.md) asks the casters about [Feypeak](Feypeak.md).
 > *"As an [Eladrin](The%20Eladrin.md), the [Feywild](Feywild.md) is your home. It is sure that you will find your way back to the [Feywild](Feywild.md)."*
 - [Session 41](../Session%20Log/Session%2041.md): [Adikia](Adikia%20Unalome.md) asks the casters about the lore of her [Aureate Rapier](Aureate%20Rapier.md).
 > *"The [Aureate Rapier](Aureate%20Rapier.md) was a ceremonial rapier passed down to the heirs of [United Kippian](Kingdom%20of%20United%20Kippian.md). Its hidden power is made known only through [Prince Azir](Azir%20Kyp.md)'s daring adventures."*
+- [Session 42](../Session%20Log/Session%2042.md): During the traditional intermission, [Mitarella](Mitarella%20Randall.md) talks to [Adikia](Adikia%20Unalome.md), [Theobald](Theobald%20Clayhollow.md), and [Kiris](Kiris%20Acquermann.md).
+- [Session 42](../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) asks [Adikia](Adikia%20Unalome.md) to read the inscriptions on his [Vambrace Shields](Vambrace%20Shields.md).
+> From [Wycroft](Wycroft%20Mountain%20Kingdom.md), To [Quigymara](Quigymara.md).
+- [Session 43](../Session%20Log/Session%2043.md): [Adikia](Adikia%20Unalome.md) rushes forwards and attempts to grab the man. [Adikia](Adikia%20Unalome.md) fails; however, she figures out that the man [Adeena](Adeena%20Oberon.md) is surrendering to is [Kayriel](Kayriel%20Acquermann.md), or at least resembles its face.

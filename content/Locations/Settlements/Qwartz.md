@@ -6,28 +6,28 @@ status:
 lore_type: location
 icon: settlement
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Qwartz
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Type | 
 > | Located in | [Opidys](../Kingdoms/Opidys.md)|
-##### Known for:
-### Description
-## Notable Locations
+#### Known for:
+## Description
+# Notable Locations
 | Name |
 | ---- |
 
-## Notable NPCs
+# Notable NPCs
 | Name                                           |
 | ---------------------------------------------- |
 | [Seris Goodman](../../../Seris%20Goodman.md)       |
 | [Thorvald Goodman](../../../Thorvald%20Goodman.md) |
 
-## Factions
+# Factions
 | Name |
 | ---- |

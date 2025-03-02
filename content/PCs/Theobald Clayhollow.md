@@ -7,32 +7,32 @@ gender: male
 race: human
 age: old
 alignment: 
-background: Cleric
+background: cleric
 location: "[Effil](../Locations/Settlements/Effil.md)"
 status: 
 faction: "[[Seven Up...]]"
 icon: player
 ---
-## Bio
+# Bio
 > [!infobox]
 > # Theobald Clayhollow
 > ![cover hsmall](../zzz_attachments/Theobald.png)
-> ###### Bio
-> | Type | Stat |
+> ##### Bio
+> |  | |
 > | ---- | ---- |
 > | Aliases | Theobald,Theo|
 > | Race| human |
 > | Gender| male|
 > | Age | old|
 > | Alignment|| 
-> | Background| Cleric|
+> | Background| cleric|
 > | Location|  [Effil](../Locations/Settlements/Effil.md)|
 > | Faction| [Seven Up...](../Factions/Seven%20Up....md)| 
-##### Known for: A devout cleric of [Aisef](../Deities/New%20Gods/Aisef.md)
-### Description
-#### Class: Cleric
-#### Subclass: [Life Domain](https://dnd5e.wikidot.com/cleric:life)
-### Backstory
+#### Known for: A devout cleric of [Aisef](../Deities/New%20Gods/Aisef.md)
+## Description
+### Class: Cleric
+### Subclass: [Life Domain](https://dnd5e.wikidot.com/cleric:life)
+## Backstory
 [Theobald](Theobald%20Clayhollow.md) hailed from [Yelkor](../Locations/Settlements/Yelkor.md), a town on the outskirts of [Curkip](../Locations/Settlements/Curkip.md). His beloved parents, [Theo](../../Theo%20Clayhollow.md) and [Rhela Clayhollow](../../Rhela%20Clayhollow.md), owned a family business selling mostly pots, bowls, and cups. Their clay business gave Theobald and his older brother, [Theodore Clayhollow](../../Theodore%20Clayhollow.md), a fairly decent living. In his younger years, [Theobald](Theobald%20Clayhollow.md) used to work with his father and brother as traveling merchants. Theodore was always in charge of helming the caravan, while [Theobald](Theobald%20Clayhollow.md) preached their wares to the people.
 
 >Theobald is an optimistic, delightful, wholesome, elderly human cleric that resides in [Effil](../Locations/Settlements/Effil.md). All his life, he is an acolyte to [Aisef](../Deities/New%20Gods/Aisef.md)f, the Goddess of Healing. He used to preach the words of [Aisef](../Deities/New%20Gods/Aisef.md) from the [Temple of Aisef](../Locations/Buildings/Temple%20of%20Aisef.md) in Effil for a long time; that is, until he decided to volunteer in the [Effil Orphanage](../Locations/Buildings/Effil%20Orphanage.md) as a Lifetender. A preacher first, and a healer second, Theobald uses his divine gifts to heal the sick orphans in his care. “To acquire a body that is healthy, and a soul that is pure '', that is what he tells the children. When he is not healing, he likes to share stories to the kids. He always tells the stories of [Aisef](../Deities/New%20Gods/Aisef.md) and her way of life to the kids before bedtime.  As time went by, his stories became repetitive. One time, a little girl in her pajamas, bored and fed up with the never-ending stories of [Aisef](../Deities/New%20Gods/Aisef.md) goes to him and asks: 
@@ -72,29 +72,29 @@ As his responsibilities in the orphanage increased, [Theobald](Theobald%20Clayho
 >*“I haven’t been on an adventure before. But tell you what, if you brush your teeth now and go to bed early, I promise to tell you the most epic story of your life. I’m not sure when, but you will be the first one to hear!”*
 
 A little later, Theobald left for [Curkip](../Locations/Settlements/Curkip.md), searching for an adventure. What ordeals he will confront, he does not know: all he knows is that his goddess [Aisef](../Deities/New%20Gods/Aisef.md) will always be with him.
-### Relationships
-#### Family
+## Relationships
+### Family
 - Parents: [Theo](../../Theo%20Clayhollow.md) and [Rhela Clayhollow](../../Rhela%20Clayhollow.md) 
 - Brother: [Theodore Clayhollow](../../Theodore%20Clayhollow.md)
-## Story log
-### Most Recent
-- [Session 31](../../Session%2031.md): [Theobald](Theobald%20Clayhollow.md) casts Zone of Truth. [Mitarella](Mitarella%20Randall.md), [Remus Kyp](Remus%20Kyp.md), and 4 royal guards.
-- [Session 33](../../Session%2033.md): The party interrogates [Rickard](Rickard%20Kyp.md); [Theobald](Theobald%20Clayhollow.md) casts Zone of Truth. [Michaela](Michaela%20Randall.md) and [Mitarella](Mitarella%20Randall.md) succeed the check. [Kirren](Kirren%20Acquermann.md), [Remus](Remus%20Kyp.md), and [Rickard](Rickard%20Kyp.md) fails.
-- [Session 34](../../Session%2034.md): [Adikia](Adikia%20Unalome.md), [Adeena](Adeena%20Oberon.md), [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Thoradin](Thoradin%20Goodman.md) enters the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md).
-- [Session 36](../../Session%2036.md): The [[Seven Up...|party]] is joined by [Theobald](Theobald%20Clayhollow.md).
+# Story log
+## Most Recent
 - [Session 38](../Session%20Log/Session%2038.md): In a vision,[Theobald](Theobald%20Clayhollow.md)'s[Matunda's Mace](Matunda's%20Mace.md) glows,
 > You see [Astar](Astar.md), [Theobald](Theobald%20Clayhollow.md)'s lost eagle, traveling to the moon, an ominous sign that your beloved pet is now resting in the afterlife.
 - [Session 40](../Session%20Log/Session%2040.md): [Theobald](Theobald%20Clayhollow.md) finds some notes detailing the construction of the [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md) by [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md).
 > Within the [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md) are the keys to disabling the barrier that separates the Hall of [Akenatun](Akenatun.md) from the labyrinthus.
 - [Session 41](../Session%20Log/Session%2041.md): [Theobald](Theobald%20Clayhollow.md), [Thoradin](Thoradin%20Goodman.md) and [Arc](Arc.md) receives gold for their exploration.
-- [Session 41](../Session%20Log/Session%2041.md): The [Shadow Knight](Shadow%20Knight.md) bestows [Theobald](Theobald%20Clayhollow.md) a Shadow Sigil resembling that of [Kiris](Kiris%20Acquermann.md)' sigil. The [Knights of the Wayraven](Knights%20of%20the%20Wayraven.md) are revealed to inhabit the [Plane of Shadows](Shadowfell.md).
+- [Session 41](../Session%20Log/Session%2041.md): The [Shadow Knight](Shadow%20Knight.md) bestows [Theobald](Theobald%20Clayhollow.md) a [Shadow Sigil](Shadow%20Sigil.md) resembling that of [Kiris](Kiris%20Acquermann.md)' sigil. The [Knights of the Wayraven](Knights%20of%20the%20Wayraven.md) are revealed to inhabit the [Plane of Shadows](Shadowfell.md).
 > [Kiris](Kiris%20Acquermann.md) shows the [Shadow Knight](Shadow%20Knight.md) his sigil.
-> *"That sigil belongs to the [Wayravens](Knights%20of%20the%20Wayraven.md), masters from the [Material Realm](Material%20Realm.md) who holds dominion over the [Plane of Shadows](Shadowfell.md)".*
+> *"That sigil belongs to the [Wayravens](Knights%20of%20the%20Wayraven.md), masters from the [Material Realm](Material%20Realm.md) who holds dominion over the [Plane of Shadows](Shadowfell.md)."*
 - [Session 41](../Session%20Log/Session%2041.md): [Theobald](Theobald%20Clayhollow.md) gives the Shadow Sigil to [Kiris](Kiris%20Acquermann.md).
 - [Session 41](../Session%20Log/Session%2041.md): [Theobald](Theobald%20Clayhollow.md) asks the casters about the wielder of [Matunda's Mace](Matunda's%20Mace.md).
-> *"[Yugad](Yugad%20Matunda.md), the first amalgam cleric, weaves death and life into a single, inseparable thesis: there is no life without death."*
+> *"[Yugad](Yugad%20Matunda.md), the first [Amalgam Cleric](Yugad%20Matunda.md), weaves death and life into a single, inseparable thesis: there is no life without death."*
+- [Session 42](../Session%20Log/Session%2042.md): The [[Seven Up...|party]] incurs temporal displacement sickness. [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Adeena](Adeena%20Oberon.md) are more affected by the sickness.
+- [Session 42](../Session%20Log/Session%2042.md): During the traditional intermission, [Mitarella](Mitarella%20Randall.md) talks to [Adikia](Adikia%20Unalome.md), [Theobald](Theobald%20Clayhollow.md), and [Kiris](Kiris%20Acquermann.md).
+- [Session 42](../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) bursts into action and rides a steed. The [[Seven Up...|party]] rides a closed carriage pulled by two horses. [Theobald](Theobald%20Clayhollow.md) drives the carriage.
+- [Session 42](../Session%20Log/Session%2042.md): [Theobald](Theobald%20Clayhollow.md) prays to [Aisef](Aisef.md).
 
-### All Entries
+## All Entries
 - [Session 13](../../Session%2013.md): [Theobald](Theobald%20Clayhollow.md) found a book about detailing the jungle continent of [Suirsya](Suirsya.md):
 - [Session 31](../../Session%2031.md): [Theobald](Theobald%20Clayhollow.md) casts Zone of Truth. [Mitarella](Mitarella%20Randall.md), [Remus Kyp](Remus%20Kyp.md), and 4 royal guards.
 - [Session 33](../../Session%2033.md): The party interrogates [Rickard](Rickard%20Kyp.md); [Theobald](Theobald%20Clayhollow.md) casts Zone of Truth. [Michaela](Michaela%20Randall.md) and [Mitarella](Mitarella%20Randall.md) succeed the check. [Kirren](Kirren%20Acquermann.md), [Remus](Remus%20Kyp.md), and [Rickard](Rickard%20Kyp.md) fails.
@@ -105,9 +105,13 @@ A little later, Theobald left for [Curkip](../Locations/Settlements/Curkip.md), 
 - [Session 40](../Session%20Log/Session%2040.md): [Theobald](Theobald%20Clayhollow.md) finds some notes detailing the construction of the [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md) by [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md).
 > Within the [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md) are the keys to disabling the barrier that separates the Hall of [Akenatun](Akenatun.md) from the labyrinthus.
 - [Session 41](../Session%20Log/Session%2041.md): [Theobald](Theobald%20Clayhollow.md), [Thoradin](Thoradin%20Goodman.md) and [Arc](Arc.md) receives gold for their exploration.
-- [Session 41](../Session%20Log/Session%2041.md): The [Shadow Knight](Shadow%20Knight.md) bestows [Theobald](Theobald%20Clayhollow.md) a Shadow Sigil resembling that of [Kiris](Kiris%20Acquermann.md)' sigil. The [Knights of the Wayraven](Knights%20of%20the%20Wayraven.md) are revealed to inhabit the [Plane of Shadows](Shadowfell.md).
+- [Session 41](../Session%20Log/Session%2041.md): The [Shadow Knight](Shadow%20Knight.md) bestows [Theobald](Theobald%20Clayhollow.md) a [Shadow Sigil](Shadow%20Sigil.md) resembling that of [Kiris](Kiris%20Acquermann.md)' sigil. The [Knights of the Wayraven](Knights%20of%20the%20Wayraven.md) are revealed to inhabit the [Plane of Shadows](Shadowfell.md).
 > [Kiris](Kiris%20Acquermann.md) shows the [Shadow Knight](Shadow%20Knight.md) his sigil.
-> *"That sigil belongs to the [Wayravens](Knights%20of%20the%20Wayraven.md), masters from the [Material Realm](Material%20Realm.md) who holds dominion over the [Plane of Shadows](Shadowfell.md)".*
+> *"That sigil belongs to the [Wayravens](Knights%20of%20the%20Wayraven.md), masters from the [Material Realm](Material%20Realm.md) who holds dominion over the [Plane of Shadows](Shadowfell.md)."*
 - [Session 41](../Session%20Log/Session%2041.md): [Theobald](Theobald%20Clayhollow.md) gives the Shadow Sigil to [Kiris](Kiris%20Acquermann.md).
 - [Session 41](../Session%20Log/Session%2041.md): [Theobald](Theobald%20Clayhollow.md) asks the casters about the wielder of [Matunda's Mace](Matunda's%20Mace.md).
-> *"[Yugad](Yugad%20Matunda.md), the first amalgam cleric, weaves death and life into a single, inseparable thesis: there is no life without death."*
+> *"[Yugad](Yugad%20Matunda.md), the first [Amalgam Cleric](Yugad%20Matunda.md), weaves death and life into a single, inseparable thesis: there is no life without death."*
+- [Session 42](../Session%20Log/Session%2042.md): The [[Seven Up...|party]] incurs temporal displacement sickness. [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Adeena](Adeena%20Oberon.md) are more affected by the sickness.
+- [Session 42](../Session%20Log/Session%2042.md): During the traditional intermission, [Mitarella](Mitarella%20Randall.md) talks to [Adikia](Adikia%20Unalome.md), [Theobald](Theobald%20Clayhollow.md), and [Kiris](Kiris%20Acquermann.md).
+- [Session 42](../Session%20Log/Session%2042.md): [Theobald](Theobald%20Clayhollow.md) prays to [Aisef](Aisef.md).
+- [Session 42](../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) bursts into action and rides a steed. The [[Seven Up...|party]] rides a closed carriage pulled by two horses. [Theobald](Theobald%20Clayhollow.md) drives the carriage.

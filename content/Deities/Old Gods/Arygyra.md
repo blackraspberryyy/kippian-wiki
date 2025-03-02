@@ -8,19 +8,19 @@ fc-category: Lore
 lore_type: 
 icon: lore
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Arygyra
 > ![cover hsmall](../../zzz_attachments/Arygyra.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Type||
 > | Located in | |
-##### Known for: God of Chaos, patron deity of dwarves
-### Description
-## Lore Mentions
-### Most Recent
+#### Known for: God of Chaos, patron deity of dwarves
+## Description
+# Lore Mentions
+## Most Recent
 
-### All Entries
+## All Entries

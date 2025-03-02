@@ -6,33 +6,33 @@ gender: male
 race: half-elf
 age: young adult
 alignment: 
-background: Wizard
+background: wizard
 location: "[Effil](../Locations/Settlements/Effil.md)"
 status: 
 faction: "[[Seven Up...]]"
 icon: player
 ---
-## Bio
+# Bio
 > [!infobox]
 > # Spraugh 'Splix' Calix
 > ![cover hsmall](../zzz_attachments/Splix.png)
-> ###### Bio
-> | Type | Stat |
+> ##### Bio
+> | | |
 > | ---- | ---- |
 > | Aliases | Splix|
 > | Race| half-elf |
 > | Gender| male|
 > | Age | young adult|
 > | Alignment|| 
-> | Background| Wizard|
+> | Background| wizard|
 > | Location|  [Effil](../Locations/Settlements/Effil.md)|
 > | Faction| [Seven Up...](../Factions/Seven%20Up....md)| 
-##### Known for: being a subpar wizard... for now
-### Description
-#### Class: Wizard
-#### Subclass: [School of Divination](https://dnd5e.wikidot.com/wizard:divination)
-### Backstory
-#### First Letter to [Fiamil](../../Fiamil%20Underwood.md)
+#### Known for: being a subpar wizard... for now
+## Description
+### Class: Wizard
+### Subclass: [School of Divination](https://dnd5e.wikidot.com/wizard:divination)
+## Backstory
+### First Letter to [Fiamil](../../Fiamil%20Underwood.md)
 >[!note] First Letter to [Fiamil](../../Fiamil%20Underwood.md)
 >Sporcester Alley, [Effil](../Locations/Settlements/Effil.md)
 >
@@ -64,7 +64,7 @@ icon: player
 >**[Splix](Spraugh%20'Splix'%20Calix.md)**
 >
 >P. S. More letters to come. I have an errand to do and the messenger has come to pick up the letter. See ya!
-#### Second Letter to [Fiamil](../../Fiamil%20Underwood.md)
+### Second Letter to [Fiamil](../../Fiamil%20Underwood.md)
 >[!note] Second Letter to [Fiamil](../../Fiamil%20Underwood.md)
 >Sporcester Alley, [Effil](../Locations/Settlements/Effil.md)
 >
@@ -100,7 +100,7 @@ icon: player
 >
 >From your ever-friend,
 >**[Splix](Spraugh%20'Splix'%20Calix.md)**
-#### Letter to [Professor Embersense](../../Dorfir%20Embersense.md)
+### Letter to [Professor Embersense](../../Dorfir%20Embersense.md)
 >[!note] Letter to [Professor Embersense](../../Dorfir%20Embersense.md)
 >[Savras University](../Locations/Buildings/Savras%20University.md)
 >
@@ -120,7 +120,7 @@ icon: player
 ><li>Chromatic Orb</li>
 ><li>Alarm</li>
 >
->We have also mastered reading and writing in Magiscript, according to Professor Aufel. We have also passed our tests in geography, advanced mathematics, basic alchemy, Kippian history, theological history, botany and zoology, mythologies, rune cryptography, and mage conduct. We were also given the Book of Savras by the university as required reading.
+>We have also mastered reading and writing in Magiscript, according to [Professor Aufel](../../Aufel%20Fernquill.md). We have also passed our tests in geography, advanced mathematics, basic alchemy, [Kippian](../Locations/Kingdoms/Kingdom%20of%20United%20Kippian.md) history, theological history, botany and zoology, mythologies, rune cryptography, and mage conduct. We were also given the Book of Savras by the university as required reading.
 >
 >We will be entering the final year of our studies soon. We hope to meet you soon, [Professor Embersense](../../Dorfir%20Embersense.md).
 >
@@ -130,7 +130,7 @@ icon: player
 >**[Splix](Spraugh%20'Splix'%20Calix.md)** and **[Fiamil](../../Fiamil%20Underwood.md)**
 >
 >P. S. Our work at the library paid off! Thank you for trusting us, professor. We hope you are fine on your scholarly travels.
-#### Third Letter to [Fiamil](../../Fiamil%20Underwood.md)
+### Third Letter to [Fiamil](../../Fiamil%20Underwood.md)
 >[!note] Third Letter to [Fiamil](../../Fiamil%20Underwood.md)
 >Sporcester Alley, [Effil](../Locations/Settlements/Effil.md)
 >
@@ -166,27 +166,28 @@ icon: player
 >
 >From your ever-friend, 
 >**[Splix](Spraugh%20'Splix'%20Calix.md)**
-### Relationships
-#### Family
+## Relationships
+### Family
 - Parents: [Steckun Calix](../../Steckun%20Calix.md) and [Adzana Furwish](../../Adzana%20Furwish.md)
-#### Friends
+### Friends
 - University friend: [Fiamil](../../Fiamil%20Underwood.md)
 - University professor and mentor: [Dorfir Embersense](../../Dorfir%20Embersense.md)
-## Story log
-### Most Recent
-- [Session 32](../../Session%2032.md): [Arc](Arc.md), [Kiris](Kiris%20Acquermann.md), [Thoradin](Thoradin%20Goodman.md) and [Splix](Spraugh%20'Splix'%20Calix.md) goes to [Kayvan](Kayvan%20Acquermann.md)'s room.
-- [Session 35](../../Session%2035.md): [Splix](Spraugh%20'Splix'%20Calix.md) retrieves [Ymerald Staff](Ymerald%20Staff.md).
-- [Session 37](../Session%20Log/Session%2037.md): During a collective vision, [Kiris](Kiris%20Acquermann.md) and [Splix](Spraugh%20'Splix'%20Calix.md), aided by their team, is thrusted into a competitive four-versus-four brawl.
-- [Session 38](../Session%20Log/Session%2038.md): [Splix](Spraugh%20'Splix'%20Calix.md) is still experiencing a protracted vision... Other members of the [[Seven Up...|party]] left him to explore the dungeon.
-- [Session 39](../Session%20Log/Session%2039.md): [Splix](Spraugh%20'Splix'%20Calix.md) gains the following spells: Burning Hands, Scorching Ray, Fireball, Lightning Bolt, Wall of Fire, Fire Shield, Wall of Sand.
-- [Session 40](../Session%20Log/Session%2040.md): [Splix](Spraugh%20'Splix'%20Calix.md) triggers an arcane trap, trapping [Noah](Noah%20Skie.md) inside an invisible force barrier.
+# Story log
+## Most Recent
 - [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
 - [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
-- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) shares that [Elvin](Elvin%20Claymore.md) and other members of [cult](The%20Cult%20of%20Miledu.md)
-- [Session 41](../Session%20Log/Session%2041.md): [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md) imparts their power to [Splix](Spraugh%20'Splix'%20Calix.md) and [Kiris](Kiris%20Acquermann.md).
+- [Session 41](../Session%20Log/Session%2041.md): During the battle, [Splix](Spraugh%20'Splix'%20Calix.md) saw a vision that allowed him to expose a nearby teleportation circle.
+- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) shares that [Elvin](Elvin%20Claymore.md) and other members of [cult](The%20Cult%20of%20Miledu.md) probably used the teleportation circle to raid the [Hall of Akenatun](Hall%20of%20Akenatun.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md) imparts their power to [Splix](Spraugh%20'Splix'%20Calix.md) and [Kiris](Kiris%20Acquermann.md) through the [Ymerald Staff](Ymerald%20Staff.md) and the [Frostborn Armor](Frostborn%20Armor.md).
 > *"Tough times are ahead, but with our power, we hope that you can prevail."*
+- [Session 42](../Session%20Log/Session%2042.md): [Splix](Spraugh%20'Splix'%20Calix.md) casts Augury with a couple of coins.
+> [Splix](Spraugh%20'Splix'%20Calix.md)'s Augury reveals: "Weal, maybe woe."
+- [Session 42](../Session%20Log/Session%2042.md): [Splix](Spraugh%20'Splix'%20Calix.md) spots [Professor Aufel](Aufel%20Fernquill.md) and talk to him. During their reunion, [Splix](Spraugh%20'Splix'%20Calix.md) showed his professor his [Ymerald Staff](Ymerald%20Staff.md).
+- [Session 42](../Session%20Log/Session%2042.md): [Professor Aufel](Aufel%20Fernquill.md) inspects the staff, and is boggled by it. [Splix](Spraugh%20'Splix'%20Calix.md) then shows the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md). [Professor Aufel](Aufel%20Fernquill.md) is understandably confused.
+- [Session 42](../Session%20Log/Session%2042.md): [Splix](Spraugh%20'Splix'%20Calix.md) visits [Professor Aufel](Aufel%20Fernquill.md) and asks the professor to teach him an evocation spell. [Professor Aufel](Aufel%20Fernquill.md) asks for a thorough inspection of the [Ymerald Staff](Ymerald%20Staff.md) in exchange.
+- [Session 43](../Session%20Log/Session%2043.md): [Splix](Spraugh%20'Splix'%20Calix.md) casts Locate Creature, and finds a similar creature near the [Ironfleet Compound](Ironfleet%20Compound.md).
 
-### All Entries
+## All Entries
 - [Session 13](../../Session%2013.md): [Splix](Spraugh%20'Splix'%20Calix.md)
 - [Session 30](../../Session%2030.md): [Splix](Spraugh%20'Splix'%20Calix.md) has an amulet with a Gem of Acid Resistance.
 - [Session 31](../../Session%2031.md): [Splix](Spraugh%20'Splix'%20Calix.md) realizes that the [[Seven Up...|party]] is not allured by the [Aureate Rapier](Aureate%20Rapier.md) wielded by [Remus Kyp](Remus%20Kyp.md).
@@ -198,6 +199,13 @@ icon: player
 - [Session 40](../Session%20Log/Session%2040.md): [Splix](Spraugh%20'Splix'%20Calix.md) triggers an arcane trap, trapping [Noah](Noah%20Skie.md) inside an invisible force barrier.
 - [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
 - [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
-- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) shares that [Elvin](Elvin%20Claymore.md) and other members of [cult](The%20Cult%20of%20Miledu.md)
-- [Session 41](../Session%20Log/Session%2041.md): [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md) imparts their power to [Splix](Spraugh%20'Splix'%20Calix.md) and [Kiris](Kiris%20Acquermann.md).
+- [Session 41](../Session%20Log/Session%2041.md): During the battle, [Splix](Spraugh%20'Splix'%20Calix.md) saw a vision that allowed him to expose a nearby teleportation circle.
+- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) shares that [Elvin](Elvin%20Claymore.md) and other members of [cult](The%20Cult%20of%20Miledu.md) probably used the teleportation circle to raid the [Hall of Akenatun](Hall%20of%20Akenatun.md).
+- [Session 41](../Session%20Log/Session%2041.md): [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md) imparts their power to [Splix](Spraugh%20'Splix'%20Calix.md) and [Kiris](Kiris%20Acquermann.md) through the [Ymerald Staff](Ymerald%20Staff.md) and the [Frostborn Armor](Frostborn%20Armor.md).
 > *"Tough times are ahead, but with our power, we hope that you can prevail."*
+- [Session 42](../Session%20Log/Session%2042.md): [Splix](Spraugh%20'Splix'%20Calix.md) casts Augury with a couple of coins.
+> [Splix](Spraugh%20'Splix'%20Calix.md)'s Augury reveals: "Weal, maybe woe."
+- [Session 42](../Session%20Log/Session%2042.md): [Splix](Spraugh%20'Splix'%20Calix.md) spots [Professor Aufel](Aufel%20Fernquill.md) and talk to him. During their reunion, [Splix](Spraugh%20'Splix'%20Calix.md) showed his professor his [Ymerald Staff](Ymerald%20Staff.md).
+- [Session 42](../Session%20Log/Session%2042.md): [Professor Aufel](Aufel%20Fernquill.md) inspects the staff, and is boggled by it. [Splix](Spraugh%20'Splix'%20Calix.md) then shows the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md). [Professor Aufel](Aufel%20Fernquill.md) is understandably confused.
+- [Session 42](../Session%20Log/Session%2042.md): [Splix](Spraugh%20'Splix'%20Calix.md) visits [Professor Aufel](Aufel%20Fernquill.md) and asks the professor to teach him an evocation spell. [Professor Aufel](Aufel%20Fernquill.md) asks for a thorough inspection of the [Ymerald Staff](Ymerald%20Staff.md) in exchange.
+- [Session 43](../Session%20Log/Session%2043.md): [Splix](Spraugh%20'Splix'%20Calix.md) casts Locate Creature, and finds a similar creature near the [Ironfleet Compound](Ironfleet%20Compound.md).

@@ -6,27 +6,27 @@ status:
 lore_type: location
 icon: map
 ---
-## Basic Information
+# Basic Information
 > [!infobox]
 > # Labyrinthus
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Type | 
 > | Located in | [Shadowfell](../Planes/Shadowfell.md)|
-##### Known for:
-### Description
-## Notable Locations
+#### Known for:
+## Description
+# Notable Locations
 | Name                                                          |
 | ------------------------------------------------------------- |
 | [Hall of Akenatun](../Buildings/Hall%20of%20Akenatun.md) |
 
-## Notable NPCs
+# Notable NPCs
 | Name |
 | ---- |
 
-## Factions
+# Factions
 | Name |
 | ---- |

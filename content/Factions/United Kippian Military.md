@@ -6,28 +6,28 @@ status: active
 lore_type: faction
 icon: faction
 ---
-## Information
+# Information
 > [!infobox]
 > # United Kippian Military
 > ![cover hsmall](insertimage.png)
-> ###### Information
+> ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Aliases | |
 > | Status| active|
 > | Based in|  [Kingdom of United Kippian](../Locations/Kingdoms/Kingdom%20of%20United%20Kippian.md)|
-##### Known for:
-### Description
-## Organization
-##### Leader:
-### Known Members
+#### Known for:
+## Description
+# Organization
+#### Leader:
+## Known Members
 | Name                       |
 | -------------------------- |
 | [Agatha](../../Agatha.md) |
 
-## Goals
+# Goals
 - [ ] Task 1
-## Story log
-### Most Recent
+# Story log
+## Most Recent
 
-### All Entries
+## All Entries
