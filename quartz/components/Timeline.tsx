@@ -14,14 +14,16 @@ const Timeline = (props: TimelineProps) => {
     if (a.date.epochDayTime > b.date.epochDayTime) {return 1;}
     return 0;
   })
+
+  const myStyles = {
+    padding: "12px",
+  };
   
   return <>
     {sortedEvents.map(e => (
-      <div>
+      <div style={myStyles}>
         {e.slug ? <a href={e.slug} class="internal alias" data-slug={e.slug}>{e.name}</a> : <span>{e.name}</span>}<br/>
         <span>{ordinal_suffix_of(e.date.dayOfMonth!)} of {e.date.monthName}{e.date.year ? `, ${e.date.year}` : ''} ({e.date.dayName})</span><br/>
-        <span>{e.category}</span><br/>
-        <hr></hr>
       </div>
     ))}
   </>
