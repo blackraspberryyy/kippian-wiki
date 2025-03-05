@@ -17,3 +17,10 @@
     flex-wrap:wrap;
   }
 }
+
+// add line to all h1 inside article elements
+article h1 {
+  border-bottom: 1px solid var(--lightgray);
+  padding-bottom: 8px;
+  margin-bottom: 8px;
+}
