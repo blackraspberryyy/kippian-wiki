@@ -17,3 +17,8 @@
     flex-wrap:wrap;
   }
 }
+
+// removed backgrounds of links
+a.internal {
+  background-color:unset;
+}
