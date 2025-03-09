@@ -24,3 +24,14 @@ article h1 {
   padding-bottom: 8px;
   margin-bottom: 8px;
 }
+
+// modified article-title style
+.article-title {
+  font-size: 2rem;
+
+  @media all and not ($desktop) {
+    & {
+      font-size: 1.75rem;
+    }
+  }
+}
