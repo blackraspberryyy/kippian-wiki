@@ -115,6 +115,16 @@ export default ((userOpts?: Partial<Options>) => {
         <div id="explorer-content">
           <ul class="overflow" id="explorer-ul">
             <ExplorerNode node={fileTree} opts={opts} fileData={fileData} />
+            
+            {/* Add Timelines link at the last section of the Explorer view*/}
+            <li key='lore-timeline'>
+              <a href='/lore-timeline'>Lore Timeline</a>
+            </li>
+
+            <li key='session-timeline'>
+              <a href='/sessions-timeline'>Sessions Timeline</a>
+            </li>
+
             <li id="explorer-end" />
           </ul>
         </div>

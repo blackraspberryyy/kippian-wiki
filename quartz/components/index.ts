@@ -21,6 +21,9 @@ import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Infobox from "./Infobox"
+import Timeline from "./Timeline"
+import SessionsTimeline from "./pages/SessionsTimeline"
+import LoreTimeline from "./pages/LoreTimeline"
 
 export {
   ArticleTitle,
@@ -45,5 +48,8 @@ export {
   NotFound,
   Breadcrumbs,
   Comments,
-  Infobox
+  Infobox,
+  Timeline,
+  SessionsTimeline,
+  LoreTimeline,
 }

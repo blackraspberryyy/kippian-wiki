@@ -20,7 +20,6 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
-    hideInfobox: true,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -56,6 +55,87 @@ const config: QuartzConfig = {
         },
       },
     },
+
+    // custom configs
+    hideInfobox: true,
+    calendarConfig: {
+      name: 'Kippian Calendar',
+      weekdays: [
+        {name: 'Akenday'},
+        {name: 'Matunday'},
+        {name: 'Tashday'},
+        {name: 'Walladay'},
+        {name: 'Corday'},
+        {name: 'Arygday'},
+        {name: 'Barciday'}
+      ],
+      months: [
+        {
+          name: 'Mathudim',
+          daysInMonth: 28,
+          monthInYear: 10,
+        },
+        {
+          name: 'Bastordyl',
+          daysInMonth: 28,
+          monthInYear: 10,
+        },
+        {
+          name: 'Azir',
+          daysInMonth: 28,
+          monthInYear: 10,
+        },
+        {
+          name: 'Gustkil',
+          daysInMonth: 28,
+          monthInYear: 10,
+        },
+        {
+          name: 'Kwonyr',
+          daysInMonth: 28,
+          monthInYear: 10,
+        },
+        {
+          name: 'Zagi',
+          daysInMonth: 28,
+          monthInYear: 10,
+        },
+        {
+          name: 'Cappodon',
+          daysInMonth: 28,
+          monthInYear: 10,
+        },
+        {
+          name: 'Spekid',
+          daysInMonth: 28,
+          monthInYear: 10,
+        },
+        {
+          name: 'Mastkil',
+          daysInMonth: 28,
+          monthInYear: 10,
+        },
+        {
+          name: 'Yugad',
+          daysInMonth: 28,
+          monthInYear: 10,
+        },
+      ],
+      seasons: [
+        {
+          name: 'Akenatun\'s Season',
+          monthOfYear: 1,
+          dayOfMonth: 1,
+        },
+        {
+          name: 'Matunda\'s Season',
+          monthOfYear: 6,
+          dayOfMonth: 1,
+        },
+      ],
+      monthStartOnWeekStart: true,
+      hasYear0: true
+    }
   },
   plugins: {
     transformers: [
@@ -92,6 +172,8 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.NotFoundPage(),
+      Plugin.LoreTimelinePage(),
+      Plugin.SessionsTimelinePage(),
     ],
   },
 }
