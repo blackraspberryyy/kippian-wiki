@@ -1,70 +1,100 @@
 @use "../../styles/variables.scss" as *;
 
-.information-box {
-  img {
-    max-height: 350px;
-  }
+blockquote.infobox.callout {
+  border-radius: 5px;
+  background: unset;
+  border-color: var(--lightgray);
+  padding-right: 24px;
+  padding-left: 24px;
+  padding-bottom: 8px;
+  margin: 0 0;
 
-  blockquote.infobox.callout {
-    border-radius: 5px;
-    background: unset;
-    border-color: var(--lightgray);
-    padding-right: 24px;
-    padding-left: 24px;
-    padding-bottom: 8px;
-    margin: 0 0;
-
-    .callout-title {
-      .callout-icon {
-        color: var(--secondary);
-        background-color: var(--secondary);
-      }
-      
-      p {
-        color: var(--secondary);
-      }
+  .callout-title {
+    .callout-icon {
+      color: var(--secondary);
+      background-color: var(--secondary);
     }
-
-    .callout-content {
-      h1 {
-        font-size: 18px;
-      }
+    
+    p {
+      color: var(--secondary);
     }
   }
 
-  a.internal[role="anchor"] {
-    background-color: unset;
-  }
-
-  & p:has(img) {
-    text-align: center;
-  }
-
-  & table {
-    border-collapse: collapse;
-    table-layout: fixed;
-    width: 100%;
-
-    tr {
-      td:first-child {
-        font-weight:bold;
-        color: var(--dark)
-      }
+  .callout-content {
+    a.internal[role="anchor"] {
+      display: none;
     }
 
-    th:first-child {
-      width: 84px;
+    h1 {
+      font-size: 18px;
+      text-align: center;
     }
 
-    td {
-      word-wrap: break-word;
-      border-top: 1px solid var(--lightgray);
+    p > img {
+      max-height: 350px;
+    }
+
+    p:has(img) {
+      text-align: center;
+    }
+
+    h5 {
+      margin-bottom: 8px;
+    }
+
+    /* for some weird reason, .orig-infobox has this, while .new-infobox doesn't*/
+    .table-container {
+      overflow-x: scroll;
+    }
+
+    table {
+      border-collapse: collapse;
+      table-layout: fixed;
+      width: 100%;
       margin: 0;
+  
+      tr {
+        td:first-child {
+          font-weight:bold;
+          color: var(--dark);
+          padding-left: 16px;
+        }
+      }
+  
+      th:first-child {
+        width: 96px;
+      }
+  
+      td {
+        word-wrap: break-word;
+        border-top: 1px solid var(--lightgray);
+        margin: 0;
         padding: 6px 10px;
+      }
     }
   }
+}
 
-  @media all and not ($desktop) {
+.orig-infobox {
+  display: none;
+}
+
+.new-infobox {
+  display: block;
+}
+
+// on tablet and mobile, maximize the infobox's width
+@media all and not ($desktop) {
+  .information-box {
     min-width: 100%;
+  }
+
+  // also, revive the original infobox, and remove the new infobox at the right
+  .orig-infobox {
+    display: block;
+  }
+
+  .new-infobox {
+    display: none;
   }
 }

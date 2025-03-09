@@ -25,9 +25,8 @@ export const HideInfobox: QuartzTransformerPlugin = () => {
                 && node?.properties?.className?.split(' ')?.some((c: string) => c === "infobox")
               ) {
                 if ((node as any)?.properties?.className) {
-                  (node as any).properties.className = [...(node as any)?.properties?.className.split(' '), 'display-none'];
+                  (node as any).properties.className = [...(node as any)?.properties?.className.split(' '), 'orig-infobox'];
                 }
-
               }
             })
           }
