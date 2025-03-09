@@ -18,7 +18,19 @@
   }
 }
 
+
 // removed backgrounds of links
 a.internal {
   background-color:unset;
+}
+
+// modified article-title style
+.article-title {
+  font-size: 2rem;
+
+  @media all and not ($desktop) {
+    & {
+      font-size: 1.75rem;
+    }
+  }
 }

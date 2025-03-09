@@ -40,7 +40,7 @@ export const TableOfContents: QuartzTransformerPlugin<Partial<Options>> = (userO
               slugAnchor.reset()
               const toc: TocEntry[] = []
               let highestDepth: number = opts.maxDepth
-              const excludedNodes: Heading[] = [];
+              let excludedNodes: Heading[] = [];
 
               visit(tree, "blockquote", (node) => {
                 const heading = find(node, (node: any) => {
@@ -49,6 +49,8 @@ export const TableOfContents: QuartzTransformerPlugin<Partial<Options>> = (userO
 
                 excludedNodes.push(heading as Heading);
               })
+
+              excludedNodes = excludedNodes.filter(e => !!e);
 
               visit(tree, "heading", (node) => {
                 if (node.depth <= opts.maxDepth) {
