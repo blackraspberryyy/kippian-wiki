@@ -174,10 +174,6 @@ icon: player
 - University professor and mentor: [Dorfir Embersense](../../Dorfir%20Embersense.md)
 # Story log
 ## Most Recent
-- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
-- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
-- [Session 41](../Session%20Log/Session%2041.md): During the battle, [Splix](Spraugh%20'Splix'%20Calix.md) saw a vision that allowed him to expose a nearby teleportation circle.
-- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) shares that [Elvin](Elvin%20Claymore.md) and other members of [cult](The%20Cult%20of%20Miledu.md) probably used the teleportation circle to raid the [Hall of Akenatun](Hall%20of%20Akenatun.md).
 - [Session 41](../Session%20Log/Session%2041.md): [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md) imparts their power to [Splix](Spraugh%20'Splix'%20Calix.md) and [Kiris](Kiris%20Acquermann.md) through the [Ymerald Staff](Ymerald%20Staff.md) and the [Frostborn Armor](Frostborn%20Armor.md).
 > *"Tough times are ahead, but with our power, we hope that you can prevail."*
 - [Session 42](../Session%20Log/Session%2042.md): [Splix](Spraugh%20'Splix'%20Calix.md) casts Augury with a couple of coins.
@@ -186,6 +182,10 @@ icon: player
 - [Session 42](../Session%20Log/Session%2042.md): [Professor Aufel](Aufel%20Fernquill.md) inspects the staff, and is boggled by it. [Splix](Spraugh%20'Splix'%20Calix.md) then shows the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md). [Professor Aufel](Aufel%20Fernquill.md) is understandably confused.
 - [Session 42](../Session%20Log/Session%2042.md): [Splix](Spraugh%20'Splix'%20Calix.md) visits [Professor Aufel](Aufel%20Fernquill.md) and asks the professor to teach him an evocation spell. [Professor Aufel](Aufel%20Fernquill.md) asks for a thorough inspection of the [Ymerald Staff](Ymerald%20Staff.md) in exchange.
 - [Session 43](../Session%20Log/Session%2043.md): [Splix](Spraugh%20'Splix'%20Calix.md) casts Locate Creature, and finds a similar creature near the [Ironfleet Compound](Ironfleet%20Compound.md).
+- [Session 44](../Session%20Log/Session%2044.md): [Splix](Spraugh%20'Splix'%20Calix.md) recalls that there is a spell that could modify the memory of a large group of people, but the modification must be extremely subtle.
+- [Session 44](../Session%20Log/Session%2044.md): [Splix](Spraugh%20'Splix'%20Calix.md) further explains that such powerful enchantment can only be cast by an [Eladrin](The%20Eladrin.md).
+- [Session 44](../Session%20Log/Session%2044.md): [Splix](Spraugh%20'Splix'%20Calix.md) casts Alarm spell to check for intruders in a rather unguarded part of the [compound](Ironfleet%20Compound.md).
+- [Session 45](../Session%20Log/Session%2045.md): [Splix](Spraugh%20'Splix'%20Calix.md) sets another Alarm spell.
 
 ## All Entries
 - [Session 13](../../Session%2013.md): [Splix](Spraugh%20'Splix'%20Calix.md)
@@ -209,3 +209,7 @@ icon: player
 - [Session 42](../Session%20Log/Session%2042.md): [Professor Aufel](Aufel%20Fernquill.md) inspects the staff, and is boggled by it. [Splix](Spraugh%20'Splix'%20Calix.md) then shows the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md). [Professor Aufel](Aufel%20Fernquill.md) is understandably confused.
 - [Session 42](../Session%20Log/Session%2042.md): [Splix](Spraugh%20'Splix'%20Calix.md) visits [Professor Aufel](Aufel%20Fernquill.md) and asks the professor to teach him an evocation spell. [Professor Aufel](Aufel%20Fernquill.md) asks for a thorough inspection of the [Ymerald Staff](Ymerald%20Staff.md) in exchange.
 - [Session 43](../Session%20Log/Session%2043.md): [Splix](Spraugh%20'Splix'%20Calix.md) casts Locate Creature, and finds a similar creature near the [Ironfleet Compound](Ironfleet%20Compound.md).
+- [Session 44](../Session%20Log/Session%2044.md): [Splix](Spraugh%20'Splix'%20Calix.md) casts Alarm spell to check for intruders in a rather unguarded part of the [compound](Ironfleet%20Compound.md).
+- [Session 44](../Session%20Log/Session%2044.md): [Splix](Spraugh%20'Splix'%20Calix.md) recalls that there is a spell that could modify the memory of a large group of people, but the modification must be extremely subtle.
+- [Session 44](../Session%20Log/Session%2044.md): [Splix](Spraugh%20'Splix'%20Calix.md) further explains that such powerful enchantment can only be cast by an [Eladrin](The%20Eladrin.md).
+- [Session 45](../Session%20Log/Session%2045.md): [Splix](Spraugh%20'Splix'%20Calix.md) sets another Alarm spell.
