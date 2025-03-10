@@ -28,28 +28,28 @@ icon: player
 | [Adeena Oberon](../PCs/Adeena%20Oberon.md)                 |
 | [Adikia Unalome](../PCs/Adikia%20Unalome.md)               |
 | [Arc](../PCs/Arc.md)                                     |
-| [Astar](../PCs/Companions/Astar.md)                      |
-| [Nokia](../PCs/Companions/Nokia.md)                      |
-| [Kiris Acquermann](../PCs/Kiris%20Acquermann.md)           |
 | [Noah Skie](../PCs/Noah%20Skie.md)                         |
 | [Spraugh 'Splix' Calix](../PCs/Spraugh%20'Splix'%20Calix.md) |
 | [Theobald Clayhollow](../PCs/Theobald%20Clayhollow.md)     |
 | [Thoradin Goodman](../PCs/Thoradin%20Goodman.md)           |
+| [Astar](../PCs/Companions/Astar.md)                      |
+| [Nokia](../PCs/Companions/Nokia.md)                      |
+| [Kiris Acquermann](../PCs/Kiris%20Acquermann.md)           |
 
 # Goals
 - [ ] Task 1
 # Story log
 ## Most Recent
-- [Session 42](../Session%20Log/Session%2042.md): The [party](Seven%20Up....md) incurs temporal displacement sickness. [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Adeena](Adeena%20Oberon.md) are more affected by the sickness.
-- [Session 42](../Session%20Log/Session%2042.md): The [party](Seven%20Up....md), except [Noah](Noah%20Skie.md), drinks a tea fashioned from the ginger where [The First Tree](The%20First%20Tree.md) grew. It is a traditional drink honoring [Antasha](Antasha.md), goddess of the land.
-- [Session 42](../Session%20Log/Session%2042.md): As the [Noah](Noah%20Skie.md) steps out of the [Ankyra's Old Castle Compound](Ankyra's%20Old%20Castle%20Compound.md), the [party](Seven%20Up....md) hears a whistle and the sound of detonation originating from the [Ironfleet Compound](Ironfleet%20Compound.md).
-- [Session 42](../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) bursts into action and rides a steed. The [party](Seven%20Up....md) rides a closed carriage pulled by two horses. [Theobald](Theobald%20Clayhollow.md) drives the carriage.
-- [Session 42](../Session%20Log/Session%2042.md): During their frantic run, [Thoradin](Thoradin%20Goodman.md) is hit by a crossbow bolt. A hidden assailant attacks [Thoradin](Thoradin%20Goodman.md), stopping the [party](Seven%20Up....md) from their tracks.
-- [Session 42](../Session%20Log/Session%2042.md): During the encounter, the [party](Seven%20Up....md) determines that the assailant is [Kayriel Acquermann](Kayriel%20Acquermann.md).
-- [Session 42](../Session%20Log/Session%2042.md): The [party](Seven%20Up....md) traps [Kayriel](Kayriel%20Acquermann.md) inside the carriage.
-- [Session 42](../Session%20Log/Session%2042.md): The [party](Seven%20Up....md) plans a meeting with the group within the [Ironfleet Compound](Ironfleet%20Compound.md). The [party](Seven%20Up....md) invites [Mitarella](Mitarella%20Randall.md), [Michaela](Michaela%20Randall.md), [Kirren](Kirren%20Acquermann.md), [Kayvan](Kayvan%20Acquermann.md) and [Remus](Remus%20Kyp.md).
-- [Session 43](../Session%20Log/Session%2043.md): The [party](Seven%20Up....md), minus [Adeena](Adeena%20Oberon.md), rushes to the [compound](Ironfleet%20Compound.md).
-- [Session 43](../Session%20Log/Session%2043.md): The [party](Seven%20Up....md) decides to confront [Kayriel](Kayriel%20Acquermann.md).
+- [Session 45](../Session%20Log/Session%2045.md): [Adeena](Adeena%20Oberon.md) meets the [party](Seven%20Up....md) as they were about to find her.
+- [Session 45](../Session%20Log/Session%2045.md): [Arc](Arc.md) tries to track the [Dusk Talon](Dusk%20Talons.md) assassins. He follows a set of tracks that leads him to a chimneyed-house. He enters and sees a city guard quarreling with his wife about financial issues. [Arc](Arc.md) leaves 10 [Seven Up...](Seven%20Up....md)
+- [Session 45](../Session%20Log/Session%2045.md): The [party](Seven%20Up....md) takes a long rest.
+- [Session 45](../Session%20Log/Session%2045.md): Regarding [The Cult of Miledu](The%20Cult%20of%20Miledu.md), [Kayriel](Kayriel%20Acquermann.md) is as clueless as the [party](Seven%20Up....md). He mentions that he has knowledge of the [Theater Incident](Theater%20Incident.md) since a follower from the [Order of Yekora](Followers%20of%20Yekora.md) told it to him.
+- [Session 45](../Session%20Log/Session%2045.md): [Michaela](Michaela%20Randall.md) asks if [Noah](Noah%20Skie.md)'s disappearances is normal. [Adikia](Adikia%20Unalome.md) says yes, and she must not be concerned. [Michaela](Michaela%20Randall.md) tells [Adikia](Adikia%20Unalome.md) that the [party](Seven%20Up....md) can ask for her help in finding [Noah](Noah%20Skie.md).
+- [Session 45](../Session%20Log/Session%2045.md): The [party](Seven%20Up....md) wakes up, but [Noah](Noah%20Skie.md) is still missing.
+- [Session 45](../Session%20Log/Session%2045.md): [Djorken](Djorken%20Veegar.md) knocks on the [party](Seven%20Up....md)'s room and gives [Adeena](Adeena%20Oberon.md) a letter.
+- [Session 45](../Session%20Log/Session%2045.md): [Djorken](Djorken%20Veegar.md) tells the [party](Seven%20Up....md) that he received the letter from a guard.
+- [Session 45](../Session%20Log/Session%2045.md): [Djorken](Djorken%20Veegar.md) imparts that [Mitarella](Mitarella%20Randall.md), [Remus](Remus%20Kyp.md) and [Kirren](Kirren%20Acquermann.md) will return back to [Ankyra's Old Castle Compound](Ankyra's%20Old%20Castle%20Compound.md) after lunch. He expects the [party](Seven%20Up....md) to attend the lunch.
+- [Session 45](../Session%20Log/Session%2045.md): [Adeena](Adeena%20Oberon.md) discloses that she plans to go alone later. She and the [party](Seven%20Up....md) discusses a plan of action.
 
 ## All Entries
 - [Session 1](../../Session%201.md): [Ridnor](Ridnor.md) visits [Bulkip](Bulkip.md) and informs the [party](Seven%20Up....md) of the house arrangements
@@ -175,3 +175,22 @@ Someone broke into the royal chambers... The guards are not saying anything. I'm
 - [Session 42](../Session%20Log/Session%2042.md): The [party](Seven%20Up....md) traps [Kayriel](Kayriel%20Acquermann.md) inside the carriage.
 - [Session 43](../Session%20Log/Session%2043.md): The [party](Seven%20Up....md), minus [Adeena](Adeena%20Oberon.md), rushes to the [compound](Ironfleet%20Compound.md).
 - [Session 43](../Session%20Log/Session%2043.md): The [party](Seven%20Up....md) decides to confront [Kayriel](Kayriel%20Acquermann.md).
+- [Session 44](../Session%20Log/Session%2044.md): The [party](Seven%20Up....md) enters the [Ironfleet Compound](Ironfleet%20Compound.md) and talks to [Gandour](Gandour%20Ironfleet.md).
+- [Session 44](../Session%20Log/Session%2044.md): The [party](Seven%20Up....md) sees the servants, workers and guards all stressed and fatigued.
+- [Session 44](../Session%20Log/Session%2044.md): [Party](Seven%20Up....md) shares details about the [Scepter of Akenatun](Scepter%20of%20Akenatun.md), including those who claimed it: [Elvin](Elvin%20Claymore.md) and [Rickard](Rickard%20Kyp.md); they could not identify the other one.
+- [Session 44](../Session%20Log/Session%2044.md): The [party](Seven%20Up....md) is unsure about [Kayriel](Kayriel%20Acquermann.md)'s affiliation: is he a spy for [Kippian](Kingdom%20of%20United%20Kippian.md), a servant of [Frederick](Frederick%20Oberon.md), or a member of [The Cult of Miledu](The%20Cult%20of%20Miledu.md)?
+- [Session 44](../Session%20Log/Session%2044.md): Stumped on the identity of the holder of the Acquermann ring they found in the [Theater Incident](Theater%20Incident.md), the [party](Seven%20Up....md) recollects their thoughts.
+- [Session 44](../Session%20Log/Session%2044.md): The [party](Seven%20Up....md) excluded [Kayriel](Kayriel%20Acquermann.md) and [Korvin](Korvin%20Acquermann.md) as the Acquermann member of [The Cult of Miledu](The%20Cult%20of%20Miledu.md).
+- [Session 45](../Session%20Log/Session%2045.md): [Arc](Arc.md) tries to track the [Dusk Talon](Dusk%20Talons.md) assassins. He follows a set of tracks that leads him to a chimneyed-house. He enters and sees a city guard quarreling with his wife about financial issues. [Arc](Arc.md) leaves 10 [Seven Up...](Seven%20Up....md)
+- [Session 45](../Session%20Log/Session%2045.md): The [party](Seven%20Up....md) takes a long rest.
+- [Session 45](../Session%20Log/Session%2045.md): The [party](Seven%20Up....md) wakes up, but [Noah](Noah%20Skie.md) is still missing.
+- [Session 45](../Session%20Log/Session%2045.md): [Djorken](Djorken%20Veegar.md) knocks on the [party](Seven%20Up....md)'s room and gives [Adeena](Adeena%20Oberon.md) a letter.
+- [Session 45](../Session%20Log/Session%2045.md): [Djorken](Djorken%20Veegar.md) tells the [party](Seven%20Up....md) that he received the letter from a guard.
+- [Session 45](../Session%20Log/Session%2045.md): [Djorken](Djorken%20Veegar.md) imparts that [Mitarella](Mitarella%20Randall.md), [Remus](Remus%20Kyp.md) and [Kirren](Kirren%20Acquermann.md) will return back to [Ankyra's Old Castle Compound](Ankyra's%20Old%20Castle%20Compound.md) after lunch. He expects the [party](Seven%20Up....md) to attend the lunch.
+- [Session 45](../Session%20Log/Session%2045.md): [Adeena](Adeena%20Oberon.md) discloses that she plans to go alone later. She and the [party](Seven%20Up....md) discusses a plan of action.
+- [Session 45](../Session%20Log/Session%2045.md): [Michaela](Michaela%20Randall.md) asks if [Noah](Noah%20Skie.md)'s disappearances is normal. [Adikia](Adikia%20Unalome.md) says yes, and she must not be concerned. [Michaela](Michaela%20Randall.md) tells [Adikia](Adikia%20Unalome.md) that the [party](Seven%20Up....md) can ask for her help in finding [Noah](Noah%20Skie.md).
+- [Session 45](../Session%20Log/Session%2045.md): The [party](Seven%20Up....md) prepares for [Adeena](Adeena%20Oberon.md)'s excursion. [Kayvan](Kayvan%20Acquermann.md), [Kiris](Kiris%20Acquermann.md) and [Arc](Arc.md) will observe the meeting.
+- [Session 45](../Session%20Log/Session%2045.md): [Adeena](Adeena%20Oberon.md) could not find [Kayriel](Kayriel%20Acquermann.md). Hours go by and the [party](Seven%20Up....md) waits.
+- [Session 45](../Session%20Log/Session%2045.md): Meanwhile, [Kayvan](Kayvan%20Acquermann.md), [Kiris](Kiris%20Acquermann.md), and [Arc](Arc.md) attempt to follow [Adeena](Adeena%20Oberon.md), but to no avail. In the end, they go back to the [compound](Ironfleet%20Compound.md) to enlist the [party](Seven%20Up....md)'s help.
+- [Session 45](../Session%20Log/Session%2045.md): Regarding [The Cult of Miledu](The%20Cult%20of%20Miledu.md), [Kayriel](Kayriel%20Acquermann.md) is as clueless as the [party](Seven%20Up....md). He mentions that he has knowledge of the [Theater Incident](Theater%20Incident.md) since a follower from the [Order of Yekora](Followers%20of%20Yekora.md) told it to him.
+- [Session 45](../Session%20Log/Session%2045.md): [Adeena](Adeena%20Oberon.md) meets the [party](Seven%20Up....md) as they were about to find her.

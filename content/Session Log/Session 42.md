@@ -28,7 +28,7 @@ icon: calendar
 > [!NOTE]
 > From [Adeena](../PCs/Adeena%20Oberon.md)
 > I need to fulfill my oath.
-- The [party](../Factions/Seven%20Up....md) plans a meeting with the group within the [Ironfleet Compound](../Locations/Areas/Ironfleet%20Compound.md). The [party](../Factions/Seven%20Up....md) invites [Mitarella](../../Mitarella%20Randall.md), [Michaela](../../Michaela%20Randall.md), [Kirren](../../Kirren%20Acquermann.md), [Kayvan](../../Kayvan%20Acquermann.md) and [Remus](../../Remus%20Kyp.md).
+- The [party](../Factions/Seven%20Up....md) plans a meeting with the group within the [Ironfleet Compound](../Locations/Buildings/Ironfleet%20Compound.md). The [party](../Factions/Seven%20Up....md) invites [Mitarella](../../Mitarella%20Randall.md), [Michaela](../../Michaela%20Randall.md), [Kirren](../../Kirren%20Acquermann.md), [Kayvan](../../Kayvan%20Acquermann.md) and [Remus](../../Remus%20Kyp.md).
 - [Theobald](../PCs/Theobald%20Clayhollow.md) prays to [Aisef](../Deities/New%20Gods/Aisef.md).
 - [Arc](../PCs/Arc.md) sneaks out of the [compound](../Locations/Buildings/Ankyra's%20Old%20Castle%20Compound.md) to sell some stuff. [Arc](../PCs/Arc.md) stumbles upon a dagger with a [Sumberian](../Locations/Continents/Sumber.md) design.
 - [Thoradin](../PCs/Thoradin%20Goodman.md) asks [Adikia](../PCs/Adikia%20Unalome.md) to read the inscriptions on his [Vambrace Shields](../Items/Mythic%20Items/Vambrace%20Shields.md).
@@ -48,7 +48,7 @@ icon: calendar
 > [Age of Humans](../Lore/Eons%20and%20Ages/Age%20of%20Humans.md)
 - [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) visits [Professor Aufel](../../Aufel%20Fernquill.md) and asks the professor to teach him an evocation spell. [Professor Aufel](../../Aufel%20Fernquill.md) asks for a thorough inspection of the [Ymerald Staff](../Items/Mythic%20Items/Ymerald%20Staff.md) in exchange.
 ## Back to the Ironfleets...?
-- As the [Noah](../PCs/Noah%20Skie.md) steps out of the [Ankyra's Old Castle Compound](../Locations/Buildings/Ankyra's%20Old%20Castle%20Compound.md), the [party](../Factions/Seven%20Up....md) hears a whistle and the sound of detonation originating from the [Ironfleet Compound](../Locations/Areas/Ironfleet%20Compound.md).
+- As the [Noah](../PCs/Noah%20Skie.md) steps out of the [Ankyra's Old Castle Compound](../Locations/Buildings/Ankyra's%20Old%20Castle%20Compound.md), the [party](../Factions/Seven%20Up....md) hears a whistle and the sound of detonation originating from the [Ironfleet Compound](../Locations/Buildings/Ironfleet%20Compound.md).
 - [Thoradin](../PCs/Thoradin%20Goodman.md) bursts into action and rides a steed. The [party](../Factions/Seven%20Up....md) rides a closed carriage pulled by two horses. [Theobald](../PCs/Theobald%20Clayhollow.md) drives the carriage.
 - During their frantic run, [Thoradin](../PCs/Thoradin%20Goodman.md) is hit by a crossbow bolt. A hidden assailant attacks [Thoradin](../PCs/Thoradin%20Goodman.md), stopping the [party](../Factions/Seven%20Up....md) from their tracks.
 - During the encounter, the [party](../Factions/Seven%20Up....md) determines that the assailant is [Kayriel Acquermann](../../Kayriel%20Acquermann.md).

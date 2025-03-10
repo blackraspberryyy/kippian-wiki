@@ -72,12 +72,6 @@ She thought that she would only use her strength for peace: it would be her way 
 - [Agatha](../../Agatha.md)
 # Story log
 ## Most Recent
-- [Session 41](../Session%20Log/Session%2041.md): [Adikia](Adikia%20Unalome.md) perceives [Noah](Noah%20Skie.md) appearing into existence.
-- [Session 41](../Session%20Log/Session%2041.md): [Noah](Noah%20Skie.md) has no recollection about what happened to her after being trapped. It could be the effect of her [Evanescent Shortbow](Evanescent%20Shortbow.md).
-- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
-- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
-- [Session 41](../Session%20Log/Session%2041.md): [Noah](Noah%20Skie.md) asks the casters about her ghastly visions.
-> *"Death haunts you, [Noah](Noah%20Skie.md), so much so that your guilt has allowed you to see beyond several planes. Only a few are blessed, or cursed, of such power."*
 - [Session 42](../Session%20Log/Session%2042.md): The [[Seven Up...|party]], except [Noah](Noah%20Skie.md), drinks a tea fashioned from the ginger where [The First Tree](The%20First%20Tree.md) grew. It is a traditional drink honoring [Antasha](Antasha.md), goddess of the land.
 - [Session 42](../Session%20Log/Session%2042.md): [Noah](Noah%20Skie.md) overhears [Kirren](Kirren%20Acquermann.md) and [Michaela](Michaela%20Randall.md) talking. [Kirren](Kirren%20Acquermann.md) asks if [Michaela](Michaela%20Randall.md) if she knew about [Leneia](Leneia%20Yarumcy.md). [Michaela](Michaela%20Randall.md) denies it, and consoles [Kirren](Kirren%20Acquermann.md).
 - [Session 42](../Session%20Log/Session%2042.md): [Noah](Noah%20Skie.md) overhears that [Professor Aufel](Aufel%20Fernquill.md) and [Michaela](Michaela%20Randall.md) talking. The [professor](Aufel%20Fernquill.md)'s there to conduct research within the [Ankyra's Old Castle Compound](Ankyra's%20Old%20Castle%20Compound.md)'s library that could help with the [Yvernus](Yvernus%20District.md) situation.
@@ -94,6 +88,11 @@ She thought that she would only use her strength for peace: it would be her way 
 > [Age of Orcs](Age%20of%20Orcs.md)
 >
 > [Age of Humans](Age%20of%20Humans.md)
+- [Session 44](../Session%20Log/Session%2044.md): [Noah](Noah%20Skie.md) sees a vision of [Agatha](Agatha.md). [Noah](Noah%20Skie.md) does not understand what [Agatha](Agatha.md) said.
+- [Session 44](../Session%20Log/Session%2044.md): [Noah](Noah%20Skie.md) asks [Gandour](Gandour%20Ironfleet.md) for some arrows. [Gandour](Gandour%20Ironfleet.md) gives her 2 bundles of ammunition (20 arrows each).
+- [Session 45](../Session%20Log/Session%2045.md): [Adikia](Adikia%20Unalome.md) asks [Michaela](Michaela%20Randall.md) about [Noah](Noah%20Skie.md)'s whereabouts. [Michaela](Michaela%20Randall.md) says that they parted late last night.
+- [Session 45](../Session%20Log/Session%2045.md): [Michaela](Michaela%20Randall.md) asks if [Noah](Noah%20Skie.md)'s disappearances is normal. [Adikia](Adikia%20Unalome.md) says yes, and she must not be concerned. [Michaela](Michaela%20Randall.md) tells [Adikia](Adikia%20Unalome.md) that the [[Seven Up...|party]] can ask for her help in finding [Noah](Noah%20Skie.md).
+- [Session 45](../Session%20Log/Session%2045.md): The [[Seven Up...|party]] wakes up, but [Noah](Noah%20Skie.md) is still missing.
 
 ## All Entries
 - [Session 13](../../Session%2013.md): [Noah](Noah%20Skie.md) found a book detailing the history of [[Ankor|Ankor]]. She read that [Curkip](Curkip.md) was once under the jurisdiction of [Bulkip](Bulkip.md).
@@ -140,3 +139,8 @@ She thought that she would only use her strength for peace: it would be her way 
 >
 > [Age of Humans](Age%20of%20Humans.md)
 - [Session 42](../Session%20Log/Session%2042.md): As the [Noah](Noah%20Skie.md) steps out of the [Ankyra's Old Castle Compound](Ankyra's%20Old%20Castle%20Compound.md), the [[Seven Up...|party]] hears a whistle and the sound of detonation originating from the [Ironfleet Compound](Ironfleet%20Compound.md).
+- [Session 44](../Session%20Log/Session%2044.md): [Noah](Noah%20Skie.md) asks [Gandour](Gandour%20Ironfleet.md) for some arrows. [Gandour](Gandour%20Ironfleet.md) gives her 2 bundles of ammunition (20 arrows each).
+- [Session 44](../Session%20Log/Session%2044.md): [Noah](Noah%20Skie.md) sees a vision of [Agatha](Agatha.md). [Noah](Noah%20Skie.md) does not understand what [Agatha](Agatha.md) said.
+- [Session 45](../Session%20Log/Session%2045.md): The [[Seven Up...|party]] wakes up, but [Noah](Noah%20Skie.md) is still missing.
+- [Session 45](../Session%20Log/Session%2045.md): [Adikia](Adikia%20Unalome.md) asks [Michaela](Michaela%20Randall.md) about [Noah](Noah%20Skie.md)'s whereabouts. [Michaela](Michaela%20Randall.md) says that they parted late last night.
+- [Session 45](../Session%20Log/Session%2045.md): [Michaela](Michaela%20Randall.md) asks if [Noah](Noah%20Skie.md)'s disappearances is normal. [Adikia](Adikia%20Unalome.md) says yes, and she must not be concerned. [Michaela](Michaela%20Randall.md) tells [Adikia](Adikia%20Unalome.md) that the [[Seven Up...|party]] can ask for her help in finding [Noah](Noah%20Skie.md).

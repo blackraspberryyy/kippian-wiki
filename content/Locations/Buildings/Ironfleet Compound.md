@@ -4,7 +4,7 @@ aliases:
 location: "[[Chtapodhi District]]"
 status: 
 lore_type: location
-icon: map
+icon: building
 ---
 # Basic Information
 > [!infobox]
@@ -15,7 +15,7 @@ icon: map
 > | ---- | ---- |
 > | Other names | |
 > | Type | 
-> | Located in | [Chtapodhi District](./Chtapodhi%20District.md)|
+> | Located in | [Chtapodhi District](../Areas/Chtapodhi%20District.md)|
 ## Description
 # Notable Locations
 | Name |

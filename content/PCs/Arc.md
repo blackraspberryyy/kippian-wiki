@@ -34,22 +34,19 @@ icon: player
 ## Relationships
 # Story log
 ## Most Recent
-- [Session 40](../Session%20Log/Session%2040.md): [Arc](Arc.md) discovers the statue that tells the discovery of the [Scepter of Akenatun](Scepter%20of%20Akenatun.md) by [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md).
-- [Session 41](../Session%20Log/Session%2041.md): [Theobald](Theobald%20Clayhollow.md), [Thoradin](Thoradin%20Goodman.md) and [Arc](Arc.md) receives gold for their exploration.
-- [Session 41](../Session%20Log/Session%2041.md): The nameless [Shadow Knight](Shadow%20Knight.md) talks to the [[Seven Up...|party]].
-> [Arc](Arc.md) shows the [Twilight Dagger](Twilight%20Dagger.md) to the [Shadow Knight](Shadow%20Knight.md).
-> *"That weapon owes its power from the [Plane of Shadows](Shadowfell.md)"*
-- [Session 41](../Session%20Log/Session%2041.md): [Arc](Arc.md) asks the casters about his [Twilight Dagger](Twilight%20Dagger.md)'s power.
-> *"One day, you will lose the [Twilight Dagger](Twilight%20Dagger.md). Then your character will change; for better or worse is yet to be determined."*
-- [Session 42](../Session%20Log/Session%2042.md): The [[Seven Up...|party]] incurs temporal displacement sickness. [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Adeena](Adeena%20Oberon.md) are more affected by the sickness.
-- [Session 42](../Session%20Log/Session%2042.md): [Adeena](Adeena%20Oberon.md) opts to meditate and talk to [Aulephi](Aulephi.md). [Arc](Arc.md) opts to rest instead.
-- [Session 42](../Session%20Log/Session%2042.md): [Professor Aufel](Aufel%20Fernquill.md) inspects the staff, and is boggled by it. [Splix](Spraugh%20'Splix'%20Calix.md) then shows the [Arcanus Labyrinthus](Arcanus%20Labyrinthus.md). [Professor Aufel](Aufel%20Fernquill.md) is understandably confused.
 - [Session 42](../Session%20Log/Session%2042.md): [Arc](Arc.md) wakes up, and [Adeena](Adeena%20Oberon.md) is not in the room. She left the following note:
 > [!NOTE]
 > From [Adeena](Adeena%20Oberon.md)
 > I need to fulfill my oath.
 - [Session 42](../Session%20Log/Session%2042.md): [Arc](Arc.md) sneaks out of the [compound](Ankyra's%20Old%20Castle%20Compound.md) to sell some stuff. [Arc](Arc.md) stumbles upon a dagger with a [Sumberian](Sumber.md) design.
 - [Session 43](../Session%20Log/Session%2043.md): [Arc](Arc.md) climbs the nearby structure and finds three [Dusk Talons](Dusk%20Talons.md) overlooking the [Compound](Ironfleet%20Compound.md).
+- [Session 44](../Session%20Log/Session%2044.md): [Arc](Arc.md) and [Thoradin](Thoradin%20Goodman.md) looks for [Dusk Talon Assassins](Dusk%20Talons.md).
+- [Session 44](../Session%20Log/Session%2044.md): [Arc](Arc.md) confronts a [Dusk Talon](Dusk%20Talons.md) and interrogates him.
+- [Session 45](../Session%20Log/Session%2045.md): The [[Seven Up...|party]] prepares for [Adeena](Adeena%20Oberon.md)'s excursion. [Kayvan](Kayvan%20Acquermann.md), [Kiris](Kiris%20Acquermann.md) and [Arc](Arc.md) will observe the meeting.
+- [Session 45](../Session%20Log/Session%2045.md): [Adeena](Adeena%20Oberon.md) travels on land alone. [Arc](Arc.md), [Kayvan](Kayvan%20Acquermann.md) and [Kiris](Kiris%20Acquermann.md) go to the designated location using the waterways.
+- [Session 45](../Session%20Log/Session%2045.md): Meanwhile, [Kayvan](Kayvan%20Acquermann.md), [Kiris](Kiris%20Acquermann.md), and [Arc](Arc.md) attempt to follow [Adeena](Adeena%20Oberon.md), but to no avail. In the end, they go back to the [compound](Ironfleet%20Compound.md) to enlist the [[Seven Up...|party]]'s help.
+- [Session 45](../Session%20Log/Session%2045.md): [Arc](Arc.md) tries to track the [Dusk Talon](Dusk%20Talons.md) assassins. He follows a set of tracks that leads him to a chimneyed-house. He enters and sees a city guard quarreling with his wife about financial issues. [Arc](Arc.md) leaves 10 [[Seven Up...|Seven Up...]]
+- [Session 45](../Session%20Log/Session%2045.md): [Adikia](Adikia%20Unalome.md) sees [Arc](Arc.md) covered in soot. [Adikia](Adikia%20Unalome.md) laughs at him; annoyed, [Arc](Arc.md) looks at his surroundings, and spots a lizard tail wading underneath [Chtapodhi](Chtapodhi%20District.md)'s canal waters.
 
 ## All Entries
 - [Session 13](../../Session%2013.md): [Arc](Arc.md) learns that wood elves are locals of the [Soliven Forest](Soliven%20Forest.md).
@@ -90,3 +87,10 @@ icon: player
 > I need to fulfill my oath.
 - [Session 42](../Session%20Log/Session%2042.md): [Arc](Arc.md) sneaks out of the [compound](Ankyra's%20Old%20Castle%20Compound.md) to sell some stuff. [Arc](Arc.md) stumbles upon a dagger with a [Sumberian](Sumber.md) design.
 - [Session 43](../Session%20Log/Session%2043.md): [Arc](Arc.md) climbs the nearby structure and finds three [Dusk Talons](Dusk%20Talons.md) overlooking the [Compound](Ironfleet%20Compound.md).
+- [Session 44](../Session%20Log/Session%2044.md): [Arc](Arc.md) and [Thoradin](Thoradin%20Goodman.md) looks for [Dusk Talon Assassins](Dusk%20Talons.md).
+- [Session 44](../Session%20Log/Session%2044.md): [Arc](Arc.md) confronts a [Dusk Talon](Dusk%20Talons.md) and interrogates him.
+- [Session 45](../Session%20Log/Session%2045.md): [Arc](Arc.md) tries to track the [Dusk Talon](Dusk%20Talons.md) assassins. He follows a set of tracks that leads him to a chimneyed-house. He enters and sees a city guard quarreling with his wife about financial issues. [Arc](Arc.md) leaves 10 [[Seven Up...|Seven Up...]]
+- [Session 45](../Session%20Log/Session%2045.md): [Adikia](Adikia%20Unalome.md) sees [Arc](Arc.md) covered in soot. [Adikia](Adikia%20Unalome.md) laughs at him; annoyed, [Arc](Arc.md) looks at his surroundings, and spots a lizard tail wading underneath [Chtapodhi](Chtapodhi%20District.md)'s canal waters.
+- [Session 45](../Session%20Log/Session%2045.md): The [[Seven Up...|party]] prepares for [Adeena](Adeena%20Oberon.md)'s excursion. [Kayvan](Kayvan%20Acquermann.md), [Kiris](Kiris%20Acquermann.md) and [Arc](Arc.md) will observe the meeting.
+- [Session 45](../Session%20Log/Session%2045.md): [Adeena](Adeena%20Oberon.md) travels on land alone. [Arc](Arc.md), [Kayvan](Kayvan%20Acquermann.md) and [Kiris](Kiris%20Acquermann.md) go to the designated location using the waterways.
+- [Session 45](../Session%20Log/Session%2045.md): Meanwhile, [Kayvan](Kayvan%20Acquermann.md), [Kiris](Kiris%20Acquermann.md), and [Arc](Arc.md) attempt to follow [Adeena](Adeena%20Oberon.md), but to no avail. In the end, they go back to the [compound](Ironfleet%20Compound.md) to enlist the [[Seven Up...|party]]'s help.
