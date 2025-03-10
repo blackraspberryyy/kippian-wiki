@@ -29,7 +29,7 @@ export const insertToJson = (calendarEvents: CalendarEvent[]) => {
   }
 
   // let's assign random uuid to the built calendar.
-  const filename = `built_calendar_events.json`;
+  const filename = path.resolve('quartz', 'static', 'built_calendar_events.json');
 
   // delete the built file if it exists
   if (fs.existsSync(filename)) {
@@ -45,7 +45,7 @@ export const insertToJson = (calendarEvents: CalendarEvent[]) => {
 }
 
 export const readBuiltCalendarEventJson = (): CalendarEvent[] => {
-  const filename = `built_calendar_events.json`;
+  const filename = path.resolve('quartz', 'static', 'built_calendar_events.json');
   
   if (fs.existsSync(filename)) {
     const fileContents = fs.readFileSync(filename, {encoding: 'utf-8'});
