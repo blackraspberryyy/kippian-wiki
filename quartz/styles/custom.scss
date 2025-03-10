@@ -24,6 +24,12 @@ a.internal {
   background-color:unset;
 }
 
+// modified blockquote styles
+article blockquote p {
+  margin: 1em 0;
+  font-style: normal;
+}
+
 // modified article-title style
 .article-title {
   font-size: 2rem;
