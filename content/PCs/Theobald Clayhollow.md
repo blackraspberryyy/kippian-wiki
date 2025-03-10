@@ -78,14 +78,6 @@ A little later, Theobald left for [Curkip](../Locations/Settlements/Curkip.md), 
 - Brother: [Theodore Clayhollow](../../Theodore%20Clayhollow.md)
 # Story log
 ## Most Recent
-- [Session 38](../Session%20Log/Session%2038.md): In a vision,[Theobald](Theobald%20Clayhollow.md)'s[Matunda's Mace](Matunda's%20Mace.md) glows,
-> You see [Astar](Astar.md), [Theobald](Theobald%20Clayhollow.md)'s lost eagle, traveling to the moon, an ominous sign that your beloved pet is now resting in the afterlife.
-- [Session 40](../Session%20Log/Session%2040.md): [Theobald](Theobald%20Clayhollow.md) finds some notes detailing the construction of the [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md) by [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md).
-> Within the [Guardians of Ice and Fire](Guardians%20of%20Ice%20and%20Fire.md) are the keys to disabling the barrier that separates the Hall of [Akenatun](Akenatun.md) from the labyrinthus.
-- [Session 41](../Session%20Log/Session%2041.md): [Theobald](Theobald%20Clayhollow.md), [Thoradin](Thoradin%20Goodman.md) and [Arc](Arc.md) receives gold for their exploration.
-- [Session 41](../Session%20Log/Session%2041.md): The [Shadow Knight](Shadow%20Knight.md) bestows [Theobald](Theobald%20Clayhollow.md) a [Shadow Sigil](Shadow%20Sigil.md) resembling that of [Kiris](Kiris%20Acquermann.md)' sigil. The [Knights of the Wayraven](Knights%20of%20the%20Wayraven.md) are revealed to inhabit the [Plane of Shadows](Shadowfell.md).
-> [Kiris](Kiris%20Acquermann.md) shows the [Shadow Knight](Shadow%20Knight.md) his sigil.
-> *"That sigil belongs to the [Wayravens](Knights%20of%20the%20Wayraven.md), masters from the [Material Realm](Material%20Realm.md) who holds dominion over the [Plane of Shadows](Shadowfell.md)."*
 - [Session 41](../Session%20Log/Session%2041.md): [Theobald](Theobald%20Clayhollow.md) gives the Shadow Sigil to [Kiris](Kiris%20Acquermann.md).
 - [Session 41](../Session%20Log/Session%2041.md): [Theobald](Theobald%20Clayhollow.md) asks the casters about the wielder of [Matunda's Mace](Matunda's%20Mace.md).
 > *"[Yugad](Yugad%20Matunda.md), the first [Amalgam Cleric](Yugad%20Matunda.md), weaves death and life into a single, inseparable thesis: there is no life without death."*
@@ -93,6 +85,10 @@ A little later, Theobald left for [Curkip](../Locations/Settlements/Curkip.md), 
 - [Session 42](../Session%20Log/Session%2042.md): During the traditional intermission, [Mitarella](Mitarella%20Randall.md) talks to [Adikia](Adikia%20Unalome.md), [Theobald](Theobald%20Clayhollow.md), and [Kiris](Kiris%20Acquermann.md).
 - [Session 42](../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) bursts into action and rides a steed. The [[Seven Up...|party]] rides a closed carriage pulled by two horses. [Theobald](Theobald%20Clayhollow.md) drives the carriage.
 - [Session 42](../Session%20Log/Session%2042.md): [Theobald](Theobald%20Clayhollow.md) prays to [Aisef](Aisef.md).
+- [Session 44](../Session%20Log/Session%2044.md): [Theobald](Theobald%20Clayhollow.md) helps the guards and workers.
+- [Session 45](../Session%20Log/Session%2045.md): [Thoradin](Thoradin%20Goodman.md) casts Find Steed for [Adeena](Adeena%20Oberon.md). [Theobald](Theobald%20Clayhollow.md) casts Enhance Ability on [Adeena](Adeena%20Oberon.md).
+- [Session 45](../Session%20Log/Session%2045.md): [Theobald](Theobald%20Clayhollow.md) is tempted to pray to [Aisef](Aisef.md), but opts to sleep instead.
+- [Session 45](../Session%20Log/Session%2045.md): [Thoradin](Thoradin%20Goodman.md), [Theobald](Theobald%20Clayhollow.md) and [Kiris](Kiris%20Acquermann.md) helps with the construction of the airship.
 
 ## All Entries
 - [Session 13](../../Session%2013.md): [Theobald](Theobald%20Clayhollow.md) found a book about detailing the jungle continent of [Suirsya](Suirsya.md):
@@ -115,3 +111,7 @@ A little later, Theobald left for [Curkip](../Locations/Settlements/Curkip.md), 
 - [Session 42](../Session%20Log/Session%2042.md): During the traditional intermission, [Mitarella](Mitarella%20Randall.md) talks to [Adikia](Adikia%20Unalome.md), [Theobald](Theobald%20Clayhollow.md), and [Kiris](Kiris%20Acquermann.md).
 - [Session 42](../Session%20Log/Session%2042.md): [Theobald](Theobald%20Clayhollow.md) prays to [Aisef](Aisef.md).
 - [Session 42](../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) bursts into action and rides a steed. The [[Seven Up...|party]] rides a closed carriage pulled by two horses. [Theobald](Theobald%20Clayhollow.md) drives the carriage.
+- [Session 44](../Session%20Log/Session%2044.md): [Theobald](Theobald%20Clayhollow.md) helps the guards and workers.
+- [Session 45](../Session%20Log/Session%2045.md): [Theobald](Theobald%20Clayhollow.md) is tempted to pray to [Aisef](Aisef.md), but opts to sleep instead.
+- [Session 45](../Session%20Log/Session%2045.md): [Thoradin](Thoradin%20Goodman.md), [Theobald](Theobald%20Clayhollow.md) and [Kiris](Kiris%20Acquermann.md) helps with the construction of the airship.
+- [Session 45](../Session%20Log/Session%2045.md): [Thoradin](Thoradin%20Goodman.md) casts Find Steed for [Adeena](Adeena%20Oberon.md). [Theobald](Theobald%20Clayhollow.md) casts Enhance Ability on [Adeena](Adeena%20Oberon.md).
