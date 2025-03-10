@@ -308,9 +308,13 @@ input[type="checkbox"] {
 blockquote {
   border-radius: 10px;
   background-color: var(--blockquotebg);
-  margin: 0 3rem;
+  margin: 0;
   padding: 1rem 2rem;
   transition: border-color 0.2s ease;
+
+  @media all and not ($mobile) {
+    margin: 0 3rem;
+  }
 
   p {
     margin: 0;
