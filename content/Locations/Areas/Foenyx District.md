@@ -2,7 +2,7 @@
 share: true
 aliases:
   - Foenyx
-location: "[Midkip](../Settlements/Midkip.md)"
+location: "[Midelia](../Settlements/Midkip.md)"
 status: 
 lore_type: location
 icon: map
@@ -16,8 +16,10 @@ icon: map
 > | ---- | ---- |
 > | Other names | Foenyx|
 > | Located in | [Midkip](../Settlements/Midkip.md)|
-#### Known for: being [Midkip](../Settlements/Midkip.md)'s Clerical District
 ## Description
+[Foenyx](Foenyx%20District.md) district is [Midelia](../Settlements/Midkip.md)'s holy district. Holy sites venerating both [The Old Gods](../../Deities/Old%20Gods/Pantheon%20of%20the%20Old%20Gods.md) and [The New Gods](../../Deities/New%20Gods/Pantheon%20of%20the%20Lesser%20Gods.md) are located here.
+
+[Stella Kari](../../../Stella%20Kari.md) is the district's representative to [The High Council](../../Factions/The%20High%20Council%20of%20Midkip.md).
 # Notable Locations
 | Name |
 | ---- |
