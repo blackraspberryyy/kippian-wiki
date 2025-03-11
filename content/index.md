@@ -8,3 +8,5 @@ title: Welcome to Kippian Wiki
 > Go to Bulkip, 'cause we have... style."
 
 Use the "Search 🔍" at the left to find what you're looking for.
+
+try again.
