@@ -7,4 +7,6 @@ title: Welcome to Kippian Wiki
 > No resources? Roll yer wheels,
 > Go to Bulkip, 'cause we have... style."
 
-Use the "Search 🔍" at the left to find what you're looking for. 
+Use the "Search 🔍" at the left to find what you're looking for.
+
+try.
