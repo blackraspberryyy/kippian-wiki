@@ -25,7 +25,9 @@ icon: lore
 ## Most Recent
 - [Session 31](../../../Session%2031.md): [Death of King Riordan](Death%20of%20King%20Riordan.md): The [King](Riordan%20Kyp.md)'s dead!
 - [Session 33](../../../Session%2033.md): [Kirren](Kirren%20Acquermann.md) finds [Noah](Noah%20Skie.md) and [Michaela](Michaela%20Randall.md) and tells them about the [Death of King Riordan](Death%20of%20King%20Riordan.md).
+- [Session 44](../../Session%20Log/Session%2044.md): [Mitarella](Mitarella%20Randall.md) tells [Gandour](Gandour%20Ironfleet.md) the news about the [Death of King Riordan](Death%20of%20King%20Riordan.md).
 
 ## All Entries
 - [Session 31](../../../Session%2031.md): [Death of King Riordan](Death%20of%20King%20Riordan.md): The [King](Riordan%20Kyp.md)'s dead!
 - [Session 33](../../../Session%2033.md): [Kirren](Kirren%20Acquermann.md) finds [Noah](Noah%20Skie.md) and [Michaela](Michaela%20Randall.md) and tells them about the [Death of King Riordan](Death%20of%20King%20Riordan.md).
+- [Session 44](../../Session%20Log/Session%2044.md): [Mitarella](Mitarella%20Randall.md) tells [Gandour](Gandour%20Ironfleet.md) the news about the [Death of King Riordan](Death%20of%20King%20Riordan.md).

@@ -23,9 +23,9 @@ The land where the district is located is reclaimed from the sea. Canals and wat
 
 Clan [Ironfleet](../../../Ironfleet%20Clan.md) oversees the district. [Shemance Ironfleet](../../../Shemance%20Ironfleet.md) is the district's [High Council](../../Factions/The%20High%20Council%20of%20Midkip.md) representative.
 # Notable Locations
-| Name                                                          |
-| ------------------------------------------------------------- |
-| [Ironfleet Compound](./Ironfleet%20Compound.md) |
+| Name                                                              |
+| ----------------------------------------------------------------- |
+| [Ironfleet Compound](../Buildings/Ironfleet%20Compound.md) |
 
 # Notable NPCs
 | Name                                               |

@@ -48,26 +48,16 @@ The contents of the box left [Kiris](Kiris%20Acquermann.md) with more questions 
 - Mother: [Sera](../../Sera.md)
 # Story log
 ## Most Recent
-- [Session 38](../Session%20Log/Session%2038.md): In a vision, [Spekid Frostborn](Spekid%20Frostborn.md) appears to [Kiris](Kiris%20Acquermann.md).
-> The serious sorcerer evokes a mild chuckle,
->
-> "I saw you beat my rival's successor. As a reward, I shall imbue you with the power of the Northern Frost."
->
-> Then, [Spekid](Spekid%20Frostborn.md) draws the sigil of the Northern Frost on [Kiris](Kiris%20Acquermann.md)' forehead. He then doffs the [Frostborn Armor](Frostborn%20Armor.md).
->
-> "But my power is still tethered to this extraplanar domain. To unlock it, you must defeat the construct that still wields remnants of me and [Zerrus Zagi](Zerrus%20Zagi.md)'s power."
-- [Session 38](../Session%20Log/Session%2038.md): [Kiris](Kiris%20Acquermann.md) swaps his Shield spell to Rime's Binding Ice
-- [Session 38](../Session%20Log/Session%2038.md): [Kiris](Kiris%20Acquermann.md) wakes up with the [Frostborn Armor](Frostborn%20Armor.md) attached to him. But it only has 1 frost charge... and it is weighing [Kiris](Kiris%20Acquermann.md) down---the armor does not attune to him.
-- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
-- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
-- [Session 41](../Session%20Log/Session%2041.md): The [Shadow Knight](Shadow%20Knight.md) bestows [Theobald](Theobald%20Clayhollow.md) a [Shadow Sigil](Shadow%20Sigil.md) resembling that of [Kiris](Kiris%20Acquermann.md)' sigil. The [Knights of the Wayraven](Knights%20of%20the%20Wayraven.md) are revealed to inhabit the [Plane of Shadows](Shadowfell.md).
-> [Kiris](Kiris%20Acquermann.md) shows the [Shadow Knight](Shadow%20Knight.md) his sigil.
-> *"That sigil belongs to the [Wayravens](Knights%20of%20the%20Wayraven.md), masters from the [Material Realm](Material%20Realm.md) who holds dominion over the [Plane of Shadows](Shadowfell.md)."*
-- [Session 41](../Session%20Log/Session%2041.md): [Theobald](Theobald%20Clayhollow.md) gives the Shadow Sigil to [Kiris](Kiris%20Acquermann.md).
-- [Session 41](../Session%20Log/Session%2041.md): [Zerrus Zagi](Zerrus%20Zagi.md) and [Spekid Frostborn](Spekid%20Frostborn.md) imparts their power to [Splix](Spraugh%20'Splix'%20Calix.md) and [Kiris](Kiris%20Acquermann.md) through the [Ymerald Staff](Ymerald%20Staff.md) and the [Frostborn Armor](Frostborn%20Armor.md).
-> *"Tough times are ahead, but with our power, we hope that you can prevail."*
 - [Session 42](../Session%20Log/Session%2042.md): During the traditional intermission, [Mitarella](Mitarella%20Randall.md) talks to [Adikia](Adikia%20Unalome.md), [Theobald](Theobald%20Clayhollow.md), and [Kiris](Kiris%20Acquermann.md).
 - [Session 42](../Session%20Log/Session%2042.md): [Kiris](Kiris%20Acquermann.md) asks [Kirren](Kirren%20Acquermann.md) about the [Shadow Sigil](Shadow%20Sigil.md). [Kirren](Kirren%20Acquermann.md) claims that she does not know about it other than that it looks familiar to the [Wayravens](Knights%20of%20the%20Wayraven.md)' sigil.
+- [Session 44](../Session%20Log/Session%2044.md): [Kiris](Kiris%20Acquermann.md) casts Disguise Self to mimic the face of the unknown member of the [Acquermann Clan](Acquermann%20Clan.md).
+- [Session 44](../Session%20Log/Session%2044.md): [Kiris](Kiris%20Acquermann.md) warns the [Mitarella](Mitarella%20Randall.md) and company about possible ambush using a sending stone [Kirren](Kirren%20Acquermann.md) gave to her.
+- [Session 45](../Session%20Log/Session%2045.md): The [[Seven Up...|party]] prepares for [Adeena](Adeena%20Oberon.md)'s excursion. [Kayvan](Kayvan%20Acquermann.md), [Kiris](Kiris%20Acquermann.md) and [Arc](Arc.md) will observe the meeting.
+- [Session 45](../Session%20Log/Session%2045.md): [Adeena](Adeena%20Oberon.md) travels on land alone. [Arc](Arc.md), [Kayvan](Kayvan%20Acquermann.md) and [Kiris](Kiris%20Acquermann.md) go to the designated location using the waterways.
+- [Session 45](../Session%20Log/Session%2045.md): Meanwhile, [Kayvan](Kayvan%20Acquermann.md), [Kiris](Kiris%20Acquermann.md), and [Arc](Arc.md) attempt to follow [Adeena](Adeena%20Oberon.md), but to no avail. In the end, they go back to the [compound](Ironfleet%20Compound.md) to enlist the [[Seven Up...|party]]'s help.
+- [Session 45](../Session%20Log/Session%2045.md): [Kiris](Kiris%20Acquermann.md) reads Ancestral Families of [Midkip](Midkip.md) to probe for clues; he is unsuccessful in his efforts.
+- [Session 45](../Session%20Log/Session%2045.md): [Kayvan](Kayvan%20Acquermann.md) pleads [Adeena](Adeena%20Oberon.md) to accompany her. [Kiris](Kiris%20Acquermann.md) hears this, and asks [Adeena](Adeena%20Oberon.md) if he could tag along.
+- [Session 45](../Session%20Log/Session%2045.md): [Thoradin](Thoradin%20Goodman.md), [Theobald](Theobald%20Clayhollow.md) and [Kiris](Kiris%20Acquermann.md) helps with the construction of the airship.
 
 ## All Entries
 - [Session 6](../../Session%206.md): Masked member of [Miledu](Miledu.md)'s cult attack [Kiris Acquermann](Kiris%20Acquermann.md)
@@ -103,3 +93,11 @@ The contents of the box left [Kiris](Kiris%20Acquermann.md) with more questions 
 > *"Tough times are ahead, but with our power, we hope that you can prevail."*
 - [Session 42](../Session%20Log/Session%2042.md): During the traditional intermission, [Mitarella](Mitarella%20Randall.md) talks to [Adikia](Adikia%20Unalome.md), [Theobald](Theobald%20Clayhollow.md), and [Kiris](Kiris%20Acquermann.md).
 - [Session 42](../Session%20Log/Session%2042.md): [Kiris](Kiris%20Acquermann.md) asks [Kirren](Kirren%20Acquermann.md) about the [Shadow Sigil](Shadow%20Sigil.md). [Kirren](Kirren%20Acquermann.md) claims that she does not know about it other than that it looks familiar to the [Wayravens](Knights%20of%20the%20Wayraven.md)' sigil.
+- [Session 44](../Session%20Log/Session%2044.md): [Kiris](Kiris%20Acquermann.md) warns the [Mitarella](Mitarella%20Randall.md) and company about possible ambush using a sending stone [Kirren](Kirren%20Acquermann.md) gave to her.
+- [Session 44](../Session%20Log/Session%2044.md): [Kiris](Kiris%20Acquermann.md) casts Disguise Self to mimic the face of the unknown member of the [Acquermann Clan](Acquermann%20Clan.md).
+- [Session 45](../Session%20Log/Session%2045.md): [Kiris](Kiris%20Acquermann.md) reads Ancestral Families of [Midkip](Midkip.md) to probe for clues; he is unsuccessful in his efforts.
+- [Session 45](../Session%20Log/Session%2045.md): [Thoradin](Thoradin%20Goodman.md), [Theobald](Theobald%20Clayhollow.md) and [Kiris](Kiris%20Acquermann.md) helps with the construction of the airship.
+- [Session 45](../Session%20Log/Session%2045.md): [Kayvan](Kayvan%20Acquermann.md) pleads [Adeena](Adeena%20Oberon.md) to accompany her. [Kiris](Kiris%20Acquermann.md) hears this, and asks [Adeena](Adeena%20Oberon.md) if he could tag along.
+- [Session 45](../Session%20Log/Session%2045.md): The [[Seven Up...|party]] prepares for [Adeena](Adeena%20Oberon.md)'s excursion. [Kayvan](Kayvan%20Acquermann.md), [Kiris](Kiris%20Acquermann.md) and [Arc](Arc.md) will observe the meeting.
+- [Session 45](../Session%20Log/Session%2045.md): [Adeena](Adeena%20Oberon.md) travels on land alone. [Arc](Arc.md), [Kayvan](Kayvan%20Acquermann.md) and [Kiris](Kiris%20Acquermann.md) go to the designated location using the waterways.
+- [Session 45](../Session%20Log/Session%2045.md): Meanwhile, [Kayvan](Kayvan%20Acquermann.md), [Kiris](Kiris%20Acquermann.md), and [Arc](Arc.md) attempt to follow [Adeena](Adeena%20Oberon.md), but to no avail. In the end, they go back to the [compound](Ironfleet%20Compound.md) to enlist the [[Seven Up...|party]]'s help.

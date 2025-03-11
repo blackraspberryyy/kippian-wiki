@@ -1,6 +1,7 @@
 ---
 share: true
-aliases: 
+aliases:
+  - The Old Gods
 location: 
 status: 
 lore_type: faction
@@ -13,7 +14,7 @@ icon: faction
 > ##### Information
 > |   |  |
 > | ---- | ---- |
-> | Aliases | |
+> | Aliases | The Old Gods|
 > | Status| |
 > | Based in|  |
 #### Known for:

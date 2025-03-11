@@ -72,19 +72,16 @@ There was no time to think as she heard the local guards traversing the snow, cl
 - Musical instrument: Vionna
 # Story log
 ## Most Recent
-- [Session 41](../Session%20Log/Session%2041.md): [Adikia](Adikia%20Unalome.md) perceives [Noah](Noah%20Skie.md) appearing into existence.
-- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) finds an altar for [Akenatun](Akenatun.md).
-- [Session 41](../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
-- [Session 41](../Session%20Log/Session%2041.md): [Adikia](Adikia%20Unalome.md) asks the [Shadow Knight](Shadow%20Knight.md) about [Feypeak](Feypeak.md).
-- [Session 41](../Session%20Log/Session%2041.md): The [Shadow Knight](Shadow%20Knight.md) assures [Adikia](Adikia%20Unalome.md) that the portal to the [Feywild](Feywild.md) exists.
-- [Session 41](../Session%20Log/Session%2041.md): [Adikia](Adikia%20Unalome.md) asks the casters about [Feypeak](Feypeak.md).
-> *"As an [Eladrin](The%20Eladrin.md), the [Feywild](Feywild.md) is your home. It is sure that you will find your way back to the [Feywild](Feywild.md)."*
-- [Session 41](../Session%20Log/Session%2041.md): [Adikia](Adikia%20Unalome.md) asks the casters about the lore of her [Aureate Rapier](Aureate%20Rapier.md).
-> *"The [Aureate Rapier](Aureate%20Rapier.md) was a ceremonial rapier passed down to the heirs of [United Kippian](Kingdom%20of%20United%20Kippian.md). Its hidden power is made known only through [Prince Azir](Azir%20Kyp.md)'s daring adventures."*
-- [Session 42](../Session%20Log/Session%2042.md): During the traditional intermission, [Mitarella](Mitarella%20Randall.md) talks to [Adikia](Adikia%20Unalome.md), [Theobald](Theobald%20Clayhollow.md), and [Kiris](Kiris%20Acquermann.md).
-- [Session 42](../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) asks [Adikia](Adikia%20Unalome.md) to read the inscriptions on his [Vambrace Shields](Vambrace%20Shields.md).
-> From [Wycroft](Wycroft%20Mountain%20Kingdom.md), To [Quigymara](Quigymara.md).
 - [Session 43](../Session%20Log/Session%2043.md): [Adikia](Adikia%20Unalome.md) rushes forwards and attempts to grab the man. [Adikia](Adikia%20Unalome.md) fails; however, she figures out that the man [Adeena](Adeena%20Oberon.md) is surrendering to is [Kayriel](Kayriel%20Acquermann.md), or at least resembles its face.
+- [Session 44](../Session%20Log/Session%2044.md): [Adikia](Adikia%20Unalome.md) casts Detect Thoughts, but the two really forgot about the man's name.
+- [Session 44](../Session%20Log/Session%2044.md): [Adikia](Adikia%20Unalome.md) casts Speak with Plants to talk to a flower belonging in a flower patch just outside the [compound](Ironfleet%20Compound.md).
+- [Session 45](../Session%20Log/Session%2045.md): [Adikia](Adikia%20Unalome.md) exits the [Ironfleet Compound](Ironfleet%20Compound.md) and wanders the area. She lost 14 gp as she trips from an overgrown root.
+- [Session 45](../Session%20Log/Session%2045.md): [Adikia](Adikia%20Unalome.md) sees [Arc](Arc.md) covered in soot. [Adikia](Adikia%20Unalome.md) laughs at him; annoyed, [Arc](Arc.md) looks at his surroundings, and spots a lizard tail wading underneath [Chtapodhi](Chtapodhi%20District.md)'s canal waters.
+- [Session 45](../Session%20Log/Session%2045.md): [Adikia](Adikia%20Unalome.md) asks [Michaela](Michaela%20Randall.md) about [Noah](Noah%20Skie.md)'s whereabouts. [Michaela](Michaela%20Randall.md) says that they parted late last night.
+- [Session 45](../Session%20Log/Session%2045.md): [Michaela](Michaela%20Randall.md) asks if [Noah](Noah%20Skie.md)'s disappearances is normal. [Adikia](Adikia%20Unalome.md) says yes, and she must not be concerned. [Michaela](Michaela%20Randall.md) tells [Adikia](Adikia%20Unalome.md) that the [[Seven Up...|party]] can ask for her help in finding [Noah](Noah%20Skie.md).
+- [Session 45](../Session%20Log/Session%2045.md): [Adikia](Adikia%20Unalome.md) tracks the guard who gave [Djorken](Djorken%20Veegar.md) the letter.
+- [Session 45](../Session%20Log/Session%2045.md): [Adikia](Adikia%20Unalome.md) finds the guard and listens first to his stories. The guard explains that he received a boon last night. He and his wife received 10 sp from an anonymous intruder.
+- [Session 45](../Session%20Log/Session%2045.md): [Adikia](Adikia%20Unalome.md) interrogates the guard about the letter; the guard claims that he received the letter at his desk as he entered his post this early morning.
 
 ## All Entries
 - [Session 13](../../Session%2013.md): [Adikia](Adikia%20Unalome.md) read a book detailing the [Feywild](Feywild.md). She learns the following:
@@ -110,3 +107,12 @@ There was no time to think as she heard the local guards traversing the snow, cl
 - [Session 42](../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) asks [Adikia](Adikia%20Unalome.md) to read the inscriptions on his [Vambrace Shields](Vambrace%20Shields.md).
 > From [Wycroft](Wycroft%20Mountain%20Kingdom.md), To [Quigymara](Quigymara.md).
 - [Session 43](../Session%20Log/Session%2043.md): [Adikia](Adikia%20Unalome.md) rushes forwards and attempts to grab the man. [Adikia](Adikia%20Unalome.md) fails; however, she figures out that the man [Adeena](Adeena%20Oberon.md) is surrendering to is [Kayriel](Kayriel%20Acquermann.md), or at least resembles its face.
+- [Session 44](../Session%20Log/Session%2044.md): [Adikia](Adikia%20Unalome.md) casts Speak with Plants to talk to a flower belonging in a flower patch just outside the [compound](Ironfleet%20Compound.md).
+- [Session 44](../Session%20Log/Session%2044.md): [Adikia](Adikia%20Unalome.md) casts Detect Thoughts, but the two really forgot about the man's name.
+- [Session 45](../Session%20Log/Session%2045.md): [Adikia](Adikia%20Unalome.md) exits the [Ironfleet Compound](Ironfleet%20Compound.md) and wanders the area. She lost 14 gp as she trips from an overgrown root.
+- [Session 45](../Session%20Log/Session%2045.md): [Adikia](Adikia%20Unalome.md) sees [Arc](Arc.md) covered in soot. [Adikia](Adikia%20Unalome.md) laughs at him; annoyed, [Arc](Arc.md) looks at his surroundings, and spots a lizard tail wading underneath [Chtapodhi](Chtapodhi%20District.md)'s canal waters.
+- [Session 45](../Session%20Log/Session%2045.md): [Adikia](Adikia%20Unalome.md) tracks the guard who gave [Djorken](Djorken%20Veegar.md) the letter.
+- [Session 45](../Session%20Log/Session%2045.md): [Adikia](Adikia%20Unalome.md) finds the guard and listens first to his stories. The guard explains that he received a boon last night. He and his wife received 10 sp from an anonymous intruder.
+- [Session 45](../Session%20Log/Session%2045.md): [Adikia](Adikia%20Unalome.md) interrogates the guard about the letter; the guard claims that he received the letter at his desk as he entered his post this early morning.
+- [Session 45](../Session%20Log/Session%2045.md): [Adikia](Adikia%20Unalome.md) asks [Michaela](Michaela%20Randall.md) about [Noah](Noah%20Skie.md)'s whereabouts. [Michaela](Michaela%20Randall.md) says that they parted late last night.
+- [Session 45](../Session%20Log/Session%2045.md): [Michaela](Michaela%20Randall.md) asks if [Noah](Noah%20Skie.md)'s disappearances is normal. [Adikia](Adikia%20Unalome.md) says yes, and she must not be concerned. [Michaela](Michaela%20Randall.md) tells [Adikia](Adikia%20Unalome.md) that the [[Seven Up...|party]] can ask for her help in finding [Noah](Noah%20Skie.md).
