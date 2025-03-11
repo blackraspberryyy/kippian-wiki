@@ -16,6 +16,7 @@ concurrency:
  
 jobs:
   build:
+    name: '🏗️ Build files'
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
@@ -45,8 +46,8 @@ jobs:
   #       uses: actions/deploy-pages@v4
 
   deploy:
-    name: 'Deploy to Netlify'
-    runs-on: ubuntu-latest
+    name: '🚀 Deploy to Netlify'
+    runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
       - uses: jsmrcaga/action-netlify-deploy@v2.0.0
