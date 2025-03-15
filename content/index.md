@@ -2,8 +2,9 @@
 title: Welcome to Kippian Wiki
 ---
 
-Use the "Search 🔍" at the left to find what you're looking for.
+![cover](../../zzz_attachments/The%20Continent%20of%20Kippian%20map.jpg)
 
+Use the "Search 🔍" at the left to find what you're looking for.
 
 ## QuickLinks
 ### PC's
