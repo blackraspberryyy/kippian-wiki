@@ -41,5 +41,7 @@ Drakon-Aetos-Chtapodhi-Foenyx-King of Kippian-Ankyra-Yvernus-Duospathia-Lykos
 - [ ] Task 1
 # Story log
 ## Most Recent
+- [Session 46](../Session%20Log/Session%2046.md): [Noah](Noah%20Skie.md) asks [Djorken](Djorken%20Veegar.md) about his stance. [Djorken](Djorken%20Veegar.md) tells them that he needs a formal nomination from both the [Drakon](Drakon%20District.md)'s leaders and the [High Council](The%20High%20Council%20of%20Midkip.md) before he assumes the district representative position held by his late adoptive father, [Gokare Veegar](Gokare%20Veegar.md).
 
 ## All Entries
+- [Session 46](../Session%20Log/Session%2046.md): [Noah](Noah%20Skie.md) asks [Djorken](Djorken%20Veegar.md) about his stance. [Djorken](Djorken%20Veegar.md) tells them that he needs a formal nomination from both the [Drakon](Drakon%20District.md)'s leaders and the [High Council](The%20High%20Council%20of%20Midkip.md) before he assumes the district representative position held by his late adoptive father, [Gokare Veegar](Gokare%20Veegar.md).
