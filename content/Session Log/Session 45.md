@@ -22,7 +22,8 @@ icon: calendar
 - The [party](../Factions/Seven%20Up....md) wakes up, but [Noah](../PCs/Noah%20Skie.md) is still missing.
 - [Djorken](../../Djorken%20Veegar.md) knocks on the [party](../Factions/Seven%20Up....md)'s room and gives [Adeena](../PCs/Adeena%20Oberon.md) a letter.
 - [Adeena](../PCs/Adeena%20Oberon.md) receives a letter. Within it is a map, a symbol of [Yekora](../Deities/New%20Gods/Yekora.md), and a note:
-> Meet me here, alone. 
+> Meet me here, alone.
+> 
 > -C/K
 - [Djorken](../../Djorken%20Veegar.md) tells the [party](../Factions/Seven%20Up....md) that he received the letter from a guard.
 - [Djorken](../../Djorken%20Veegar.md) imparts that [Mitarella](../../Mitarella%20Randall.md), [Remus](../../Remus%20Kyp.md) and [Kirren](../../Kirren%20Acquermann.md) will return back to [Ankyra's Old Castle Compound](../Locations/Buildings/Ankyra's%20Old%20Castle%20Compound.md) after lunch. He expects the [party](../Factions/Seven%20Up....md) to attend the lunch.
