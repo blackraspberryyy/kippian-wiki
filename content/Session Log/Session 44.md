@@ -6,7 +6,7 @@ fc-date: 1083-06-05
 fc-category: Session
 icon: calendar
 ---
-# Title
+# A Meeting Long Overdue
 ## Back to the [Ironfleet Compound](../Locations/Buildings/Ironfleet%20Compound.md)
 - [Nokia](../PCs/Companions/Nokia.md) alerts [Mitarella](../../Mitarella%20Randall.md), [Michaela](../../Michaela%20Randall.md), [Kayvan](../../Kayvan%20Acquermann.md), [Remus](../../Remus%20Kyp.md) and [Kirren](../../Kirren%20Acquermann.md).
 - The [party](../Factions/Seven%20Up....md) enters the [Ironfleet Compound](../Locations/Buildings/Ironfleet%20Compound.md) and talks to [Gandour](../../Gandour%20Ironfleet.md).
