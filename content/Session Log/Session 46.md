@@ -2,15 +2,15 @@
 share: true
 creation_date: 2025-03-16 16:47
 location: 
-fc-date: 1083-07-05
+fc-date: 1083-06-06
 fc-category: Session
 icon: calendar
 ---
-# Different Matters
+# On Different Matters
 ## [Noah](../PCs/Noah%20Skie.md) explaining her absence...
 - [Noah](../PCs/Noah%20Skie.md) explained to the party that she was exploring [Midkip](../Locations/Settlements/Midkip.md) on her own to find some solace and to survey for weapons and armor.
 - On her visit to [Drakon](../Locations/Areas/Drakon%20District.md), she saw people gathering in groups; Noah remembered the [Drakon](../Locations/Areas/Drakon%20District.md) problem she and [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) once encountered: the [Malandar Rebellion](../../Malandar%20Rebellion.md).
-## Morning
+## Morning (7th of Zagi)
 - [Theobald](../PCs/Theobald%20Clayhollow.md), [Noah](../PCs/Noah%20Skie.md) and [Kiris](../PCs/Kiris%20Acquermann.md) help in the construction.
 - [Thoradin](../PCs/Thoradin%20Goodman.md), [Adeena](../PCs/Adeena%20Oberon.md) and [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) go to a dedicated place of worship within [Ironfleet Compound](../Locations/Buildings/Ironfleet%20Compound.md) and pray to their respective patron deity.
 - [Adikia](../PCs/Adikia%20Unalome.md) meets [Djorken](../../Djorken%20Veegar.md) discussing political matters with a group of disgruntled rural folk from [Drakon](../Locations/Areas/Drakon%20District.md). They are clamoring for stability during these uncertain times. 
