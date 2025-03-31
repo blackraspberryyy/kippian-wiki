@@ -18,7 +18,7 @@ icon: calendar
 - [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) sets another Alarm spell.
 - [Theobald](../PCs/Theobald%20Clayhollow.md) is tempted to pray to [Aisef](../Deities/New%20Gods/Aisef.md), but opts to sleep instead.
 - The [party](../Factions/Seven%20Up....md) takes a long rest.
-## Next Morning
+## Next Morning (6th of Zagi)
 - The [party](../Factions/Seven%20Up....md) wakes up, but [Noah](../PCs/Noah%20Skie.md) is still missing.
 - [Djorken](../../Djorken%20Veegar.md) knocks on the [party](../Factions/Seven%20Up....md)'s room and gives [Adeena](../PCs/Adeena%20Oberon.md) a letter.
 - [Adeena](../PCs/Adeena%20Oberon.md) receives a letter. Within it is a map, a symbol of [Yekora](../Deities/New%20Gods/Yekora.md), and a note:
