@@ -39,5 +39,5 @@ icon: calendar
 - Before the [party](../Factions/Seven%20Up....md) defeats it, the mink burrows to recuperate.
 - During exploration, [Arc](../PCs/Arc.md) sees a statue of [Zerrus Zagi](../Lore/Mythical%20Heroes/Zerrus%20Zagi.md). The inscription says, 
 > The Mad Mage lived within a sand tower. Those who tried to scale it are burnt asunder.
-- [Arc](../PCs/Arc.md) and the party encounters a [Sand Elemental](../../Sand%20Elemental.md).
-- The [Sand Elemental](../../Sand%20Elemental.md) is defeated, but the [Extraplanar Mink](../../Extraplanar%20Mink.md) escapes.
+- [Arc](../PCs/Arc.md) and the party encounters a [Blacksand Elemental](../../Blacksand%20Elemental.md).
+- The [Blacksand Elemental](../../Blacksand%20Elemental.md) is defeated, but the [Extraplanar Mink](../../Extraplanar%20Mink.md) escapes.
