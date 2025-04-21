@@ -34,6 +34,7 @@ The floating yet unmoving [Yvernus](../Areas/Yvernus%20District.md) can be seen 
 | Name                                             |
 | ------------------------------------------------ |
 | [Gandour Ironfleet](../../../Gandour%20Ironfleet.md) |
+| [Anna Racquefort](../../NPCs/Anna%20Racquefort.md)     |
 
 # Factions
 | Name |
