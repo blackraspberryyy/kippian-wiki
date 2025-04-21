@@ -37,7 +37,6 @@ As the guild's leader, [Nos](Nos-Aji.md) planned and led the recent [Curkip Revo
 [Nos](Nos-Aji.md) trusts and is trusted by the [party](../Factions/Seven%20Up....md). He considers [Olrac](./Olrac.md) his apprentice and closest friend.
 # Story log
 ## Most Recent
-- [Session 44](../Session%20Log/Session%2044.md): Meeting with [Gandour](Gandour%20Ironfleet.md), [Nos](Nos-Aji.md), [Olrac](Olrac.md), [Dello](Dello%20Stoneshard.md), [Djorken](Djorken%20Veegar.md) and [Augustus](Augustus.md).
 - [Session 44](../Session%20Log/Session%2044.md): [Mitarella](Mitarella%20Randall.md), [Kirren](Kirren%20Acquermann.md), and [Kayvan](Kayvan%20Acquermann.md) could not recognize the face. However, [Nos](Nos-Aji.md) and [Olrac](Olrac.md) shares that they have seen that face before.
 - [Session 44](../Session%20Log/Session%2044.md): [Nos](Nos-Aji.md) explains that [Mayor Silvano](Silvo%20Silvano.md) once had an adopted brother. Nos says that the man stole from [Mayor Silvano](Silvo%20Silvano.md) and ran away.
 - [Session 44](../Session%20Log/Session%2044.md): Curiously, [Nos](Nos-Aji.md) and [Olrac](Olrac.md) cannot remember the man's name.
@@ -47,6 +46,7 @@ As the guild's leader, [Nos](Nos-Aji.md) planned and led the recent [Curkip Revo
 - [Session 48](../Session%20Log/Session%2048.md): [Adeena](Adeena%20Oberon.md) finds [Nos](Nos-Aji.md) in a workshop/storage room experimenting on some chemicals. [Adeena](Adeena%20Oberon.md) asks [Nos](Nos-Aji.md) where to find gloompowder. [Nos](Nos-Aji.md) explains that their supply is dwindling, and that he is trying to find the process of creating gloompowder. [Gandour](Gandour%20Ironfleet.md) has generously provided the equipment and chemicals to experiment, but they still lack blacksand, the base substance for creating gloompowder.
 - [Session 48](../Session%20Log/Session%2048.md): [Nos](Nos-Aji.md) explains that they can find blacksand within coastal caves.
 - [Session 48](../Session%20Log/Session%2048.md): [Adeena](Adeena%20Oberon.md) promises [Nos](Nos-Aji.md) that they will find some blacksand. [Nos](Nos-Aji.md) gifts [Adeena](Adeena%20Oberon.md) a cork-shaped trinket that can attract blacksand.
+- [Session 49](../Session%20Log/Session%2049.md): The [party](Seven%20Up....md) meets with [Gandour](Gandour%20Ironfleet.md), [Kirren](Kirren%20Acquermann.md), [Kayvan](Kayvan%20Acquermann.md) [Djorken](Djorken%20Veegar.md), [Nos-Aji](Nos-Aji.md), and [Olrac](Olrac.md).
 
 ## All Entries
 - [Session 1](../../Session%201.md): Receive words from [Olrac](Olrac.md) (through sending) and [Nos-Aji](Nos-Aji.md). Messenger pigeon died.
@@ -66,3 +66,4 @@ As the guild's leader, [Nos](Nos-Aji.md) planned and led the recent [Curkip Revo
 - [Session 48](../Session%20Log/Session%2048.md): [Adeena](Adeena%20Oberon.md) promises [Nos](Nos-Aji.md) that they will find some blacksand. [Nos](Nos-Aji.md) gifts [Adeena](Adeena%20Oberon.md) a cork-shaped trinket that can attract blacksand.
 - [Session 48](../Session%20Log/Session%2048.md): [Thoradin](Thoradin%20Goodman.md) and [Noah](Noah%20Skie.md) meets [Kiris](Kiris%20Acquermann.md) in the courtyard and explains to them what happened. Afterwards, [Thoradin](Thoradin%20Goodman.md) talks to [Nos](Nos-Aji.md) and admits that they failed in retrieving the blacksand.
 - [Session 48](../Session%20Log/Session%2048.md): [Adeena](Adeena%20Oberon.md) returns the trinket back to [Nos](Nos-Aji.md).
+- [Session 49](../Session%20Log/Session%2049.md): The [party](Seven%20Up....md) meets with [Gandour](Gandour%20Ironfleet.md), [Kirren](Kirren%20Acquermann.md), [Kayvan](Kayvan%20Acquermann.md) [Djorken](Djorken%20Veegar.md), [Nos-Aji](Nos-Aji.md), and [Olrac](Olrac.md).
