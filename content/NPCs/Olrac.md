@@ -53,6 +53,7 @@ icon: character
 - [Session 44](../Session%20Log/Session%2044.md): [Mitarella](Mitarella%20Randall.md), [Kirren](Kirren%20Acquermann.md), and [Kayvan](Kayvan%20Acquermann.md) could not recognize the face. However, [Nos](Nos-Aji.md) and [Olrac](Olrac.md) shares that they have seen that face before.
 - [Session 44](../Session%20Log/Session%2044.md): Curiously, [Nos](Nos-Aji.md) and [Olrac](Olrac.md) cannot remember the man's name.
 - [Session 48](../Session%20Log/Session%2048.md): [Adeena](Adeena%20Oberon.md) asks [Olrac](Olrac.md), who is arguing with a servant outside, where to source gloompowder. [Olrac](Olrac.md) directs [Adeena](Adeena%20Oberon.md) to [Nos](Nos-Aji.md).
+- [Session 49](../Session%20Log/Session%2049.md): The [party](Seven%20Up....md) meets with [Gandour](Gandour%20Ironfleet.md), [Kirren](Kirren%20Acquermann.md), [Kayvan](Kayvan%20Acquermann.md) [Djorken](Djorken%20Veegar.md), [Nos-Aji](Nos-Aji.md), and [Olrac](Olrac.md).
 
 ## All Entries
 - [Session 1](../../Session%201.md): Receive words from [Olrac](Olrac.md) (through sending) and [Nos-Aji](Nos-Aji.md). Messenger pigeon died.
@@ -72,3 +73,4 @@ icon: character
 - [Session 44](../Session%20Log/Session%2044.md): [Mitarella](Mitarella%20Randall.md), [Kirren](Kirren%20Acquermann.md), and [Kayvan](Kayvan%20Acquermann.md) could not recognize the face. However, [Nos](Nos-Aji.md) and [Olrac](Olrac.md) shares that they have seen that face before.
 - [Session 44](../Session%20Log/Session%2044.md): Curiously, [Nos](Nos-Aji.md) and [Olrac](Olrac.md) cannot remember the man's name.
 - [Session 48](../Session%20Log/Session%2048.md): [Adeena](Adeena%20Oberon.md) asks [Olrac](Olrac.md), who is arguing with a servant outside, where to source gloompowder. [Olrac](Olrac.md) directs [Adeena](Adeena%20Oberon.md) to [Nos](Nos-Aji.md).
+- [Session 49](../Session%20Log/Session%2049.md): The [party](Seven%20Up....md) meets with [Gandour](Gandour%20Ironfleet.md), [Kirren](Kirren%20Acquermann.md), [Kayvan](Kayvan%20Acquermann.md) [Djorken](Djorken%20Veegar.md), [Nos-Aji](Nos-Aji.md), and [Olrac](Olrac.md).
