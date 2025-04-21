@@ -29,7 +29,7 @@ The district's representative on the [High Council](../../Factions/The%20High%20
 | Name                                 |
 | ------------------------------------ |
 | [Remus Kyp](../../../Remus%20Kyp.md)     |
-| [Rickard Kyp](../../../Rickard%20Kyp.md) |
+| [Rickard Kyp](../../NPCs/Rickard%20Kyp.md) |
 
 # Factions
 | Name |
