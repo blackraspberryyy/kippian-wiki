@@ -26,30 +26,30 @@ icon: player
 | Name                                                    |
 | ------------------------------------------------------- |
 | [Adeena Oberon](../PCs/Adeena%20Oberon.md)                 |
-| [Adikia Unalome](../PCs/Adikia%20Unalome.md)               |
 | [Arc](../PCs/Arc.md)                                     |
-| [Noah Skie](../PCs/Noah%20Skie.md)                         |
-| [Spraugh 'Splix' Calix](../PCs/Spraugh%20'Splix'%20Calix.md) |
-| [Theobald Clayhollow](../PCs/Theobald%20Clayhollow.md)     |
-| [Thoradin Goodman](../PCs/Thoradin%20Goodman.md)           |
-| [Astar](../PCs/Companions/Astar.md)                      |
-| [Nokia](../PCs/Companions/Nokia.md)                      |
 | [Kiris Acquermann](../PCs/Kiris%20Acquermann.md)           |
+| [Nokia](../PCs/Companions/Nokia.md)                      |
+| [Astar](../PCs/Companions/Astar.md)                      |
+| [Adikia Unalome](../PCs/Adikia%20Unalome.md)               |
+| [Spraugh 'Splix' Calix](../PCs/Spraugh%20'Splix'%20Calix.md) |
+| [Thoradin Goodman](../PCs/Thoradin%20Goodman.md)           |
+| [Theobald Clayhollow](../PCs/Theobald%20Clayhollow.md)     |
+| [Noah Skie](../PCs/Noah%20Skie.md)                         |
 
 # Goals
 - [ ] Task 1
 # Story log
 ## Most Recent
-- [Session 45](../Session%20Log/Session%2045.md): [Adeena](Adeena%20Oberon.md) meets the [party](Seven%20Up....md) as they were about to find her.
-- [Session 45](../Session%20Log/Session%2045.md): [Arc](Arc.md) tries to track the [Dusk Talon](Dusk%20Talons.md) assassins. He follows a set of tracks that leads him to a chimneyed-house. He enters and sees a city guard quarreling with his wife about financial issues. [Arc](Arc.md) leaves 10 [Seven Up...](Seven%20Up....md)
-- [Session 45](../Session%20Log/Session%2045.md): The [party](Seven%20Up....md) takes a long rest.
-- [Session 45](../Session%20Log/Session%2045.md): Regarding [The Cult of Miledu](The%20Cult%20of%20Miledu.md), [Kayriel](Kayriel%20Acquermann.md) is as clueless as the [party](Seven%20Up....md). He mentions that he has knowledge of the [Theater Incident](Theater%20Incident.md) since a follower from the [Order of Yekora](Followers%20of%20Yekora.md) told it to him.
-- [Session 45](../Session%20Log/Session%2045.md): [Michaela](Michaela%20Randall.md) asks if [Noah](Noah%20Skie.md)'s disappearances is normal. [Adikia](Adikia%20Unalome.md) says yes, and she must not be concerned. [Michaela](Michaela%20Randall.md) tells [Adikia](Adikia%20Unalome.md) that the [party](Seven%20Up....md) can ask for her help in finding [Noah](Noah%20Skie.md).
-- [Session 45](../Session%20Log/Session%2045.md): The [party](Seven%20Up....md) wakes up, but [Noah](Noah%20Skie.md) is still missing.
-- [Session 45](../Session%20Log/Session%2045.md): [Djorken](Djorken%20Veegar.md) knocks on the [party](Seven%20Up....md)'s room and gives [Adeena](Adeena%20Oberon.md) a letter.
-- [Session 45](../Session%20Log/Session%2045.md): [Djorken](Djorken%20Veegar.md) tells the [party](Seven%20Up....md) that he received the letter from a guard.
-- [Session 45](../Session%20Log/Session%2045.md): [Djorken](Djorken%20Veegar.md) imparts that [Mitarella](Mitarella%20Randall.md), [Remus](Remus%20Kyp.md) and [Kirren](Kirren%20Acquermann.md) will return back to [Ankyra's Old Castle Compound](Ankyra's%20Old%20Castle%20Compound.md) after lunch. He expects the [party](Seven%20Up....md) to attend the lunch.
-- [Session 45](../Session%20Log/Session%2045.md): [Adeena](Adeena%20Oberon.md) discloses that she plans to go alone later. She and the [party](Seven%20Up....md) discusses a plan of action.
+- [Session 48](../Session%20Log/Session%2048.md): The [party](Seven%20Up....md) takes a long rest.
+- [Session 48](../Session%20Log/Session%2048.md): [Adeena](Adeena%20Oberon.md) shares the problem with the [party](Seven%20Up....md). The [party](Seven%20Up....md) plans on checking the northwestern coast for some blacksand later in the day.
+- [Session 49](../Session%20Log/Session%2049.md): The [party](Seven%20Up....md) meets with [Gandour](Gandour%20Ironfleet.md), [Kirren](Kirren%20Acquermann.md), [Kayvan](Kayvan%20Acquermann.md) [Djorken](Djorken%20Veegar.md), [Nos-Aji](Nos-Aji.md), and [Olrac](Olrac.md).
+- [Session 49](../Session%20Log/Session%2049.md): The [party](Seven%20Up....md) asks for help regarding [Nokia](Nokia.md) being petrified. [Gandour](Gandour%20Ironfleet.md) mentions a cleric from [Foenyx](Foenyx%20District.md) might do the job.
+- [Session 49](../Session%20Log/Session%2049.md): The [party](Seven%20Up....md) asks how many people can the airship hold. [Gandour](Gandour%20Ironfleet.md) tells them that the airship can have 20 to 50 crew members.
+- [Session 49](../Session%20Log/Session%2049.md): After the dinner, the [party](Seven%20Up....md) decides to rest.
+- [Session 49](../Session%20Log/Session%2049.md): The [party](Seven%20Up....md) takes a long rest.
+- [Session 49](../Session%20Log/Session%2049.md): [Adikia](Adikia%20Unalome.md) wakes up before dawn. She wakes the [party](Seven%20Up....md), but only [Adeena](Adeena%20Oberon.md), [Theobald](Theobald%20Clayhollow.md) and [Arc](Arc.md) decide to accompany her.
+- [Session 49](../Session%20Log/Session%2049.md): The [party](Seven%20Up....md) meets [Adikia](Adikia%20Unalome.md). They enter the chapel, which turns out to be the [Chapel of Amlin](Chapel%20of%20Amlin.md).
+- [Session 49](../Session%20Log/Session%2049.md): Back in [Ironfleet Compound](Ironfleet%20Compound.md), [Noah](Noah%20Skie.md), [Kiris](Kiris%20Acquermann.md) and [Thoradin](Thoradin%20Goodman.md) wake up and find the other members of their [party](Seven%20Up....md) gone.
 
 ## All Entries
 - [Session 1](../../Session%201.md): [Ridnor](Ridnor.md) visits [Bulkip](Bulkip.md) and informs the [party](Seven%20Up....md) of the house arrangements
@@ -194,3 +194,38 @@ Someone broke into the royal chambers... The guards are not saying anything. I'm
 - [Session 45](../Session%20Log/Session%2045.md): Meanwhile, [Kayvan](Kayvan%20Acquermann.md), [Kiris](Kiris%20Acquermann.md), and [Arc](Arc.md) attempt to follow [Adeena](Adeena%20Oberon.md), but to no avail. In the end, they go back to the [compound](Ironfleet%20Compound.md) to enlist the [party](Seven%20Up....md)'s help.
 - [Session 45](../Session%20Log/Session%2045.md): Regarding [The Cult of Miledu](The%20Cult%20of%20Miledu.md), [Kayriel](Kayriel%20Acquermann.md) is as clueless as the [party](Seven%20Up....md). He mentions that he has knowledge of the [Theater Incident](Theater%20Incident.md) since a follower from the [Order of Yekora](Followers%20of%20Yekora.md) told it to him.
 - [Session 45](../Session%20Log/Session%2045.md): [Adeena](Adeena%20Oberon.md) meets the [party](Seven%20Up....md) as they were about to find her.
+- [Session 46](../Session%20Log/Session%2046.md): [Djorken](Djorken%20Veegar.md) asks for the [party](Seven%20Up....md)'s help. He asks the party to quell the [Malandar Rebellion](Malandar%20Rebellion.md).
+- [Session 46](../Session%20Log/Session%2046.md): The [Drakon](Drakon%20District.md) [party](Seven%20Up....md) surveys the residents of the district about political matters. The informed residents are split; half supports the industrialization proposed by the [Malandar Rebellion](Malandar%20Rebellion.md), while the other half deems that the district's agricultural tradition must be upheld.
+- [Session 46](../Session%20Log/Session%2046.md): The [Drakon](Drakon%20District.md) [party](Seven%20Up....md) travels to an [Drakon Amphitheater](Drakon's%20Open%20Amphitheater.md) where there is a political rally being held. The rally is for [Raveena Malandar](Raveena%20Malandar.md).
+- [Session 46](../Session%20Log/Session%2046.md): [Kiris](Kiris%20Acquermann.md) assumes [Raveena Malandar](Raveena%20Malandar.md)'s identity. He goes back to the [Drakon Amphitheater](Drakon's%20Open%20Amphitheater.md) as [Raveena](Raveena%20Malandar.md) and without speaking, announces her leave to the guards. [Kiris](Kiris%20Acquermann.md) then messages the [Drakon](Drakon%20District.md) [party](Seven%20Up....md) to meet him and [Arc](Arc.md) at a specific place within [Drakon](Drakon%20District.md).
+- [Session 46](../Session%20Log/Session%2046.md): The [Drakon](Drakon%20District.md) [party](Seven%20Up....md) saw [Arc](Arc.md) and [Kiris](Kiris%20Acquermann.md) carrying [Raveena](Raveena%20Malandar.md) who is bound and unconscious. [Djorken](Djorken%20Veegar.md) is startled, but [Kiris](Kiris%20Acquermann.md) manages to convince him that this is the best course to take. [Djorken](Djorken%20Veegar.md) reluctantly agrees, and shares his knowledge of a less-traveled route back to the [Ironfleet Compound](Ironfleet%20Compound.md) that would attract the least attention.
+- [Session 46](../Session%20Log/Session%2046.md): The [Drakon](Drakon%20District.md) [party](Seven%20Up....md) carries [Raveena Malandar](Raveena%20Malandar.md) back to the [Ironfleet Compound](Ironfleet%20Compound.md).
+- [Session 46](../Session%20Log/Session%2046.md): The [Ankyra](Ankyra%20District.md) [party](Seven%20Up....md) travels to the [Ankyra's Old Castle Compound](Ankyra's%20Old%20Castle%20Compound.md) to gather information. They meet [Kirren](Kirren%20Acquermann.md) and she directs them to the library.
+- [Session 46](../Session%20Log/Session%2046.md): The [Ankyra](Ankyra%20District.md) [party](Seven%20Up....md) travels back to the [Ironfleet Compound](Ironfleet%20Compound.md). There, they meet the [Drakon](Drakon%20District.md) [party](Seven%20Up....md) accompanying the captured [Raveena Malandar](Raveena%20Malandar.md).
+- [Session 47](../Session%20Log/Session%2047.md): The [party](Seven%20Up....md) decides to postpone the interrogation tomorrow.
+- [Session 47](../Session%20Log/Session%2047.md): The [party](Seven%20Up....md) takes a long rest.
+- [Session 47](../Session%20Log/Session%2047.md): The [party](Seven%20Up....md) wakes up.
+- [Session 47](../Session%20Log/Session%2047.md): The [party](Seven%20Up....md) interrogates [Raveena](Raveena%20Malandar.md).
+- [Session 47](../Session%20Log/Session%2047.md): The [party](Seven%20Up....md) is about to hurt [Raveena](Raveena%20Malandar.md), but [Djorken](Djorken%20Veegar.md) interjects. He tells [Adikia](Adikia%20Unalome.md) that they can use her to quell the [Malandar Rebellion](Malandar%20Rebellion.md).
+- [Session 47](../Session%20Log/Session%2047.md): The [party](Seven%20Up....md) decides to lock up [Raveena](Raveena%20Malandar.md) in [Ankyra](Ankyra%20District.md), where [Rickard](Rickard%20Kyp.md) and [Malvin](Malvin%20Randall.md) are also jailed.
+- [Session 47](../Session%20Log/Session%2047.md): The [party](Seven%20Up....md) travels to [Ankyra](Ankyra%20District.md). During their travel, [Theobald](Theobald%20Clayhollow.md) and [Thoradin](Thoradin%20Goodman.md) have a sincere talk regarding faith.
+- [Session 47](../Session%20Log/Session%2047.md): [Splix](Spraugh%20'Splix'%20Calix.md) splits away from the [party](Seven%20Up....md) to research with [Professor Aufel](Aufel%20Fernquill.md).
+- [Session 47](../Session%20Log/Session%2047.md): The [party](Seven%20Up....md) talks to the guards and [Michaela](Michaela%20Randall.md) about their worries. [Michaela](Michaela%20Randall.md) assures them that keeping them in one location saves resources and time, which the [party](Seven%20Up....md) badly needs.
+- [Session 47](../Session%20Log/Session%2047.md): The [party](Seven%20Up....md) decides to head back to the [Ironfleet Compound](Ironfleet%20Compound.md). [Splix](Spraugh%20'Splix'%20Calix.md) stays in [Ankyra](Ankyra%20District.md) to research.
+- [Session 48](../Session%20Log/Session%2048.md): The [party](Seven%20Up....md) takes a long rest.
+- [Session 48](../Session%20Log/Session%2048.md): [Adeena](Adeena%20Oberon.md) shares the problem with the [party](Seven%20Up....md). The [party](Seven%20Up....md) plans on checking the northwestern coast for some blacksand later in the day.
+- [Session 48](../Session%20Log/Session%2048.md): The [party](Seven%20Up....md), minus [Kiris](Kiris%20Acquermann.md) and [Splix](Spraugh%20'Splix'%20Calix.md), rides on a boat. Their boat tugs a smaller boat containing digging tools and some empty barrels. The [party](Seven%20Up....md), upon exiting the river's mouth, follows the western coastline.
+- [Session 48](../Session%20Log/Session%2048.md): Upon resurfacing, the [party](Seven%20Up....md) sees traces of blacksand on both [Adikia](Adikia%20Unalome.md) and [Noah](Noah%20Skie.md). [Adeena](Adeena%20Oberon.md) gives her trinket to [Noah](Noah%20Skie.md) and asks her to investigate.
+- [Session 48](../Session%20Log/Session%2048.md): [Noah](Noah%20Skie.md) is pulled below the water. [Adikia](Adikia%20Unalome.md) attempts to save [Noah](Noah%20Skie.md), but to no avail. [Adikia](Adikia%20Unalome.md) asks for the [party](Seven%20Up....md)'s help using telepathy.
+- [Session 48](../Session%20Log/Session%2048.md): The [party](Seven%20Up....md) is washed ashore; [Thoradin](Thoradin%20Goodman.md) draws the inhaled seawater from [Adikia](Adikia%20Unalome.md)'s lungs.
+- [Session 48](../Session%20Log/Session%2048.md): The [party](Seven%20Up....md) confronts a blacksand-based creature. [Arc](Arc.md), and later the other members of the [party](Seven%20Up....md), ascertains that the blacksand combusts explosively. The explosion was too strong that the sound it produced reaches [Kiris](Kiris%20Acquermann.md).
+- [Session 48](../Session%20Log/Session%2048.md): The [party](Seven%20Up....md) lost material things, including [Theobald](Theobald%20Clayhollow.md)'s adventure diary and [Adikia](Adikia%20Unalome.md)'s violin. Moreover, they fail to retrieve blacksand. [Adeena](Adeena%20Oberon.md) fortunately did not lose her stuff due to being submerged underwater during the explosion.
+- [Session 48](../Session%20Log/Session%2048.md): The [party](Seven%20Up....md) decides to walk back to the [Ironfleet Compound](Ironfleet%20Compound.md). [Thoradin](Thoradin%20Goodman.md) casts Find Steed, and he and [Noah](Noah%20Skie.md) rushes back.
+- [Session 49](../Session%20Log/Session%2049.md): The [party](Seven%20Up....md) meets with [Gandour](Gandour%20Ironfleet.md), [Kirren](Kirren%20Acquermann.md), [Kayvan](Kayvan%20Acquermann.md) [Djorken](Djorken%20Veegar.md), [Nos-Aji](Nos-Aji.md), and [Olrac](Olrac.md).
+- [Session 49](../Session%20Log/Session%2049.md): The [party](Seven%20Up....md) asks for help regarding [Nokia](Nokia.md) being petrified. [Gandour](Gandour%20Ironfleet.md) mentions a cleric from [Foenyx](Foenyx%20District.md) might do the job.
+- [Session 49](../Session%20Log/Session%2049.md): The [party](Seven%20Up....md) asks how many people can the airship hold. [Gandour](Gandour%20Ironfleet.md) tells them that the airship can have 20 to 50 crew members.
+- [Session 49](../Session%20Log/Session%2049.md): After the dinner, the [party](Seven%20Up....md) decides to rest.
+- [Session 49](../Session%20Log/Session%2049.md): The [party](Seven%20Up....md) takes a long rest.
+- [Session 49](../Session%20Log/Session%2049.md): [Adikia](Adikia%20Unalome.md) wakes up before dawn. She wakes the [party](Seven%20Up....md), but only [Adeena](Adeena%20Oberon.md), [Theobald](Theobald%20Clayhollow.md) and [Arc](Arc.md) decide to accompany her.
+- [Session 49](../Session%20Log/Session%2049.md): The [party](Seven%20Up....md) meets [Adikia](Adikia%20Unalome.md). They enter the chapel, which turns out to be the [Chapel of Amlin](Chapel%20of%20Amlin.md).
+- [Session 49](../Session%20Log/Session%2049.md): Back in [Ironfleet Compound](Ironfleet%20Compound.md), [Noah](Noah%20Skie.md), [Kiris](Kiris%20Acquermann.md) and [Thoradin](Thoradin%20Goodman.md) wake up and find the other members of their [party](Seven%20Up....md) gone.
