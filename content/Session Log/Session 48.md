@@ -9,7 +9,7 @@ icon: calendar
 # Sorrow, Sand, and Stone
 ## Morning (9th of Zagi)
 - The [party](../Factions/Seven%20Up....md) takes a long rest.
-- [Adeena](../PCs/Adeena%20Oberon.md), [Noah](../PCs/Noah%20Skie.md), and [Adikia](../PCs/Adikia%20Unalome.md) help airship. [Adeena](../PCs/Adeena%20Oberon.md) notices that the airship' cannon deck desperately lacks gloompowder.
+- [Adeena](../PCs/Adeena%20Oberon.md), [Noah](../PCs/Noah%20Skie.md), and [Adikia](../PCs/Adikia%20Unalome.md) help the airship workers. [Adeena](../PCs/Adeena%20Oberon.md) notices that the airship's cannon deck desperately lacks gloompowder.
 - [Adeena](../PCs/Adeena%20Oberon.md) asks [Olrac](../NPCs/Olrac.md), who is arguing with a servant outside, where to source gloompowder. [Olrac](../NPCs/Olrac.md) directs [Adeena](../PCs/Adeena%20Oberon.md) to [Nos](../NPCs/Nos-Aji.md).
 - [Arc](../PCs/Arc.md) scouts the district and finds a three-carriage supply run from [Ankyra's Old Castle Compound](../Locations/Buildings/Ankyra's%20Old%20Castle%20Compound.md) traveling to [Ironfleet Compound](../Locations/Buildings/Ironfleet%20Compound.md). He follows it and he meets [Kirren](../NPCs/Kirren%20Acquermann.md).
 - [Kirren](../NPCs/Kirren%20Acquermann.md) asks [Arc](../PCs/Arc.md) where to find [Kiris](../PCs/Kiris%20Acquermann.md) and [Kayvan](../../Kayvan%20Acquermann.md); [Arc](../PCs/Arc.md) supplies their location.
