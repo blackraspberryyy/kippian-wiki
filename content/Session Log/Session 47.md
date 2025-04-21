@@ -13,27 +13,28 @@ icon: calendar
 - The [party](../Factions/Seven%20Up....md) takes a long rest.
 ## Morning Interrogation (8th of Zagi)
 - The [party](../Factions/Seven%20Up....md) wakes up. 
-- [Thoradin](../PCs/Thoradin%20Goodman.md) prepares and casts Zone of Truth. [Raveena](../../Raveena%20Malandar.md) fails.
-- The [party](../Factions/Seven%20Up....md) interrogates [Raveena](../../Raveena%20Malandar.md). 
-- [Raveena](../../Raveena%20Malandar.md) reveals the masterminds of the cult are [Roldan](../../Roldan%20Vinke.md), [Rickard](../../Rickard%20Kyp.md) and [Elvin](../../Elvin%20Claymore.md).
-- [Raveena](../../Raveena%20Malandar.md) cannot remember the name of the mysterious [Acquermann](../../Acquermann%20Clan.md).
-- [Rickard](../../Rickard%20Kyp.md) is revealed to be [Raveena](../../Raveena%20Malandar.md)'s recruiter.
-- [Raveena](../../Raveena%20Malandar.md) joined [The Cult of Miledu](../../The%20Cult%20of%20Miledu.md) to gain power.
-- [Raveena](../../Raveena%20Malandar.md) aims to lead [Drakon](../Locations/Areas/Drakon%20District.md) into an industrious future.
-- [The Cult of Miledu](../../The%20Cult%20of%20Miledu.md) recruited [Raveena](../../Raveena%20Malandar.md) to inform members and create propaganda.
-- [Raveena](../../Raveena%20Malandar.md) claims the [Theater Incident](../../Theater%20Incident.md) as her and [Roldan](../../Roldan%20Vinke.md)'s idea. The idea was to gauge public perception regarding the [The Cult of Miledu](../../The%20Cult%20of%20Miledu.md).
-- The [party](../Factions/Seven%20Up....md) is about to hurt [Raveena](../../Raveena%20Malandar.md), but [Djorken](../../Djorken%20Veegar.md) interjects. He tells [Adikia](../PCs/Adikia%20Unalome.md) that they can use her to quell the [Malandar Rebellion](../../Malandar%20Rebellion.md).
-- The [party](../Factions/Seven%20Up....md) decides to lock up [Raveena](../../Raveena%20Malandar.md) in [Ankyra](../Locations/Areas/Ankyra%20District.md), where [Rickard](../../Rickard%20Kyp.md) and [Malvin](../../Malvin%20Randall.md) are also jailed.
+- [Thoradin](../PCs/Thoradin%20Goodman.md) prepares and casts Zone of Truth. [Raveena](../NPCs/Raveena%20Malandar.md) fails.
+- The [party](../Factions/Seven%20Up....md) interrogates [Raveena](../NPCs/Raveena%20Malandar.md). 
+- [Raveena](../NPCs/Raveena%20Malandar.md) reveals the masterminds of the cult are [Roldan](../../Roldan%20Vinke.md), [Rickard](../NPCs/Rickard%20Kyp.md) and [Elvin](../../Elvin%20Claymore.md).
+- [Raveena](../NPCs/Raveena%20Malandar.md) cannot remember the name of the mysterious [Acquermann](../../Acquermann%20Clan.md).
+- [Rickard](../NPCs/Rickard%20Kyp.md) is revealed to be [Raveena](../NPCs/Raveena%20Malandar.md)'s recruiter.
+- [Raveena](../NPCs/Raveena%20Malandar.md) joined [The Cult of Miledu](../../The%20Cult%20of%20Miledu.md) to gain power.
+- [Raveena](../NPCs/Raveena%20Malandar.md) aims to lead [Drakon](../Locations/Areas/Drakon%20District.md) into an industrious future.
+- [The Cult of Miledu](../../The%20Cult%20of%20Miledu.md) recruited [Raveena](../NPCs/Raveena%20Malandar.md) to inform members and create propaganda.
+- [Raveena](../NPCs/Raveena%20Malandar.md) claims the [Theater Incident](../../Theater%20Incident.md) as her and [Roldan](../../Roldan%20Vinke.md)'s idea. The idea was to gauge public perception regarding the [The Cult of Miledu](../../The%20Cult%20of%20Miledu.md).
+- The [party](../Factions/Seven%20Up....md) is about to hurt [Raveena](../NPCs/Raveena%20Malandar.md), but [Djorken](../../Djorken%20Veegar.md) interjects. He tells [Adikia](../PCs/Adikia%20Unalome.md) that they can use her to quell the [Malandar Rebellion](../../Malandar%20Rebellion.md).
+- The [party](../Factions/Seven%20Up....md) decides to lock up [Raveena](../NPCs/Raveena%20Malandar.md) in [Ankyra](../Locations/Areas/Ankyra%20District.md), where [Rickard](../NPCs/Rickard%20Kyp.md) and [Malvin](../NPCs/Malvin%20Randall.md) are also jailed.
 ## Incarceration
 - The [party](../Factions/Seven%20Up....md) travels to [Ankyra](../Locations/Areas/Ankyra%20District.md). During their travel, [Theobald](../PCs/Theobald%20Clayhollow.md) and [Thoradin](../PCs/Thoradin%20Goodman.md) have a sincere talk regarding faith.
 - [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) splits away from the [party](../Factions/Seven%20Up....md) to research with [Professor Aufel](../../Aufel%20Fernquill.md).
-- [Adeena](../PCs/Adeena%20Oberon.md) and [Adikia](../PCs/Adikia%20Unalome.md) talks to [Mitarella](../../Mitarella%20Randall.md) regarding [Raveena](../../Raveena%20Malandar.md); the regent breathes a sigh of relief. [Mitarella](../../Mitarella%20Randall.md) assigns [Michaela](../../Michaela%20Randall.md) to lead them to the dungeon.
+- [Adeena](../PCs/Adeena%20Oberon.md) and [Adikia](../PCs/Adikia%20Unalome.md) talks to [Mitarella](../../Mitarella%20Randall.md) regarding [Raveena](../NPCs/Raveena%20Malandar.md); the regent breathes a sigh of relief. [Mitarella](../../Mitarella%20Randall.md) assigns [Michaela](../../Michaela%20Randall.md) to lead them to the dungeon.
 - [Theobald](../PCs/Theobald%20Clayhollow.md) notices [Michaela](../../Michaela%20Randall.md) and [Noah](../PCs/Noah%20Skie.md) having a deep talk.
-- [Raveena](../../Raveena%20Malandar.md) is placed inside her cell. As they were about to go out, [Rickard](../../Rickard%20Kyp.md) shouts and laughs mockingly:
+- [Raveena](../NPCs/Raveena%20Malandar.md) is placed inside her cell. As they were about to go out, [Rickard](../NPCs/Rickard%20Kyp.md) shouts and laughs mockingly:
 > *"It's about time now! You won't have to wait long..."*
 - The [party](../Factions/Seven%20Up....md) talks to the guards and [Michaela](../../Michaela%20Randall.md) about their worries. [Michaela](../../Michaela%20Randall.md) assures them that keeping them in one location saves resources and time, which the [party](../Factions/Seven%20Up....md) badly needs.
 - The [party](../Factions/Seven%20Up....md) decides to head back to the [Ironfleet Compound](../Locations/Buildings/Ironfleet%20Compound.md). [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) stays in [Ankyra](../Locations/Areas/Ankyra%20District.md) to research.
 - [Noah](../PCs/Noah%20Skie.md) spots [Arc](../PCs/Arc.md) stealing a purse from a commoner.
+- [Splix](../PCs/Spraugh%20'Splix'%20Calix.md), during his research, studies the Vitriolic Sphere spell.
 ## Back to [Ironfleet Compound](../Locations/Buildings/Ironfleet%20Compound.md)
 - During their travel, [Thoradin](../PCs/Thoradin%20Goodman.md) and [Theobald](../PCs/Theobald%20Clayhollow.md) continue their conversation about faith. [Theobald](../PCs/Theobald%20Clayhollow.md) hears a divine whisper emanating from [Matunda's Mace](../Items/Mythic%20Items/Matunda's%20Mace.md).
 - [Adeena](../PCs/Adeena%20Oberon.md) gives the abjuration reference book to [Gandour](../../Gandour%20Ironfleet.md).
