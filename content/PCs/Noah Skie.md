@@ -72,27 +72,16 @@ She thought that she would only use her strength for peace: it would be her way 
 - [Agatha](../../Agatha.md)
 # Story log
 ## Most Recent
-- [Session 42](../Session%20Log/Session%2042.md): The [[Seven Up...|party]], except [Noah](Noah%20Skie.md), drinks a tea fashioned from the ginger where [The First Tree](The%20First%20Tree.md) grew. It is a traditional drink honoring [Antasha](Antasha.md), goddess of the land.
-- [Session 42](../Session%20Log/Session%2042.md): [Noah](Noah%20Skie.md) overhears [Kirren](Kirren%20Acquermann.md) and [Michaela](Michaela%20Randall.md) talking. [Kirren](Kirren%20Acquermann.md) asks if [Michaela](Michaela%20Randall.md) if she knew about [Leneia](Leneia%20Yarumcy.md). [Michaela](Michaela%20Randall.md) denies it, and consoles [Kirren](Kirren%20Acquermann.md).
-- [Session 42](../Session%20Log/Session%2042.md): [Noah](Noah%20Skie.md) overhears that [Professor Aufel](Aufel%20Fernquill.md) and [Michaela](Michaela%20Randall.md) talking. The [professor](Aufel%20Fernquill.md)'s there to conduct research within the [Ankyra's Old Castle Compound](Ankyra's%20Old%20Castle%20Compound.md)'s library that could help with the [Yvernus](Yvernus%20District.md) situation.
-- [Session 42](../Session%20Log/Session%2042.md): As the [Noah](Noah%20Skie.md) steps out of the [Ankyra's Old Castle Compound](Ankyra's%20Old%20Castle%20Compound.md), the [[Seven Up...|party]] hears a whistle and the sound of detonation originating from the [Ironfleet Compound](Ironfleet%20Compound.md).
-- [Session 42](../Session%20Log/Session%2042.md): [Noah](Noah%20Skie.md) reads her translation book for primordial language. She became privy to the chronological succession of the [Primordial Ages](Primordial%20Ages.md).
-> The chronological list of the [Primordial Ages](Primordial%20Ages.md):
->
-> [Age of the Old Gods](Age%20of%20the%20Old%20Gods.md)
->
-> [Age of Dragons](Age%20of%20Dragons.md)
->
-> [Age of Beasts](Age%20of%20Beasts.md)
->
-> [Age of Orcs](Age%20of%20Orcs.md)
->
-> [Age of Humans](Age%20of%20Humans.md)
-- [Session 44](../Session%20Log/Session%2044.md): [Noah](Noah%20Skie.md) sees a vision of [Agatha](Agatha.md). [Noah](Noah%20Skie.md) does not understand what [Agatha](Agatha.md) said.
-- [Session 44](../Session%20Log/Session%2044.md): [Noah](Noah%20Skie.md) asks [Gandour](Gandour%20Ironfleet.md) for some arrows. [Gandour](Gandour%20Ironfleet.md) gives her 2 bundles of ammunition (20 arrows each).
-- [Session 45](../Session%20Log/Session%2045.md): [Adikia](Adikia%20Unalome.md) asks [Michaela](Michaela%20Randall.md) about [Noah](Noah%20Skie.md)'s whereabouts. [Michaela](Michaela%20Randall.md) says that they parted late last night.
-- [Session 45](../Session%20Log/Session%2045.md): [Michaela](Michaela%20Randall.md) asks if [Noah](Noah%20Skie.md)'s disappearances is normal. [Adikia](Adikia%20Unalome.md) says yes, and she must not be concerned. [Michaela](Michaela%20Randall.md) tells [Adikia](Adikia%20Unalome.md) that the [[Seven Up...|party]] can ask for her help in finding [Noah](Noah%20Skie.md).
-- [Session 45](../Session%20Log/Session%2045.md): The [[Seven Up...|party]] wakes up, but [Noah](Noah%20Skie.md) is still missing.
+- [Session 47](../Session%20Log/Session%2047.md): [Noah](Noah%20Skie.md) spots [Arc](Arc.md) stealing a purse from a commoner.
+- [Session 48](../Session%20Log/Session%2048.md): After being an hour away from the [Midkip](Midkip.md), [Adikia](Adikia%20Unalome.md) played a prank on the party by seemingly getting drowned. [Noah](Noah%20Skie.md) attempted to rescue [Adikia](Adikia%20Unalome.md). It appears that the water at that point is just human-neck high.
+- [Session 48](../Session%20Log/Session%2048.md): Upon resurfacing, the [[Seven Up...|party]] sees traces of blacksand on both [Adikia](Adikia%20Unalome.md) and [Noah](Noah%20Skie.md). [Adeena](Adeena%20Oberon.md) gives her trinket to [Noah](Noah%20Skie.md) and asks her to investigate.
+- [Session 48](../Session%20Log/Session%2048.md): [Noah](Noah%20Skie.md) is pulled below the water. [Adikia](Adikia%20Unalome.md) attempts to save [Noah](Noah%20Skie.md), but to no avail. [Adikia](Adikia%20Unalome.md) asks for the [[Seven Up...|party]]'s help using telepathy.
+- [Session 48](../Session%20Log/Session%2048.md): The [[Seven Up...|party]] decides to walk back to the [Ironfleet Compound](Ironfleet%20Compound.md). [Thoradin](Thoradin%20Goodman.md) casts Find Steed, and he and [Noah](Noah%20Skie.md) rushes back.
+- [Session 48](../Session%20Log/Session%2048.md): [Thoradin](Thoradin%20Goodman.md) and [Noah](Noah%20Skie.md) meets [Kiris](Kiris%20Acquermann.md) in the courtyard and explains to them what happened. Afterwards, [Thoradin](Thoradin%20Goodman.md) talks to [Nos](Nos-Aji.md) and admits that they failed in retrieving the blacksand.
+- [Session 48](../Session%20Log/Session%2048.md): [Adeena](Adeena%20Oberon.md), [Noah](Noah%20Skie.md), and [Adikia](Adikia%20Unalome.md) help the airship workers. [Adeena](Adeena%20Oberon.md) notices that the airship's cannon deck desperately lacks gloompowder.
+- [Session 49](../Session%20Log/Session%2049.md): Back in [Ironfleet Compound](Ironfleet%20Compound.md), [Noah](Noah%20Skie.md), [Kiris](Kiris%20Acquermann.md) and [Thoradin](Thoradin%20Goodman.md) wake up and find the other members of their [[Seven Up...|party]] gone.
+- [Session 49](../Session%20Log/Session%2049.md): [Noah](Noah%20Skie.md), [Kiris](Kiris%20Acquermann.md) and [Thoradin](Thoradin%20Goodman.md) see movement on the floating [Yvernus](Yvernus%20District.md). They see a dragon fly out of it, and descend down into [Ankyra](Ankyra%20District.md).
+- [Session 49](../Session%20Log/Session%2049.md): [Kirren](Kirren%20Acquermann.md) decides to check on the situation. [Thoradin](Thoradin%20Goodman.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) decide to stay to defend the airship.
 
 ## All Entries
 - [Session 13](../../Session%2013.md): [Noah](Noah%20Skie.md) found a book detailing the history of [[Ankor|Ankor]]. She read that [Curkip](Curkip.md) was once under the jurisdiction of [Bulkip](Bulkip.md).
@@ -144,3 +133,20 @@ She thought that she would only use her strength for peace: it would be her way 
 - [Session 45](../Session%20Log/Session%2045.md): The [[Seven Up...|party]] wakes up, but [Noah](Noah%20Skie.md) is still missing.
 - [Session 45](../Session%20Log/Session%2045.md): [Adikia](Adikia%20Unalome.md) asks [Michaela](Michaela%20Randall.md) about [Noah](Noah%20Skie.md)'s whereabouts. [Michaela](Michaela%20Randall.md) says that they parted late last night.
 - [Session 45](../Session%20Log/Session%2045.md): [Michaela](Michaela%20Randall.md) asks if [Noah](Noah%20Skie.md)'s disappearances is normal. [Adikia](Adikia%20Unalome.md) says yes, and she must not be concerned. [Michaela](Michaela%20Randall.md) tells [Adikia](Adikia%20Unalome.md) that the [[Seven Up...|party]] can ask for her help in finding [Noah](Noah%20Skie.md).
+- [Session 46](../Session%20Log/Session%2046.md): [Noah](Noah%20Skie.md) explained to the party that she was exploring [Midkip](Midkip.md) on her own to find some solace and to survey for weapons and armor.
+- [Session 46](../Session%20Log/Session%2046.md): [Theobald](Theobald%20Clayhollow.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) help in the construction.
+- [Session 46](../Session%20Log/Session%2046.md): [Kiris](Kiris%20Acquermann.md), [Thoradin](Thoradin%20Goodman.md), [Theobald](Theobald%20Clayhollow.md), [Arc](Arc.md) and [Noah](Noah%20Skie.md) go to [Drakon district](Drakon%20District.md) to gauge the situation. [Thoradin](Thoradin%20Goodman.md) convinces [Djorken](Djorken%20Veegar.md) to accompany them, saying that he'll protect him from possible harm.
+- [Session 46](../Session%20Log/Session%2046.md): [Noah](Noah%20Skie.md) asks [Djorken](Djorken%20Veegar.md) about his stance. [Djorken](Djorken%20Veegar.md) tells them that he needs a formal nomination from both the [Drakon](Drakon%20District.md)'s leaders and the [High Council](The%20High%20Council%20of%20Midkip.md) before he assumes the district representative position held by his late adoptive father, [Gokare Veegar](Gokare%20Veegar.md).
+- [Session 47](../Session%20Log/Session%2047.md): [Theobald](Theobald%20Clayhollow.md) notices [Michaela](Michaela%20Randall.md) and [Noah](Noah%20Skie.md) having a deep talk.
+- [Session 47](../Session%20Log/Session%2047.md): [Noah](Noah%20Skie.md) spots [Arc](Arc.md) stealing a purse from a commoner.
+- [Session 47](../Session%20Log/Session%2047.md): [Noah](Noah%20Skie.md) has a dream; the dream involves her during the dinner scene when [Agatha](Agatha.md) appeared to her. This time, however, [Agatha](Agatha.md)'s voice is clearer.
+> *"The answer you seek is in [Suirsya](Suirsya.md)..."*
+- [Session 48](../Session%20Log/Session%2048.md): [Adeena](Adeena%20Oberon.md), [Noah](Noah%20Skie.md), and [Adikia](Adikia%20Unalome.md) help the airship workers. [Adeena](Adeena%20Oberon.md) notices that the airship's cannon deck desperately lacks gloompowder.
+- [Session 48](../Session%20Log/Session%2048.md): After being an hour away from the [Midkip](Midkip.md), [Adikia](Adikia%20Unalome.md) played a prank on the party by seemingly getting drowned. [Noah](Noah%20Skie.md) attempted to rescue [Adikia](Adikia%20Unalome.md). It appears that the water at that point is just human-neck high.
+- [Session 48](../Session%20Log/Session%2048.md): Upon resurfacing, the [[Seven Up...|party]] sees traces of blacksand on both [Adikia](Adikia%20Unalome.md) and [Noah](Noah%20Skie.md). [Adeena](Adeena%20Oberon.md) gives her trinket to [Noah](Noah%20Skie.md) and asks her to investigate.
+- [Session 48](../Session%20Log/Session%2048.md): [Noah](Noah%20Skie.md) is pulled below the water. [Adikia](Adikia%20Unalome.md) attempts to save [Noah](Noah%20Skie.md), but to no avail. [Adikia](Adikia%20Unalome.md) asks for the [[Seven Up...|party]]'s help using telepathy.
+- [Session 48](../Session%20Log/Session%2048.md): The [[Seven Up...|party]] decides to walk back to the [Ironfleet Compound](Ironfleet%20Compound.md). [Thoradin](Thoradin%20Goodman.md) casts Find Steed, and he and [Noah](Noah%20Skie.md) rushes back.
+- [Session 48](../Session%20Log/Session%2048.md): [Thoradin](Thoradin%20Goodman.md) and [Noah](Noah%20Skie.md) meets [Kiris](Kiris%20Acquermann.md) in the courtyard and explains to them what happened. Afterwards, [Thoradin](Thoradin%20Goodman.md) talks to [Nos](Nos-Aji.md) and admits that they failed in retrieving the blacksand.
+- [Session 49](../Session%20Log/Session%2049.md): Back in [Ironfleet Compound](Ironfleet%20Compound.md), [Noah](Noah%20Skie.md), [Kiris](Kiris%20Acquermann.md) and [Thoradin](Thoradin%20Goodman.md) wake up and find the other members of their [[Seven Up...|party]] gone.
+- [Session 49](../Session%20Log/Session%2049.md): [Noah](Noah%20Skie.md), [Kiris](Kiris%20Acquermann.md) and [Thoradin](Thoradin%20Goodman.md) see movement on the floating [Yvernus](Yvernus%20District.md). They see a dragon fly out of it, and descend down into [Ankyra](Ankyra%20District.md).
+- [Session 49](../Session%20Log/Session%2049.md): [Kirren](Kirren%20Acquermann.md) decides to check on the situation. [Thoradin](Thoradin%20Goodman.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) decide to stay to defend the airship.

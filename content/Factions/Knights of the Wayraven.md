@@ -22,7 +22,7 @@ icon: faction
 # Organization
 #### Leader: [Kristofer Acquermann](../../Kristofer%20Acquermann.md)
 ## Known Members
-[Kirren Acquermann](../../Kirren%20Acquermann.md), deferred.
+[Kirren Acquermann](../NPCs/Kirren%20Acquermann.md), deferred.
 | Name                                                   |
 | ------------------------------------------------------ |
 | [Kristofer Acquermann](../../Kristofer%20Acquermann.md) |

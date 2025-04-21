@@ -33,5 +33,5 @@ icon: map
 # Factions
 | Name                                                     |
 | -------------------------------------------------------- |
-| [Followers of Yekora](../../Factions/Followers%20of%20Yekora.md) |
 | [Dusk Talons](../../Factions/Dusk%20Talons.md)                 |
+| [Followers of Yekora](../../Factions/Followers%20of%20Yekora.md) |

@@ -23,5 +23,7 @@ icon: lore
 ## Description
 # Lore Mentions
 ## Most Recent
+- [Session 46](../../Session%20Log/Session%2046.md): According to [Professor Aufel](Aufel%20Fernquill.md), [Professor Embersense](Dorfir%20Embersense.md) is transcribing and translating spells from ancient times, particularly spells from [Primordial Ages](Primordial%20Ages.md) and [Eon of Akenatun's Descent](Eon%20of%20Akenatun's%20Descent.md).
 
 ## All Entries
+- [Session 46](../../Session%20Log/Session%2046.md): According to [Professor Aufel](Aufel%20Fernquill.md), [Professor Embersense](Dorfir%20Embersense.md) is transcribing and translating spells from ancient times, particularly spells from [Primordial Ages](Primordial%20Ages.md) and [Eon of Akenatun's Descent](Eon%20of%20Akenatun's%20Descent.md).

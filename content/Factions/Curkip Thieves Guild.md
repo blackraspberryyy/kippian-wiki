@@ -20,12 +20,12 @@ icon: faction
 #### Known for: being a wholesome thieves guild
 ## Description
 # Organization
-#### Leader: [Nos-Aji](../../Nos-Aji.md)
+#### Leader: [Nos-Aji](../NPCs/Nos-Aji.md)
 ## Known Members
 | Name                         |
 | ---------------------------- |
-| [Nos-Aji](../../Nos-Aji.md) |
-| [Olrac](../../Olrac.md)     |
+| [Olrac](../NPCs/Olrac.md)     |
+| [Nos-Aji](../NPCs/Nos-Aji.md) |
 
 # Goals
 - [ ] Task 1

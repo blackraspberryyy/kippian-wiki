@@ -21,8 +21,11 @@ icon: map
 
 [Stella Kari](../../../Stella%20Kari.md) is the district's representative to [The High Council](../../Factions/The%20High%20Council%20of%20Midkip.md).
 # Notable Locations
-| Name |
-| ---- |
+| Name                                                        |
+| ----------------------------------------------------------- |
+| [Chapel of Amlin](../Buildings/Chapel%20of%20Amlin.md) |
+| [Chapel of Aisef](../Buildings/Chapel%20of%20Aisef.md) |
+| [Grand Cathedral](../Buildings/Grand%20Cathedral.md) |
 
 # Notable NPCs
 | Name                                 |

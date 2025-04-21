@@ -34,6 +34,7 @@ The [Randall Clan](../../../Randall%20Clan.md) oversees the military district. [
 | Name                                             |
 | ------------------------------------------------ |
 | [Michaela Randall](../../../Michaela%20Randall.md)   |
+| [Malvin Randall](../../NPCs/Malvin%20Randall.md)       |
 | [Mitarella Randall](../../../Mitarella%20Randall.md) |
 
 # Factions

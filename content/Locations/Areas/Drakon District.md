@@ -28,10 +28,11 @@ Twenty-five percent of the district's population are dragonborn. According to th
 | [Drakon's Open Amphitheater](../Buildings/Drakon's%20Open%20Amphitheater.md) |
 
 # Notable NPCs
-| Name                                       |
-| ------------------------------------------ |
-| [Djorken Veegar](../../../Djorken%20Veegar.md) |
-| [Gokare Veegar](../../../Gokare%20Veegar.md)   |
+| Name                                           |
+| ---------------------------------------------- |
+| [Djorken Veegar](../../../Djorken%20Veegar.md)     |
+| [Gokare Veegar](../../../Gokare%20Veegar.md)       |
+| [Raveena Malandar](../../NPCs/Raveena%20Malandar.md) |
 
 # Factions
 | Name |
