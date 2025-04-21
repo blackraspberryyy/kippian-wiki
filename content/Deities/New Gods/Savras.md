@@ -22,5 +22,7 @@ icon: lore
 ## Description
 # Lore Mentions
 ## Most Recent
+- [Session 47](../../Session%20Log/Session%2047.md): [Splix](Spraugh%20'Splix'%20Calix.md) writes a letter to be sent to [Savras University](Savras%20University.md).
 
 ## All Entries
+- [Session 47](../../Session%20Log/Session%2047.md): [Splix](Spraugh%20'Splix'%20Calix.md) writes a letter to be sent to [Savras University](Savras%20University.md).
