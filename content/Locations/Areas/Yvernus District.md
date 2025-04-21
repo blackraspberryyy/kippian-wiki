@@ -27,7 +27,7 @@ icon: map
 | Name                                             |
 | ------------------------------------------------ |
 | [Kayvan Acquermann](../../../Kayvan%20Acquermann.md) |
-| [Kirren Acquermann](../../../Kirren%20Acquermann.md) |
+| [Kirren Acquermann](../../NPCs/Kirren%20Acquermann.md) |
 | [Kiris Acquermann](../../PCs/Kiris%20Acquermann.md)    |
 
 # Factions
