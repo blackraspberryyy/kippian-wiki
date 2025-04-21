@@ -26,7 +26,7 @@ icon: calendar
 > 
 > -C/K
 - [Djorken](../../Djorken%20Veegar.md) tells the [party](../Factions/Seven%20Up....md) that he received the letter from a guard.
-- [Djorken](../../Djorken%20Veegar.md) imparts that [Mitarella](../../Mitarella%20Randall.md), [Remus](../../Remus%20Kyp.md) and [Kirren](../../Kirren%20Acquermann.md) will return back to [Ankyra's Old Castle Compound](../Locations/Buildings/Ankyra's%20Old%20Castle%20Compound.md) after lunch. He expects the [party](../Factions/Seven%20Up....md) to attend the lunch.
+- [Djorken](../../Djorken%20Veegar.md) imparts that [Mitarella](../../Mitarella%20Randall.md), [Remus](../../Remus%20Kyp.md) and [Kirren](../NPCs/Kirren%20Acquermann.md) will return back to [Ankyra's Old Castle Compound](../Locations/Buildings/Ankyra's%20Old%20Castle%20Compound.md) after lunch. He expects the [party](../Factions/Seven%20Up....md) to attend the lunch.
 - [Adeena](../PCs/Adeena%20Oberon.md) discloses that she plans to go alone later. She and the [party](../Factions/Seven%20Up....md) discusses a plan of action.
 - [Thoradin](../PCs/Thoradin%20Goodman.md), [Theobald](../PCs/Theobald%20Clayhollow.md) and [Kiris](../PCs/Kiris%20Acquermann.md) helps with the construction of the airship.
 - [Adikia](../PCs/Adikia%20Unalome.md) tracks the guard who gave [Djorken](../../Djorken%20Veegar.md) the letter.
@@ -38,7 +38,7 @@ icon: calendar
 - [Kayvan](../../Kayvan%20Acquermann.md) pleads [Adeena](../PCs/Adeena%20Oberon.md) to accompany her. [Kiris](../PCs/Kiris%20Acquermann.md) hears this, and asks [Adeena](../PCs/Adeena%20Oberon.md) if he could tag along. 
 - [Adikia](../PCs/Adikia%20Unalome.md) asks [Michaela](../../Michaela%20Randall.md) about [Noah](../PCs/Noah%20Skie.md)'s whereabouts. [Michaela](../../Michaela%20Randall.md) says that they parted late last night.
 - [Michaela](../../Michaela%20Randall.md) asks if [Noah](../PCs/Noah%20Skie.md)'s disappearances is normal. [Adikia](../PCs/Adikia%20Unalome.md) says yes, and she must not be concerned. [Michaela](../../Michaela%20Randall.md) tells [Adikia](../PCs/Adikia%20Unalome.md) that the [party](../Factions/Seven%20Up....md) can ask for her help in finding [Noah](../PCs/Noah%20Skie.md).
-- [Mitarella](../../Mitarella%20Randall.md), [Kirren](../../Kirren%20Acquermann.md) and [Remus](../../Remus%20Kyp.md) bid their goodbye and return to [Ankyra's Old Castle Compound](../Locations/Buildings/Ankyra's%20Old%20Castle%20Compound.md).
+- [Mitarella](../../Mitarella%20Randall.md), [Kirren](../NPCs/Kirren%20Acquermann.md) and [Remus](../../Remus%20Kyp.md) bid their goodbye and return to [Ankyra's Old Castle Compound](../Locations/Buildings/Ankyra's%20Old%20Castle%20Compound.md).
 ## [Adeena](../PCs/Adeena%20Oberon.md)'s Meeting with [Kayriel](../../Kayriel%20Acquermann.md)
 ### A secretive meeting
 - The [party](../Factions/Seven%20Up....md) prepares for [Adeena](../PCs/Adeena%20Oberon.md)'s excursion. [Kayvan](../../Kayvan%20Acquermann.md), [Kiris](../PCs/Kiris%20Acquermann.md) and [Arc](../PCs/Arc.md) will observe the meeting.
