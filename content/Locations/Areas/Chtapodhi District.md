@@ -30,7 +30,6 @@ Clan [Ironfleet](../../../Ironfleet%20Clan.md) oversees the district. [Shemance 
 # Notable NPCs
 | Name                                               |
 | -------------------------------------------------- |
-| [Gandour Ironfleet](../../../Gandour%20Ironfleet.md)   |
 | [Shemance Ironfleet](../../../Shemance%20Ironfleet.md) |
 
 # Factions
