@@ -31,7 +31,7 @@ icon: calendar
 - [Theobald](../PCs/Theobald%20Clayhollow.md) gives the Shadow Sigil to [Kiris](../PCs/Kiris%20Acquermann.md).
 - [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) shares that [Elvin](../../Elvin%20Claymore.md) and other members of [cult](../../The%20Cult%20of%20Miledu.md) probably used the teleportation circle to raid the [Hall of Akenatun](../Locations/Buildings/Hall%20of%20Akenatun.md).
 - The [Shadow Knight](../../Shadow%20Knight.md) divulges the identities of the previous visitors of the hall who stole the [Scepter of Akenatun](../../Scepter%20of%20Akenatun.md) by mimicking their faces.
-- The [party](../Factions/Seven%20Up....md) identifies the two of the three interlopers, [Elvin Claymore](../../Elvin%20Claymore.md) and [Rickard Kyp](../../Rickard%20Kyp.md).
+- The [party](../Factions/Seven%20Up....md) identifies the two of the three interlopers, [Elvin Claymore](../../Elvin%20Claymore.md) and [Rickard Kyp](../NPCs/Rickard%20Kyp.md).
 ## [Zerrus Zagi](../Lore/Mythical%20Heroes/Zerrus%20Zagi.md) and [Spekid Frostborn](../Lore/Mythical%20Heroes/Spekid%20Frostborn.md)
 - Apparitions of [Zerrus Zagi](../Lore/Mythical%20Heroes/Zerrus%20Zagi.md) and [Spekid Frostborn](../Lore/Mythical%20Heroes/Spekid%20Frostborn.md) appears in front of the [party](../Factions/Seven%20Up....md).
 - [Zerrus Zagi](../Lore/Mythical%20Heroes/Zerrus%20Zagi.md) and [Spekid Frostborn](../Lore/Mythical%20Heroes/Spekid%20Frostborn.md) imparts their power to [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) and [Kiris](../PCs/Kiris%20Acquermann.md) through the [Ymerald Staff](../Items/Mythic%20Items/Ymerald%20Staff.md) and the [Frostborn Armor](../Items/Mythic%20Items/Frostborn%20Armor.md).
