@@ -48,8 +48,6 @@ The contents of the box left [Kiris](Kiris%20Acquermann.md) with more questions 
 - Mother: [Sera](../../Sera.md)
 # Story log
 ## Most Recent
-- [Session 48](../Session%20Log/Session%2048.md): [Kirren](Kirren%20Acquermann.md) asks [Arc](Arc.md) where to find [Kiris](Kiris%20Acquermann.md) and [Kayvan](Kayvan%20Acquermann.md); [Arc](Arc.md) supplies their location.
-- [Session 48](../Session%20Log/Session%2048.md): [Kiris](Kiris%20Acquermann.md) prepares a breakfast of bacon and eggs, bread, and hot chocolate for two. He plans to talk to [Kayvan](Kayvan%20Acquermann.md).
 - [Session 48](../Session%20Log/Session%2048.md): On the way to [Kayvan](Kayvan%20Acquermann.md)'s room, [Kiris](Kiris%20Acquermann.md) meets [Kirren](Kirren%20Acquermann.md). [Kirren](Kirren%20Acquermann.md) invites [Kiris](Kiris%20Acquermann.md), and later [Kayvan](Kayvan%20Acquermann.md), to a personal conversation.
 - [Session 48](../Session%20Log/Session%2048.md): [Kirren](Kirren%20Acquermann.md) explains to [Kiris](Kiris%20Acquermann.md) that the 9th of Zagi is a special date to her. She commemorates the anniversary of [Kristofer](Kristofer%20Acquermann.md)'s disappearance on this day.
 - [Session 48](../Session%20Log/Session%2048.md): It appears to [Kiris](Kiris%20Acquermann.md) that [Kirren](Kirren%20Acquermann.md) has accepted their father's absence. [Kiris](Kiris%20Acquermann.md) shares that he is still hopeful that their father is still alive; [Kirren](Kirren%20Acquermann.md) is grateful for [Kiris](Kiris%20Acquermann.md)' optimism.
@@ -58,6 +56,8 @@ The contents of the box left [Kiris](Kiris%20Acquermann.md) with more questions 
 - [Session 49](../Session%20Log/Session%2049.md): Back in [Ironfleet Compound](Ironfleet%20Compound.md), [Noah](Noah%20Skie.md), [Kiris](Kiris%20Acquermann.md) and [Thoradin](Thoradin%20Goodman.md) wake up and find the other members of their [[Seven Up...|party]] gone.
 - [Session 49](../Session%20Log/Session%2049.md): [Noah](Noah%20Skie.md), [Kiris](Kiris%20Acquermann.md) and [Thoradin](Thoradin%20Goodman.md) see movement on the floating [[Yvernus District|Yvernus]]. They see a dragon fly out of it, and descend down into [Ankyra](Ankyra%20District.md).
 - [Session 49](../Session%20Log/Session%2049.md): [Kirren](Kirren%20Acquermann.md) decides to check on the situation. [Thoradin](Thoradin%20Goodman.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) decide to stay to defend the airship.
+- [Session 50](../Session%20Log/Session%2050.md): [Kiris](Kiris%20Acquermann.md) wins the competition. The airship is formally named as the [Bloated Dragon](Bloated%20Dragon.md).
+- [Session 50](../Session%20Log/Session%2050.md): [Thoradin](Thoradin%20Goodman.md) sees an abnormal phenomenon: the seawater rising like a hill. The [[Seven Up...|party]] checks and sees that the hill is actually the roof of a marble structure. Upon investigating, [Kiris](Kiris%20Acquermann.md) confirms that the magic must have been cast on the structure to hide it.
 
 ## All Entries
 - [Session 6](../../Session%206.md): Masked member of [Miledu](Miledu.md)'s cult attack [Kiris Acquermann](Kiris%20Acquermann.md)
@@ -123,3 +123,5 @@ The contents of the box left [Kiris](Kiris%20Acquermann.md) with more questions 
 - [Session 49](../Session%20Log/Session%2049.md): Back in [Ironfleet Compound](Ironfleet%20Compound.md), [Noah](Noah%20Skie.md), [Kiris](Kiris%20Acquermann.md) and [Thoradin](Thoradin%20Goodman.md) wake up and find the other members of their [[Seven Up...|party]] gone.
 - [Session 49](../Session%20Log/Session%2049.md): [Noah](Noah%20Skie.md), [Kiris](Kiris%20Acquermann.md) and [Thoradin](Thoradin%20Goodman.md) see movement on the floating [[Yvernus District|Yvernus]]. They see a dragon fly out of it, and descend down into [Ankyra](Ankyra%20District.md).
 - [Session 49](../Session%20Log/Session%2049.md): [Kirren](Kirren%20Acquermann.md) decides to check on the situation. [Thoradin](Thoradin%20Goodman.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) decide to stay to defend the airship.
+- [Session 50](../Session%20Log/Session%2050.md): [Kiris](Kiris%20Acquermann.md) wins the competition. The airship is formally named as the [Bloated Dragon](Bloated%20Dragon.md).
+- [Session 50](../Session%20Log/Session%2050.md): [Thoradin](Thoradin%20Goodman.md) sees an abnormal phenomenon: the seawater rising like a hill. The [[Seven Up...|party]] checks and sees that the hill is actually the roof of a marble structure. Upon investigating, [Kiris](Kiris%20Acquermann.md) confirms that the magic must have been cast on the structure to hide it.
