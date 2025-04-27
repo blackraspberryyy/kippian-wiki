@@ -24,8 +24,8 @@ icon: faction
 ## Known Members
 | Name                         |
 | ---------------------------- |
-| [Olrac](../NPCs/Olrac.md)     |
 | [Nos-Aji](../NPCs/Nos-Aji.md) |
+| [Olrac](../NPCs/Olrac.md)     |
 
 # Goals
 - [ ] Task 1
