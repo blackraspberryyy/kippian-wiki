@@ -25,8 +25,9 @@ The district's interests are represented by [United Kippian](../Kingdoms/Kingdom
 
 Due to the [Assault on Asteri](../../../Assault%20on%20Asteri.md), the district is destroyed, marking an end of [Kippian](../Kingdoms/Kingdom%20of%20United%20Kippian.md)'s stability.
 # Notable Locations
-| Name |
-| ---- |
+| Name                                                                |
+| ------------------------------------------------------------------- |
+| [Kippian Royal Court](../Buildings/Kippian%20Royal%20Court.md) |
 
 # Notable NPCs
 | Name                                 |
