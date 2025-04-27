@@ -24,7 +24,7 @@ icon: lore
 ## Current Passengers
 - [Party](../Factions/Seven%20Up....md)
 - [Gandour](../../Gandour%20Ironfleet.md)
-- 
+- 2 Engineers
 # Story Log
 ## Most Recent
 - [Session 50](../Session%20Log/Session%2050.md): [Kiris](Kiris%20Acquermann.md) wins the competition. The airship is formally named as the [Bloated Dragon](Bloated%20Dragon.md).

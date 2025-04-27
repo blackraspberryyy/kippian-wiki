@@ -1,24 +1,23 @@
 ---
 share: true
 aliases: 
-location: "[[Bulkip]]"
+location: "[[Aetos District]]"
 status: 
 lore_type: location
 icon: building
 ---
 # Basic Information
 > [!infobox]
-> # Bulwicke Theater
+> # Aetos Park Gardens
 > ![cover hsmall](insertimage.png)
 > ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Type | 
-> | Located in | [Bulkip](../Settlements/Bulkip.md)|
+> | Located in | [Aetos District](../Areas/Aetos%20District.md)|
 ## Description
-
-![Theater](https://content.encounterkit.com/cdn-cgi/image/width=1920,quality=75,format=auto/https://content.encounterkit.com/map/preview/28092f7c97071f7dcd94509ee03efbde.webp)
+![gardens](https://content.encounterkit.com/cdn-cgi/image/width=1920,quality=75,format=auto/https://content.encounterkit.com/map/preview/2d5a385de4176c9041d5e1ab408ba387.webp)
 # Notable Locations
 | Name |
 | ---- |
