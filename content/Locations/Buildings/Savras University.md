@@ -19,6 +19,7 @@ icon: building
 > | Located in | [Effil](../Settlements/Effil.md)|
 #### Known for:
 ## Description
+![Savras University](https://jamesrpgart.com/wp-content/uploads/2025/01/Magic-Classroom-Night.gif)
 # Notable Locations
 | Name |
 | ---- |
