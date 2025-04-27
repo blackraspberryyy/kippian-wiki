@@ -8,6 +8,7 @@ icon: settlement
 ---
 # Basic Info
 - Etymology: 'Cur' from Enchor Curkip
+- ![Curkip](https://content.encounterkit.com/cdn-cgi/image/width=1920,quality=75,format=auto/https://content.encounterkit.com/map/preview/9f241d5b8f1b1a1c64027fab105dad18.webp)
 > *"Ahh Curkip. There are troubles, yet there is peace. If I were to start any adventure, it should probably be here."*
 > 	- [Nos-Aji](../../NPCs/Nos-Aji.md), handler of Curkip's thieves guild.
 > 
