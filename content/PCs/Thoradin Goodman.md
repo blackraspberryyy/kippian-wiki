@@ -68,7 +68,6 @@ The grim scene left [Thoradin](Thoradin%20Goodman.md) with enormous guilt. The d
 - Childhood friend: [Elix Claymore](../../Elix%20Claymore.md)
 # Story log
 ## Most Recent
-- [Session 47](../Session%20Log/Session%2047.md): [Thoradin](Thoradin%20Goodman.md) prepares and casts Zone of Truth. [Raveena](Raveena%20Malandar.md) fails.
 - [Session 48](../Session%20Log/Session%2048.md): The [[Seven Up...|party]] is washed ashore; [Thoradin](Thoradin%20Goodman.md) draws the inhaled seawater from [Adikia](Adikia%20Unalome.md)'s lungs.
 - [Session 48](../Session%20Log/Session%2048.md): The creature throws [Adeena](Adeena%20Oberon.md) into the sea. Out of options, [Thoradin](Thoradin%20Goodman.md) casts a Fireball from his [Bloodstone Arcane Gem](Bloodstone%20Arcane%20Gem.md). The creature explodes, but not without creating a significant damage to the party.
 - [Session 48](../Session%20Log/Session%2048.md): The [[Seven Up...|party]] decides to walk back to the [Ironfleet Compound](Ironfleet%20Compound.md). [Thoradin](Thoradin%20Goodman.md) casts Find Steed, and he and [Noah](Noah%20Skie.md) rushes back.
@@ -78,6 +77,7 @@ The grim scene left [Thoradin](Thoradin%20Goodman.md) with enormous guilt. The d
 - [Session 49](../Session%20Log/Session%2049.md): Back in [Ironfleet Compound](Ironfleet%20Compound.md), [Noah](Noah%20Skie.md), [Kiris](Kiris%20Acquermann.md) and [Thoradin](Thoradin%20Goodman.md) wake up and find the other members of their [[Seven Up...|party]] gone.
 - [Session 49](../Session%20Log/Session%2049.md): [Noah](Noah%20Skie.md), [Kiris](Kiris%20Acquermann.md) and [Thoradin](Thoradin%20Goodman.md) see movement on the floating [Yvernus](Yvernus%20District.md). They see a dragon fly out of it, and descend down into [Ankyra](Ankyra%20District.md).
 - [Session 49](../Session%20Log/Session%2049.md): [Kirren](Kirren%20Acquermann.md) decides to check on the situation. [Thoradin](Thoradin%20Goodman.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) decide to stay to defend the airship.
+- [Session 50](../Session%20Log/Session%2050.md): [Thoradin](Thoradin%20Goodman.md) sees an abnormal phenomenon: the seawater rising like a hill. The [[Seven Up...|party]] checks and sees that the hill is actually the roof of a marble structure. Upon investigating, [Kiris](Kiris%20Acquermann.md) confirms that the magic must have been cast on the structure to hide it.
 
 ## All Entries
 - [Session 13](../../Session%2013.md): [Thoradin](Thoradin%20Goodman.md) fought a few guards. He manages to gain the guards' respect.
@@ -117,3 +117,4 @@ The grim scene left [Thoradin](Thoradin%20Goodman.md) with enormous guilt. The d
 - [Session 49](../Session%20Log/Session%2049.md): Back in [Ironfleet Compound](Ironfleet%20Compound.md), [Noah](Noah%20Skie.md), [Kiris](Kiris%20Acquermann.md) and [Thoradin](Thoradin%20Goodman.md) wake up and find the other members of their [[Seven Up...|party]] gone.
 - [Session 49](../Session%20Log/Session%2049.md): [Noah](Noah%20Skie.md), [Kiris](Kiris%20Acquermann.md) and [Thoradin](Thoradin%20Goodman.md) see movement on the floating [Yvernus](Yvernus%20District.md). They see a dragon fly out of it, and descend down into [Ankyra](Ankyra%20District.md).
 - [Session 49](../Session%20Log/Session%2049.md): [Kirren](Kirren%20Acquermann.md) decides to check on the situation. [Thoradin](Thoradin%20Goodman.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) decide to stay to defend the airship.
+- [Session 50](../Session%20Log/Session%2050.md): [Thoradin](Thoradin%20Goodman.md) sees an abnormal phenomenon: the seawater rising like a hill. The [[Seven Up...|party]] checks and sees that the hill is actually the roof of a marble structure. Upon investigating, [Kiris](Kiris%20Acquermann.md) confirms that the magic must have been cast on the structure to hide it.
