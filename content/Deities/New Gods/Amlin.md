@@ -23,8 +23,10 @@ icon: lore
 # Lore Mentions
 ## Most Recent
 - [Session 49](../../Session%20Log/Session%2049.md): The [party](Seven%20Up....md) meets [Adikia](Adikia%20Unalome.md). They enter the chapel, which turns out to be the [Chapel of Amlin](Chapel%20of%20Amlin.md).
-- [Session 49](../../Session%20Log/Session%2049.md): [Father Drenn](Drenn%20Halyx.md) blesses the party with the following phrase: "May you be guided by the light of [Amlin](Amlin.md)."
+- [Session 49](../../Session%20Log/Session%2049.md): [Father Drenn](Drenn%20Halyx.md) blesses the party with the following phrase:
+> *"May you be guided by the light of [Amlin](Amlin.md)."*
 
 ## All Entries
 - [Session 49](../../Session%20Log/Session%2049.md): The [party](Seven%20Up....md) meets [Adikia](Adikia%20Unalome.md). They enter the chapel, which turns out to be the [Chapel of Amlin](Chapel%20of%20Amlin.md).
-- [Session 49](../../Session%20Log/Session%2049.md): [Father Drenn](Drenn%20Halyx.md) blesses the party with the following phrase: "May you be guided by the light of [Amlin](Amlin.md)."
+- [Session 49](../../Session%20Log/Session%2049.md): [Father Drenn](Drenn%20Halyx.md) blesses the party with the following phrase:
+> *"May you be guided by the light of [Amlin](Amlin.md)."*

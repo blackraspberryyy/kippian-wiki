@@ -56,6 +56,7 @@ Choose one enemy creature affected by Golden Allure. You can use your action to 
 - [Session 41](../../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
 - [Session 41](../../Session%20Log/Session%2041.md): [Adikia](Adikia%20Unalome.md) asks the casters about the lore of her [Aureate Rapier](Aureate%20Rapier.md).
 > *"The [Aureate Rapier](Aureate%20Rapier.md) was a ceremonial rapier passed down to the heirs of [United Kippian](Kingdom%20of%20United%20Kippian.md). Its hidden power is made known only through [Prince Azir](Azir%20Kyp.md)'s daring adventures."*
+- [Session 51](../../Session%20Log/Session%2051.md): [Adikia](Adikia%20Unalome.md) successfully offers only a piece of her [Aureate Rapier](Aureate%20Rapier.md).
 
 ## All Entries
 - [Session 31](../../../Session%2031.md): [Splix](Spraugh%20'Splix'%20Calix.md) realizes that the [party](Seven%20Up....md) is not allured by the [Aureate Rapier](Aureate%20Rapier.md) wielded by [Remus Kyp](Remus%20Kyp.md).
@@ -66,4 +67,5 @@ Choose one enemy creature affected by Golden Allure. You can use your action to 
 - [Session 41](../../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
 - [Session 41](../../Session%20Log/Session%2041.md): [Adikia](Adikia%20Unalome.md) asks the casters about the lore of her [Aureate Rapier](Aureate%20Rapier.md).
 > *"The [Aureate Rapier](Aureate%20Rapier.md) was a ceremonial rapier passed down to the heirs of [United Kippian](Kingdom%20of%20United%20Kippian.md). Its hidden power is made known only through [Prince Azir](Azir%20Kyp.md)'s daring adventures."*
+- [Session 51](../../Session%20Log/Session%2051.md): [Adikia](Adikia%20Unalome.md) successfully offers only a piece of her [Aureate Rapier](Aureate%20Rapier.md).
 

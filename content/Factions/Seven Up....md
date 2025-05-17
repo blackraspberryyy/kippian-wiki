@@ -28,44 +28,28 @@ icon: player
 | [Adeena Oberon](../PCs/Adeena%20Oberon.md)                 |
 | [Adikia Unalome](../PCs/Adikia%20Unalome.md)               |
 | [Arc](../PCs/Arc.md)                                     |
-| [Astar](../PCs/Companions/Astar.md)                      |
-| [Nokia](../PCs/Companions/Nokia.md)                      |
 | [Kiris Acquermann](../PCs/Kiris%20Acquermann.md)           |
 | [Noah Skie](../PCs/Noah%20Skie.md)                         |
-| [Spraugh 'Splix' Calix](../PCs/Spraugh%20'Splix'%20Calix.md) |
+| [Astar](../PCs/Companions/Astar.md)                      |
+| [Nokia](../PCs/Companions/Nokia.md)                      |
 | [Theobald Clayhollow](../PCs/Theobald%20Clayhollow.md)     |
+| [Spraugh 'Splix' Calix](../PCs/Spraugh%20'Splix'%20Calix.md) |
 | [Thoradin Goodman](../PCs/Thoradin%20Goodman.md)           |
 
 # Goals
 - [ ] Task 1
 # Story log
 ## Most Recent
-- [Session 49](../Session%20Log/Session%2049.md): The [party](Seven%20Up....md) meets [Adikia](Adikia%20Unalome.md). They enter the chapel, which turns out to be the [Chapel of Amlin](Chapel%20of%20Amlin.md).
-- [Session 49](../Session%20Log/Session%2049.md): Back in [Ironfleet Compound](Ironfleet%20Compound.md), [Noah](Noah%20Skie.md), [Kiris](Kiris%20Acquermann.md) and [Thoradin](Thoradin%20Goodman.md) wake up and find the other members of their [party](Seven%20Up....md) gone.
-- [Session 50](../Session%20Log/Session%2050.md): [Gandour](Gandour%20Ironfleet.md) and the [party](Seven%20Up....md) decide to continue the trial run of the airship later in the afternoon. He asks the [party](Seven%20Up....md) to suggest some names for the airship. To make things more interesting (and uplift the party's spirits), [Gandour](Gandour%20Ironfleet.md) holds a naming competition of the airship.
-- [Session 50](../Session%20Log/Session%2050.md): The [party](Seven%20Up....md) inspects the [Bloated Dragon](Bloated%20Dragon.md)'s decks.
-- [Session 50](../Session%20Log/Session%2050.md): Just as the [party](Seven%20Up....md) is about to ride the [Bloated Dragon](Bloated%20Dragon.md), [Splix](Spraugh%20'Splix'%20Calix.md) returns bearing a message from [Savras University](Savras%20University.md) about [Professor Embersense](Dorfir%20Embersense.md)'s location. [Professor Embersense](Dorfir%20Embersense.md) and his apprentice, [Fiamil](Fiamil%20Underwood.md), are currently researching an ancient structure resurfacing from the sea. [Splix](Spraugh%20'Splix'%20Calix.md) suggests a destination to [Gandour](Gandour%20Ironfleet.md), and the latter accepts.
-- [Session 50](../Session%20Log/Session%2050.md): The flight proves uneventful, which was good news to the [party](Seven%20Up....md). However, the [Bloated Dragon](Bloated%20Dragon.md) is slow.
-- [Session 50](../Session%20Log/Session%2050.md): Upon arriving at the destination, [Gandour](Gandour%20Ironfleet.md) and the [party](Seven%20Up....md) could not find the ruins. [Splix](Spraugh%20'Splix'%20Calix.md) uses a spyglass to check for ruins; he finds a shallow sandbar that they can land on.
-- [Session 50](../Session%20Log/Session%2050.md): [Thoradin](Thoradin%20Goodman.md) sees an abnormal phenomenon: the seawater rising like a hill. The [party](Seven%20Up....md) checks and sees that the hill is actually the roof of a marble structure. Upon investigating, [Kiris](Kiris%20Acquermann.md) confirms that the magic must have been cast on the structure to hide it.
-- [Session 50](../Session%20Log/Session%2050.md): The [party](Seven%20Up....md) descends the fifteen-foot rise and comes to see the structure's doors. In front of it is an arena with 8x8 checkered squares.
-- [Session 50](../Session%20Log/Session%2050.md): The [party](Seven%20Up....md) reads the inscription on the door:
-> THE QUEEN'S GAMBIT
->
-TO ENTER MY LIBRARY, YOU MUST FIRST DEFEAT ME
-IN A BATTLE BETWEEN LIGHT AND DARK;
-MY QUEEN WILL PLAY FOR THE LIGHT OF KNOWLEDGE,
-AND YOUR KING SHOULD CHOOSE YOUR DARKENED KNIGHTS.
->
-LET YOUR KNIGHTS RETRIEVE THE DARKENED BLADES,
-SO YOUR KING HAS A SWORD CROWN TO BEAR;
-ONLY THEN YOU CAN ENTER THE SQUARED BATTLEFIELD
-AND UNDERTAKE MY PRECARIOUS DARE.
->
-YOUR DEFEAT WILL YIELD DEMISE
-SO YOUR KNIGHTS MUST PROFESS THEIR MIGHT.
-IF YOU WIN, I’LL PERMIT YOU TO RISE,
-AND THY DARKENED SOULS I WOULD ENLIGHT.
+- [Session 51](../Session%20Log/Session%2051.md): [Adikia](Adikia%20Unalome.md) and [Adeena](Adeena%20Oberon.md) investigates the statue on the northeastern part of the [Library](Sunken%20Library.md) that is surrounded by shelves. The statue depicts of a celestial defeating a devil-like entity. [Adeena](Adeena%20Oberon.md) thinks that the celestial creature resembles the Annatars they once met. The symbols on the devil are similar to those they saw when the [party](Seven%20Up....md) encountered [Auriel Furwish](Auriel%20Furwish.md) in Calyxius' lair.
+- [Session 51](../Session%20Log/Session%2051.md): The [party](Seven%20Up....md) meets [Dorfir Embersense](Dorfir%20Embersense.md) and [Fiamil Underwood](Fiamil%20Underwood.md). The [party](Seven%20Up....md) updates the two on what happened during the two weeks they are researching inside the [Library](Sunken%20Library.md).
+- [Session 51](../Session%20Log/Session%2051.md): [Adeena](Adeena%20Oberon.md) asks [Dorfir Embersense](Dorfir%20Embersense.md) about a spell that could protect the [Bloated Dragon](Bloated%20Dragon.md) from magical attacks. [Dorfir Embersense](Dorfir%20Embersense.md) recalls that an artifact of sorts protects [Asteri District](Asteri%20District.md). The [party](Seven%20Up....md) informs him that the district is devastated during the [Assault on Asteri](Assault%20on%20Asteri%20and%20Unbinding%20of%20Yvernus.md).
+- [Session 51](../Session%20Log/Session%2051.md): The [party](Seven%20Up....md) checks the pillars. The two riddles are now blank; only the third riddle remains.
+- [Session 51](../Session%20Log/Session%2051.md): [Theobald](Theobald%20Clayhollow.md) solves the last riddle. A hole appears on the floor and the [party](Seven%20Up....md) is sucked into it. [Dorfir](Dorfir%20Embersense.md) remains on the floor.
+- [Session 51](../Session%20Log/Session%2051.md): The [party](Seven%20Up....md) meets a decaying, seemingly undead sphinx. They see the unconscious bodies of [Splix](Spraugh%20'Splix'%20Calix.md) and [Fiamil](Fiamil%20Underwood.md) on the ground.
+- [Session 51](../Session%20Log/Session%2051.md): The sphinx asks each member of the [party](Seven%20Up....md) to exchange their [Mythic Items](Mythic%20Items.md) for their freedom.
+- [Session 51](../Session%20Log/Session%2051.md): Unwilling to give up their items, the [party](Seven%20Up....md) fights the sphinx.
+- [Session 51](../Session%20Log/Session%2051.md): Backed into a corner, the sphinx collapses the structure. The [party](Seven%20Up....md) attempts to escape.
+- [Session 51](../Session%20Log/Session%2051.md): The [party](Seven%20Up....md) realizes that the [Bloated Dragon](Bloated%20Dragon.md) is nowhere to be found.
 
 ## All Entries
 - [Session 1](../../Session%201.md): [Ridnor](Ridnor.md) visits [Bulkip](Bulkip.md) and informs the [party](Seven%20Up....md) of the house arrangements
@@ -248,24 +232,50 @@ Someone broke into the royal chambers... The guards are not saying anything. I'm
 - [Session 50](../Session%20Log/Session%2050.md): [Gandour](Gandour%20Ironfleet.md) and the [party](Seven%20Up....md) decide to continue the trial run of the airship later in the afternoon. He asks the [party](Seven%20Up....md) to suggest some names for the airship. To make things more interesting (and uplift the party's spirits), [Gandour](Gandour%20Ironfleet.md) holds a naming competition of the airship.
 - [Session 50](../Session%20Log/Session%2050.md): The [party](Seven%20Up....md) inspects the [Bloated Dragon](Bloated%20Dragon.md)'s decks.
 - [Session 50](../Session%20Log/Session%2050.md): Just as the [party](Seven%20Up....md) is about to ride the [Bloated Dragon](Bloated%20Dragon.md), [Splix](Spraugh%20'Splix'%20Calix.md) returns bearing a message from [Savras University](Savras%20University.md) about [Professor Embersense](Dorfir%20Embersense.md)'s location. [Professor Embersense](Dorfir%20Embersense.md) and his apprentice, [Fiamil](Fiamil%20Underwood.md), are currently researching an ancient structure resurfacing from the sea. [Splix](Spraugh%20'Splix'%20Calix.md) suggests a destination to [Gandour](Gandour%20Ironfleet.md), and the latter accepts.
+- [Session 50](../Session%20Log/Session%2050.md): For the test flight, the [party](Seven%20Up....md) is accompanied by [Gandour](Gandour%20Ironfleet.md) and two engineers.
 - [Session 50](../Session%20Log/Session%2050.md): The flight proves uneventful, which was good news to the [party](Seven%20Up....md). However, the [Bloated Dragon](Bloated%20Dragon.md) is slow.
 - [Session 50](../Session%20Log/Session%2050.md): Upon arriving at the destination, [Gandour](Gandour%20Ironfleet.md) and the [party](Seven%20Up....md) could not find the ruins. [Splix](Spraugh%20'Splix'%20Calix.md) uses a spyglass to check for ruins; he finds a shallow sandbar that they can land on.
 - [Session 50](../Session%20Log/Session%2050.md): [Thoradin](Thoradin%20Goodman.md) sees an abnormal phenomenon: the seawater rising like a hill. The [party](Seven%20Up....md) checks and sees that the hill is actually the roof of a marble structure. Upon investigating, [Kiris](Kiris%20Acquermann.md) confirms that the magic must have been cast on the structure to hide it.
-- [Session 50](../Session%20Log/Session%2050.md): The [party](Seven%20Up....md) descends the fifteen-foot rise and comes to see the structure's doors. In front of it is an arena with 8x8 checkered squares.
+- [Session 50](../Session%20Log/Session%2050.md): The [party](Seven%20Up....md) descends the fifteen-foot rise and comes to see the structure's doors. In front of it is an arena with 8x8 checkered squares. On it are broken chess pieces. The [party](Seven%20Up....md) cannot enter the arena as it is enveloped by a magical force field.
 - [Session 50](../Session%20Log/Session%2050.md): The [party](Seven%20Up....md) reads the inscription on the door:
 > THE QUEEN'S GAMBIT
 >
-TO ENTER MY LIBRARY, YOU MUST FIRST DEFEAT ME
-IN A BATTLE BETWEEN LIGHT AND DARK;
-MY QUEEN WILL PLAY FOR THE LIGHT OF KNOWLEDGE,
-AND YOUR KING SHOULD CHOOSE YOUR DARKENED KNIGHTS.
+> TO ENTER MY LIBRARY, YOU MUST FIRST DEFEAT ME
 >
-LET YOUR KNIGHTS RETRIEVE THE DARKENED BLADES,
-SO YOUR KING HAS A SWORD CROWN TO BEAR;
-ONLY THEN YOU CAN ENTER THE SQUARED BATTLEFIELD
-AND UNDERTAKE MY PRECARIOUS DARE.
+> IN A BATTLE BETWEEN LIGHT AND DARK;
 >
-YOUR DEFEAT WILL YIELD DEMISE
-SO YOUR KNIGHTS MUST PROFESS THEIR MIGHT.
-IF YOU WIN, I’LL PERMIT YOU TO RISE,
-AND THY DARKENED SOULS I WOULD ENLIGHT.
+> MY QUEEN WILL PLAY FOR THE LIGHT OF KNOWLEDGE,
+>
+> AND YOUR KING SHOULD CHOOSE YOUR DARKENED KNIGHTS.
+>
+> LET YOUR KNIGHTS RETRIEVE THE DARKENED BLADES,
+>
+> SO YOUR KING HAS A SWORD CROWN TO BEAR;
+>
+> ONLY THEN YOU CAN ENTER THE SQUARED BATTLEFIELD
+>
+> AND UNDERTAKE MY PRECARIOUS DARE.
+>
+> YOUR DEFEAT WILL YIELD DEMISE
+>
+> SO YOUR KNIGHTS MUST PROFESS THEIR MIGHT.
+>
+> IF YOU WIN, I’LL PERMIT YOU TO RISE,
+>
+> AND THY DARKENED SOULS I WOULD ENLIGHT.
+- [Session 50](../Session%20Log/Session%2050.md): Each member of the [party](Seven%20Up....md) except [Kiris](Kiris%20Acquermann.md) spots a Darkened Blade underneath the sands.
+- [Session 50](../Session%20Log/Session%2050.md): The [party](Seven%20Up....md) solves the puzzle and finds the Darkened Crown. [Kiris](Kiris%20Acquermann.md) wears the Darkened crown.
+- [Session 50](../Session%20Log/Session%2050.md): [Kiris](Kiris%20Acquermann.md) enters the arena; other members of the [party](Seven%20Up....md) can now enter as well.
+- [Session 50](../Session%20Log/Session%2050.md): The [party](Seven%20Up....md) defeats the queen piece and they solve the game. The ancient structure's doors open.
+- [Session 51](../Session%20Log/Session%2051.md): The [party](Seven%20Up....md) enters and see a dated [Library](Sunken%20Library.md). The shelves are filled with scrolls, but they use primordial script.
+- [Session 51](../Session%20Log/Session%2051.md): [Splix](Spraugh%20'Splix'%20Calix.md) casts Comprehend Languages. Other members of the [party](Seven%20Up....md) explore the [Library](Sunken%20Library.md).
+- [Session 51](../Session%20Log/Session%2051.md): [Adikia](Adikia%20Unalome.md) and [Adeena](Adeena%20Oberon.md) investigates the statue on the northeastern part of the [Library](Sunken%20Library.md) that is surrounded by shelves. The statue depicts of a celestial defeating a devil-like entity. [Adeena](Adeena%20Oberon.md) thinks that the celestial creature resembles the Annatars they once met. The symbols on the devil are similar to those they saw when the [party](Seven%20Up....md) encountered [Auriel Furwish](Auriel%20Furwish.md) in Calyxius' lair.
+- [Session 51](../Session%20Log/Session%2051.md): The [party](Seven%20Up....md) meets [Dorfir Embersense](Dorfir%20Embersense.md) and [Fiamil Underwood](Fiamil%20Underwood.md). The [party](Seven%20Up....md) updates the two on what happened during the two weeks they are researching inside the [Library](Sunken%20Library.md).
+- [Session 51](../Session%20Log/Session%2051.md): [Adeena](Adeena%20Oberon.md) asks [Dorfir Embersense](Dorfir%20Embersense.md) about a spell that could protect the [Bloated Dragon](Bloated%20Dragon.md) from magical attacks. [Dorfir Embersense](Dorfir%20Embersense.md) recalls that an artifact of sorts protects [Asteri District](Asteri%20District.md). The [party](Seven%20Up....md) informs him that the district is devastated during the [Assault on Asteri](Assault%20on%20Asteri%20and%20Unbinding%20of%20Yvernus.md).
+- [Session 51](../Session%20Log/Session%2051.md): The [party](Seven%20Up....md) checks the pillars. The two riddles are now blank; only the third riddle remains.
+- [Session 51](../Session%20Log/Session%2051.md): [Theobald](Theobald%20Clayhollow.md) solves the last riddle. A hole appears on the floor and the [party](Seven%20Up....md) is sucked into it. [Dorfir](Dorfir%20Embersense.md) remains on the floor.
+- [Session 51](../Session%20Log/Session%2051.md): The [party](Seven%20Up....md) meets a decaying, seemingly undead sphinx. They see the unconscious bodies of [Splix](Spraugh%20'Splix'%20Calix.md) and [Fiamil](Fiamil%20Underwood.md) on the ground.
+- [Session 51](../Session%20Log/Session%2051.md): The sphinx asks each member of the [party](Seven%20Up....md) to exchange their [Mythic Items](Mythic%20Items.md) for their freedom.
+- [Session 51](../Session%20Log/Session%2051.md): Unwilling to give up their items, the [party](Seven%20Up....md) fights the sphinx.
+- [Session 51](../Session%20Log/Session%2051.md): Backed into a corner, the sphinx collapses the structure. The [party](Seven%20Up....md) attempts to escape.
+- [Session 51](../Session%20Log/Session%2051.md): The [party](Seven%20Up....md) realizes that the [Bloated Dragon](Bloated%20Dragon.md) is nowhere to be found.

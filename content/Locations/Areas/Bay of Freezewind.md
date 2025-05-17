@@ -19,8 +19,9 @@ icon: map
 #### Known for:
 ## Description
 # Notable Locations
-| Name |
-| ---- |
+| Name                                                      |
+| --------------------------------------------------------- |
+| [Sunken Library](../Buildings/Sunken%20Library.md) |
 
 # Notable NPCs
 | Name |

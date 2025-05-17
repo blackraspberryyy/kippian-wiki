@@ -28,8 +28,8 @@ icon: building
 | Name                                             |
 | ------------------------------------------------ |
 | [Aufel Fernquill](../../../Aufel%20Fernquill.md)     |
-| [Dorfir Embersense](../../../Dorfir%20Embersense.md) |
-| [Fiamil Underwood](../../../Fiamil%20Underwood.md)   |
+| [Dorfir Embersense](../../NPCs/Dorfir%20Embersense.md) |
+| [Fiamil Underwood](../../NPCs/Fiamil%20Underwood.md)   |
 
 # Factions
 | Name |

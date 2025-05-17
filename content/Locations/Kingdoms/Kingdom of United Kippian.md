@@ -23,14 +23,14 @@ icon: map
 | ----------------------------------------------------------- |
 | [Bay of Freezewind](../Areas/Bay%20of%20Freezewind.md) |
 | [The Veiled Woods](../Areas/The%20Veiled%20Woods.md)   |
-| [Ankor](../Settlements/Ankor.md)                   |
 | [Bulkip](../Settlements/Bulkip.md)                 |
+| [Ankor](../Settlements/Ankor.md)                   |
 | [Curkip](../Settlements/Curkip.md)                 |
-| [Midkor](../Settlements/Midkor.md)                 |
 | [Midkip](../Settlements/Midkip.md)                 |
+| [Midkor](../Settlements/Midkor.md)                 |
 | [Vonkor](../Settlements/Vonkor.md)                 |
-| [Yelkor](../Settlements/Yelkor.md)                 |
 | [Walkor](../Settlements/Walkor.md)                 |
+| [Yelkor](../Settlements/Yelkor.md)                 |
 
 
 # Notable NPCs

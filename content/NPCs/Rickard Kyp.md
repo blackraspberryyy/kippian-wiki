@@ -47,7 +47,8 @@ During the [party](../Factions/Seven%20Up....md)'s investigations of the [Death 
 - [Session 47](../Session%20Log/Session%2047.md): [Raveena](Raveena%20Malandar.md) reveals the masterminds of the cult are [Roldan](Roldan%20Vinke.md), [Rickard](Rickard%20Kyp.md) and [Elvin](Elvin%20Claymore.md).
 - [Session 47](../Session%20Log/Session%2047.md): [Rickard](Rickard%20Kyp.md) is revealed to be [Raveena](Raveena%20Malandar.md)'s recruiter.
 - [Session 47](../Session%20Log/Session%2047.md): The [party](Seven%20Up....md) decides to lock up [Raveena](Raveena%20Malandar.md) in [[Ankyra District|Ankyra]], where [Rickard](Rickard%20Kyp.md) and [Malvin](Malvin%20Randall.md) are also jailed.
-- [Session 49](../Session%20Log/Session%2049.md): [Elvin](Elvin%20Claymore.md) releases the last 200 civilians. [Mitarella](Mitarella%20Randall.md) releases [Rickard](Rickard%20Kyp.md). [Rickard](Rickard%20Kyp.md) mockingly spits at [Mitarella](Mitarella%20Randall.md)'s direction: "The royals of [Midkip](Midkip.md) do not negotiate."
+- [Session 49](../Session%20Log/Session%2049.md): [Elvin](Elvin%20Claymore.md) releases the last 200 civilians. [Mitarella](Mitarella%20Randall.md) releases [Rickard](Rickard%20Kyp.md). [Rickard](Rickard%20Kyp.md) mockingly spits at [Mitarella](Mitarella%20Randall.md)'s direction:
+> *"The royals of [Midkip](Midkip.md) do not negotiate."*
 - [Session 49](../Session%20Log/Session%2049.md): [Elvin](Elvin%20Claymore.md) casts a large portal in front of [Adikia](Adikia%20Unalome.md) and [Mitarella](Mitarella%20Randall.md). The two back off. [Raveena](Raveena%20Malandar.md), [Malvin](Malvin%20Randall.md) and [Rickard](Rickard%20Kyp.md) rush into the portal, but the dragon stops them. The dragon and [Elvin](Elvin%20Claymore.md) must enter first.
 
 ## All Entries
@@ -65,5 +66,6 @@ During the [party](../Factions/Seven%20Up....md)'s investigations of the [Death 
 - [Session 47](../Session%20Log/Session%2047.md): The [party](Seven%20Up....md) decides to lock up [Raveena](Raveena%20Malandar.md) in [[Ankyra District|Ankyra]], where [Rickard](Rickard%20Kyp.md) and [Malvin](Malvin%20Randall.md) are also jailed.
 - [Session 47](../Session%20Log/Session%2047.md): [Raveena](Raveena%20Malandar.md) is placed inside her cell. As they were about to go out, [Rickard](Rickard%20Kyp.md) shouts and laughs mockingly:
 > *"It's about time now! You won't have to wait long..."*
-- [Session 49](../Session%20Log/Session%2049.md): [Elvin](Elvin%20Claymore.md) releases the last 200 civilians. [Mitarella](Mitarella%20Randall.md) releases [Rickard](Rickard%20Kyp.md). [Rickard](Rickard%20Kyp.md) mockingly spits at [Mitarella](Mitarella%20Randall.md)'s direction: "The royals of [Midkip](Midkip.md) do not negotiate."
+- [Session 49](../Session%20Log/Session%2049.md): [Elvin](Elvin%20Claymore.md) releases the last 200 civilians. [Mitarella](Mitarella%20Randall.md) releases [Rickard](Rickard%20Kyp.md). [Rickard](Rickard%20Kyp.md) mockingly spits at [Mitarella](Mitarella%20Randall.md)'s direction:
+> *"The royals of [Midkip](Midkip.md) do not negotiate."*
 - [Session 49](../Session%20Log/Session%2049.md): [Elvin](Elvin%20Claymore.md) casts a large portal in front of [Adikia](Adikia%20Unalome.md) and [Mitarella](Mitarella%20Randall.md). The two back off. [Raveena](Raveena%20Malandar.md), [Malvin](Malvin%20Randall.md) and [Rickard](Rickard%20Kyp.md) rush into the portal, but the dragon stops them. The dragon and [Elvin](Elvin%20Claymore.md) must enter first.

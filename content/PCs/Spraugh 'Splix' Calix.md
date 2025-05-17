@@ -32,15 +32,15 @@ icon: player
 ### Class: Wizard
 ### Subclass: [School of Divination](https://dnd5e.wikidot.com/wizard:divination)
 ## Backstory
-### First Letter to [Fiamil](../../Fiamil%20Underwood.md)
->[!note] First Letter to [Fiamil](../../Fiamil%20Underwood.md)
+### First Letter to [Fiamil](../NPCs/Fiamil%20Underwood.md)
+>[!note] First Letter to [Fiamil](../NPCs/Fiamil%20Underwood.md)
 >Sporcester Alley, [Effil](../Locations/Settlements/Effil.md)
 >
 >Cappodon, the 16th
 >
 >Of the year 1078
 >
->Dear [Fiamil](../../Fiamil%20Underwood.md),
+>Dear [Fiamil](../NPCs/Fiamil%20Underwood.md),
 >
 >Let me tell you my story. But, before we go to that, it’s only fitting to tell you where I came from, right? Well here it goes.
 >
@@ -64,15 +64,15 @@ icon: player
 >**[Splix](Spraugh%20'Splix'%20Calix.md)**
 >
 >P. S. More letters to come. I have an errand to do and the messenger has come to pick up the letter. See ya!
-### Second Letter to [Fiamil](../../Fiamil%20Underwood.md)
->[!note] Second Letter to [Fiamil](../../Fiamil%20Underwood.md)
+### Second Letter to [Fiamil](../NPCs/Fiamil%20Underwood.md)
+>[!note] Second Letter to [Fiamil](../NPCs/Fiamil%20Underwood.md)
 >Sporcester Alley, [Effil](../Locations/Settlements/Effil.md)
 >
 >Cappodon, the 19th
 >
 >Of the year 1078
 >
->Dearest [Fiamil](../../Fiamil%20Underwood.md),
+>Dearest [Fiamil](../NPCs/Fiamil%20Underwood.md),
 >
 >I hope you received this letter and the previous letter in quick succession. The last one’s a little bit of a cliffhanger, eh?
 >
@@ -92,7 +92,7 @@ icon: player
 >
 >The time finally came and I entered [Savras University](../Locations/Buildings/Savras%20University.md). That is when reality finally hit. I rediscovered that I was only a half-elf, and, as such, had “lesser” magic than the “pure-blood” elves I studied with. ([Savras](../Deities/New%20Gods/Savras.md) is an exception. He was a human touched by [Akenatun](../Deities/Old%20Gods/Akenatun.md). That, my friend, is a different case altogether.) I would always find myself ranked at the bottom half of the class, except in my divination classes where I had a better grasp of the material, or rather, the immaterial.
 >
->For the first 2 years in the university I was barely hanging on to my studies. My colleagues graduated while I can only create measly fire out of thin air. Very basic stuff, I know. I was considering dropping out of the university when I met my mentor, [Dorfir Embersense](../../Dorfir%20Embersense.md), and soon after, you, dear [Fiamil](../../Fiamil%20Underwood.md). This was also the moment I became more religious towards [Savras](../Deities/New%20Gods/Savras.md). He was the university’s patron, after all. 
+>For the first 2 years in the university I was barely hanging on to my studies. My colleagues graduated while I can only create measly fire out of thin air. Very basic stuff, I know. I was considering dropping out of the university when I met my mentor, [Dorfir Embersense](../NPCs/Dorfir%20Embersense.md), and soon after, you, dear [Fiamil](../NPCs/Fiamil%20Underwood.md). This was also the moment I became more religious towards [Savras](../Deities/New%20Gods/Savras.md). He was the university’s patron, after all. 
 >
 >Anyway, that’s the story of my life so far. I wouldn’t mind hearing from you soon!
 >
@@ -100,15 +100,15 @@ icon: player
 >
 >From your ever-friend,
 >**[Splix](Spraugh%20'Splix'%20Calix.md)**
-### Letter to [Professor Embersense](../../Dorfir%20Embersense.md)
->[!note] Letter to [Professor Embersense](../../Dorfir%20Embersense.md)
+### Letter to [Professor Embersense](../NPCs/Dorfir%20Embersense.md)
+>[!note] Letter to [Professor Embersense](../NPCs/Dorfir%20Embersense.md)
 >[Savras University](../Locations/Buildings/Savras%20University.md)
 >
 >Mastkil, the 21st
 >
 >Of the year 1082
 >
->[Professor Embersense](../../Dorfir%20Embersense.md),
+>[Professor Embersense](../NPCs/Dorfir%20Embersense.md),
 >
 >We are pleased to report to you that we mastered the following spells required of us by the university to advance.
 ><li>Control Flames</li>
@@ -122,23 +122,23 @@ icon: player
 >
 >We have also mastered reading and writing in Magiscript, according to [Professor Aufel](../../Aufel%20Fernquill.md). We have also passed our tests in geography, advanced mathematics, basic alchemy, [Kippian](../Locations/Kingdoms/Kingdom%20of%20United%20Kippian.md) history, theological history, botany and zoology, mythologies, rune cryptography, and mage conduct. We were also given the Book of Savras by the university as required reading.
 >
->We will be entering the final year of our studies soon. We hope to meet you soon, [Professor Embersense](../../Dorfir%20Embersense.md).
+>We will be entering the final year of our studies soon. We hope to meet you soon, [Professor Embersense](../NPCs/Dorfir%20Embersense.md).
 >
 >*Hail to our patron, [Savras](../Deities/New%20Gods/Savras.md)! Hail to the mage goddess [Amlin](../Deities/New%20Gods/Amlin.md)!*
 >
 >Signed by: 
->**[Splix](Spraugh%20'Splix'%20Calix.md)** and **[Fiamil](../../Fiamil%20Underwood.md)**
+>**[Splix](Spraugh%20'Splix'%20Calix.md)** and **[Fiamil](../NPCs/Fiamil%20Underwood.md)**
 >
 >P. S. Our work at the library paid off! Thank you for trusting us, professor. We hope you are fine on your scholarly travels.
-### Third Letter to [Fiamil](../../Fiamil%20Underwood.md)
->[!note] Third Letter to [Fiamil](../../Fiamil%20Underwood.md)
+### Third Letter to [Fiamil](../NPCs/Fiamil%20Underwood.md)
+>[!note] Third Letter to [Fiamil](../NPCs/Fiamil%20Underwood.md)
 >Sporcester Alley, [Effil](../Locations/Settlements/Effil.md)
 >
 >Bastordyl, the 27th
 >
 >Of the year 1083
 >
->To [Fiamil](../../Fiamil%20Underwood.md),
+>To [Fiamil](../NPCs/Fiamil%20Underwood.md),
 >
 >I have terrible news: I have no home now. 
 >
@@ -170,20 +170,21 @@ icon: player
 ### Family
 - Parents: [Steckun Calix](../../Steckun%20Calix.md) and [Adzana Furwish](../../Adzana%20Furwish.md)
 ### Friends
-- University friend: [Fiamil](../../Fiamil%20Underwood.md)
-- University professor and mentor: [Dorfir Embersense](../../Dorfir%20Embersense.md)
+- University friend: [Fiamil](../NPCs/Fiamil%20Underwood.md)
+- University professor and mentor: [Dorfir Embersense](../NPCs/Dorfir%20Embersense.md)
 # Story log
 ## Most Recent
-- [Session 49](../Session%20Log/Session%2049.md): Meanwhile, [Splix](Spraugh%20'Splix'%20Calix.md) is researching with [Professor Aufel](Aufel%20Fernquill.md) back in [Ankyra's Old Castle Compound](Ankyra's%20Old%20Castle%20Compound.md). [Splix](Spraugh%20'Splix'%20Calix.md) finds out that what tethers [Yvernus](Yvernus%20District.md) to [Midkip](Midkip.md) is a magical tether located in another plane of existence.
-- [Session 49](../Session%20Log/Session%2049.md): In [Ankyra's Old Castle Compound](Ankyra's%20Old%20Castle%20Compound.md), [Splix](Spraugh%20'Splix'%20Calix.md) sees a [Void Dragon](Void%20Dragon.md) swooping down to the compound. The dragon appears to carry a man. The dragon lands on the castle walls, and waits.
-- [Session 49](../Session%20Log/Session%2049.md): [Splix](Spraugh%20'Splix'%20Calix.md) sees [Mitarella](Mitarella%20Randall.md) and [Remus](Remus%20Kyp.md) exiting the castle to check on the situation. [Mitarella](Mitarella%20Randall.md) approaches the intruders. [Splix](Spraugh%20'Splix'%20Calix.md) stays within earshot of the regent.
-- [Session 49](../Session%20Log/Session%2049.md): [Splix](Spraugh%20'Splix'%20Calix.md) agrees with [Mitarella](Mitarella%20Randall.md). This pushes [Remus](Remus%20Kyp.md) to exchange their prisoners for the civilians of [Yvernus](Yvernus%20District.md).
-- [Session 49](../Session%20Log/Session%2049.md): [Splix](Spraugh%20'Splix'%20Calix.md) soots [Raveena](Raveena%20Malandar.md) surprised about being saved. He hears [Raveena](Raveena%20Malandar.md) mention the man's name: [Elvin](Elvin%20Claymore.md).
-- [Session 49](../Session%20Log/Session%2049.md): [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md) and [Theobald](Theobald%20Clayhollow.md) arrives at the [Ankyra's Old Castle Compound](Ankyra's%20Old%20Castle%20Compound.md). [Theobald](Theobald%20Clayhollow.md) helps the civilians. [Adeena](Adeena%20Oberon.md) approaches [Remus](Remus%20Kyp.md) and [Splix](Spraugh%20'Splix'%20Calix.md), and [Adikia](Adikia%20Unalome.md) walks to [Mitarella](Mitarella%20Randall.md).
-- [Session 49](../Session%20Log/Session%2049.md): [Splix](Spraugh%20'Splix'%20Calix.md) casts Arcane Eye and attempts to enter the portal with it. The dragon senses this, but [Elvin](Elvin%20Claymore.md) persuades the dragon not to worry about it as it poses no threat. [Elvin](Elvin%20Claymore.md) mocks the party. [Adikia](Adikia%20Unalome.md) is irate; sensing a provocation, [Mitarella](Mitarella%20Randall.md) coaxes [Adikia](Adikia%20Unalome.md): "Let them have this day."
+- [Session 49](../Session%20Log/Session%2049.md): [Splix](Spraugh%20'Splix'%20Calix.md) casts Arcane Eye and attempts to enter the portal with it. The dragon senses this, but [Elvin](Elvin%20Claymore.md) persuades the dragon not to worry about it as it poses no threat. [Elvin](Elvin%20Claymore.md) mocks the party. [Adikia](Adikia%20Unalome.md) is irate; sensing a provocation, [Mitarella](Mitarella%20Randall.md) coaxes [Adikia](Adikia%20Unalome.md):
+> *"Let them have this day."*
 - [Session 50](../Session%20Log/Session%2050.md): [Theobald](Theobald%20Clayhollow.md), [Adeena](Adeena%20Oberon.md) and [Adikia](Adikia%20Unalome.md) plan to return back to [Ironfleet Compound](Ironfleet%20Compound.md). As they pass by the library, they see [Splix](Spraugh%20'Splix'%20Calix.md) researching.
 - [Session 50](../Session%20Log/Session%2050.md): Just as the [[Seven Up...|party]] is about to ride the [Bloated Dragon](Bloated%20Dragon.md), [Splix](Spraugh%20'Splix'%20Calix.md) returns bearing a message from [Savras University](Savras%20University.md) about [Professor Embersense](Dorfir%20Embersense.md)'s location. [Professor Embersense](Dorfir%20Embersense.md) and his apprentice, [Fiamil](Fiamil%20Underwood.md), are currently researching an ancient structure resurfacing from the sea. [Splix](Spraugh%20'Splix'%20Calix.md) suggests a destination to [Gandour](Gandour%20Ironfleet.md), and the latter accepts.
 - [Session 50](../Session%20Log/Session%2050.md): Upon arriving at the destination, [Gandour](Gandour%20Ironfleet.md) and the [[Seven Up...|party]] could not find the ruins. [Splix](Spraugh%20'Splix'%20Calix.md) uses a spyglass to check for ruins; he finds a shallow sandbar that they can land on.
+- [Session 51](../Session%20Log/Session%2051.md): [Splix](Spraugh%20'Splix'%20Calix.md) casts Comprehend Languages. Other members of the [[Seven Up...|party]] explore the [Library](Sunken%20Library.md).
+- [Session 51](../Session%20Log/Session%2051.md): [Arc](Arc.md) scours the second floor and sees two humanoids, a bearded old elf and a female human, resting on a table. After a brief confrontation, [Arc](Arc.md) determines that the two are [Splix](Spraugh%20'Splix'%20Calix.md)'s colleagues: [Dorfir Embersense](Dorfir%20Embersense.md) and [Fiamil](Fiamil%20Underwood.md).
+- [Session 51](../Session%20Log/Session%2051.md): [Splix](Spraugh%20'Splix'%20Calix.md) reads a scroll that retells the major events that happened during the [Primordial Ages](Primordial%20Ages.md).
+- [Session 51](../Session%20Log/Session%2051.md): During the party's conversation, [Splix](Spraugh%20'Splix'%20Calix.md) and [Fiamil](Fiamil%20Underwood.md) wander off into the pillars. They suddenly disappear into a hole in the floor.
+- [Session 51](../Session%20Log/Session%2051.md): The [[Seven Up...|party]] meets a decaying, seemingly undead sphinx. They see the unconscious bodies of [Splix](Spraugh%20'Splix'%20Calix.md) and [Fiamil](Fiamil%20Underwood.md) on the ground.
+- [Session 51](../Session%20Log/Session%2051.md): [Theobald](Theobald%20Clayhollow.md) offers [Matunda's Mace](Matunda's%20Mace.md) in exchange for the party's freedom, including [Splix](Spraugh%20'Splix'%20Calix.md) and [Fiamil](Fiamil%20Underwood.md). The sphinx accepts the offer, but only frees him, [Splix](Spraugh%20'Splix'%20Calix.md) and [Fiamil](Fiamil%20Underwood.md).
 
 ## All Entries
 - [Session 13](../../Session%2013.md): [Splix](Spraugh%20'Splix'%20Calix.md)
@@ -228,7 +229,14 @@ icon: player
 - [Session 49](../Session%20Log/Session%2049.md): [Splix](Spraugh%20'Splix'%20Calix.md) agrees with [Mitarella](Mitarella%20Randall.md). This pushes [Remus](Remus%20Kyp.md) to exchange their prisoners for the civilians of [Yvernus](Yvernus%20District.md).
 - [Session 49](../Session%20Log/Session%2049.md): [Splix](Spraugh%20'Splix'%20Calix.md) soots [Raveena](Raveena%20Malandar.md) surprised about being saved. He hears [Raveena](Raveena%20Malandar.md) mention the man's name: [Elvin](Elvin%20Claymore.md).
 - [Session 49](../Session%20Log/Session%2049.md): [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md) and [Theobald](Theobald%20Clayhollow.md) arrives at the [Ankyra's Old Castle Compound](Ankyra's%20Old%20Castle%20Compound.md). [Theobald](Theobald%20Clayhollow.md) helps the civilians. [Adeena](Adeena%20Oberon.md) approaches [Remus](Remus%20Kyp.md) and [Splix](Spraugh%20'Splix'%20Calix.md), and [Adikia](Adikia%20Unalome.md) walks to [Mitarella](Mitarella%20Randall.md).
-- [Session 49](../Session%20Log/Session%2049.md): [Splix](Spraugh%20'Splix'%20Calix.md) casts Arcane Eye and attempts to enter the portal with it. The dragon senses this, but [Elvin](Elvin%20Claymore.md) persuades the dragon not to worry about it as it poses no threat. [Elvin](Elvin%20Claymore.md) mocks the party. [Adikia](Adikia%20Unalome.md) is irate; sensing a provocation, [Mitarella](Mitarella%20Randall.md) coaxes [Adikia](Adikia%20Unalome.md): "Let them have this day."
+- [Session 49](../Session%20Log/Session%2049.md): [Splix](Spraugh%20'Splix'%20Calix.md) casts Arcane Eye and attempts to enter the portal with it. The dragon senses this, but [Elvin](Elvin%20Claymore.md) persuades the dragon not to worry about it as it poses no threat. [Elvin](Elvin%20Claymore.md) mocks the party. [Adikia](Adikia%20Unalome.md) is irate; sensing a provocation, [Mitarella](Mitarella%20Randall.md) coaxes [Adikia](Adikia%20Unalome.md):
+> *"Let them have this day."*
 - [Session 50](../Session%20Log/Session%2050.md): [Theobald](Theobald%20Clayhollow.md), [Adeena](Adeena%20Oberon.md) and [Adikia](Adikia%20Unalome.md) plan to return back to [Ironfleet Compound](Ironfleet%20Compound.md). As they pass by the library, they see [Splix](Spraugh%20'Splix'%20Calix.md) researching.
 - [Session 50](../Session%20Log/Session%2050.md): Just as the [[Seven Up...|party]] is about to ride the [Bloated Dragon](Bloated%20Dragon.md), [Splix](Spraugh%20'Splix'%20Calix.md) returns bearing a message from [Savras University](Savras%20University.md) about [Professor Embersense](Dorfir%20Embersense.md)'s location. [Professor Embersense](Dorfir%20Embersense.md) and his apprentice, [Fiamil](Fiamil%20Underwood.md), are currently researching an ancient structure resurfacing from the sea. [Splix](Spraugh%20'Splix'%20Calix.md) suggests a destination to [Gandour](Gandour%20Ironfleet.md), and the latter accepts.
 - [Session 50](../Session%20Log/Session%2050.md): Upon arriving at the destination, [Gandour](Gandour%20Ironfleet.md) and the [[Seven Up...|party]] could not find the ruins. [Splix](Spraugh%20'Splix'%20Calix.md) uses a spyglass to check for ruins; he finds a shallow sandbar that they can land on.
+- [Session 51](../Session%20Log/Session%2051.md): [Splix](Spraugh%20'Splix'%20Calix.md) casts Comprehend Languages. Other members of the [[Seven Up...|party]] explore the [Library](Sunken%20Library.md).
+- [Session 51](../Session%20Log/Session%2051.md): [Arc](Arc.md) scours the second floor and sees two humanoids, a bearded old elf and a female human, resting on a table. After a brief confrontation, [Arc](Arc.md) determines that the two are [Splix](Spraugh%20'Splix'%20Calix.md)'s colleagues: [Dorfir Embersense](Dorfir%20Embersense.md) and [Fiamil](Fiamil%20Underwood.md).
+- [Session 51](../Session%20Log/Session%2051.md): [Splix](Spraugh%20'Splix'%20Calix.md) reads a scroll that retells the major events that happened during the [Primordial Ages](Primordial%20Ages.md).
+- [Session 51](../Session%20Log/Session%2051.md): During the party's conversation, [Splix](Spraugh%20'Splix'%20Calix.md) and [Fiamil](Fiamil%20Underwood.md) wander off into the pillars. They suddenly disappear into a hole in the floor.
+- [Session 51](../Session%20Log/Session%2051.md): The [[Seven Up...|party]] meets a decaying, seemingly undead sphinx. They see the unconscious bodies of [Splix](Spraugh%20'Splix'%20Calix.md) and [Fiamil](Fiamil%20Underwood.md) on the ground.
+- [Session 51](../Session%20Log/Session%2051.md): [Theobald](Theobald%20Clayhollow.md) offers [Matunda's Mace](Matunda's%20Mace.md) in exchange for the party's freedom, including [Splix](Spraugh%20'Splix'%20Calix.md) and [Fiamil](Fiamil%20Underwood.md). The sphinx accepts the offer, but only frees him, [Splix](Spraugh%20'Splix'%20Calix.md) and [Fiamil](Fiamil%20Underwood.md).
