@@ -22,8 +22,9 @@ icon: map
 
 Clan [Furwish](../../../Furwish%20Clan.md) oversees the district. [Laurie Furwish](../../../Laurie%20Furwish.md) is the district's [High Council](../../Factions/The%20High%20Council%20of%20Midkip.md) representative.
 # Notable Locations
-| Name |
-| ---- |
+| Name                                                              |
+| ----------------------------------------------------------------- |
+| [Aetos Park Gardens](../Buildings/Aetos%20Park%20Gardens.md) |
 
 # Notable NPCs
 | Name                                       |
