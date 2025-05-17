@@ -17,7 +17,7 @@ icon: calendar
 - [Gandour](../../Gandour%20Ironfleet.md) and the [party](../Factions/Seven%20Up....md) decide to continue the trial run of the airship later in the afternoon. He asks the [party](../Factions/Seven%20Up....md) to suggest some names for the airship. To make things more interesting (and uplift the party's spirits), [Gandour](../../Gandour%20Ironfleet.md) holds a naming competition of the airship.
 - [Kiris](../PCs/Kiris%20Acquermann.md) wins the competition. The airship is formally named as the [Bloated Dragon](../Items/Bloated%20Dragon.md).
 - The [party](../Factions/Seven%20Up....md) inspects the [Bloated Dragon](../Items/Bloated%20Dragon.md)'s decks.
-- Just as the [party](../Factions/Seven%20Up....md) is about to ride the [Bloated Dragon](../Items/Bloated%20Dragon.md), [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) returns bearing a message from [Savras University](../Locations/Buildings/Savras%20University.md) about [Professor Embersense](../../Dorfir%20Embersense.md)'s location. [Professor Embersense](../../Dorfir%20Embersense.md) and his apprentice, [Fiamil](../../Fiamil%20Underwood.md), are currently researching an ancient structure resurfacing from the sea. [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) suggests a destination to [Gandour](../../Gandour%20Ironfleet.md), and the latter accepts.
+- Just as the [party](../Factions/Seven%20Up....md) is about to ride the [Bloated Dragon](../Items/Bloated%20Dragon.md), [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) returns bearing a message from [Savras University](../Locations/Buildings/Savras%20University.md) about [Professor Embersense](../NPCs/Dorfir%20Embersense.md)'s location. [Professor Embersense](../NPCs/Dorfir%20Embersense.md) and his apprentice, [Fiamil](../NPCs/Fiamil%20Underwood.md), are currently researching an ancient structure resurfacing from the sea. [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) suggests a destination to [Gandour](../../Gandour%20Ironfleet.md), and the latter accepts.
 - For the test flight, the [party](../Factions/Seven%20Up....md) is accompanied by [Gandour](../../Gandour%20Ironfleet.md) and two engineers.
 - The flight proves uneventful, which was good news to the [party](../Factions/Seven%20Up....md). However, the [Bloated Dragon](../Items/Bloated%20Dragon.md) is slow.
 ## The Queen's Gambit
@@ -28,18 +28,27 @@ icon: calendar
 > THE QUEEN'S GAMBIT
 >
 > TO ENTER MY LIBRARY, YOU MUST FIRST DEFEAT ME
+> 
 > IN A BATTLE BETWEEN LIGHT AND DARK;
+> 
 > MY QUEEN WILL PLAY FOR THE LIGHT OF KNOWLEDGE,
+> 
 > AND YOUR KING SHOULD CHOOSE YOUR DARKENED KNIGHTS.
 >
 > LET YOUR KNIGHTS RETRIEVE THE DARKENED BLADES,
+> 
 > SO YOUR KING HAS A SWORD CROWN TO BEAR;
+> 
 > ONLY THEN YOU CAN ENTER THE SQUARED BATTLEFIELD
+> 
 > AND UNDERTAKE MY PRECARIOUS DARE.
 >
 > YOUR DEFEAT WILL YIELD DEMISE
+> 
 > SO YOUR KNIGHTS MUST PROFESS THEIR MIGHT.
+> 
 > IF YOU WIN, I’LL PERMIT YOU TO RISE,
+> 
 > AND THY DARKENED SOULS I WOULD ENLIGHT.
 - Each member of the [party](../Factions/Seven%20Up....md) except [Kiris](../PCs/Kiris%20Acquermann.md) spots a Darkened Blade underneath the sands.
 - The [party](../Factions/Seven%20Up....md) solves the puzzle and finds the Darkened Crown. [Kiris](../PCs/Kiris%20Acquermann.md) wears the Darkened crown.
