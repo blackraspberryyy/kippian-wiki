@@ -23,7 +23,7 @@ The warehouse is refurbished into an airship construction hub.
 ### Place of Worship
 An external room where residents of the compound can solemnly pray to their respective deities.
 ### Dining Hall
-This narrow yet long hall serves as the place where members of the [Ironfleet Clan](../../../Ironfleet%20Clan.md) meet. Ever since the [Unbinding of Yvernus](../../../Assault%20on%20Asteri%20and%20Unbinding%20of%20Yvernus.md), the room has been used as a meeting place for the [party](../../Factions/Seven%20Up....md) and their allies. 
+This narrow yet long hall serves as the place where members of the [Ironfleet Clan](../../../Ironfleet%20Clan.md) meet. Ever since the [Unbinding of Yvernus](../../Lore/Assault%20on%20Asteri%20and%20Unbinding%20of%20Yvernus.md), the room has been used as a meeting place for the [party](../../Factions/Seven%20Up....md) and their allies. 
 
 The floating yet unmoving [Yvernus](../Areas/Yvernus%20District.md) can be seen from the windows.
 # Notable Locations
