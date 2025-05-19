@@ -20,7 +20,7 @@ icon: map
 ## Description
 [Aetos](Aetos%20District.md) is [Midelia](../Settlements/Midkip.md)'s elven district. Located on top of an island delta, the district is separated by the river on all sides. Lush vegetation, mimicking the [Ephelian](../Kingdoms/Elven%20Kingdom%20of%20Ephelus.md) flora covers the structures. 
 
-Clan [Furwish](../../../Furwish%20Clan.md) oversees the district. [Laurie Furwish](../../../Laurie%20Furwish.md) is the district's [High Council](../../Factions/The%20High%20Council%20of%20Midkip.md) representative.
+Clan [Furwish](../../../Furwish%20Clan.md) oversees the district. [Laurie Furwish](../../NPCs/Laurie%20Furwish.md) is the district's [High Council](../../Factions/The%20High%20Council%20of%20Midkip.md) representative.
 # Notable Locations
 | Name                                                              |
 | ----------------------------------------------------------------- |
@@ -29,7 +29,8 @@ Clan [Furwish](../../../Furwish%20Clan.md) oversees the district. [Laurie Furwis
 # Notable NPCs
 | Name                                       |
 | ------------------------------------------ |
-| [Laurie Furwish](../../../Laurie%20Furwish.md) |
+| [Janna Furwish](../../NPCs/Janna%20Furwish.md)   |
+| [Laurie Furwish](../../NPCs/Laurie%20Furwish.md) |
 
 # Factions
 | Name |
