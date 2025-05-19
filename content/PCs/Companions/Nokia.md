@@ -18,7 +18,7 @@ icon: character
 ## Description
 ## Personality Traits
 ## Relationships
-- [Adikia](../Adikia%20Unalome.md)'s pet
+- [Adikia](../Adikia%20Unalome.md)'s pet eagle
 # Story log
 ## Most Recent
 - [Session 38](../../Session%20Log/Session%2038.md): [Nokia](Nokia.md), [Adikia](Adikia%20Unalome.md)'s eagle, and companion, asks her to search the dungeon for a thing.
