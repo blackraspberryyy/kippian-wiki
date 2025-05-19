@@ -24,13 +24,13 @@ icon: map
 # Notable Locations
 | Name                                                                           |
 | ------------------------------------------------------------------------------ |
-| [Elven Kingdom of Ephelus](../Kingdoms/Elven%20Kingdom%20of%20Ephelus.md)   |
-| [Kingdom of United Kippian](../Kingdoms/Kingdom%20of%20United%20Kippian.md) |
-| [Opidys](../Kingdoms/Opidys.md)                                       |
-| [Wycroft Mountain Kingdom](../Kingdoms/Wycroft%20Mountain%20Kingdom.md)   |
 | [Lazagog's Forest](../Areas/Lazagog's%20Forest.md)                      |
 | [Stonethorn Mountains](../Areas/Stonethorn%20Mountains.md)              |
 | [Yorvengarde Mountains](../Areas/Yorvengarde%20Mountains.md)            |
+| [Kingdom of United Kippian](../Kingdoms/Kingdom%20of%20United%20Kippian.md) |
+| [Elven Kingdom of Ephelus](../Kingdoms/Elven%20Kingdom%20of%20Ephelus.md)   |
+| [Opidys](../Kingdoms/Opidys.md)                                       |
+| [Wycroft Mountain Kingdom](../Kingdoms/Wycroft%20Mountain%20Kingdom.md)   |
 
 # Notable NPCs
 | Name |
