@@ -34,7 +34,6 @@ icon: player
 ## Relationships
 # Story log
 ## Most Recent
-- [Session 49](../Session%20Log/Session%2049.md): [Arc](Arc.md) finds a thieves' cant symbol for a black market store. [Arc](Arc.md) follows it, but he bumps a sketchy halfling in a narrow alleyway. He keeps the 1 cp coin he found from the halfling. The halfling promises to guide [Arc](Arc.md) to the black market store.
 - [Session 49](../Session%20Log/Session%2049.md): [Arc](Arc.md) finds a stall in the wall. A masked halfling mans the store. [Arc](Arc.md) buys 2 packs of caltrops, 10 daggers, a vial of poison, thieves' tools, and 60 arrows for 200 gp.
 - [Session 49](../Session%20Log/Session%2049.md): The halfling guide tugs on [Arc](Arc.md), asking for some donatin. [Arc](Arc.md) gifts 2 gp (and the 1 cp) to the halfling. The masked shopkeeper remarks that [Arc](Arc.md) is too generous for a thief.
 - [Session 49](../Session%20Log/Session%2049.md): An elvish priest recognizes [Arc](Arc.md) and [Theobald](Theobald%20Clayhollow.md). The priest calls himself [Father Drenn](Drenn%20Halyx.md).
@@ -45,6 +44,7 @@ icon: player
 - [Session 51](../Session%20Log/Session%2051.md): [Arc](Arc.md) scours the second floor and sees two humanoids, a bearded old elf and a female human, resting on a table. After a brief confrontation, [Arc](Arc.md) determines that the two are [Splix](Spraugh%20'Splix'%20Calix.md)'s colleagues: [Dorfir Embersense](Dorfir%20Embersense.md) and [Fiamil](Fiamil%20Underwood.md).
 - [Session 51](../Session%20Log/Session%2051.md): [Arc](Arc.md) recovers [Theobald](Theobald%20Clayhollow.md)'s [Matunda's Mace](Matunda's%20Mace.md), along with a tiara and a hefty amount of gold.
 - [Session 51](../Session%20Log/Session%2051.md): [Theobald](Theobald%20Clayhollow.md) casts revivify on both [Dorfir Embersense](Dorfir%20Embersense.md) and [Fiamil Underwood](Fiamil%20Underwood.md). [Arc](Arc.md) uses the diamond from the tiara for one cast.
+- [Session 52](../Session%20Log/Session%2052.md): [Adikia](Adikia%20Unalome.md) casts Polymorph on a thrilled [Dorfir Embersense](Dorfir%20Embersense.md). She turns him into a T-rex. [Kiris](Kiris%20Acquermann.md), [Fiamil](Fiamil%20Underwood.md) and [Splix](Spraugh%20'Splix'%20Calix.md) ride on the polymorphed professor. [Adeena](Adeena%20Oberon.md) and [Thoradin](Thoradin%20Goodman.md) cast Find Steed. [Arc](Arc.md) and [Noah](Noah%20Skie.md) walks.
 
 ## All Entries
 - [Session 13](../../Session%2013.md): [Arc](Arc.md) learns that wood elves are locals of the [Soliven Forest](Soliven%20Forest.md).
@@ -130,3 +130,4 @@ icon: player
 - [Session 51](../Session%20Log/Session%2051.md): [Arc](Arc.md) scours the second floor and sees two humanoids, a bearded old elf and a female human, resting on a table. After a brief confrontation, [Arc](Arc.md) determines that the two are [Splix](Spraugh%20'Splix'%20Calix.md)'s colleagues: [Dorfir Embersense](Dorfir%20Embersense.md) and [Fiamil](Fiamil%20Underwood.md).
 - [Session 51](../Session%20Log/Session%2051.md): [Arc](Arc.md) recovers [Theobald](Theobald%20Clayhollow.md)'s [Matunda's Mace](Matunda's%20Mace.md), along with a tiara and a hefty amount of gold.
 - [Session 51](../Session%20Log/Session%2051.md): [Theobald](Theobald%20Clayhollow.md) casts revivify on both [Dorfir Embersense](Dorfir%20Embersense.md) and [Fiamil Underwood](Fiamil%20Underwood.md). [Arc](Arc.md) uses the diamond from the tiara for one cast.
+- [Session 52](../Session%20Log/Session%2052.md): [Adikia](Adikia%20Unalome.md) casts Polymorph on a thrilled [Dorfir Embersense](Dorfir%20Embersense.md). She turns him into a T-rex. [Kiris](Kiris%20Acquermann.md), [Fiamil](Fiamil%20Underwood.md) and [Splix](Spraugh%20'Splix'%20Calix.md) ride on the polymorphed professor. [Adeena](Adeena%20Oberon.md) and [Thoradin](Thoradin%20Goodman.md) cast Find Steed. [Arc](Arc.md) and [Noah](Noah%20Skie.md) walks.
