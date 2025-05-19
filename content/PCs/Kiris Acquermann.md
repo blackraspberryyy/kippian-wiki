@@ -48,8 +48,6 @@ The contents of the box left [Kiris](Kiris%20Acquermann.md) with more questions 
 - Mother: [Sera](../../Sera.md)
 # Story log
 ## Most Recent
-- [Session 49](../Session%20Log/Session%2049.md): [Kiris](Kiris%20Acquermann.md) decides to sleep in[Kayvan](Kayvan%20Acquermann.md)'s quarters with [Kirren](Kirren%20Acquermann.md). Before [Kiris](Kiris%20Acquermann.md) rests, [Thoradin](Thoradin%20Goodman.md) asks [Kiris](Kiris%20Acquermann.md) to cast Vortex Warp on the [Bloodstone Arcane Gem](Bloodstone%20Arcane%20Gem.md).
-- [Session 49](../Session%20Log/Session%2049.md): Back in [Ironfleet Compound](Ironfleet%20Compound.md), [Noah](Noah%20Skie.md), [Kiris](Kiris%20Acquermann.md) and [Thoradin](Thoradin%20Goodman.md) wake up and find the other members of their [[Seven Up...|party]] gone.
 - [Session 49](../Session%20Log/Session%2049.md): [Noah](Noah%20Skie.md), [Kiris](Kiris%20Acquermann.md) and [Thoradin](Thoradin%20Goodman.md) see movement on the floating [[Yvernus District|Yvernus]]. They see a dragon fly out of it, and descend down into [Ankyra](Ankyra%20District.md).
 - [Session 49](../Session%20Log/Session%2049.md): [Kirren](Kirren%20Acquermann.md) decides to check on the situation. [Thoradin](Thoradin%20Goodman.md), [Noah](Noah%20Skie.md) and [Kiris](Kiris%20Acquermann.md) decide to stay to defend the airship.
 - [Session 50](../Session%20Log/Session%2050.md): [Kiris](Kiris%20Acquermann.md) wins the competition. The airship is formally named as the [Bloated Dragon](Bloated%20Dragon.md).
@@ -58,6 +56,8 @@ The contents of the box left [Kiris](Kiris%20Acquermann.md) with more questions 
 - [Session 50](../Session%20Log/Session%2050.md): The [[Seven Up...|party]] solves the puzzle and finds the Darkened Crown. [Kiris](Kiris%20Acquermann.md) wears the Darkened crown.
 - [Session 50](../Session%20Log/Session%2050.md): [Kiris](Kiris%20Acquermann.md) enters the arena; other members of the [[Seven Up...|party]] can now enter as well.
 - [Session 51](../Session%20Log/Session%2051.md): [Thoradin](Thoradin%20Goodman.md) and [Kiris](Kiris%20Acquermann.md) checks the two spell circles on the stone floor. [Kiris](Kiris%20Acquermann.md) sees that the sigils on the spell circles pertain to a certain conjuration spell.
+- [Session 52](../Session%20Log/Session%2052.md): [Kiris](Kiris%20Acquermann.md) casts Binding Ice to create a barrier from the seawater.
+- [Session 52](../Session%20Log/Session%2052.md): [Adikia](Adikia%20Unalome.md) casts Polymorph on a thrilled [Dorfir Embersense](Dorfir%20Embersense.md). She turns him into a T-rex. [Kiris](Kiris%20Acquermann.md), [Fiamil](Fiamil%20Underwood.md) and [Splix](Spraugh%20'Splix'%20Calix.md) ride on the polymorphed professor. [Adeena](Adeena%20Oberon.md) and [Thoradin](Thoradin%20Goodman.md) cast Find Steed. [Arc](Arc.md) and [Noah](Noah%20Skie.md) walks.
 
 ## All Entries
 - [Session 6](../../Session%206.md): Masked member of [Miledu](Miledu.md)'s cult attack [Kiris Acquermann](Kiris%20Acquermann.md)
@@ -129,3 +129,5 @@ The contents of the box left [Kiris](Kiris%20Acquermann.md) with more questions 
 - [Session 50](../Session%20Log/Session%2050.md): The [[Seven Up...|party]] solves the puzzle and finds the Darkened Crown. [Kiris](Kiris%20Acquermann.md) wears the Darkened crown.
 - [Session 50](../Session%20Log/Session%2050.md): [Kiris](Kiris%20Acquermann.md) enters the arena; other members of the [[Seven Up...|party]] can now enter as well.
 - [Session 51](../Session%20Log/Session%2051.md): [Thoradin](Thoradin%20Goodman.md) and [Kiris](Kiris%20Acquermann.md) checks the two spell circles on the stone floor. [Kiris](Kiris%20Acquermann.md) sees that the sigils on the spell circles pertain to a certain conjuration spell.
+- [Session 52](../Session%20Log/Session%2052.md): [Kiris](Kiris%20Acquermann.md) casts Binding Ice to create a barrier from the seawater.
+- [Session 52](../Session%20Log/Session%2052.md): [Adikia](Adikia%20Unalome.md) casts Polymorph on a thrilled [Dorfir Embersense](Dorfir%20Embersense.md). She turns him into a T-rex. [Kiris](Kiris%20Acquermann.md), [Fiamil](Fiamil%20Underwood.md) and [Splix](Spraugh%20'Splix'%20Calix.md) ride on the polymorphed professor. [Adeena](Adeena%20Oberon.md) and [Thoradin](Thoradin%20Goodman.md) cast Find Steed. [Arc](Arc.md) and [Noah](Noah%20Skie.md) walks.
