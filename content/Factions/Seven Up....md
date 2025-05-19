@@ -26,30 +26,31 @@ icon: player
 | Name                                                    |
 | ------------------------------------------------------- |
 | [Adeena Oberon](../PCs/Adeena%20Oberon.md)                 |
-| [Adikia Unalome](../PCs/Adikia%20Unalome.md)               |
 | [Arc](../PCs/Arc.md)                                     |
-| [Kiris Acquermann](../PCs/Kiris%20Acquermann.md)           |
-| [Noah Skie](../PCs/Noah%20Skie.md)                         |
+| [Adikia Unalome](../PCs/Adikia%20Unalome.md)               |
 | [Astar](../PCs/Companions/Astar.md)                      |
 | [Nokia](../PCs/Companions/Nokia.md)                      |
-| [Theobald Clayhollow](../PCs/Theobald%20Clayhollow.md)     |
+| [Kiris Acquermann](../PCs/Kiris%20Acquermann.md)           |
+| [Noah Skie](../PCs/Noah%20Skie.md)                         |
 | [Spraugh 'Splix' Calix](../PCs/Spraugh%20'Splix'%20Calix.md) |
+| [Theobald Clayhollow](../PCs/Theobald%20Clayhollow.md)     |
 | [Thoradin Goodman](../PCs/Thoradin%20Goodman.md)           |
 
 # Goals
 - [ ] Task 1
 # Story log
 ## Most Recent
-- [Session 51](../Session%20Log/Session%2051.md): [Adikia](Adikia%20Unalome.md) and [Adeena](Adeena%20Oberon.md) investigates the statue on the northeastern part of the [Library](Sunken%20Library.md) that is surrounded by shelves. The statue depicts of a celestial defeating a devil-like entity. [Adeena](Adeena%20Oberon.md) thinks that the celestial creature resembles the Annatars they once met. The symbols on the devil are similar to those they saw when the [party](Seven%20Up....md) encountered [Auriel Furwish](Auriel%20Furwish.md) in Calyxius' lair.
-- [Session 51](../Session%20Log/Session%2051.md): The [party](Seven%20Up....md) meets [Dorfir Embersense](Dorfir%20Embersense.md) and [Fiamil Underwood](Fiamil%20Underwood.md). The [party](Seven%20Up....md) updates the two on what happened during the two weeks they are researching inside the [Library](Sunken%20Library.md).
-- [Session 51](../Session%20Log/Session%2051.md): [Adeena](Adeena%20Oberon.md) asks [Dorfir Embersense](Dorfir%20Embersense.md) about a spell that could protect the [Bloated Dragon](Bloated%20Dragon.md) from magical attacks. [Dorfir Embersense](Dorfir%20Embersense.md) recalls that an artifact of sorts protects [Asteri District](Asteri%20District.md). The [party](Seven%20Up....md) informs him that the district is devastated during the [Assault on Asteri](Assault%20on%20Asteri%20and%20Unbinding%20of%20Yvernus.md).
-- [Session 51](../Session%20Log/Session%2051.md): The [party](Seven%20Up....md) checks the pillars. The two riddles are now blank; only the third riddle remains.
-- [Session 51](../Session%20Log/Session%2051.md): [Theobald](Theobald%20Clayhollow.md) solves the last riddle. A hole appears on the floor and the [party](Seven%20Up....md) is sucked into it. [Dorfir](Dorfir%20Embersense.md) remains on the floor.
-- [Session 51](../Session%20Log/Session%2051.md): The [party](Seven%20Up....md) meets a decaying, seemingly undead sphinx. They see the unconscious bodies of [Splix](Spraugh%20'Splix'%20Calix.md) and [Fiamil](Fiamil%20Underwood.md) on the ground.
-- [Session 51](../Session%20Log/Session%2051.md): The sphinx asks each member of the [party](Seven%20Up....md) to exchange their [Mythic Items](Mythic%20Items.md) for their freedom.
-- [Session 51](../Session%20Log/Session%2051.md): Unwilling to give up their items, the [party](Seven%20Up....md) fights the sphinx.
 - [Session 51](../Session%20Log/Session%2051.md): Backed into a corner, the sphinx collapses the structure. The [party](Seven%20Up....md) attempts to escape.
 - [Session 51](../Session%20Log/Session%2051.md): The [party](Seven%20Up....md) realizes that the [Bloated Dragon](Bloated%20Dragon.md) is nowhere to be found.
+- [Session 52](../Session%20Log/Session%2052.md): The [party](Seven%20Up....md) wakes up to find three griffons circling the sandbar. Upon checking, they spot a [Giant Anemone](Giant%20Anemone.md) trying to eat a dead griffon.
+- [Session 52](../Session%20Log/Session%2052.md): The [party](Seven%20Up....md) is threatened by the [Giant Anemone](Giant%20Anemone.md). They successfully kill it, and they disperse the opportunistic griffons.
+- [Session 52](../Session%20Log/Session%2052.md): The [party](Seven%20Up....md) is stuck on the sandbar. The cold northern winds stop them from resting.
+- [Session 52](../Session%20Log/Session%2052.md): The [party](Seven%20Up....md) uses torches, rations, and arrows to create a bonfire. The [party](Seven%20Up....md) uses a stabling mechanism from [Thoradin](Thoradin%20Goodman.md)'s [Shield](Vambrace%20Shields.md), ropes, and [Theobald](Theobald%20Clayhollow.md)'s Immovable Rod to raise it from the rising seawater.
+- [Session 52](../Session%20Log/Session%2052.md): [Adikia](Adikia%20Unalome.md) casts Polymorph again to refresh its duration. The [party](Seven%20Up....md) lands on the coast 10 miles from [[Midkip|Midkip]].
+- [Session 52](../Session%20Log/Session%2052.md): Along the way, the [party](Seven%20Up....md) spots the [Bloated Dragon](Bloated%20Dragon.md). They manage to catch its attention, thanks to a loud roar from [Dorfir Embersense](Dorfir%20Embersense.md).
+- [Session 52](../Session%20Log/Session%2052.md): The [Bloated Dragon](Bloated%20Dragon.md) descends, and [Gandour Ironfleet](Gandour%20Ironfleet.md) meets them. He explains that the [party](Seven%20Up....md) was gone for nearly two days. The [party](Seven%20Up....md) concludes that entering the [Library](Sunken%20Library.md) must have induced another temporal anomaly.
+- [Session 52](../Session%20Log/Session%2052.md): The [party](Seven%20Up....md) notices that [Gandour](Gandour%20Ironfleet.md) is hiding something. [Gandour](Gandour%20Ironfleet.md), upon being questioned, tells the [party](Seven%20Up....md) that they must not judge him. They ascend on the [Bloated Dragon](Bloated%20Dragon.md)'s lower deck and see [Janna Furwish](Janna%20Furwish.md) waiting for them.
+> *"Lucky that you are all alive..."*
 
 ## All Entries
 - [Session 1](../../Session%201.md): [Ridnor](Ridnor.md) visits [Bulkip](Bulkip.md) and informs the [party](Seven%20Up....md) of the house arrangements
@@ -279,3 +280,12 @@ Someone broke into the royal chambers... The guards are not saying anything. I'm
 - [Session 51](../Session%20Log/Session%2051.md): Unwilling to give up their items, the [party](Seven%20Up....md) fights the sphinx.
 - [Session 51](../Session%20Log/Session%2051.md): Backed into a corner, the sphinx collapses the structure. The [party](Seven%20Up....md) attempts to escape.
 - [Session 51](../Session%20Log/Session%2051.md): The [party](Seven%20Up....md) realizes that the [Bloated Dragon](Bloated%20Dragon.md) is nowhere to be found.
+- [Session 52](../Session%20Log/Session%2052.md): The [party](Seven%20Up....md) is stuck on the sandbar. The cold northern winds stop them from resting.
+- [Session 52](../Session%20Log/Session%2052.md): The [party](Seven%20Up....md) uses torches, rations, and arrows to create a bonfire. The [party](Seven%20Up....md) uses a stabling mechanism from [Thoradin](Thoradin%20Goodman.md)'s [Shield](Vambrace%20Shields.md), ropes, and [Theobald](Theobald%20Clayhollow.md)'s Immovable Rod to raise it from the rising seawater.
+- [Session 52](../Session%20Log/Session%2052.md): The [party](Seven%20Up....md) wakes up to find three griffons circling the sandbar. Upon checking, they spot a [Giant Anemone](Giant%20Anemone.md) trying to eat a dead griffon.
+- [Session 52](../Session%20Log/Session%2052.md): The [party](Seven%20Up....md) is threatened by the [Giant Anemone](Giant%20Anemone.md). They successfully kill it, and they disperse the opportunistic griffons.
+- [Session 52](../Session%20Log/Session%2052.md): [Adikia](Adikia%20Unalome.md) casts Polymorph again to refresh its duration. The [party](Seven%20Up....md) lands on the coast 10 miles from [[Midkip|Midkip]].
+- [Session 52](../Session%20Log/Session%2052.md): Along the way, the [party](Seven%20Up....md) spots the [Bloated Dragon](Bloated%20Dragon.md). They manage to catch its attention, thanks to a loud roar from [Dorfir Embersense](Dorfir%20Embersense.md).
+- [Session 52](../Session%20Log/Session%2052.md): The [Bloated Dragon](Bloated%20Dragon.md) descends, and [Gandour Ironfleet](Gandour%20Ironfleet.md) meets them. He explains that the [party](Seven%20Up....md) was gone for nearly two days. The [party](Seven%20Up....md) concludes that entering the [Library](Sunken%20Library.md) must have induced another temporal anomaly.
+- [Session 52](../Session%20Log/Session%2052.md): The [party](Seven%20Up....md) notices that [Gandour](Gandour%20Ironfleet.md) is hiding something. [Gandour](Gandour%20Ironfleet.md), upon being questioned, tells the [party](Seven%20Up....md) that they must not judge him. They ascend on the [Bloated Dragon](Bloated%20Dragon.md)'s lower deck and see [Janna Furwish](Janna%20Furwish.md) waiting for them.
+> *"Lucky that you are all alive..."*
