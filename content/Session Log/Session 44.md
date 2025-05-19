@@ -27,8 +27,8 @@ icon: calendar
 - [Theobald](../PCs/Theobald%20Clayhollow.md) helps the guards and workers.
 - [Mitarella](../../Mitarella%20Randall.md) and company arrives, along with food and resources for [Gandour](../../Gandour%20Ironfleet.md)'s people.
 ## A Luminous Meeting
-- Meeting with [Gandour](../../Gandour%20Ironfleet.md), [Nos](../NPCs/Nos-Aji.md), [Olrac](../NPCs/Olrac.md), [Dello](../../Dello%20Stoneshard.md), [Djorken](../../Djorken%20Veegar.md) and [Augustus](../../Augustus.md).
-- [Mitarella](../../Mitarella%20Randall.md) tells [Gandour](../../Gandour%20Ironfleet.md) the news about the [Death of King Riordan](../Events/Calendar%20Events/Death%20of%20King%20Riordan.md).
+- Meeting with [Gandour](../../Gandour%20Ironfleet.md), [Nos](../NPCs/Nos-Aji.md), [Olrac](../NPCs/Olrac.md), [Dello](../../Dello%20Stoneshard.md), [Djorken](../NPCs/Djorken%20Veegar.md) and [Augustus](../../Augustus.md).
+- [Mitarella](../../Mitarella%20Randall.md) tells [Gandour](../../Gandour%20Ironfleet.md) the news about the [Death of King Riordan](../Lore/Events/Death%20of%20King%20Riordan.md).
 - [Party](../Factions/Seven%20Up....md) shares details about the [Scepter of Akenatun](../../Scepter%20of%20Akenatun.md), including those who claimed it: [Elvin](../../Elvin%20Claymore.md) and [Rickard](../NPCs/Rickard%20Kyp.md); they could not identify the other one.
 - [Adeena](../PCs/Adeena%20Oberon.md) explains to [Gandour](../../Gandour%20Ironfleet.md) that she might be the reason why the [compound](../Locations/Buildings/Ironfleet%20Compound.md) was under attack by the [Dusk Talons](../Factions/Dusk%20Talons.md). [Gandour](../../Gandour%20Ironfleet.md) was understandably exasperated.
 - [Noah](../PCs/Noah%20Skie.md) sees a vision of [Agatha](../../Agatha.md). [Noah](../PCs/Noah%20Skie.md) does not understand what [Agatha](../../Agatha.md) said.
@@ -42,7 +42,7 @@ icon: calendar
 > If I know anything about my father, it is that his loyalty lies first with his family, and then the king...
 - [Kirren](../NPCs/Kirren%20Acquermann.md) backs up [Kayvan](../../Kayvan%20Acquermann.md), saying that [Kayriel](../../Kayriel%20Acquermann.md), even when afar, was trying to be her father figure.
 - The [party](../Factions/Seven%20Up....md) is unsure about [Kayriel](../../Kayriel%20Acquermann.md)'s affiliation: is he a spy for [Kippian](../Locations/Kingdoms/Kingdom%20of%20United%20Kippian.md), a servant of [Frederick](../../Frederick%20Oberon.md), or a member of [The Cult of Miledu](../../The%20Cult%20of%20Miledu.md)?
-- Stumped on the identity of the holder of the Acquermann ring they found in the [Theater Incident](../../Theater%20Incident.md), the [party](../Factions/Seven%20Up....md) recollects their thoughts.
+- Stumped on the identity of the holder of the Acquermann ring they found in the [Theater Incident](../Lore/Events/Theater%20Incident.md), the [party](../Factions/Seven%20Up....md) recollects their thoughts.
 - The [party](../Factions/Seven%20Up....md) excluded [Kayriel](../../Kayriel%20Acquermann.md) and [Korvin](../../Korvin%20Acquermann.md) as the Acquermann member of [The Cult of Miledu](../../The%20Cult%20of%20Miledu.md).
 - [Adeena](../PCs/Adeena%20Oberon.md) asks [Kirren](../NPCs/Kirren%20Acquermann.md) if the [Acquermann Clan](../../Acquermann%20Clan.md) has records they can check. [Kirren](../NPCs/Kirren%20Acquermann.md) says yes... but the records are in [Yvernus](../Locations/Areas/Yvernus%20District.md).
 - [Kiris](../PCs/Kiris%20Acquermann.md) casts Disguise Self to mimic the face of the unknown member of the [Acquermann Clan](../../Acquermann%20Clan.md).
