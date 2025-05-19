@@ -50,8 +50,10 @@ You can use your reaction to provide this item's total AC bonus to another creat
 - [Session 42](../../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) talks to the royal guards. During a friendly contest, [Thoradin](Thoradin%20Goodman.md) sees two runic inscriptions inside his [Vambrace Shields](Vambrace%20Shields.md).
 - [Session 42](../../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) asks [Adikia](Adikia%20Unalome.md) to read the inscriptions on his [Vambrace Shields](Vambrace%20Shields.md).
 > From [Wycroft](Wycroft%20Mountain%20Kingdom.md), To [Quigymara](Quigymara.md).
+- [Session 52](../../Session%20Log/Session%2052.md): The [party](Seven%20Up....md) uses torches, rations, and arrows to create a bonfire. The [party](Seven%20Up....md) uses a stabling mechanism from [Thoradin](Thoradin%20Goodman.md)'s [Shield](Vambrace%20Shields.md), ropes, and [Theobald](Theobald%20Clayhollow.md)'s Immovable Rod to raise it from the rising seawater.
 
 ## All Entries
 - [Session 42](../../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) talks to the royal guards. During a friendly contest, [Thoradin](Thoradin%20Goodman.md) sees two runic inscriptions inside his [Vambrace Shields](Vambrace%20Shields.md).
 - [Session 42](../../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) asks [Adikia](Adikia%20Unalome.md) to read the inscriptions on his [Vambrace Shields](Vambrace%20Shields.md).
 > From [Wycroft](Wycroft%20Mountain%20Kingdom.md), To [Quigymara](Quigymara.md).
+- [Session 52](../../Session%20Log/Session%2052.md): The [party](Seven%20Up....md) uses torches, rations, and arrows to create a bonfire. The [party](Seven%20Up....md) uses a stabling mechanism from [Thoradin](Thoradin%20Goodman.md)'s [Shield](Vambrace%20Shields.md), ropes, and [Theobald](Theobald%20Clayhollow.md)'s Immovable Rod to raise it from the rising seawater.
