@@ -10,7 +10,7 @@ icon: calendar
 ## A Funeral
 - [Party](../Factions/Seven%20Up....md) takes a long rest inside the [Labyrinthus](../Locations/Areas/Labyrinthus.md).
 - The [party](../Factions/Seven%20Up....md) incurs temporal displacement sickness. [Theobald](../PCs/Theobald%20Clayhollow.md), [Arc](../PCs/Arc.md) and [Adeena](../PCs/Adeena%20Oberon.md) are more affected by the sickness.
-- A servant informs them that they are invited at the [Funeral of King Riordan](../Events/Calendar%20Events/Funeral%20of%20King%20Riordan.md). The servant gives them formal clothes to wear.
+- A servant informs them that they are invited at the [Funeral of King Riordan](../Lore/Events/Funeral%20of%20King%20Riordan.md). The servant gives them formal clothes to wear.
 - [Adeena](../PCs/Adeena%20Oberon.md) opts to meditate and talk to [Aulephi](../Deities/New%20Gods/Aulephi.md). [Arc](../PCs/Arc.md) opts to rest instead.
 - [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) casts Augury with a couple of coins.
 > [Splix](../PCs/Spraugh%20'Splix'%20Calix.md)'s Augury reveals: "Weal, maybe woe."
@@ -22,7 +22,7 @@ icon: calendar
 - [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) spots [Professor Aufel](../../Aufel%20Fernquill.md) and talk to him. During their reunion, [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) showed his professor his [Ymerald Staff](../Items/Mythic%20Items/Ymerald%20Staff.md).
 - [Professor Aufel](../../Aufel%20Fernquill.md) inspects the staff, and is boggled by it. [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) then shows the [Arcanus Labyrinthus](../../Arcanus%20Labyrinthus.md). [Professor Aufel](../../Aufel%20Fernquill.md) is understandably confused.
 - [Noah](../PCs/Noah%20Skie.md) overhears that [Professor Aufel](../../Aufel%20Fernquill.md) and [Michaela](../../Michaela%20Randall.md) talking. The [professor](../../Aufel%20Fernquill.md)'s there to conduct research within the [Ankyra's Old Castle Compound](../Locations/Buildings/Ankyra's%20Old%20Castle%20Compound.md)'s library that could help with the [Yvernus](../Locations/Areas/Yvernus%20District.md) situation.
-- The body of [King Riordan](../../Riordan%20Kyp.md) is doused by the [Fire of Akenatun](../../Fire%20of%20Akenatun.md). The [funeral](../Events/Calendar%20Events/Funeral%20of%20King%20Riordan.md) ends.
+- The body of [King Riordan](../../Riordan%20Kyp.md) is doused by the [Fire of Akenatun](../../Fire%20of%20Akenatun.md). The [funeral](../Lore/Events/Funeral%20of%20King%20Riordan.md) ends.
 ## In the mean time...
 - [Arc](../PCs/Arc.md) wakes up, and [Adeena](../PCs/Adeena%20Oberon.md) is not in the room. She left the following note:
 > [!NOTE]

@@ -32,7 +32,7 @@ icon: character
 ### Leader of the [Curkip Thieves Guild](../Factions/Curkip%20Thieves%20Guild.md)
 [Nos](Nos-Aji.md) is the leader of the [Curkip Thieves Guild](../Factions/Curkip%20Thieves%20Guild.md). Due to his principled stances, easygoing personality, and inventiveness, [Nos-Aji](Nos-Aji.md) managed to expand the guild's influence and reach. He also has many contacts not only within the city of [Curkip](../Locations/Settlements/Curkip.md), but also throughout the [Kippian](../Locations/Kingdoms/Kingdom%20of%20United%20Kippian.md) settlements.
 
-As the guild's leader, [Nos](Nos-Aji.md) planned and led the recent [Curkip Revolt](../Lore/Curkip%20Revolt.md).
+As the guild's leader, [Nos](Nos-Aji.md) planned and led the recent [Curkip Revolt](../Lore/Events/Curkip%20Revolt.md).
 ## Relationships
 [Nos](Nos-Aji.md) trusts and is trusted by the [party](../Factions/Seven%20Up....md). He considers [Olrac](./Olrac.md) his apprentice and closest friend.
 # Story log

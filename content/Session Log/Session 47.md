@@ -21,8 +21,8 @@ icon: calendar
 - [Raveena](../NPCs/Raveena%20Malandar.md) joined [The Cult of Miledu](../../The%20Cult%20of%20Miledu.md) to gain power.
 - [Raveena](../NPCs/Raveena%20Malandar.md) aims to lead [Drakon](../Locations/Areas/Drakon%20District.md) into an industrious future.
 - [The Cult of Miledu](../../The%20Cult%20of%20Miledu.md) recruited [Raveena](../NPCs/Raveena%20Malandar.md) to inform members and create propaganda.
-- [Raveena](../NPCs/Raveena%20Malandar.md) claims the [Theater Incident](../../Theater%20Incident.md) as her and [Roldan](../../Roldan%20Vinke.md)'s idea. The idea was to gauge public perception regarding the [The Cult of Miledu](../../The%20Cult%20of%20Miledu.md).
-- The [party](../Factions/Seven%20Up....md) is about to hurt [Raveena](../NPCs/Raveena%20Malandar.md), but [Djorken](../../Djorken%20Veegar.md) interjects. He tells [Adikia](../PCs/Adikia%20Unalome.md) that they can use her to quell the [Malandar Rebellion](../../Malandar%20Rebellion.md).
+- [Raveena](../NPCs/Raveena%20Malandar.md) claims the [Theater Incident](../Lore/Events/Theater%20Incident.md) as her and [Roldan](../../Roldan%20Vinke.md)'s idea. The idea was to gauge public perception regarding the [The Cult of Miledu](../../The%20Cult%20of%20Miledu.md).
+- The [party](../Factions/Seven%20Up....md) is about to hurt [Raveena](../NPCs/Raveena%20Malandar.md), but [Djorken](../NPCs/Djorken%20Veegar.md) interjects. He tells [Adikia](../PCs/Adikia%20Unalome.md) that they can use her to quell the [Malandar Rebellion](../../Malandar%20Rebellion.md).
 - The [party](../Factions/Seven%20Up....md) decides to lock up [Raveena](../NPCs/Raveena%20Malandar.md) in [Ankyra](../Locations/Areas/Ankyra%20District.md), where [Rickard](../NPCs/Rickard%20Kyp.md) and [Malvin](../NPCs/Malvin%20Randall.md) are also jailed.
 ## Incarceration
 - The [party](../Factions/Seven%20Up....md) travels to [Ankyra](../Locations/Areas/Ankyra%20District.md). During their travel, [Theobald](../PCs/Theobald%20Clayhollow.md) and [Thoradin](../PCs/Thoradin%20Goodman.md) have a sincere talk regarding faith.

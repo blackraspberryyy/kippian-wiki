@@ -7,7 +7,7 @@ race: elf
 age: adult
 alignment: 
 background: priest
-location: "[[Chapel of Amlin]]"
+location: "[Chapel of Amlin](../Locations/Buildings/Chapel%20of%20Amlin.md)"
 faction: 
 status: 
 lore_type: character
@@ -29,7 +29,7 @@ icon: character
 > | Location|  [Chapel of Amlin](../Locations/Buildings/Chapel%20of%20Amlin.md)|
 > | Faction| | 
 ## Description
-
+[Father Drenn](Drenn%20Halyx.md) is a high-level cleric of [Amlin](../Deities/New%20Gods/Amlin.md). He oversees the [Chapel of Amlin](../Locations/Buildings/Chapel%20of%20Amlin.md) in [Foenyx District](../Locations/Areas/Foenyx%20District.md).
 ## Relationships
 # Story Log
 ## Most Recent

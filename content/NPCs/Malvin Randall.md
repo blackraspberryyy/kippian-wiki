@@ -31,7 +31,7 @@ icon: character
 ## Description
 [Malvin Randall](Malvin%20Randall.md) is a noble hailing from [Duospathia](../Locations/Areas/Duospathia%20District.md).
 
-[Malvin](Malvin%20Randall.md) appears in the [Theater Incident](../../Theater%20Incident.md) as the member who is wearing [Duospathia](../Locations/Areas/Duospathia%20District.md)'s ring.
+[Malvin](Malvin%20Randall.md) appears in the [Theater Incident](../Lore/Events/Theater%20Incident.md) as the member who is wearing [Duospathia](../Locations/Areas/Duospathia%20District.md)'s ring.
 
 While in [Suirsya](../Locations/Continents/Suirsya.md), [Noah](../PCs/Noah%20Skie.md) trained [Malvin](Malvin%20Randall.md) to be a scout for the [United Kippian Military](../Factions/United%20Kippian%20Military.md).
 ## Relationships

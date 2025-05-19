@@ -43,11 +43,12 @@ icon: settlement
 
 | Name                                             | Aliases            | Location                                                        |
 | ------------------------------------------------ | ------------------ | --------------------------------------------------------------- |
-| [Djorken Veegar](../../../Djorken%20Veegar.md)       | Djorken            | [Drakon District](../Areas/Drakon%20District.md)         |
+| [Djorken Veegar](../../NPCs/Djorken%20Veegar.md)       | Djorken            | [Drakon District](../Areas/Drakon%20District.md)         |
+| [Janna Furwish](../../NPCs/Janna%20Furwish.md)         | Janna              | [Aetos District](../Areas/Aetos%20District.md)           |
 | [Kayvan Acquermann](../../../Kayvan%20Acquermann.md) | Kayvan             | [Yvernus District](../Areas/Yvernus%20District.md)       |
 | [Kiris Acquermann](../../PCs/Kiris%20Acquermann.md)    | Kiris              | [Yvernus District](../Areas/Yvernus%20District.md)       |
 | [Kirren Acquermann](../../NPCs/Kirren%20Acquermann.md) | Kirren             | [Yvernus District](../Areas/Yvernus%20District.md)       |
-| [Laurie Furwish](../../../Laurie%20Furwish.md)       | Laurie             | [Aetos District](../Areas/Aetos%20District.md)           |
+| [Laurie Furwish](../../NPCs/Laurie%20Furwish.md)       | Laurie             | [Aetos District](../Areas/Aetos%20District.md)           |
 | [Michaela Randall](../../../Michaela%20Randall.md)   | Michaela           | [Duospathia District](../Areas/Duospathia%20District.md) |
 | [Mitarella Randall](../../../Mitarella%20Randall.md) | Mitarella          | [Duospathia District](../Areas/Duospathia%20District.md) |
 | [Remus Kyp](../../../Remus%20Kyp.md)                 | Remus              | [Ankyra District](../Areas/Ankyra%20District.md)         |

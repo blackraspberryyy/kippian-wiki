@@ -19,7 +19,7 @@ icon: map
 ## Description
 [Midelia](../Settlements/Midkip.md)'s westernmost district, [Drakon](Drakon%20District.md), is where rural migrants settle. The district is one of the two outer districts. Farms and ranches are scattered within the district.
 
-[Gokare Veegar](../../../Gokare%20Veegar.md) serves as the district's [High Council](../../Factions/The%20High%20Council%20of%20Midkip.md) representative.
+[Gokare Veegar](../../NPCs/Gokare%20Veegar.md) serves as the district's [High Council](../../Factions/The%20High%20Council%20of%20Midkip.md) representative.
 ### Population
 Twenty-five percent of the district's population are dragonborn. According to the district's history, the dragonborn, who are not native to [Kippian](../Kingdoms/Kingdom%20of%20United%20Kippian.md), were the first settlers of [Drakon](Drakon%20District.md) district.
 # Notable Locations
@@ -30,8 +30,8 @@ Twenty-five percent of the district's population are dragonborn. According to th
 # Notable NPCs
 | Name                                           |
 | ---------------------------------------------- |
-| [Djorken Veegar](../../../Djorken%20Veegar.md)     |
-| [Gokare Veegar](../../../Gokare%20Veegar.md)       |
+| [Djorken Veegar](../../NPCs/Djorken%20Veegar.md)     |
+| [Gokare Veegar](../../NPCs/Gokare%20Veegar.md)       |
 | [Raveena Malandar](../../NPCs/Raveena%20Malandar.md) |
 
 # Factions

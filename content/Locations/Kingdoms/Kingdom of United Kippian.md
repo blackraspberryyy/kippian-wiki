@@ -26,8 +26,8 @@ icon: map
 | [Bulkip](../Settlements/Bulkip.md)                 |
 | [Ankor](../Settlements/Ankor.md)                   |
 | [Curkip](../Settlements/Curkip.md)                 |
-| [Midkip](../Settlements/Midkip.md)                 |
 | [Midkor](../Settlements/Midkor.md)                 |
+| [Midkip](../Settlements/Midkip.md)                 |
 | [Vonkor](../Settlements/Vonkor.md)                 |
 | [Walkor](../Settlements/Walkor.md)                 |
 | [Yelkor](../Settlements/Yelkor.md)                 |

@@ -21,16 +21,17 @@ icon: settlement
 | Name                                                            |
 | --------------------------------------------------------------- |
 | [Effil Orphanage](../Buildings/Effil%20Orphanage.md)     |
+| [Calix Estate](../Buildings/Calix%20Estate.md)           |
 | [Savras University](../Buildings/Savras%20University.md) |
 | [Temple of Aisef](../Buildings/Temple%20of%20Aisef.md)     |
 
 # Notable NPCs
 | Name                                                    |
 | ------------------------------------------------------- |
-| [Adzana Furwish](../../../Adzana%20Furwish.md)              |
+| [Adzana Furwish](../../NPCs/Adzana%20Furwish.md)              |
 | [Steckun Calix](../../../Steckun%20Calix.md)                |
-| [Theobald Clayhollow](../../PCs/Theobald%20Clayhollow.md)     |
 | [Spraugh 'Splix' Calix](../../PCs/Spraugh%20'Splix'%20Calix.md) |
+| [Theobald Clayhollow](../../PCs/Theobald%20Clayhollow.md)     |
 
 # Factions
 | Name |

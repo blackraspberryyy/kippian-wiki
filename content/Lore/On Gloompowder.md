@@ -21,7 +21,7 @@ icon: lore
 ## Description
 This rough, red-hued powder is extremely explosive and flammable. Its crafting process includes infusing blacksand, a less potent natural explosive, with a concoction of alchemical acids and catalysts. Crafting gloompowder devices such as cannons and arquebuses is a niche within smithing circles.
 
-The port of [Curkip](../Locations/Settlements/Curkip.md) imports barrels of gloompowder. During the [Curkip Revolt](./Curkip%20Revolt.md), gloompowder is used as the rebels' choice of firepower.
+The port of [Curkip](../Locations/Settlements/Curkip.md) imports barrels of gloompowder. During the [Curkip Revolt](./Events/Curkip%20Revolt.md), gloompowder is used as the rebels' choice of firepower.
 # Lore Mentions
 # Story Log
 ## Most Recent

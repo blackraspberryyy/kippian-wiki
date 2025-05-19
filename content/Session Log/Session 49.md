@@ -8,7 +8,7 @@ icon: calendar
 ---
 # Dealings and Negotiations
 ## Dinner Meeting
-- The [party](../Factions/Seven%20Up....md) meets with [Gandour](../../Gandour%20Ironfleet.md), [Kirren](../NPCs/Kirren%20Acquermann.md), [Kayvan](../../Kayvan%20Acquermann.md) [Djorken](../../Djorken%20Veegar.md), [Nos-Aji](../NPCs/Nos-Aji.md), and [Olrac](../NPCs/Olrac.md).
+- The [party](../Factions/Seven%20Up....md) meets with [Gandour](../../Gandour%20Ironfleet.md), [Kirren](../NPCs/Kirren%20Acquermann.md), [Kayvan](../../Kayvan%20Acquermann.md) [Djorken](../NPCs/Djorken%20Veegar.md), [Nos-Aji](../NPCs/Nos-Aji.md), and [Olrac](../NPCs/Olrac.md).
 - The [party](../Factions/Seven%20Up....md) asks for help regarding [Nokia](../PCs/Companions/Nokia.md) being petrified. [Gandour](../../Gandour%20Ironfleet.md) mentions a cleric from [Foenyx](../Locations/Areas/Foenyx%20District.md) might do the job.
 - [Theobald](../PCs/Theobald%20Clayhollow.md) recalls that a Greater Restoration spell can heal petrification. [Adikia](../PCs/Adikia%20Unalome.md) decides to go to [Foenyx](../Locations/Areas/Foenyx%20District.md) first day in the morning.
 - [Gandour](../../Gandour%20Ironfleet.md) shares that the airship begin its test run tomorrow afternoon.

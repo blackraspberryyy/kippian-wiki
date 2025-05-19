@@ -20,16 +20,16 @@ icon: calendar
 - The [party](../Factions/Seven%20Up....md) takes a long rest.
 ## Next Morning (6th of Zagi)
 - The [party](../Factions/Seven%20Up....md) wakes up, but [Noah](../PCs/Noah%20Skie.md) is still missing.
-- [Djorken](../../Djorken%20Veegar.md) knocks on the [party](../Factions/Seven%20Up....md)'s room and gives [Adeena](../PCs/Adeena%20Oberon.md) a letter.
+- [Djorken](../NPCs/Djorken%20Veegar.md) knocks on the [party](../Factions/Seven%20Up....md)'s room and gives [Adeena](../PCs/Adeena%20Oberon.md) a letter.
 - [Adeena](../PCs/Adeena%20Oberon.md) receives a letter. Within it is a map, a symbol of [Yekora](../Deities/New%20Gods/Yekora.md), and a note:
 > Meet me here, alone.
 > 
 > -C/K
-- [Djorken](../../Djorken%20Veegar.md) tells the [party](../Factions/Seven%20Up....md) that he received the letter from a guard.
-- [Djorken](../../Djorken%20Veegar.md) imparts that [Mitarella](../../Mitarella%20Randall.md), [Remus](../../Remus%20Kyp.md) and [Kirren](../NPCs/Kirren%20Acquermann.md) will return back to [Ankyra's Old Castle Compound](../Locations/Buildings/Ankyra's%20Old%20Castle%20Compound.md) after lunch. He expects the [party](../Factions/Seven%20Up....md) to attend the lunch.
+- [Djorken](../NPCs/Djorken%20Veegar.md) tells the [party](../Factions/Seven%20Up....md) that he received the letter from a guard.
+- [Djorken](../NPCs/Djorken%20Veegar.md) imparts that [Mitarella](../../Mitarella%20Randall.md), [Remus](../../Remus%20Kyp.md) and [Kirren](../NPCs/Kirren%20Acquermann.md) will return back to [Ankyra's Old Castle Compound](../Locations/Buildings/Ankyra's%20Old%20Castle%20Compound.md) after lunch. He expects the [party](../Factions/Seven%20Up....md) to attend the lunch.
 - [Adeena](../PCs/Adeena%20Oberon.md) discloses that she plans to go alone later. She and the [party](../Factions/Seven%20Up....md) discusses a plan of action.
 - [Thoradin](../PCs/Thoradin%20Goodman.md), [Theobald](../PCs/Theobald%20Clayhollow.md) and [Kiris](../PCs/Kiris%20Acquermann.md) helps with the construction of the airship.
-- [Adikia](../PCs/Adikia%20Unalome.md) tracks the guard who gave [Djorken](../../Djorken%20Veegar.md) the letter.
+- [Adikia](../PCs/Adikia%20Unalome.md) tracks the guard who gave [Djorken](../NPCs/Djorken%20Veegar.md) the letter.
 - [Adikia](../PCs/Adikia%20Unalome.md) finds the guard and listens first to his stories. The guard explains that he received a boon last night. He and his wife received 10 sp from an anonymous intruder.
 - [Adikia](../PCs/Adikia%20Unalome.md) interrogates the guard about the letter; the guard claims that he received the letter at his desk as he entered his post this early morning.
 ## Lunch and Preparation
@@ -64,7 +64,7 @@ icon: calendar
 - [Kayriel](../../Kayriel%20Acquermann.md) shares his plan: in order to preserve his cover as a [Kippian](../Locations/Kingdoms/Kingdom%20of%20United%20Kippian.md) spy and earn [Adeena](../PCs/Adeena%20Oberon.md)'s trust, [Adeena](../PCs/Adeena%20Oberon.md) must kill [Kayriel](../../Kayriel%20Acquermann.md) the next time they meet.
 - [Adeena](../PCs/Adeena%20Oberon.md) is initially hesitant, but [Kayriel](../../Kayriel%20Acquermann.md) convinces her to trust the plan. To ensure that it is him, [Kayriel](../../Kayriel%20Acquermann.md) shows [Adeena](../PCs/Adeena%20Oberon.md) a locket with a picture of him, his wife, and [Kayvan](../../Kayvan%20Acquermann.md). He reveals that this is the thing he stole from his son's quarters in [Ankyra's Old Castle Compound](../Locations/Buildings/Ankyra's%20Old%20Castle%20Compound.md).
 ### Knowledge about [The Cult of Miledu](../../The%20Cult%20of%20Miledu.md)
-- Regarding [The Cult of Miledu](../../The%20Cult%20of%20Miledu.md), [Kayriel](../../Kayriel%20Acquermann.md) is as clueless as the [party](../Factions/Seven%20Up....md). He mentions that he has knowledge of the [Theater Incident](../../Theater%20Incident.md) since a follower from the [Order of Yekora](../Factions/Followers%20of%20Yekora.md) told it to him.
+- Regarding [The Cult of Miledu](../../The%20Cult%20of%20Miledu.md), [Kayriel](../../Kayriel%20Acquermann.md) is as clueless as the [party](../Factions/Seven%20Up....md). He mentions that he has knowledge of the [Theater Incident](../Lore/Events/Theater%20Incident.md) since a follower from the [Order of Yekora](../Factions/Followers%20of%20Yekora.md) told it to him.
 ### On [Kayriel](../../Kayriel%20Acquermann.md)'s clones
 - [Kayriel](../../Kayriel%20Acquermann.md)'s clones are the result of a magic cast by a [Sumber](../Locations/Continents/Sumber.md) mage on him. He does not know how many clones are left, though he thinks that there are about five. [Adeena](../PCs/Adeena%20Oberon.md) shares that they have killed two of them.
 ### On the mysterious [Acquermann](../../Acquermann%20Clan.md)

@@ -23,8 +23,8 @@ icon: map
 # Notable Locations
 | Name                                                        |
 | ----------------------------------------------------------- |
-| [Chapel of Amlin](../Buildings/Chapel%20of%20Amlin.md) |
 | [Chapel of Aisef](../Buildings/Chapel%20of%20Aisef.md) |
+| [Chapel of Amlin](../Buildings/Chapel%20of%20Amlin.md) |
 | [Grand Cathedral](../Buildings/Grand%20Cathedral.md) |
 
 # Notable NPCs

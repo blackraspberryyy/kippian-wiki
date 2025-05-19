@@ -17,7 +17,6 @@ icon: faction
 > | Aliases | The Old Gods|
 > | Status| |
 > | Based in|  |
-#### Known for:
 ## Description
 # Organization
 #### Leader:
@@ -25,8 +24,6 @@ icon: faction
 | Name |
 | ---- |
 
-# Goals
-- [ ] Task 1
 # Story log
 ## Most Recent
 - [Session 47](../../Session%20Log/Session%2047.md): [Theobald](Theobald%20Clayhollow.md) enters the chapel and directs his plea to [Aisef](Aisef.md). He hears the divine whisper clearer:
