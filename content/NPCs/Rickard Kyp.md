@@ -31,9 +31,9 @@ icon: character
 ## Description
 [Rickard](Rickard%20Kyp.md) is the youngest of the two sons of [King Riordan](../../Riordan%20Kyp.md). [Rickard](Rickard%20Kyp.md) appears to be aloof and follows the lead of his older brother.
 
-As the younger brother of [Remus](../../Remus%20Kyp.md), [Rickard](Rickard%20Kyp.md) has little chance of being the [Kingdom of United Kippian](../Locations/Kingdoms/Kingdom%20of%20United%20Kippian.md). Yet [Rickard](Rickard%20Kyp.md) covets the throne. This jealousy led [Rickard](Rickard%20Kyp.md) to be in league with [The Cult of Miledu](../../The%20Cult%20of%20Miledu.md). [Rickard](Rickard%20Kyp.md) appears in the [Theater Incident](../../Theater%20Incident.md) as the representative wearing [Ankyra](../Locations/Areas/Ankyra%20District.md)'s ring.
+As the younger brother of [Remus](../../Remus%20Kyp.md), [Rickard](Rickard%20Kyp.md) has little chance of being the [Kingdom of United Kippian](../Locations/Kingdoms/Kingdom%20of%20United%20Kippian.md). Yet [Rickard](Rickard%20Kyp.md) covets the throne. This jealousy led [Rickard](Rickard%20Kyp.md) to be in league with [The Cult of Miledu](../../The%20Cult%20of%20Miledu.md). [Rickard](Rickard%20Kyp.md) appears in the [Theater Incident](../Lore/Events/Theater%20Incident.md) as the representative wearing [Ankyra](../Locations/Areas/Ankyra%20District.md)'s ring.
 
-During the [party](../Factions/Seven%20Up....md)'s investigations of the [Death of King Riordan](../Events/Calendar%20Events/Death%20of%20King%20Riordan.md), [Rickard](Rickard%20Kyp.md) is revealed to be the assassin of [King Riordan](../../Riordan%20Kyp.md). He used the [Aureate Rapier](../Items/Mythic%20Items/Aureate%20Rapier.md) to kill the [King](../../Riordan%20Kyp.md).
+During the [party](../Factions/Seven%20Up....md)'s investigations of the [Death of King Riordan](../Lore/Events/Death%20of%20King%20Riordan.md), [Rickard](Rickard%20Kyp.md) is revealed to be the assassin of [King Riordan](../../Riordan%20Kyp.md). He used the [Aureate Rapier](../Items/Mythic%20Items/Aureate%20Rapier.md) to kill the [King](../../Riordan%20Kyp.md).
 ## Relationships
 - [Rickard](Rickard%20Kyp.md) is the son of [King Riordan](../../Riordan%20Kyp.md) and brother of [Remus Kyp](../../Remus%20Kyp.md).
 # Story log
