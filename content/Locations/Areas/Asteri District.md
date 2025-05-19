@@ -23,7 +23,7 @@ The district is made of gold, silver, and adorned with gemstones. An Antimagic F
 
 The district's interests are represented by [United Kippian](../Kingdoms/Kingdom%20of%20United%20Kippian.md)'s king, [King Riordan](../../../Riordan%20Kyp.md).
 
-Due to the [Assault on Asteri](../../../Assault%20on%20Asteri.md), the district is destroyed, marking an end of [Kippian](../Kingdoms/Kingdom%20of%20United%20Kippian.md)'s stability.
+Due to the [Assault on Asteri](Events/Calendar%20Events/Assault%20on%20Asteri.md), the district is destroyed, marking an end of [Kippian](../Kingdoms/Kingdom%20of%20United%20Kippian.md)'s stability.
 # Notable Locations
 | Name                                                                |
 | ------------------------------------------------------------------- |
