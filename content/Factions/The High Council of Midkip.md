@@ -28,9 +28,9 @@ Drakon-Aetos-Chtapodhi-Foenyx-King of Kippian-Ankyra-Yvernus-Duospathia-Lykos
 | Name                                               |
 | -------------------------------------------------- |
 | [Armand Gorrel](../../Armand%20Gorrel.md)           |
-| [Gokare Veegar](../../Gokare%20Veegar.md)           |
+| [Gokare Veegar](../NPCs/Gokare%20Veegar.md)           |
 | [Kayvan Acquermann](../../Kayvan%20Acquermann.md)   |
-| [Laurie Furwish](../../Laurie%20Furwish.md)         |
+| [Laurie Furwish](../NPCs/Laurie%20Furwish.md)         |
 | [Mitarella Randall](../../Mitarella%20Randall.md)   |
 | [Remus Kyp](../../Remus%20Kyp.md)                   |
 | [Riordan Kyp](../../Riordan%20Kyp.md)               |
