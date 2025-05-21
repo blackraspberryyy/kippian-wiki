@@ -23,6 +23,9 @@ import parseFrontMatter from 'front-matter';
 import fs from 'fs';
 import { getFcDateString, insertToJson } from "./util/calendar"
 import { CalendarEvent } from "./plugins/types"
+import cloneDeep from "lodash.clonedeep"
+import { find, Node } from 'unist-util-find'
+import { visit } from "unist-util-visit"
 
 type Dependencies = Record<string, DepGraph<FilePath> | null>
 
@@ -98,17 +101,45 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
 
   // look for calendar events and put it to 'built_calendar_events'
   const calendarEvents: CalendarEvent[] = [];
-  filePaths.forEach(fp => {
+  for (const fp of filePaths) {
     const fileContent = fs.readFileSync(fp, {encoding: 'utf-8'});
     const frontmatter = parseFrontMatter<{[key: string]: any}>(fileContent);
-
     const fcDate = frontmatter?.attributes['fc-date'];
-    const fcName = path.basename(fp, '.md');
-    const fcCategory = frontmatter?.attributes['fc-category'];
-    const fcEndDate = frontmatter?.attributes['fc-end'];
-    const fcSlug = slugifyFilePath(fp);
 
     if (!!fcDate) {
+      const fcCategory = frontmatter?.attributes['fc-category'];
+      const fcEndDate = frontmatter?.attributes['fc-end'];
+      const fcSlug = slugifyFilePath(fp);
+      let fcName = path.basename(fp, '.md');
+
+      // append the title to the name
+      if (fcCategory === 'Session') {
+        // get the right parsed file
+        const parsedFile = parsedFiles.find(([_, vfile]) => vfile.data.filePath === fp);
+        
+        if (!parsedFile) {return;}   // session number is enough if no files was found.
+        const [tree, _vfile] = parsedFile;
+        
+        // get the name of the session by looking at the first h1
+        const headerNode = cloneDeep(find(tree, (node: any) => {
+          return (
+            node.type === "element" && 
+            node.tagName === 'h1'
+          )
+        }))
+        if (!headerNode) { return; }  // session number is enough if no headings was found.
+        const titleNode = (headerNode as Node & {children: Node[]});
+        let title = '';
+        visit(titleNode, (node) => {
+          if (node && node.type === 'text' && (node as Node & {value: string}).value) {
+            title = title + (node as Node & {value: string}).value
+          }
+        })
+        // const title = titleNode;
+        if (!title) { return; } // session number is enough if no heading title was found.
+        fcName = fcName + ' - ' + title;
+      }
+
       const obj: CalendarEvent = {
         name: '',
         date: '',
@@ -130,7 +161,7 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
 
       calendarEvents.push(obj);
     }
-  })
+  }
 
   if (calendarEvents && calendarEvents.length > 0) {
     insertToJson(calendarEvents);
