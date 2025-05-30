@@ -23,7 +23,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Faculty Glyphic",
+        header: "Schibsted Grotesk",
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
@@ -174,6 +174,8 @@ const config: QuartzConfig = {
       Plugin.NotFoundPage(),
       Plugin.LoreTimelinePage(),
       Plugin.SessionsTimelinePage(),
+      // Comment out CustomOgImages to speed up build time
+      Plugin.CustomOgImages(),
     ],
   },
 }

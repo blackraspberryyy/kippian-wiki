@@ -1,5 +1,10 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { Options as ExplorerOptions } from "./quartz/components/Explorer";
+
+const EXPLORER_CONFIG: Partial<ExplorerOptions> = {
+  folderClickBehavior: 'collapse',
+};
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -37,7 +42,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer(EXPLORER_CONFIG),
   ],
   right: [
     Component.Infobox(),
@@ -62,7 +67,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer(EXPLORER_CONFIG),
   ],
   right: [],
 }

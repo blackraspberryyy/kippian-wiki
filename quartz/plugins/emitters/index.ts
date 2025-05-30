@@ -11,3 +11,4 @@ export { NotFoundPage } from "./404"
 export { CNAME } from "./cname"
 export { LoreTimelinePage } from "./loreTimeline"
 export { SessionsTimelinePage } from './sessionsTimeline'
+export { CustomOgImages } from './ogImage';

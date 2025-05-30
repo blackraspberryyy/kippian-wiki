@@ -183,8 +183,21 @@ export const defaultImage: SocialImageOptions["imageStructure"] = ({
   const fontBreakPoint = 32
   const useSmallerFont = title.length > fontBreakPoint
 
-  // Setup to access image
-  const iconPath = `https://${cfg.baseUrl}/static/kippian_icon.png`
+  // Format date if available
+  const rawDate = getDate(cfg, fileData)
+  const date = rawDate ? formatDate(rawDate, cfg.locale) : null
+
+  // Calculate reading time
+  const { minutes } = readingTime(fileData.text ?? "")
+  const readingTimeText = i18n(cfg.locale).components.contentMeta.readingTime({
+    minutes: Math.ceil(minutes),
+  })
+
+  // Get tags if available
+  const tags = fileData.frontmatter?.tags ?? []
+  const bodyFont = getFontSpecificationName(cfg.theme.typography.body)
+  const headerFont = getFontSpecificationName(cfg.theme.typography.header)
+
   return (
     <div
       style={{
