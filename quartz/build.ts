@@ -18,6 +18,9 @@ import { trace } from "./util/trace"
 import { options } from "./util/sourcemap"
 import { Mutex } from "async-mutex"
 import { getStaticResourcesFromPlugins } from "./plugins"
+import { randomIdNonSecure } from "./util/random"
+import { ChangeEvent } from "./plugins/types"
+import { minimatch } from "minimatch"
 import parseFrontMatter from 'front-matter';
 import fs from 'fs';
 import { getFcDateString, insertToJson } from "./util/calendar"
@@ -26,7 +29,16 @@ import cloneDeep from "lodash.clonedeep"
 import { find, Node } from 'unist-util-find'
 import { visit } from "unist-util-visit"
 
-type Dependencies = Record<string, DepGraph<FilePath> | null>
+type ContentMap = Map<
+  FilePath,
+  | {
+      type: "markdown"
+      content: ProcessedContent
+    }
+  | {
+      type: "other"
+    }
+>
 
 type BuildData = {
   ctx: BuildCtx
@@ -79,17 +91,22 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
   const parsedFiles = await parseMarkdown(ctx, filePaths)
   const filteredContent = filterContent(ctx, parsedFiles)
 
-  const dependencies: Record<string, DepGraph<FilePath> | null> = {}
+  await generateCalendarJson(filePaths, parsedFiles, argv)
 
-  // Only build dependency graphs if we're doing a fast rebuild
-  if (argv.fastRebuild) {
-    const staticResources = getStaticResourcesFromPlugins(ctx)
-    for (const emitter of cfg.plugins.emitters) {
-      dependencies[emitter.name] =
-        (await emitter.getDependencyGraph?.(ctx, filteredContent, staticResources)) ?? null
-    }
+  await emitContent(ctx, filteredContent)
+  console.log(
+    styleText("green", `Done processing ${markdownPaths.length} files in ${perf.timeSince()}`),
+  )
+  release()
+
+
+  if (argv.watch) {
+    ctx.incremental = true
+    return startWatching(ctx, mut, parsedFiles, clientRefresh)
   }
+}
 
+async function generateCalendarJson(filePaths: FilePath[], parsedFiles: ProcessedContent[], argv: Argv) {
   // look for calendar events and put it to 'built_calendar_events'
   const calendarEvents: CalendarEvent[] = [];
   for (const fp of filePaths) {
@@ -156,17 +173,6 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
 
   if (calendarEvents && calendarEvents.length > 0) {
     insertToJson(calendarEvents);
-  }
-
-  await emitContent(ctx, filteredContent)
-  console.log(
-    styleText("green", `Done processing ${markdownPaths.length} files in ${perf.timeSince()}`),
-  )
-  release()
-
-  if (argv.watch) {
-    ctx.incremental = true
-    return startWatching(ctx, mut, parsedFiles, clientRefresh)
   }
 }
 
