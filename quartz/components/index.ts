@@ -25,6 +25,8 @@ import Infobox from "./Infobox"
 import Timeline from "./Timeline"
 import SessionsTimeline from "./pages/SessionsTimeline"
 import LoreTimeline from "./pages/LoreTimeline"
+import ConditionalRender from "./ConditionalRender"
+import Flex from "./Flex"
 
 export {
   ArticleTitle,
@@ -54,4 +56,6 @@ export {
   Timeline,
   SessionsTimeline,
   LoreTimeline,
+  ConditionalRender,
+  Flex
 }

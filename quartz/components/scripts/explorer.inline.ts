@@ -1,5 +1,5 @@
 import { FileTrieNode } from "../../util/fileTrie"
-import { FullSlug, resolveRelative, simplifySlug } from "../../util/path"
+import { FilePath, FullSlug, resolveRelative, simplifySlug } from "../../util/path"
 import { ContentDetails } from "../../plugins/emitters/contentIndex"
 
 type MaybeHTMLElement = HTMLElement | undefined
@@ -207,7 +207,43 @@ async function setupExplorer(currentSlug: FullSlug) {
 
     // Create and insert new content
     const fragment = document.createDocumentFragment()
-    for (const child of trie.children) {
+
+    // Let us also insert Lore and Sessions Timeline
+    // @ts-ignore - We just want to imitate as if Sessions Timeline.md is present under content folder. But really, we're just hard-coding it here.
+    const sessionsTimelineChild: FileTrieNode<ContentDetails> = {
+        isFolder: false,
+        children: [],
+        slugSegments: ['sessions-timeline'],
+        data: {
+            slug: "sessions-timeline" as FullSlug,
+            filePath: "Sessions Timeline.md" as FilePath,
+            title: "Sessions Timeline",
+            links: [],
+            tags: [],
+            content: ""
+        },
+        slug: "sessions-timeline" as FullSlug,
+        displayName: 'Sessions Timeline'
+    }
+
+    // @ts-ignore - We just want to imitate as if Sessions Timeline.md is present under content folder. But really, we're just hard-coding it here.
+    const loreTimelineChild: FileTrieNode<ContentDetails> = {
+        isFolder: false,
+        children: [],
+        slugSegments: ['lore-timeline'],
+        data: {
+            slug: "lore-timeline" as FullSlug,
+            filePath: "Lore Timeline.md" as FilePath,
+            title: "Lore Timeline",
+            links: [],
+            tags: [],
+            content: ""
+        },
+        slug: "lore-timeline" as FullSlug,
+        displayName: 'Lore Timeline'
+    }
+    const trieChildrens = [...trie.children, sessionsTimelineChild, loreTimelineChild];
+    for (const child of trieChildrens) {
       const node = child.isFolder
         ? createFolderNode(currentSlug, child, opts)
         : createFileNode(currentSlug, child)
