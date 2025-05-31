@@ -1,9 +1,8 @@
 <p align="center">
   <a href="https://kippianwiki.netlify.app/" target="_blank" rel="noopener noreferrer">
-    <img width="180" src="./quartz/static/kippian_icon.png" alt="Kippian Wiki Logo">
+    <img height="240" src="./quartz/static/kippian-og-image-bg.png" alt="Kippian Wiki Logo">
   </a>
 </p>
-<br/>
 <p align="center">
     <a href="https://app.netlify.com/sites/kippianwiki/deploys" style="text-decoration: none;">
         <img src="https://api.netlify.com/api/v1/badges/57f68a44-afc5-4f4e-929b-97ce59a40a86/deploy-status"/>
@@ -12,7 +11,6 @@
         <img src="https://github.com/blackraspberryyy/kippian-wiki/actions/workflows/deploy.yaml/badge.svg"/>
     </a>
 </p>
-<br/>
 
 # Kippian Wiki
 An attempt to collate every details on our D&D campaign in a wiki-like site. See it live here: [https://kippianwiki.netlify.app/](https://kippianwiki.netlify.app/).

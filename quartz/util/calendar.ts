@@ -2,7 +2,7 @@ import { RPGCalendarDate, RPGCalendarWeekday } from "rpg-calendar/build/main/lib
 import { CalendarEvent, FCDateObj } from "../plugins/types";
 import fs from "fs";
 import path from "path";
-import chalk from "chalk"
+import { styleText } from 'util';
 import { RPGCalendar } from "rpg-calendar";
 
 
@@ -34,14 +34,14 @@ export const insertToJson = (calendarEvents: CalendarEvent[]) => {
   // delete the built file if it exists
   if (fs.existsSync(filename)) {
     fs.unlinkSync(filename);
-    console.log(chalk.yellow(`\n'${filename}' found. Deleting it and creating new...`))
+    console.log(styleText('yellow', `\n'${filename}' found. Deleting it and creating new...`))
   }
 
   // write to a file
   const events = [...defaultData, ...calendarEvents];
   fs.writeFileSync(filename, JSON.stringify(events) , {encoding: 'utf-8', flag: 'w'});
 
-  console.log(chalk.green(`"${filename}" file has been generated.`))
+  console.log(styleText('green', `"${filename}" file has been generated.`))
 }
 
 export const readBuiltCalendarEventJson = (): CalendarEvent[] => {
