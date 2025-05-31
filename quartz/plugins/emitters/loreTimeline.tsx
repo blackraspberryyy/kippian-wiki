@@ -22,7 +22,8 @@ export const LoreTimelinePage: QuartzEmitterPlugin = () => {
     getQuartzComponents() {
       return [head, ...header, ...beforeBody, pageBody, ...afterBody, ...left, ...right, footer]
     },
-    async emit(ctx, _content, resources): Promise<FilePath[]> {
+    async emit(ctx, content, resources): Promise<FilePath[]> {
+      const allFiles = content.map((c) => c[1].data)
       const cfg = ctx.cfg.configuration
       const slug = "lore-timeline" as FullSlug
 
@@ -46,7 +47,7 @@ export const LoreTimelinePage: QuartzEmitterPlugin = () => {
         cfg,
         children: [],
         tree,
-        allFiles: [],
+        allFiles,
       }
 
       return [
