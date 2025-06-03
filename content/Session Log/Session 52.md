@@ -1,8 +1,8 @@
 ---
 share: true
 creation_date: 2025-05-18 16:13
-location: 
-fc-date: 
+location: "[Library](../Locations/Buildings/Sunken%20Library.md)"
+fc-date: 1083-06-11
 fc-category: Session
 icon: calendar
 ---
