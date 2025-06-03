@@ -31,13 +31,13 @@ icon: lore
 ## Description
 The [Twilight Dagger](Twilight%20Dagger.md) is a weapon whose powers are magnified during the night. Its blade has a dark-violet sheen, and its shadow is darker and has a life of its own. A malevolent aura is imbued into the blade, inflicting fear to those unfortunate enough to be cut by it.
 ### Mythic Keeper: [Kwonyr Karst](../../Lore/Mythical%20Heroes/Kwonyr%20Karst.md)
-The [Twilight Dagger](Twilight%20Dagger.md) is a weapon imbued with the power of darkness and shadows. Its past wielder, [Kwonyr](../../Lore/Mythical%20Heroes/Kwonyr%20Karst.md), brandished it to sow fear against the many abusers of [The Great War](../../Lore/Kippian-Sumber%20War.md). 
+The [Twilight Dagger](Twilight%20Dagger.md) is a weapon imbued with the power of darkness and shadows. Its past wielder, [Kwonyr](../../Lore/Mythical%20Heroes/Kwonyr%20Karst.md), brandished it to sow fear against the many abusers of [The Great War](../../Lore/Kippian-Sumber%20War.md).
 # Properties
 ## Dagger, +1
 You gain a +1 bonus to attack and damage rolls made with this weapon.
 ## Dreadful
 Any creature hit by the Twilight Dagger must succeed a WIS Saving Throw (DC 14) or be frightened of you until the end of your next turn. You can only use this ability during nighttime.
-## Horrific 
+## Horrific
 You deal an extra 1d4 necrotic damage with this weapon when attacking a creature frightened of you.
 ## Fearful
 If not attuned to a new keeper, the Twilight Dagger magically returns to its attuned keeper at dusk.
