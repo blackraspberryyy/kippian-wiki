@@ -17,7 +17,7 @@ icon: building
 > | Located in | [Duospathia District](../Areas/Duospathia%20District.md)|
 #### Known for:
 ## Description
-Statues of Yekora and [Aulephi](../../Deities/New%20Gods/Aulephi.md)---patrons of duels
+Statues of [Yekora](../../Deities/New%20Gods/Yekora.md) and [Aulephi](../../Deities/New%20Gods/Aulephi.md)---patrons of duels.
 # Notable Locations
 | Name |
 | ---- |
