@@ -25,7 +25,7 @@ Use the "Search 🔍" at the left to find what you're looking for.
 - [Matunda's Mace](./Items/Mythic%20Items/Matunda's%20Mace.md)
 - [Twilight Dagger](./Items/Mythic%20Items/Twilight%20Dagger.md)
 - [Vambrace Shields](./Items/Mythic%20Items/Vambrace%20Shields.md)
-- [Ysmerald Staff](./Items/Mythic%20Items/Ymerald%20Staff.md)
+- [Ymerald Staff](./Items/Mythic%20Items/Ymerald%20Staff.md)
 
 
 
