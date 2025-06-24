@@ -17,7 +17,6 @@ icon: faction
 > | Aliases | CTG|
 > | Status| ally|
 > | Based in|  [Curkip](../Locations/Settlements/Curkip.md)|
-#### Known for: being a wholesome thieves guild
 ## Description
 # Organization
 #### Leader: [Nos-Aji](../NPCs/Nos-Aji.md)
@@ -27,8 +26,6 @@ icon: faction
 | [Nos-Aji](../NPCs/Nos-Aji.md) |
 | [Olrac](../NPCs/Olrac.md)     |
 
-# Goals
-- [ ] Task 1
 # Story log
 ## Most Recent
 
