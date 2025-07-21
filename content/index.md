@@ -6,7 +6,7 @@ title: Welcome to Kippian Wiki
 
 Use the "Search 🔍" at the left to find what you're looking for.
 
-## QuickLinks
+## Quick Links
 ### PC's
 - [Adeena Oberon](./PCs/Adeena%20Oberon.md)
 - [Adikia Unalome](./PCs/Adikia%20Unalome.md)
