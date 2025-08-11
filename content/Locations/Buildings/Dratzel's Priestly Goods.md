@@ -1,6 +1,7 @@
 ---
 share: true
-aliases: 
+aliases:
+  - Geraldt's store
 location: "[Foenyx](../Areas/Foenyx%20District.md)"
 status: 
 lore_type: location
@@ -13,7 +14,7 @@ icon: building
 > ##### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | |
+> | Other names | Geraldt's store|
 > | Type | 
 > | Located in | [Foenyx District](../Areas/Foenyx%20District.md)|
 ## Description
