@@ -46,7 +46,10 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.Infobox(),
-    Component.Graph(),
+    Component.ConditionalRender({
+      component: Component.Graph(),
+      condition: (page) => !["sessions-timeline", "lore-timeline"].includes(page.fileData.slug as string),
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
