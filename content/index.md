@@ -31,5 +31,5 @@ Use the "Search 🔍" at the left to find what you're looking for.
 
 <!-- In localhost, the links won't work -->
 ### Timelines
-- [Lore Timeline](https://kippianwiki.netlify.app/lore-timeline)
-- [Sessions Timeline](https://kippianwiki.netlify.app/sessions-timeline)
+- [Lore Timeline](./lore-timeline)
+- [Sessions Timeline](./sessions-timeline)
