@@ -1,24 +1,23 @@
 ---
 share: true
-aliases:
-  - Geraldt's store
-location: "[Foenyx](../Areas/Foenyx%20District.md)"
+aliases: 
+location: "[[Foenyx District]]"
 status: 
 lore_type: location
 icon: building
 ---
 # Basic Information
 > [!infobox]
-> # Dratzel's Priestly Goods
+> # Doe Nutt Lapidary Services
 > ![cover hsmall](insertimage.png)
 > ##### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | Geraldt's store|
+> | Other names | |
 > | Type | 
 > | Located in | [Foenyx District](../Areas/Foenyx%20District.md)|
 ## Description
-This store is located in a shopping alley within [Foenyx](../Areas/Foenyx%20District.md). The establishment is owned by [Geraldt Dratzel](../../NPCs/Geraldt%20Dratzel.md).
+A gemstone cutting stall owned and manned by [Doe Nutt](../../NPCs/Doe%20Nutt.md). The store is beside [Geraldt](../../NPCs/Geraldt%20Dratzel.md)'s [Dratzel's Priestly Goods](./Dratzel's%20Priestly%20Goods.md).
 # Notable Locations
 | Name |
 | ---- |
