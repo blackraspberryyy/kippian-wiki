@@ -1,5 +1,4 @@
-import { RPGCalendarDate } from "rpg-calendar/build/main/lib/types";
-import { CalendarEvent, ParsedCalendarEvent } from "../plugins/types";
+import { ParsedCalendarEvent } from "../plugins/types";
 import { ordinal_suffix_of } from "../util/calendar";
 
 type TimelineProps = {
