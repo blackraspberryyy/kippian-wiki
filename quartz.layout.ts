@@ -50,6 +50,10 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.Graph(),
       condition: (page) => !["sessions-timeline", "lore-timeline"].includes(page.fileData.slug as string),
     }),
+    Component.ConditionalRender({
+      component: Component.NewlyUploadedFiles(),
+      condition: (page) => page.fileData.slug === "index",
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],

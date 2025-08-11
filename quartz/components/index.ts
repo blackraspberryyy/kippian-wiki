@@ -27,6 +27,7 @@ import SessionsTimeline from "./pages/SessionsTimeline"
 import LoreTimeline from "./pages/LoreTimeline"
 import ConditionalRender from "./ConditionalRender"
 import Flex from "./Flex"
+import NewlyUploadedFiles from "./NewlyUploadedFiles" 
 
 export {
   ArticleTitle,
@@ -57,5 +58,6 @@ export {
   SessionsTimeline,
   LoreTimeline,
   ConditionalRender,
-  Flex
+  Flex,
+  NewlyUploadedFiles
 }
