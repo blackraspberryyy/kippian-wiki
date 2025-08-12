@@ -15,27 +15,30 @@ const defaultOptions: NewlyUplodadedFilesOptions = {
   hideWhenEmpty: true,
 }
 
-function getNewMarkdownFiles(days = 7) {
+function getNewMarkdownFiles(days = 7, rootFolder: string) {
   // thanks to chat-gpt, this magic git CLI command will return the name of the files that are new last 7 days ago
   const cmd = `git log --diff-filter=A --since="${days} days ago" --name-only --pretty=format: `;
   const output = execSync(cmd).toString().trim();
 
   const mdFiles = output.split("\n")
-    .filter(f => {
-      console.log(path.basename(f));
-      console.log("/content");
-      return f.endsWith(".md")
-    })                     // filter markdown
-    .filter((file, i, all) => all.indexOf(file) === i)  // unique
+    .filter(f => f.endsWith(".md"))                           // just all the markdown files.
+    .filter(f => path.dirname(f).split('/')[0] == rootFolder) // all under contents/ folder
+    .filter((file, i, all) => all.indexOf(file) === i)        // unique
 
   return mdFiles ?? [];
 }
 
-function getNewlyUploadedFiles(allFiles: Data[]): [Data[], boolean] {
+function getNewlyUploadedFiles(allFiles: Data[], rootFolder: string): [Data[], boolean] {
   let newlyCreatedFiles: Data[] = [];
-
-  const newMarkdownFiles = getNewMarkdownFiles(7);
-  allFiles.forEach(file => {
+  const newMarkdownFiles = getNewMarkdownFiles(7, rootFolder);
+  const sortedFilesViaCreated = allFiles.sort((a, b) => {
+    if (!a.dates || !b.dates) {
+      return 0;
+    } else {
+      return b.dates.created.getTime() - a.dates.created.getTime()
+    }
+  });
+  sortedFilesViaCreated.forEach(file => {
     if (newMarkdownFiles.includes(file.filePath as string)) {
       newlyCreatedFiles.push(file)
     }
@@ -46,14 +49,6 @@ function getNewlyUploadedFiles(allFiles: Data[]): [Data[], boolean] {
   }
 
   // if there are no created md files last 7 days, just get the latest 5 pages.
-  const sortedFilesViaCreated = allFiles.sort((a, b) => {
-    if (!a.dates || !b.dates) {
-      return 0;
-    } else {
-      return b.dates.created.getTime() - a.dates.created.getTime()
-    }
-  });
-
   const NTH = 5;
   const lastFiveCreatedFiles = sortedFilesViaCreated.slice(0, NTH);
   return [lastFiveCreatedFiles, false];
@@ -64,11 +59,13 @@ export default ((opts?: Partial<NewlyUplodadedFilesOptions>) => {
   const { OverflowList, overflowListAfterDOMLoaded } = OverflowListFactory()
   
   const NewlyUplodadedFiles: QuartzComponent = ({
+    ctx,
     fileData,
     allFiles,
     displayClass,
   }: QuartzComponentProps) => {
-    const [newlyUploadedFiles, isNew] = getNewlyUploadedFiles(allFiles);
+    
+    const [newlyUploadedFiles, isNew] = getNewlyUploadedFiles(allFiles, ctx.argv.directory);
 
     if (options.hideWhenEmpty && newlyUploadedFiles.length == 0) {
       return null
