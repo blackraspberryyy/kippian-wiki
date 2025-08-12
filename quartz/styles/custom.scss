@@ -15,6 +15,7 @@
 
   @media all and not ($desktop) {
     flex-wrap:wrap;
+    flex-direction: column !important;
   }
 }
 
