@@ -79,7 +79,7 @@ export default ((opts?: Partial<NewlyUplodadedFilesOptions>) => {
             newlyUploadedFiles.map((f, i) => (
               <li>
                 <a href={resolveRelative(fileData.slug!, f.slug!)} class="internal">
-                  <span>{f.frontmatter?.title}</span> { isNew && (<div><span class="new-tag">NEW!</span></div>)}
+                  { isNew && (<span class="new-tag">NEW!</span>)} <span>{f.frontmatter?.title}</span>
                 </a>
               </li>
             ))

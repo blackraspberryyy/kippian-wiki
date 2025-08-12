@@ -18,16 +18,14 @@
     & > li {
       & > a {
         background-color: transparent;
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        gap: 8px;
-        & > div > .new-tag {
+        & > .new-tag {
             background-color: var(--secondary);
-            color: var(--dark);
+            color: #ebebec;
             font-size: 0.55rem;
             padding: 2px;
             border-radius: 2px;
+            vertical-align: text-top;
+            margin-right: 2px;
         }
       }
     }
