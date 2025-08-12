@@ -4,30 +4,152 @@ title: Welcome to Kippian Wiki
 
 ![cover](../../zzz_attachments/The%20Continent%20of%20Kippian%20map.jpg)
 
-Use the "Search 🔍" at the left to find what you're looking for.
-
 ## Quick Links
-### PC's
-- [Adeena Oberon](./PCs/Adeena%20Oberon.md)
-- [Adikia Unalome](./PCs/Adikia%20Unalome.md)
-- [Arc](./PCs/Arc.md)
-- [Kiris Acquerman](./PCs/Kiris%20Acquermann.md)
-- [Noah Skie](./PCs/Noah%20Skie.md)
-- [Spraugh 'Splix' Calix](./PCs/Spraugh%20'Splix'%20Calix.md)
-- [Theobald Clayhollow](./PCs/Theobald%20Clayhollow.md)
-- [Thoradin Goodman](./PCs/Thoradin%20Goodman.md)
+### Heroes of Kippian
 
-### Items
-- [Aureate Rapier](./Items/Mythic%20Items/Aureate%20Rapier.md)
-- [Evanescent Shortbow](./Items/Mythic%20Items/Evanescent%20Shortbow.md)
-- [Evershift](./Items/Mythic%20Items/Evershift.md)
-- [Frostborn Armor](./Items/Mythic%20Items/Frostborn%20Armor.md)
-- [Matunda's Mace](./Items/Mythic%20Items/Matunda's%20Mace.md)
-- [Twilight Dagger](./Items/Mythic%20Items/Twilight%20Dagger.md)
-- [Vambrace Shields](./Items/Mythic%20Items/Vambrace%20Shields.md)
-- [Ymerald Staff](./Items/Mythic%20Items/Ymerald%20Staff.md)
+<table style="margin:0 width: 100%">
+    <tr>
+        <td style="padding: 0;">
+            <center>
+                <a href="./PCs/Adeena%20Oberon.md">
+                    <img src="../../zzz_attachments/Adeena.png" style="margin-bottom: 0" />
+                    <br/>Adeena Oberon
+                </a>
+            </center>
+        </td>
+        <td style="padding: 0;">
+            <center>
+                <a href="./PCs/Adikia%20Unalome.md">
+                    <img src="../../zzz_attachments/Adikia.png" style="margin-bottom: 0" />
+                    <br/>Adikia Unalome
+                </a>
+            </center>
+        </td>
+        <td style="padding: 0;">
+            <center>
+                <a href="./PCs/Arc.md">
+                    <img src="../../zzz_attachments/Arc.png" style="margin-bottom: 0" />
+                    <br/>Arc
+                </a>
+            </center>
+        </td>
+        <td style="padding: 0;">
+            <center>
+                <a href="./PCs/Kiris%20Acquermann.md">
+                    <img src="../../zzz_attachments/Kiris.png" style="margin-bottom: 0" />
+                    <br/>Kiris Acquermann
+                </a>
+            </center>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding: 0;">
+            <center>
+                <a href="./PCs/Noah%20Skie.md">
+                    <img src="../../zzz_attachments/Noah.png" style="margin-bottom: 0" />
+                    <br/>Noah Skie
+                </a>
+            </center>
+        </td>
+        <td style="padding: 0;">
+            <center>
+                <a href="./PCs/Spraugh%20'Splix'%20Calix.md">
+                    <img src="../../zzz_attachments/Splix.png" style="margin-bottom: 0" />
+                    <br/>Spraugh 'Splix' Calix
+                </a>
+            </center>
+        </td>
+        <td style="padding: 0;">
+            <center>
+                <a href="./PCs/Theobald%20Clayhollow.md">
+                    <img src="../../zzz_attachments/Theobald.png" style="margin-bottom: 0" />
+                    <br/>Theobald Clayhollow
+                </a>
+            </center>
+        </td>
+        <td style="padding: 0;">
+            <center>
+                <a href="./PCs/Thoradin%20Goodman.md">
+                    <img src="../../zzz_attachments/Thoradin.png" style="margin-bottom: 0" />
+                    <br/>Thoradin Goodman
+                </a>
+            </center>
+        </td>
+    </tr>
+</table>
 
+### Legendary Items
 
+<table style="margin:0; width: 100%;">
+    <tr>
+        <td style="padding: 0;">
+            <center>
+                <a href="./Items/Mythic%20Items/Aureate%20Rapier.md">
+                    <img src="../../zzz_attachments/Aureate Rapier.png" style="margin-bottom: 0" height="168"/>
+                    <br/>Aureate Rapier
+                </a>
+            </center>
+        </td>
+        <td style="padding: 0;">
+            <center>
+                <a href="./Items/Mythic%20Items/Evanescent%20Shortbow.md">
+                    <img src="../../zzz_attachments/Translucent Shortbow.png" style="margin-bottom: 0" height="168"/>
+                    <br/>Evanescent Shortbow
+                </a>
+            </center>
+        </td>
+        <td style="padding: 0;">
+            <center>
+                <a href="./Items/Mythic%20Items/Evershift.md">
+                    <img src="../../zzz_attachments/Evershift.png" style="margin-bottom: 0" height="168"/>
+                    <br/>Evershift
+                </a>
+            </center>
+        </td>
+        <td style="padding: 0;">
+            <center>
+                <a href="./Items/Mythic%20Items/Frostborn%20Armor.md">
+                    <img src="../../zzz_attachments/Frostborn Armor.png" style="margin-bottom: 0" height="168"/>
+                    <br/>Frostborn Armor
+                </a>
+            </center>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding: 0;">
+            <center>
+                <a href="./Items/Mythic%20Items/Matunda's%20Mace.md">
+                    <img src="../../zzz_attachments/Matunda's Mace.png" style="margin-bottom: 0" height="168"/>
+                    <br/>Matunda's Mace
+                </a>
+            </center>
+        </td>
+        <td style="padding: 0;">
+            <center>
+                <a href="./Items/Mythic%20Items/Twilight%20Dagger.md">
+                    <img src="../../zzz_attachments/Twilight Dagger.png" style="margin-bottom: 0" height="168"/>
+                    <br/>Twilight Dagger
+                </a>
+            </center>
+        </td>
+        <td style="padding: 0;">
+            <center>
+                <a href="./Items/Mythic%20Items/Vambrace%20Shields.md">
+                    <img src="../../zzz_attachments/Cappodon's Vambrace Shields.png" style="margin-bottom: 0" height="168"/>
+                    <br/>Vambrace Shields
+                </a>
+            </center>
+        </td>
+        <td style="padding: 0;">
+            <center>
+                <a href="./Items/Mythic%20Items/Ymerald%20Staff.md">
+                    <img src="../../zzz_attachments/Ymerald Staff.png" style="margin-bottom: 0" height="168"/>
+                    <br/>Ymerald Staff
+                </a>
+            </center>
+        </td>
+    </tr>
+</table>
 
 <!-- In localhost, the links won't work -->
 ### Timelines
