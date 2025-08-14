@@ -32,9 +32,20 @@ a.internal {
 }
 
 // modified blockquote styles
-article blockquote p {
-  margin: 1em 0;
-  font-style: normal;
+article blockquote {
+  & p {
+    margin: 0;
+    font-style: normal;
+  }
+}
+
+// When a blockquote's neighbor element is a ul, we must indent the blockquote as well. This only applies to mobile since there are already margins in desktop view.
+ul + blockquote {
+  @media all and ($mobile) {
+    & {
+      margin-left:40px;
+    }
+  }
 }
 
 // modified article-title style
@@ -56,6 +67,14 @@ article blockquote p {
   }
 }
 
+// Added indentation to h3 so it looks good on Session Log Pages
+.center article > h3 {
+  margin-top: 8px;
+  margin-bottom: 0;
+  text-indent: 20px;
+}
+
+// Added styles on index.md table.
 table.index-table {
   margin: 0 !important;
   line-height: unset !important;
