@@ -45,8 +45,15 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(EXPLORER_CONFIG),
   ],
   right: [
-    Component.Infobox(),
-    Component.Graph(),
+    Component.DesktopOnly(Component.Infobox()),
+    Component.ConditionalRender({
+      component: Component.RecentFiles(),
+      condition: (page) => page.fileData.slug === "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.Graph(),
+      condition: (page) => !["sessions-timeline", "lore-timeline"].includes(page.fileData.slug as string),
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],

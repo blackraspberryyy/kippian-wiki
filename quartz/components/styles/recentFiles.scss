@@ -1,0 +1,39 @@
+@use "../../styles/variables.scss" as *;
+
+.recent-files-container {
+  max-height: 100% !important;
+
+  & > .recent-files {
+    flex-direction: column;
+    max-height: 24rem;
+    margin-bottom: 16px;
+
+    & > h3 {
+      font-size: 1rem;
+      margin: 0;
+    }
+
+    & > ul.overflow {
+      list-style: none;
+      padding: 0;
+      margin: 0.5rem 0;
+      max-height: calc(24rem - 2rem);
+      overscroll-behavior: contain;
+
+      & > li {
+        & > a {
+          background-color: transparent;
+          & > .new-tag {
+              background-color: var(--secondary);
+              color: #ebebec;
+              font-size: 0.55rem;
+              padding: 2px;
+              border-radius: 2px;
+              vertical-align: text-top;
+              margin-right: 2px;
+          }
+        }
+      }
+    }
+  }
+}
