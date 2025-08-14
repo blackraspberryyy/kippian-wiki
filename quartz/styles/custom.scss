@@ -15,6 +15,7 @@
 
   @media all and not ($desktop) {
     flex-wrap:wrap;
+    flex-direction: column !important;
   }
 }
 
@@ -51,6 +52,49 @@ article blockquote p {
   @media all and ($mobile) {
     & {
       font-size: 1rem;
+    }
+  }
+}
+
+table.index-table {
+  margin: 0 !important;
+  line-height: unset !important;
+  width: 100%;
+
+  & > tbody {
+    line-height: unset !important;
+    
+    & > tr {
+      border-bottom: none;
+
+      & > td {
+        padding: 0;
+        padding-top: 8px;
+        padding-bottom: 8px;
+
+        & > center > a.internal {
+          line-height: unset !important;
+          font-size: 1rem;
+
+          @media all and ($mobile) {
+            & {
+              font-size: 0.7rem;
+            }
+          }
+
+          & > img {
+            object-fit: contain;
+            height: 168px;
+            margin: 0;
+
+            @media all and ($mobile) {
+              & {
+                height: 86px;
+              }
+            }
+          }
+        }
+      }
     }
   }
 }

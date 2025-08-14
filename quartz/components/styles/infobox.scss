@@ -75,10 +75,16 @@ blockquote.infobox.callout {
   }
 }
 
+.information-box:has(.orig-infobox) {
+  display: none;
+}
 .orig-infobox {
   display: none;
 }
 
+.information-box:has(.new-infobox) {
+  display: block;
+}
 .new-infobox {
   display: block;
 }
@@ -90,10 +96,17 @@ blockquote.infobox.callout {
   }
 
   // also, revive the original infobox, and remove the new infobox at the right
+  .information-box:has(.orig-infobox) {
+    display: block;
+  }
   .orig-infobox {
     display: block;
   }
 
+
+  .information-box:has(.new-infobox) {
+    display: none;
+  }
   .new-infobox {
     display: none;
   }
