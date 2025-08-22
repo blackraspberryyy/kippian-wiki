@@ -51,6 +51,7 @@
     "esbuild-sass-plugin": "^3.3.1",
     "flexsearch": "0.8.205",
     "front-matter": "^4.0.2",
+    "git-date-extractor": "^4.0.1",
     "github-slugger": "^2.0.0",
     "globby": "^14.1.0",
     "gray-matter": "^4.0.3",

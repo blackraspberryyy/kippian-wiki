@@ -21,7 +21,7 @@ export const getDayName = (weekdays: RPGCalendarWeekday[], date: RPGCalendarDate
 
 export const insertToJson = (calendarEvents: CalendarEvent[]) => {
   // get the user-written calendar_events and use it as default data
-  const existingCalendarEventsFile = path.resolve('quartz', 'calendar_events.json');
+  const existingCalendarEventsFile = path.resolve('calendar_events.json');
   let defaultData = fs.readFileSync(existingCalendarEventsFile, {encoding: 'utf-8'});
 
   if (defaultData) {
@@ -29,7 +29,7 @@ export const insertToJson = (calendarEvents: CalendarEvent[]) => {
   }
 
   // let's assign random uuid to the built calendar.
-  const filename = path.resolve('quartz', 'static', 'built_calendar_events.json');
+  const filename = path.resolve('generated_jsons_on_build', 'built_calendar_events.json');
 
   // delete the built file if it exists
   if (fs.existsSync(filename)) {
@@ -45,7 +45,7 @@ export const insertToJson = (calendarEvents: CalendarEvent[]) => {
 }
 
 export const readBuiltCalendarEventJson = (): CalendarEvent[] => {
-  const filename = path.resolve('quartz', 'static', 'built_calendar_events.json');
+  const filename = path.resolve('generated_jsons_on_build', 'built_calendar_events.json');
   
   if (fs.existsSync(filename)) {
     const fileContents = fs.readFileSync(filename, {encoding: 'utf-8'});

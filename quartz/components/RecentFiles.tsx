@@ -4,12 +4,17 @@ import { resolveRelative } from "../util/path"
 import { classNames } from "../util/lang"
 import OverflowListFactory from "./OverflowList"
 import { Data } from "vfile"
-import path from 'path';
-import fs from 'fs'
+import CONTENT_FILES_TIMESTAMPS from '../../generated_jsons_on_build/content_files_timestamps.json'
 
 const DIFF_FILTER = {
   MODIFIED: "M",
   CREATED: "A" 
+};
+
+type ContentFilesTimestamps = {
+  filePath: string,
+  modified: number | boolean,
+  created: number | boolean
 };
 interface RecentFilesOptions {
   hideWhenEmpty: boolean
@@ -19,55 +24,57 @@ const defaultOptions: RecentFilesOptions = {
   hideWhenEmpty: true,
 }
 
-function getNewMarkdownFiles(diffFilter = DIFF_FILTER.CREATED) {
-  let filePath = '';
-  if (diffFilter == DIFF_FILTER.CREATED) {
-    filePath = path.resolve(process.cwd(), 'newest-added-files.json');
+function getFiles(diffFilter = DIFF_FILTER.CREATED, allFiles: Data[]): [Data[], boolean] {
+  let sortedFiles: ContentFilesTimestamps[] = [];
+  let key: 'modified' | 'created'  = 'created';
+  if (diffFilter === DIFF_FILTER.CREATED) {
+    sortedFiles = CONTENT_FILES_TIMESTAMPS.sort((a, b) => b.created - a.created);
+    key = 'created';
   } else {
-    filePath = path.resolve(process.cwd(), 'newest-modified-files.json');
+    sortedFiles = CONTENT_FILES_TIMESTAMPS.sort((a, b) => b.modified - a.modified);
+    key = 'modified';
   }
 
-  let files: string[] = [];
+  // get 7 days ago
+  const days = 7;
+  const end = Math.ceil(Date.now() / 1000);
+  const start = end - days * 24 * 60 * 60;
 
-  try {
-    const fileContent = fs.readFileSync(filePath, 'utf8');
-    files = JSON.parse(fileContent);
-  } catch (error) {
-    console.error(`Error reading or parsing ${filePath}:`, error);
+  let result: string[] = [];
+  for (const sortedFile of sortedFiles) {
+    const timestamp = sortedFile[key];
+    // check if created/modified is a number
+    if (typeof timestamp !== 'number') {
+      continue; // if created or modified is boolean, then just don't bother, remove from the list.
+    }
+
+    // check if 7 days ago
+    if (timestamp >= start && timestamp < end) {
+      result.push(sortedFile.filePath);
+    }
   }
 
-  return files ?? [];
+  if (result && result.length > 0) {
+    return [getFileMapping(result, allFiles), true];
+  }
+
+  // if there are nothing 7 days ago, get the top 5.
+  const NTH = 5;
+  result = sortedFiles.slice(0, NTH).map(f => f.filePath);
+
+  return [getFileMapping(result, allFiles), false];
 }
 
-function getFiles(allFiles: Data[], diffFilter = DIFF_FILTER.CREATED): [Data[], boolean] {
-  let files: Data[] = [];
-  const newMarkdownFiles = getNewMarkdownFiles(diffFilter);
-  
-  const sortedFiles = allFiles.sort((a, b) => {
-    if (!a.dates || !b.dates) {
-      return 0;
-    } else {
-      if (diffFilter === DIFF_FILTER.CREATED) {
-        return b.dates.created.getTime() - a.dates.created.getTime()
-      } else {
-        return b.dates.modified.getTime() - a.dates.modified.getTime()
-      }
-    }
-  });
-  sortedFiles.forEach(file => {
-    if (newMarkdownFiles.includes(file.filePath as string)) {
-      files.push(file)
+function getFileMapping(files: string[], allFiles: Data[]): Data[] {
+  let res: Data[] = [];
+  files.forEach((file) => {
+    const found = allFiles.find(f => (f.filePath as string).toLowerCase() === file.toLowerCase());
+    if (found) {
+      res.push(found);
     }
   });
 
-  if (files.length > 0){
-    return [files, true];
-  }
-
-  // if there are no created md files last 7 days, just get the latest 5 pages.
-  const NTH = 5;
-  const lastFiveCreatedFiles = sortedFiles.slice(0, NTH);
-  return [lastFiveCreatedFiles, false];
+  return res;
 }
 
 export default ((opts?: Partial<RecentFilesOptions>) => {
@@ -80,8 +87,8 @@ export default ((opts?: Partial<RecentFilesOptions>) => {
     displayClass,
   }: QuartzComponentProps) => {
     
-    const [newlyUploadedFiles, isNewUpload] = getFiles(allFiles, DIFF_FILTER.CREATED);
-    const [newlyModifiedFiles, isNewModified] = getFiles(allFiles, DIFF_FILTER.MODIFIED);
+    const [newlyUploadedFiles, isNewUpload] = getFiles(DIFF_FILTER.CREATED, allFiles);
+    const [newlyModifiedFiles, isNewModified] = getFiles(DIFF_FILTER.MODIFIED, allFiles);
 
     return (
       <div class="recent-files-container">
