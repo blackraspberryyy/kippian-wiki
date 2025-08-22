@@ -66,7 +66,7 @@ function getFiles(allFiles: Data[], diffFilter = DIFF_FILTER.CREATED): [Data[], 
 
   // if there are no created md files last 7 days, just get the latest 5 pages.
   const NTH = 5;
-  const lastFiveCreatedFiles = files.slice(0, NTH);
+  const lastFiveCreatedFiles = sortedFiles.slice(0, NTH);
   return [lastFiveCreatedFiles, false];
 }
 

@@ -7,8 +7,7 @@ import path from 'path'
   // ========================
   // for newly created files
   // ========================
-  // const days = 7;
-  const days = 20;
+  const days = 7;
   const cmd = `git log --diff-filter=A --since="${days} days ago" --name-only --pretty=format:`;
   const output = execSync(cmd).toString().trim();
   const files = output
