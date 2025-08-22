@@ -59,7 +59,7 @@ function getFiles(diffFilter = DIFF_FILTER.CREATED, allFiles: Data[]): [Data[], 
   }
 
   // if there are nothing 7 days ago, get the top 5.
-  const NTH = 5;
+  const NTH = 10;
   result = sortedFiles.slice(0, NTH).map(f => f.filePath);
 
   return [getFileMapping(result, allFiles), false];
@@ -92,9 +92,10 @@ export default ((opts?: Partial<RecentFilesOptions>) => {
 
     return (
       <div class="recent-files-container">
-        {(options.hideWhenEmpty && newlyUploadedFiles.length == 0) ? (<></>) : (
+        {/* TODO: refactor this since we only show this if isNewUpload has contents*/}
+        {((options.hideWhenEmpty && newlyUploadedFiles.length == 0) || !isNewUpload) ? (<></>) : (
           <div class={classNames(displayClass, "recent-files")}>
-            <h3>{isNewUpload ? "Newly Uploaded Pages" : "Recently Uploaded Pages"}</h3>
+            <h3>{isNewUpload ? "Newly Uploaded Pages" : "Recently Added Pages"}</h3>
             <OverflowList>
               {newlyUploadedFiles.length > 0 ? (
                 newlyUploadedFiles.map((f) => (
