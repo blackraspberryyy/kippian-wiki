@@ -2,8 +2,7 @@ name: Update Timestamp Files
 
 on:
   schedule:
-    # - cron: "0 0 * * *"   # Run every day at midnight UTC
-    - cron: "*/5 * * * *"
+    - cron: "0 0 * * *"   # Run every day at midnight UTC
   workflow_dispatch:      # Allow manual trigger too
 
 jobs:
