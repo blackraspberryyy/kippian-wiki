@@ -34,6 +34,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add newest-files.json
+          git add generated_jsons_on_build/content_files_timestamps.json
           git commit -m "Update newest-files.json [ci skip]" || echo "No changes to commit"
           git push
