@@ -10,4 +10,3 @@ private/
 .replit
 replit.nix
 **/built_calendar_events.json
-**/content_files_timestamps.json
