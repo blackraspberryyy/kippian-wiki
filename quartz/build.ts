@@ -29,6 +29,9 @@ import cloneDeep from "lodash.clonedeep"
 import { find, Node } from 'unist-util-find'
 import { visit } from "unist-util-visit"
 
+// @ts-ignore
+import { generateContentFilesTimestamps } from "../scripts/recheckContentFilesTimestamps.js";
+
 type ContentMap = Map<
   FilePath,
   | {
@@ -91,7 +94,11 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
   const parsedFiles = await parseMarkdown(ctx, filePaths)
   const filteredContent = filterContent(ctx, parsedFiles)
 
+  // ==================================================================
+  // custom processes that I, JC, built for my own personal use cases.
   await generateCalendarJson(filePaths, parsedFiles, argv)
+  await generateContentFilesTimestamps()
+  // ==================================================================
 
   await emitContent(ctx, filteredContent)
   console.log(

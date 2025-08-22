@@ -477,7 +477,7 @@ export async function handleBuild(argv) {
       "package.json",
     ])
     chokidar
-      .watch(paths, { ignoreInitial: true, ignored: (file) => file === 'quartz/static/built_calendar_events.json'})
+      .watch(paths, { ignoreInitial: true, ignored: (file) => file === 'generated_jsons_on_build/built_calendar_events.json'})
       .on("add", () => build(clientRefresh))
       .on("change", () => build(clientRefresh))
       .on("unlink", () => build(clientRefresh))

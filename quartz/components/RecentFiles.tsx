@@ -3,13 +3,18 @@ import style from "./styles/recentFiles.scss"
 import { resolveRelative } from "../util/path"
 import { classNames } from "../util/lang"
 import OverflowListFactory from "./OverflowList"
-import { execSync } from "child_process";
 import { Data } from "vfile"
-import path from 'path';
+import CONTENT_FILES_TIMESTAMPS from '../../generated_jsons_on_build/content_files_timestamps.json'
 
 const DIFF_FILTER = {
   MODIFIED: "M",
   CREATED: "A" 
+};
+
+type ContentFilesTimestamps = {
+  filePath: string,
+  modified: number | boolean,
+  created: number | boolean
 };
 interface RecentFilesOptions {
   hideWhenEmpty: boolean
@@ -19,50 +24,57 @@ const defaultOptions: RecentFilesOptions = {
   hideWhenEmpty: true,
 }
 
-function getNewMarkdownFiles(days = 7, rootFolder: string, diffFilter = DIFF_FILTER.CREATED) {
-  // thanks to chat-gpt, this magic git CLI command will return the name of the files that are new last 7 days ago
-  const cmd = `git log --diff-filter=${diffFilter} --since="${days} days ago" --name-only --pretty=format: `;
-  const output = execSync(cmd).toString().trim();
-
-  let mdFiles = [];
-
-  mdFiles = output.split("\n")
-    .filter(f => f.endsWith(".md"))                           // just all the markdown files.
-    .filter(f => path.dirname(f).split('/')[0] == rootFolder) // all under contents/ folder
-    .filter((file, i, all) => all.indexOf(file) === i)        // unique
-
-  return mdFiles ?? [];
-}
-
-function getFiles(allFiles: Data[], rootFolder: string, diffFilter = DIFF_FILTER.CREATED): [Data[], boolean] {
-  let files: Data[] = [];
-  const newMarkdownFiles = getNewMarkdownFiles(7, rootFolder, diffFilter);
-  
-  const sortedFiles = allFiles.sort((a, b) => {
-    if (!a.dates || !b.dates) {
-      return 0;
-    } else {
-      if (diffFilter === DIFF_FILTER.CREATED) {
-        return b.dates.created.getTime() - a.dates.created.getTime()
-      } else {
-        return b.dates.modified.getTime() - a.dates.modified.getTime()
-      }
-    }
-  });
-  sortedFiles.forEach(file => {
-    if (newMarkdownFiles.includes(file.filePath as string)) {
-      files.push(file)
-    }
-  });
-
-  if (files.length > 0){
-    return [files, true];
+function getFiles(diffFilter = DIFF_FILTER.CREATED, allFiles: Data[]): [Data[], boolean] {
+  let sortedFiles: ContentFilesTimestamps[] = [];
+  let key: 'modified' | 'created'  = 'created';
+  if (diffFilter === DIFF_FILTER.CREATED) {
+    sortedFiles = CONTENT_FILES_TIMESTAMPS.sort((a, b) => b.created - a.created);
+    key = 'created';
+  } else {
+    sortedFiles = CONTENT_FILES_TIMESTAMPS.sort((a, b) => b.modified - a.modified);
+    key = 'modified';
   }
 
-  // if there are no created md files last 7 days, just get the latest 5 pages.
-  const NTH = 5;
-  const lastFiveCreatedFiles = files.slice(0, NTH);
-  return [lastFiveCreatedFiles, false];
+  // get 7 days ago
+  const days = 7;
+  const end = Math.ceil(Date.now() / 1000);
+  const start = end - days * 24 * 60 * 60;
+
+  let result: string[] = [];
+  for (const sortedFile of sortedFiles) {
+    const timestamp = sortedFile[key];
+    // check if created/modified is a number
+    if (typeof timestamp !== 'number') {
+      continue; // if created or modified is boolean, then just don't bother, remove from the list.
+    }
+
+    // check if 7 days ago
+    if (timestamp >= start && timestamp < end) {
+      result.push(sortedFile.filePath);
+    }
+  }
+
+  if (result && result.length > 0) {
+    return [getFileMapping(result, allFiles), true];
+  }
+
+  // if there are nothing 7 days ago, get the top 5.
+  const NTH = 10;
+  result = sortedFiles.slice(0, NTH).map(f => f.filePath);
+
+  return [getFileMapping(result, allFiles), false];
+}
+
+function getFileMapping(files: string[], allFiles: Data[]): Data[] {
+  let res: Data[] = [];
+  files.forEach((file) => {
+    const found = allFiles.find(f => (f.filePath as string).toLowerCase() === file.toLowerCase());
+    if (found) {
+      res.push(found);
+    }
+  });
+
+  return res;
 }
 
 export default ((opts?: Partial<RecentFilesOptions>) => {
@@ -70,20 +82,20 @@ export default ((opts?: Partial<RecentFilesOptions>) => {
   const { OverflowList, overflowListAfterDOMLoaded } = OverflowListFactory()
   
   const RecentFiles: QuartzComponent = ({
-    ctx,
     fileData,
     allFiles,
     displayClass,
   }: QuartzComponentProps) => {
     
-    const [newlyUploadedFiles, isNewUpload] = getFiles(allFiles, ctx.argv.directory, DIFF_FILTER.CREATED);
-    const [newlyModifiedFiles, isNewModified] = getFiles(allFiles, ctx.argv.directory, DIFF_FILTER.MODIFIED);
+    const [newlyUploadedFiles, isNewUpload] = getFiles(DIFF_FILTER.CREATED, allFiles);
+    const [newlyModifiedFiles, isNewModified] = getFiles(DIFF_FILTER.MODIFIED, allFiles);
 
     return (
       <div class="recent-files-container">
-        {(options.hideWhenEmpty && newlyUploadedFiles.length == 0) ? (<></>) : (
+        {/* TODO: refactor this since we only show this if isNewUpload has contents*/}
+        {((options.hideWhenEmpty && newlyUploadedFiles.length == 0) || !isNewUpload) ? (<></>) : (
           <div class={classNames(displayClass, "recent-files")}>
-            <h3>{isNewUpload ? "Newly Uploaded Pages" : "Recently Uploaded Pages"}</h3>
+            <h3>{isNewUpload ? "Newly Uploaded Pages" : "Recently Added Pages"}</h3>
             <OverflowList>
               {newlyUploadedFiles.length > 0 ? (
                 newlyUploadedFiles.map((f) => (
