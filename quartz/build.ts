@@ -28,6 +28,8 @@ import { CalendarEvent } from "./plugins/types"
 import cloneDeep from "lodash.clonedeep"
 import { find, Node } from 'unist-util-find'
 import { visit } from "unist-util-visit"
+// @ts-ignore
+import { updateNewestFiles } from "../scripts/update-newest-files.js";
 
 type ContentMap = Map<
   FilePath,
@@ -92,6 +94,8 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
   const filteredContent = filterContent(ctx, parsedFiles)
 
   await generateCalendarJson(filePaths, parsedFiles, argv)
+
+  updateNewestFiles();
 
   await emitContent(ctx, filteredContent)
   console.log(

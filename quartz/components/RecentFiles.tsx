@@ -3,9 +3,9 @@ import style from "./styles/recentFiles.scss"
 import { resolveRelative } from "../util/path"
 import { classNames } from "../util/lang"
 import OverflowListFactory from "./OverflowList"
-import { execSync } from "child_process";
 import { Data } from "vfile"
 import path from 'path';
+import fs from 'fs'
 
 const DIFF_FILTER = {
   MODIFIED: "M",
@@ -19,24 +19,29 @@ const defaultOptions: RecentFilesOptions = {
   hideWhenEmpty: true,
 }
 
-function getNewMarkdownFiles(days = 7, rootFolder: string, diffFilter = DIFF_FILTER.CREATED) {
-  // thanks to chat-gpt, this magic git CLI command will return the name of the files that are new last 7 days ago
-  const cmd = `git log --diff-filter=${diffFilter} --since="${days} days ago" --name-only --pretty=format: `;
-  const output = execSync(cmd).toString().trim();
+function getNewMarkdownFiles(diffFilter = DIFF_FILTER.CREATED) {
+  let filePath = '';
+  if (diffFilter == DIFF_FILTER.CREATED) {
+    filePath = path.resolve(process.cwd(), 'newest-added-files.json');
+  } else {
+    filePath = path.resolve(process.cwd(), 'newest-modified-files.json');
+  }
 
-  let mdFiles = [];
+  let files: string[] = [];
 
-  mdFiles = output.split("\n")
-    .filter(f => f.endsWith(".md"))                           // just all the markdown files.
-    .filter(f => path.dirname(f).split('/')[0] == rootFolder) // all under contents/ folder
-    .filter((file, i, all) => all.indexOf(file) === i)        // unique
+  try {
+    const fileContent = fs.readFileSync(filePath, 'utf8');
+    files = JSON.parse(fileContent);
+  } catch (error) {
+    console.error(`Error reading or parsing ${filePath}:`, error);
+  }
 
-  return mdFiles ?? [];
+  return files ?? [];
 }
 
-function getFiles(allFiles: Data[], rootFolder: string, diffFilter = DIFF_FILTER.CREATED): [Data[], boolean] {
+function getFiles(allFiles: Data[], diffFilter = DIFF_FILTER.CREATED): [Data[], boolean] {
   let files: Data[] = [];
-  const newMarkdownFiles = getNewMarkdownFiles(7, rootFolder, diffFilter);
+  const newMarkdownFiles = getNewMarkdownFiles(diffFilter);
   
   const sortedFiles = allFiles.sort((a, b) => {
     if (!a.dates || !b.dates) {
@@ -70,14 +75,13 @@ export default ((opts?: Partial<RecentFilesOptions>) => {
   const { OverflowList, overflowListAfterDOMLoaded } = OverflowListFactory()
   
   const RecentFiles: QuartzComponent = ({
-    ctx,
     fileData,
     allFiles,
     displayClass,
   }: QuartzComponentProps) => {
     
-    const [newlyUploadedFiles, isNewUpload] = getFiles(allFiles, ctx.argv.directory, DIFF_FILTER.CREATED);
-    const [newlyModifiedFiles, isNewModified] = getFiles(allFiles, ctx.argv.directory, DIFF_FILTER.MODIFIED);
+    const [newlyUploadedFiles, isNewUpload] = getFiles(allFiles, DIFF_FILTER.CREATED);
+    const [newlyModifiedFiles, isNewModified] = getFiles(allFiles, DIFF_FILTER.MODIFIED);
 
     return (
       <div class="recent-files-container">
