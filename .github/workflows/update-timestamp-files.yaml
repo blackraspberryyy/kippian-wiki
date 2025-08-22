@@ -1,4 +1,4 @@
-name: Update Newest Files
+name: Update Timestamp Files
 
 on:
   schedule:
@@ -8,6 +8,7 @@ on:
 
 jobs:
   update-newest:
+    name: ⌛ Update Timestamp Files
     runs-on: ubuntu-latest
 
     steps:
