@@ -4,11 +4,14 @@
   </a>
 </p>
 <p align="center">
-    <a href="https://app.netlify.com/sites/kippianwiki/deploys" style="text-decoration: none;">
+    <a href="https://app.netlify.com/sites/kippianwiki/deploys" style="text-decoration: none; color: white;">
         <img src="https://api.netlify.com/api/v1/badges/57f68a44-afc5-4f4e-929b-97ce59a40a86/deploy-status"/>
     </a>
-    <a href="https://github.com/blackraspberryyy/kippian-wiki/actions/workflows/deploy.yaml" style="text-decoration: none;">
+    <a href="https://github.com/blackraspberryyy/kippian-wiki/actions/workflows/deploy.yaml" style="text-decoration: none; color: white;">
         <img src="https://github.com/blackraspberryyy/kippian-wiki/actions/workflows/deploy.yaml/badge.svg"/>
+    </a>
+    <a href="https://github.com/blackraspberryyy/kippian-wiki/actions/workflows/update-timestamp-files.yaml" style="text-decoration: none; color: white;">
+        <img src="https://github.com/blackraspberryyy/kippian-wiki/actions/workflows/update-timestamp-files.yaml/badge.svg"/>
     </a>
 </p>
 
