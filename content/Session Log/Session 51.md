@@ -23,14 +23,14 @@ icon: calendar
 - [Arc](../PCs/Arc.md) ascends the stairs to the second floor. He sees a makeshift camp. [Arc](../PCs/Arc.md) checks it, and sees a foot-high pile of books written by [Dorfir Embersense](../NPCs/Dorfir%20Embersense.md). [Arc](../PCs/Arc.md) also steals a pack of rations.
 - [Arc](../PCs/Arc.md) scours the second floor and sees two humanoids, a bearded old elf and a female human, resting on a table. After a brief confrontation, [Arc](../PCs/Arc.md) determines that the two are [Splix](../PCs/Spraugh%20'Splix'%20Calix.md)'s colleagues: [Dorfir Embersense](../NPCs/Dorfir%20Embersense.md) and [Fiamil](../NPCs/Fiamil%20Underwood.md).
 - [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) reads a scroll that retells the major events that happened during the [Primordial Ages](../Lore/Eons%20and%20Ages/Primordial%20Ages.md).
-# [Dorfir](../NPCs/Dorfir%20Embersense.md) and [Fiamil](../NPCs/Fiamil%20Underwood.md)
+## [Dorfir](../NPCs/Dorfir%20Embersense.md) and [Fiamil](../NPCs/Fiamil%20Underwood.md)
 - The [party](../Factions/Seven%20Up....md) meets [Dorfir Embersense](../NPCs/Dorfir%20Embersense.md) and [Fiamil Underwood](../NPCs/Fiamil%20Underwood.md). The [party](../Factions/Seven%20Up....md) updates the two on what happened during the two weeks they are researching inside the [Library](../Locations/Buildings/Sunken%20Library.md).
 - [Adeena](../PCs/Adeena%20Oberon.md) asks [Dorfir Embersense](../NPCs/Dorfir%20Embersense.md) about a spell that could protect the [Bloated Dragon](../Items/Bloated%20Dragon.md) from magical attacks. [Dorfir Embersense](../NPCs/Dorfir%20Embersense.md) recalls that an artifact of sorts protects [Asteri District](../Locations/Areas/Asteri%20District.md). The [party](../Factions/Seven%20Up....md) informs him that the district is devastated during the [Assault on Asteri](../Lore/Events/Assault%20on%20Asteri%20and%20Unbinding%20of%20Yvernus.md).
 - [Adikia](../PCs/Adikia%20Unalome.md) asks [Dorfir Embersense](../NPCs/Dorfir%20Embersense.md) about [Feypeak](../Locations/Areas/Feypeak.md). [Dorfir Embersense](../NPCs/Dorfir%20Embersense.md) only recounts information that [Adikia](../PCs/Adikia%20Unalome.md) already knows.
 - During the party's conversation, [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) and [Fiamil](../NPCs/Fiamil%20Underwood.md) wander off into the pillars. They suddenly disappear into a hole in the floor.
 - The [party](../Factions/Seven%20Up....md) checks the pillars. The two riddles are now blank; only the third riddle remains.
 - [Theobald](../PCs/Theobald%20Clayhollow.md) solves the last riddle. A hole appears on the floor and the [party](../Factions/Seven%20Up....md) is sucked into it. [Dorfir](../NPCs/Dorfir%20Embersense.md) remains on the floor.
-# Trial of the Sphinx
+## Trial of the Sphinx
 - The [party](../Factions/Seven%20Up....md) meets a decaying, seemingly undead sphinx. They see the unconscious bodies of [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) and [Fiamil](../NPCs/Fiamil%20Underwood.md) on the ground.
 - The sphinx asks each member of the [party](../Factions/Seven%20Up....md) to exchange their [Mythic Items](../../Mythic%20Items.md) for their freedom.
 - [Adikia](../PCs/Adikia%20Unalome.md) successfully offers only a piece of her [Aureate Rapier](../Items/Mythic%20Items/Aureate%20Rapier.md).
