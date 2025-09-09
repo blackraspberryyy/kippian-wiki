@@ -405,6 +405,11 @@
     "modified": 1739643150
   },
   {
+    "filePath": "content/Locations/Buildings/Ezekiel's Inn.md",
+    "created": 1757354053,
+    "modified": 1757354053
+  },
+  {
     "filePath": "content/Locations/Buildings/Grand Cathedral.md",
     "created": 1745255645,
     "modified": 1745255645
@@ -865,6 +870,11 @@
     "modified": 1750759122
   },
   {
+    "filePath": "content/NPCs/Justicia Holms.md",
+    "created": 1757354053,
+    "modified": 1757354053
+  },
+  {
     "filePath": "content/NPCs/Kayriel Acquermann.md",
     "created": 1735390334,
     "modified": 1751560482
@@ -1067,7 +1077,7 @@
   {
     "filePath": "content/Session Log/Session 51.md",
     "created": 1747473459,
-    "modified": 1748961020
+    "modified": 1757354053
   },
   {
     "filePath": "content/Session Log/Session 52.md",
@@ -1113,6 +1123,11 @@
     "filePath": "content/Session Log/Session 60.md",
     "created": 1754906589,
     "modified": 1755177591
+  },
+  {
+    "filePath": "content/Session Log/Session 61.md",
+    "created": 1757354053,
+    "modified": 1757354053
   },
   {
     "filePath": "content/index.md",
