@@ -165,11 +165,6 @@
     "modified": 1750759122
   },
   {
-    "filePath": "content/Items/Bloated Dragon.md",
-    "created": 1745769552,
-    "modified": 1747639952
-  },
-  {
     "filePath": "content/Items/Earrings of Fire Resistance.md",
     "created": 1755177606,
     "modified": 1755177606
@@ -213,6 +208,11 @@
     "filePath": "content/Items/Mythic Items/Ymerald Staff.md",
     "created": 1739556912,
     "modified": 1745255645
+  },
+  {
+    "filePath": "content/Items/Quest Items/Bloated Dragon.md",
+    "created": 1759827249,
+    "modified": 1759827249
   },
   {
     "filePath": "content/Items/Ring of Lightning Resistance.md",
@@ -835,6 +835,11 @@
     "modified": 1747639952
   },
   {
+    "filePath": "content/NPCs/Dorvan Cindermettle.md",
+    "created": 1759827249,
+    "modified": 1759827249
+  },
+  {
     "filePath": "content/NPCs/Drenn Halyx.md",
     "created": 1745255645,
     "modified": 1747639952
@@ -888,6 +893,11 @@
     "filePath": "content/NPCs/Kirren Acquermann.md",
     "created": 1735390334,
     "modified": 1745255645
+  },
+  {
+    "filePath": "content/NPCs/Leneia Yarumcy.md",
+    "created": 1735390334,
+    "modified": 1759827249
   },
   {
     "filePath": "content/NPCs/Malvin Randall.md",
@@ -1133,6 +1143,11 @@
     "filePath": "content/Session Log/Session 62.md",
     "created": 1759563867,
     "modified": 1759563867
+  },
+  {
+    "filePath": "content/Session Log/Session 63.md",
+    "created": 1759827249,
+    "modified": 1759827249
   },
   {
     "filePath": "content/index.md",
