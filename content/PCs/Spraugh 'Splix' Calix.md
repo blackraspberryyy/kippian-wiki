@@ -5,10 +5,10 @@ aliases:
 gender: male
 race: half-elf
 age: young adult
-alignment: 
+alignment:
 background: wizard
 location: "[Effil](../Locations/Settlements/Effil.md)"
-status: 
+status:
 faction: "[[Seven Up...]]"
 icon: player
 ---
@@ -29,7 +29,7 @@ icon: player
 > | Faction| [Seven Up...](../Factions/Seven%20Up....md)| 
 #### Known for: being a subpar wizard... for now
 ## Description
-### Class: Wizard
+### Class: [Wizard](https://dnd5e.wikidot.com/wizard)
 ### Subclass: [School of Divination](https://dnd5e.wikidot.com/wizard:divination)
 ## Backstory
 ### First Letter to [Fiamil](../NPCs/Fiamil%20Underwood.md)
@@ -120,7 +120,7 @@ icon: player
 ><li>Chromatic Orb</li>
 ><li>Alarm</li>
 >
->We have also mastered reading and writing in Magiscript, according to [Professor Aufel](../../Aufel%20Fernquill.md). We have also passed our tests in geography, advanced mathematics, basic alchemy, [Kippian](../Locations/Kingdoms/Kingdom%20of%20United%20Kippian.md) history, theological history, botany and zoology, mythologies, rune cryptography, and mage conduct. We were also given the Book of Savras by the university as required reading.
+>We have also mastered reading and writing in Magiscript, according to [Professor Aufel](../NPCs/Aufel%20Fernquill.md). We have also passed our tests in geography, advanced mathematics, basic alchemy, [Kippian](../Locations/Kingdoms/Kingdom%20of%20United%20Kippian.md) history, theological history, botany and zoology, mythologies, rune cryptography, and mage conduct. We were also given the Book of Savras by the university as required reading.
 >
 >We will be entering the final year of our studies soon. We hope to meet you soon, [Professor Embersense](../NPCs/Dorfir%20Embersense.md).
 >
@@ -174,16 +174,16 @@ icon: player
 - University professor and mentor: [Dorfir Embersense](../NPCs/Dorfir%20Embersense.md)
 # Story log
 ## Most Recent
-- [Session 50](../Session%20Log/Session%2050.md): [Theobald](Theobald%20Clayhollow.md), [Adeena](Adeena%20Oberon.md) and [Adikia](Adikia%20Unalome.md) plan to return back to [Ironfleet Compound](Ironfleet%20Compound.md). As they pass by the library, they see [Splix](Spraugh%20'Splix'%20Calix.md) researching.
-- [Session 50](../Session%20Log/Session%2050.md): Just as the [[Seven Up...|party]] is about to ride the [Bloated Dragon](Bloated%20Dragon.md), [Splix](Spraugh%20'Splix'%20Calix.md) returns bearing a message from [Savras University](Savras%20University.md) about [Professor Embersense](Dorfir%20Embersense.md)'s location. [Professor Embersense](Dorfir%20Embersense.md) and his apprentice, [Fiamil](Fiamil%20Underwood.md), are currently researching an ancient structure resurfacing from the sea. [Splix](Spraugh%20'Splix'%20Calix.md) suggests a destination to [Gandour](Gandour%20Ironfleet.md), and the latter accepts.
-- [Session 50](../Session%20Log/Session%2050.md): Upon arriving at the destination, [Gandour](Gandour%20Ironfleet.md) and the [[Seven Up...|party]] could not find the ruins. [Splix](Spraugh%20'Splix'%20Calix.md) uses a spyglass to check for ruins; he finds a shallow sandbar that they can land on.
-- [Session 51](../Session%20Log/Session%2051.md): [Splix](Spraugh%20'Splix'%20Calix.md) casts Comprehend Languages. Other members of the [[Seven Up...|party]] explore the [Library](Sunken%20Library.md).
-- [Session 51](../Session%20Log/Session%2051.md): [Arc](Arc.md) scours the second floor and sees two humanoids, a bearded old elf and a female human, resting on a table. After a brief confrontation, [Arc](Arc.md) determines that the two are [Splix](Spraugh%20'Splix'%20Calix.md)'s colleagues: [Dorfir Embersense](Dorfir%20Embersense.md) and [Fiamil](Fiamil%20Underwood.md).
-- [Session 51](../Session%20Log/Session%2051.md): [Splix](Spraugh%20'Splix'%20Calix.md) reads a scroll that retells the major events that happened during the [Primordial Ages](Primordial%20Ages.md).
-- [Session 51](../Session%20Log/Session%2051.md): During the party's conversation, [Splix](Spraugh%20'Splix'%20Calix.md) and [Fiamil](Fiamil%20Underwood.md) wander off into the pillars. They suddenly disappear into a hole in the floor.
-- [Session 51](../Session%20Log/Session%2051.md): The [[Seven Up...|party]] meets a decaying, seemingly undead sphinx. They see the unconscious bodies of [Splix](Spraugh%20'Splix'%20Calix.md) and [Fiamil](Fiamil%20Underwood.md) on the ground.
-- [Session 51](../Session%20Log/Session%2051.md): [Theobald](Theobald%20Clayhollow.md) offers [Matunda's Mace](Matunda's%20Mace.md) in exchange for the party's freedom, including [Splix](Spraugh%20'Splix'%20Calix.md) and [Fiamil](Fiamil%20Underwood.md). The sphinx accepts the offer, but only frees him, [Splix](Spraugh%20'Splix'%20Calix.md) and [Fiamil](Fiamil%20Underwood.md).
-- [Session 52](../Session%20Log/Session%2052.md): [Adikia](Adikia%20Unalome.md) casts Polymorph on a thrilled [Dorfir Embersense](Dorfir%20Embersense.md). She turns him into a T-rex. [Kiris](Kiris%20Acquermann.md), [Fiamil](Fiamil%20Underwood.md) and [Splix](Spraugh%20'Splix'%20Calix.md) ride on the polymorphed professor. [Adeena](Adeena%20Oberon.md) and [Thoradin](Thoradin%20Goodman.md) cast Find Steed. [Arc](Arc.md) and [Noah](Noah%20Skie.md) walks.
+- [Session 60](../Session%20Log/Session%2060.md): [Splix](Spraugh%20'Splix'%20Calix.md) and company successfully integrated the [Emerald of Protection Gem](Emerald%20of%20Protection%20Gem.md) into the [Bloated Dragon](Bloated%20Dragon.md). The magic gem casts a shell-like magical barrier that prevents magic from passing through the barrier.
+- [Session 60](../Session%20Log/Session%2060.md): After getting [Splix](Spraugh%20'Splix'%20Calix.md) from the [Ironfleet Compound](Ironfleet%20Compound.md), the [[Seven Up...|party]] heads to [Foenyx](Foenyx%20District.md).
+- [Session 61](../Session%20Log/Session%2061.md): [Arc](Arc.md), [Splix](Spraugh%20'Splix'%20Calix.md), [Auriel](Auriel%20Furwish.md), and [Adeena](Adeena%20Oberon.md) settle in the second room.
+- [Session 62](../Session%20Log/Session%2062.md): [Adikia](Adikia%20Unalome.md) feels a little hot, but otherwise claims that she feels great. [Theobald](Theobald%20Clayhollow.md) goes to the other room to consult [Splix](Spraugh%20'Splix'%20Calix.md) about the card.
+- [Session 62](../Session%20Log/Session%2062.md): Meanwhile, in the other room, [Splix](Spraugh%20'Splix'%20Calix.md), [Arc](Arc.md) and [Adeena](Adeena%20Oberon.md) wake up. They notice [Auriel](Auriel%20Furwish.md) continue being unresponsive.
+- [Session 62](../Session%20Log/Session%2062.md): [Theobald](Theobald%20Clayhollow.md) knocks on their door and consults with [Splix](Spraugh%20'Splix'%20Calix.md) regarding the card. The two soon recognize that it is the [Revivifying Card](Revivifying%20Card.md) they won from the specter.
+- [Session 63](../Session%20Log/Session%2063.md): [Noah](Noah%20Skie.md) kills the [Void Dragon](Void%20Dragon.md) as it was flying to [Yvernus](Yvernus%20District.md). [Splix](Spraugh%20'Splix'%20Calix.md) saves the [[Seven Up...|party]] from the falling dragon.
+- [Session 63](../Session%20Log/Session%2063.md): [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Splix](Spraugh%20'Splix'%20Calix.md) and [Noah](Noah%20Skie.md) find [Arc](Arc.md) and [Thoradin](Thoradin%20Goodman.md). They decide to buy potions from the merchant.
+- [Session 63](../Session%20Log/Session%2063.md): [Splix](Spraugh%20'Splix'%20Calix.md) identifies and buys a [Potion of Radiant Resistance](Potion%20of%20Resistance.md) for 110 gp.
+- [Session 63](../Session%20Log/Session%2063.md): [Adeena](Adeena%20Oberon.md) asks the merchant to identify the blood agar potion and a green potion. [Splix](Spraugh%20'Splix'%20Calix.md) helps with the identification.
 
 ## All Entries
 - [Session 13](../../Session%2013.md): [Splix](Spraugh%20'Splix'%20Calix.md)
@@ -240,3 +240,35 @@ icon: player
 - [Session 51](../Session%20Log/Session%2051.md): The [[Seven Up...|party]] meets a decaying, seemingly undead sphinx. They see the unconscious bodies of [Splix](Spraugh%20'Splix'%20Calix.md) and [Fiamil](Fiamil%20Underwood.md) on the ground.
 - [Session 51](../Session%20Log/Session%2051.md): [Theobald](Theobald%20Clayhollow.md) offers [Matunda's Mace](Matunda's%20Mace.md) in exchange for the party's freedom, including [Splix](Spraugh%20'Splix'%20Calix.md) and [Fiamil](Fiamil%20Underwood.md). The sphinx accepts the offer, but only frees him, [Splix](Spraugh%20'Splix'%20Calix.md) and [Fiamil](Fiamil%20Underwood.md).
 - [Session 52](../Session%20Log/Session%2052.md): [Adikia](Adikia%20Unalome.md) casts Polymorph on a thrilled [Dorfir Embersense](Dorfir%20Embersense.md). She turns him into a T-rex. [Kiris](Kiris%20Acquermann.md), [Fiamil](Fiamil%20Underwood.md) and [Splix](Spraugh%20'Splix'%20Calix.md) ride on the polymorphed professor. [Adeena](Adeena%20Oberon.md) and [Thoradin](Thoradin%20Goodman.md) cast Find Steed. [Arc](Arc.md) and [Noah](Noah%20Skie.md) walks.
+- [Session 53](../Session%20Log/Session%2053.md): [Splix](Spraugh%20'Splix'%20Calix.md) stays with the professors. He remembers the vision of [Zagi](Zerrus%20Zagi.md) trying to defeat the sphinx inside the [Sunken Library](Sunken%20Library.md). The visionalso reveals the sphinx's name: [Taurosh](Taurosh.md).
+- [Session 56](../Session%20Log/Session%2056.md): [Splix](Spraugh%20'Splix'%20Calix.md), [Professor Aufel](Aufel%20Fernquill.md), [Fiamil](Fiamil%20Underwood.md), and [Professor Embersense](Dorfir%20Embersense.md) discuss the nature of the artifact that is the source of [Asteri District](Asteri%20District.md)'s magical barrier. They conclude that only a gem can contain such potent magic.
+- [Session 56](../Session%20Log/Session%2056.md): [Professor Embersense](Dorfir%20Embersense.md) spots the [Ymerald Staff](Ymerald%20Staff.md). [Fiamil](Fiamil%20Underwood.md), [Dello](Dello%20Stoneshard.md) and [Professor Embersense](Dorfir%20Embersense.md) are initially incredulous, but they are willing to investigate. [Splix](Spraugh%20'Splix'%20Calix.md) allows them to examine the [Ymerald Staff](Ymerald%20Staff.md).
+- [Session 56](../Session%20Log/Session%2056.md): [Professor Embersense](Dorfir%20Embersense.md) asks [Splix](Spraugh%20'Splix'%20Calix.md) to find and retrieve the gem in [Asteri](Asteri%20District.md).
+- [Session 56](../Session%20Log/Session%2056.md): [Splix](Spraugh%20'Splix'%20Calix.md), realizing that it is now dawn, travels to the room to rest.
+- [Session 56](../Session%20Log/Session%2056.md): [Arc](Arc.md) sees [Splix](Spraugh%20'Splix'%20Calix.md), [Noah](Noah%20Skie.md), [Adeena](Adeena%20Oberon.md), and [Thoradin](Thoradin%20Goodman.md) arrive at the room to rest.
+- [Session 56](../Session%20Log/Session%2056.md): [Adeena](Adeena%20Oberon.md) tells [Adikia](Adikia%20Unalome.md) that [Kayriel](Kayriel%20Acquermann.md) is already dead. After [Adikia](Adikia%20Unalome.md) [Adeena](Adeena%20Oberon.md) she walks out. The commotion wakes other members of the [[Seven Up...|party]]. [Noah](Noah%20Skie.md) tries to comfort [Adikia](Adikia%20Unalome.md). [Kiris](Kiris%20Acquermann.md), [Thoradin](Thoradin%20Goodman.md), and [Splix](Spraugh%20'Splix'%20Calix.md) try to follow [Adeena](Adeena%20Oberon.md).
+- [Session 56](../Session%20Log/Session%2056.md): [Splix](Spraugh%20'Splix'%20Calix.md) enters the chapel and sees the remains of [Kayriel](Kayriel%20Acquermann.md). He then catches up and listens to [Kiris](Kiris%20Acquermann.md) and [Thoradin](Thoradin%20Goodman.md).
+- [Session 56](../Session%20Log/Session%2056.md): [Kiris](Kiris%20Acquermann.md) asks [Thoradin](Thoradin%20Goodman.md) and [Splix](Spraugh%20'Splix'%20Calix.md) to watch [Adikia](Adikia%20Unalome.md) because an entity might attack her.
+- [Session 56](../Session%20Log/Session%2056.md): [Splix](Spraugh%20'Splix'%20Calix.md) and [Arc](Arc.md) are observing the cafeteria as they eat.
+- [Session 56](../Session%20Log/Session%2056.md): [Arc](Arc.md) finds a bookie who is taking bets. [Arc](Arc.md) bets 150 gp on [Thoradin](Thoradin%20Goodman.md); [Splix](Spraugh%20'Splix'%20Calix.md) bets 200 gp on [Thoradin](Thoradin%20Goodman.md).
+- [Session 56](../Session%20Log/Session%2056.md): [Arc](Arc.md) tracks down the bookie who is trying to escape. The bookie pays [Arc](Arc.md) 300 gp, and [Splix](Spraugh%20'Splix'%20Calix.md) 400 gp.
+- [Session 56](../Session%20Log/Session%2056.md): The other gladiators look at both [Arc](Arc.md) and [Splix](Spraugh%20'Splix'%20Calix.md). One of them bumps [Arc](Arc.md). [Arc](Arc.md) attempts to steal the gladiator's purse. He asks them to share their winnings.
+- [Session 56](../Session%20Log/Session%2056.md): [Arc](Arc.md) gives them 5 gp; [Splix](Spraugh%20'Splix'%20Calix.md) gives them 25 gp. The gladiator gleefully accepts.
+- [Session 57](../Session%20Log/Session%2057.md): [Splix](Spraugh%20'Splix'%20Calix.md) convinces the party to retrieve the artifact in [Asteri](Asteri%20District.md).
+- [Session 57](../Session%20Log/Session%2057.md): [Splix](Spraugh%20'Splix'%20Calix.md) casts a specialized Detect Magic spell. The [[Seven Up...|party]] follows [Splix](Spraugh%20'Splix'%20Calix.md).
+- [Session 57](../Session%20Log/Session%2057.md): As [Splix](Spraugh%20'Splix'%20Calix.md) nears a rubble, an [Emerald Golem](Emerald%20Golem.md) attacks the [[Seven Up...|party]]. The [[Seven Up...|party]] confronts the golem.
+- [Session 57](../Session%20Log/Session%2057.md): [Splix](Spraugh%20'Splix'%20Calix.md) learns that the artifact they are looking for is inside the golem. The [[Seven Up...|party]] defeats the [Emerald Golem](Emerald%20Golem.md). [Splix](Spraugh%20'Splix'%20Calix.md) collects the [Emerald of Protection Gem](Emerald%20of%20Protection%20Gem.md).
+- [Session 58](../Session%20Log/Session%2058.md): [Kiris](Kiris%20Acquermann.md), [Thoradin](Thoradin%20Goodman.md) and [Splix](Spraugh%20'Splix'%20Calix.md) notices that [Arc](Arc.md) has gone missing. [Thoradin](Thoradin%20Goodman.md) asks a guard to report to him once they see [Arc](Arc.md).
+- [Session 58](../Session%20Log/Session%2058.md): [Kiris](Kiris%20Acquermann.md) asks [Splix](Spraugh%20'Splix'%20Calix.md) what he is doing with the [Emerald of Protection](Emerald%20of%20Protection%20Gem.md). [Splix](Spraugh%20'Splix'%20Calix.md) theorizes that the [Emerald of Protection Gem](Emerald%20of%20Protection%20Gem.md) and the [Ymerald Staff](Ymerald%20Staff.md) must have come from the same source.
+- [Session 58](../Session%20Log/Session%2058.md): The [[Seven Up...|party]] wakes up. [Splix](Spraugh%20'Splix'%20Calix.md) is already gone, leaving a note that he is helping imbue the [Bloated Dragon](Bloated%20Dragon.md) with the [Emerald of Protection Gem](Emerald%20of%20Protection%20Gem.md). [Arc](Arc.md) has not returned.
+- [Session 58](../Session%20Log/Session%2058.md): [Adeena](Adeena%20Oberon.md) divides the 5000 gp reward they received from [Gandour](Gandour%20Ironfleet.md) last week. She keeps the gold of [Arc](Arc.md) and [Splix](Spraugh%20'Splix'%20Calix.md) for the meantime.
+- [Session 60](../Session%20Log/Session%2060.md): [Splix](Spraugh%20'Splix'%20Calix.md) and company successfully integrated the [Emerald of Protection Gem](Emerald%20of%20Protection%20Gem.md) into the [Bloated Dragon](Bloated%20Dragon.md). The magic gem casts a shell-like magical barrier that prevents magic from passing through the barrier.
+- [Session 60](../Session%20Log/Session%2060.md): After getting [Splix](Spraugh%20'Splix'%20Calix.md) from the [Ironfleet Compound](Ironfleet%20Compound.md), the [[Seven Up...|party]] heads to [Foenyx](Foenyx%20District.md).
+- [Session 61](../Session%20Log/Session%2061.md): [Arc](Arc.md), [Splix](Spraugh%20'Splix'%20Calix.md), [Auriel](Auriel%20Furwish.md), and [Adeena](Adeena%20Oberon.md) settle in the second room.
+- [Session 62](../Session%20Log/Session%2062.md): [Adikia](Adikia%20Unalome.md) feels a little hot, but otherwise claims that she feels great. [Theobald](Theobald%20Clayhollow.md) goes to the other room to consult [Splix](Spraugh%20'Splix'%20Calix.md) about the card.
+- [Session 62](../Session%20Log/Session%2062.md): Meanwhile, in the other room, [Splix](Spraugh%20'Splix'%20Calix.md), [Arc](Arc.md) and [Adeena](Adeena%20Oberon.md) wake up. They notice [Auriel](Auriel%20Furwish.md) continue being unresponsive.
+- [Session 62](../Session%20Log/Session%2062.md): [Theobald](Theobald%20Clayhollow.md) knocks on their door and consults with [Splix](Spraugh%20'Splix'%20Calix.md) regarding the card. The two soon recognize that it is the [Revivifying Card](Revivifying%20Card.md) they won from the specter.
+- [Session 63](../Session%20Log/Session%2063.md): [Adeena](Adeena%20Oberon.md), [Adikia](Adikia%20Unalome.md), [Splix](Spraugh%20'Splix'%20Calix.md) and [Noah](Noah%20Skie.md) find [Arc](Arc.md) and [Thoradin](Thoradin%20Goodman.md). They decide to buy potions from the merchant.
+- [Session 63](../Session%20Log/Session%2063.md): [Splix](Spraugh%20'Splix'%20Calix.md) identifies and buys a [Potion of Radiant Resistance](Potion%20of%20Resistance.md) for 110 gp.
+- [Session 63](../Session%20Log/Session%2063.md): [Adeena](Adeena%20Oberon.md) asks the merchant to identify the blood agar potion and a green potion. [Splix](Spraugh%20'Splix'%20Calix.md) helps with the identification.
+- [Session 63](../Session%20Log/Session%2063.md): [Noah](Noah%20Skie.md) kills the [Void Dragon](Void%20Dragon.md) as it was flying to [Yvernus](Yvernus%20District.md). [Splix](Spraugh%20'Splix'%20Calix.md) saves the [[Seven Up...|party]] from the falling dragon.
