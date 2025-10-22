@@ -1,8 +1,9 @@
 ---
 share: true
-aliases: 
+aliases:
+  - Old Castle
 location: "[[Ankyra District]]"
-status: 
+status:
 lore_type: location
 icon: building
 ---
@@ -13,7 +14,7 @@ icon: building
 > ##### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | |
+> | Other names | Old Castle|
 > | Type | 
 > | Located in | [Ankyra District](../Areas/Ankyra%20District.md)|
 ## Description
