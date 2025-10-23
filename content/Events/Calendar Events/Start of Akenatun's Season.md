@@ -1,16 +1,13 @@
 ---
 share: true
-aliases: 
-characters: 
-location: 
+aliases:
+characters:
+location:
 fc-date:
   day: 1
   month: 1
-fc-end:
-  day: 28
-  month: 5
 fc-category: Calendar
-lore_type: 
+lore_type:
 icon: lore
 ---
 # Basic Information
