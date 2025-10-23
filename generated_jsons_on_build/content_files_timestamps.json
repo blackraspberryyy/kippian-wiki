@@ -347,7 +347,7 @@
   {
     "filePath": "content/Locations/Buildings/Ankyra's Old Castle Compound.md",
     "created": 1735390334,
-    "modified": 1739809520
+    "modified": 1761137518
   },
   {
     "filePath": "content/Locations/Buildings/Arena of the Dueling Swords.md",
@@ -713,6 +713,11 @@
     "filePath": "content/Lore/Events/Theater Incident.md",
     "created": 1747639952,
     "modified": 1747639952
+  },
+  {
+    "filePath": "content/Lore/Events/Winter Solstice.md",
+    "created": 1761137518,
+    "modified": 1761137518
   },
   {
     "filePath": "content/Lore/Kippian-Sumber War.md",
@@ -1148,6 +1153,11 @@
     "filePath": "content/Session Log/Session 63.md",
     "created": 1759827249,
     "modified": 1759827249
+  },
+  {
+    "filePath": "content/Session Log/Session 64.md",
+    "created": 1761137518,
+    "modified": 1761137518
   },
   {
     "filePath": "content/index.md",
