@@ -4,26 +4,25 @@ aliases:
 characters:
 location:
 fc-date:
-  day: 1
-  month: 1
+  day: 14
+  month: 3
 fc-category: Calendar
-lore_type:
+lore_type: event
 icon: lore
 ---
 # Basic Information
 > [!infobox]
-> # Start of Akenatun's Season
+> # Summer Solstice
 > ![cover hsmall](insertimage.png)
 > ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
-> | Type||
+> | Type|event|
 > | Located in | |
-#### Known for:
 ## Description
 # Lore Mentions
+# Story Log
 ## Most Recent
 
 ## All Entries
-

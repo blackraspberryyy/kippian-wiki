@@ -5,14 +5,14 @@ characters:
 location:
 fc-date:
   day: 1
-  month: 1
+  month: 6
 fc-category: Calendar
 lore_type:
 icon: lore
 ---
 # Basic Information
 > [!infobox]
-> # Start of Akenatun's Season
+> # Start of Matunda's Season
 > ![cover hsmall](insertimage.png)
 > ##### Information
 > |   |  |

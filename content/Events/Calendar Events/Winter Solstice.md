@@ -3,8 +3,10 @@ share: true
 aliases:
 characters:
 location:
-fc-date: 1083-08-14
-fc-category: Lore
+fc-date:
+  day: 14
+  month: 8
+fc-category: Calendar
 lore_type: event
 icon: lore
 ---
