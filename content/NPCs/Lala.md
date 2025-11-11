@@ -29,7 +29,7 @@ icon: character
 > | Location|  [Chtapodhi District](../Locations/Areas/Chtapodhi%20District.md)|
 > | Faction| | 
 ## Description
-A child who asked for [Arc](../PCs/Arc.md) and [Thoradin](../PCs/Thoradin%20Goodman.md)'s help during 
+A child who asked for [Arc](../PCs/Arc.md) and [Thoradin](../PCs/Thoradin%20Goodman.md)'s help during evacuation.
 ## Relationships
 - [Lala](Lala.md) admires [Arc](../PCs/Arc.md); she also knows [Thoradin](../PCs/Thoradin%20Goodman.md)
 # Story Log
