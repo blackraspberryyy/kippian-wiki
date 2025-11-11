@@ -7,11 +7,11 @@ fc-category: Session
 icon: calendar
 ---
 # Children and Chains
-## Long Rest (16th of Zagi)
+## Long Rest
 - [Thoradin](../PCs/Thoradin%20Goodman.md) stores the spirit shroud spell into the [Bloodstone Arcane Gem](../../Bloodstone%20Arcane%20Gem.md).
 - The [party](../Factions/Seven%20Up....md) takes a long rest.
-## Morning (16th of Zagi)
-- The [party](../Factions/Seven%20Up....md) wakes up and see [Gandour](../../Gandour%20Ironfleet.md) meeting in the courtyard to personnel. [Gandour](../../Gandour%20Ironfleet.md) seems to instruct his personnel regarding the planned evacuation.
+## Morning Preparations (16th of Zagi)
+- The [party](../Factions/Seven%20Up....md) wakes up and see [Gandour](../../Gandour%20Ironfleet.md) meeting in the courtyard to personnel. [Gandour](../../Gandour%20Ironfleet.md) seems to instruct his personnel regarding the planned [evacuation](../Lore/Events/Civilian%20Evacuation.md).
 - The [party](../Factions/Seven%20Up....md) decides to travel to [Ankyra's Old Castle Compound](../Locations/Buildings/Ankyra's%20Old%20Castle%20Compound.md) to interrogate [Janna](../NPCs/Janna%20Furwish.md) and [Leneia](../NPCs/Leneia%20Yarumcy.md).
 - [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) informs the [party](../Factions/Seven%20Up....md) that he will stay in [Ironfleet Compound](../Locations/Buildings/Ironfleet%20Compound.md) to talk with the scholars.
 - [Adikia](../PCs/Adikia%20Unalome.md) opts to stay within the confines of [Ironfleet Compound](../Locations/Buildings/Ironfleet%20Compound.md). [Theobald](../PCs/Theobald%20Clayhollow.md) asks [Adikia](../PCs/Adikia%20Unalome.md) an object to remember her by. [Adikia](../PCs/Adikia%20Unalome.md) gives him a chipped gold that from her [Aureate Rapier](../Items/Mythic%20Items/Aureate%20Rapier.md).
@@ -24,7 +24,7 @@ icon: calendar
 - During [Theobald](../PCs/Theobald%20Clayhollow.md)'s excursion, [Noah](../PCs/Noah%20Skie.md) sees a child looking at her from a narrow pathway beside a nearby canal. [Noah](../PCs/Noah%20Skie.md) ignores her.
 - [Adeena](../PCs/Adeena%20Oberon.md) sees a signaling glare from someone behind a chimney on the top of a two-story building. [Adeena](../PCs/Adeena%20Oberon.md) points the [party](../Factions/Seven%20Up....md)'s attention to it. [Kiris](../PCs/Kiris%20Acquermann.md), [Theobald](../PCs/Theobald%20Clayhollow.md) and [Noah](../PCs/Noah%20Skie.md) partially see it; the [party](../Factions/Seven%20Up....md) decide to ignore it and head to [Ankyra](../Locations/Areas/Ankyra%20District.md).
 ### [Thoradin](../PCs/Thoradin%20Goodman.md) and [Arc](../PCs/Arc.md)
-- [Thoradin](../PCs/Thoradin%20Goodman.md) and [Arc](../PCs/Arc.md) find a guard to know the details of the evacuation. They find one entering a narrow alley adjacent to a canal. [Arc](../PCs/Arc.md) follows the guard; the guard drops down suddenly. 
+- [Thoradin](../PCs/Thoradin%20Goodman.md) and [Arc](../PCs/Arc.md) find a guard to know the details of the [evacuation](../Lore/Events/Civilian%20Evacuation.md). They find one entering a narrow alley adjacent to a canal. [Arc](../PCs/Arc.md) follows the guard; the guard drops down suddenly. 
 - [Arc](../PCs/Arc.md) immediately hails [Thoradin](../PCs/Thoradin%20Goodman.md). When the two arrive at the guard's location, they see that the body is gone. 
 - The two investigate, and they conclude that the body has been dragged onto a floating raft on the water. The two decide to follow the flow of the waterway.
 - The two exits to a bridge and sees a guard. [Thoradin](../PCs/Thoradin%20Goodman.md) asks the guard where to direct the evacuating civilians. He also asks him if he saw something flowing on the canal; the guard responded no. [Thoradin](../PCs/Thoradin%20Goodman.md) and [Arc](../PCs/Arc.md) explains the situation. The guard implores the two to file a missing persons report.
