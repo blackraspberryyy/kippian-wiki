@@ -1,8 +1,8 @@
 ---
 share: true
-aliases: 
+aliases:
 location: "[[Effil]]"
-status: 
+status:
 lore_type: location
 icon: building
 ---
@@ -23,8 +23,9 @@ icon: building
 | ---- |
 
 # Notable NPCs
-| Name |
-| ---- |
+| Name                                   |
+| -------------------------------------- |
+| [Elma Delcine](../../../Elma%20Delcine.md) |
 
 # Factions
 | Name |
