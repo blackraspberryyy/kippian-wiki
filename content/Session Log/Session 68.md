@@ -1,13 +1,30 @@
 ---
 share: true
 creation_date: 2025-12-07 16:11
-location:
-fc-date:
+location: "[Midkip](../Locations/Settlements/Midkip.md)"
+fc-date: 1083-06-16
 fc-category: Session
 icon: calendar
 ---
-# Title
-## Event
-- Sir [Roman](../NPCs/Roman%20Silverfox.md), paladin of [Yekora](../Deities/New%20Gods/Yekora.md).
-%% This is a comment %%
-
+# Resting or Arresting
+## [Adikia](../PCs/Adikia%20Unalome.md) Attempts Deception
+- [Adikia](../PCs/Adikia%20Unalome.md) forces [Vanayra](../../Vanayra%20Metorne.md) to drink her unidentified potion. Then, [Adikia](../PCs/Adikia%20Unalome.md) changes her voice to mimic [Kariil](../../Kariil%20Acquermann.md)'s in order to deceive [Vanayra](../../Vanayra%20Metorne.md). However, [Adikia](../PCs/Adikia%20Unalome.md) is unable to extract information from [Vanayra](../../Vanayra%20Metorne.md), concluding that [Vanayra](../../Vanayra%20Metorne.md)'s secret is protected by an enchantment spell.
+- [Adikia](../PCs/Adikia%20Unalome.md) exits the prison to rest near a tree.
+## Back to [Ankyra](../Locations/Areas/Ankyra%20District.md)
+- The [party](../Factions/Seven%20Up....md) decides to go to [Ankyra](../Locations/Areas/Ankyra%20District.md) once more after [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) divulging information he uncovered.
+- [Arc](../PCs/Arc.md) informs [Gandour](../../Gandour%20Ironfleet.md) about the soldiers he met earlier.
+- [Theobald](../PCs/Theobald%20Clayhollow.md) and [Thoradin](../PCs/Thoradin%20Goodman.md) decide to let [Leneia](../NPCs/Leneia%20Yarumcy.md) stay at [Ironfleet Compound](../Locations/Buildings/Ironfleet%20Compound.md). [Thoradin](../PCs/Thoradin%20Goodman.md) asks [Nos](../NPCs/Nos-Aji.md) and [Olrac](../NPCs/Olrac.md) to keep an eye on [Leneia](../NPCs/Leneia%20Yarumcy.md) while they are away. [Nos](../NPCs/Nos-Aji.md) warns [Thoradin](../PCs/Thoradin%20Goodman.md) that he and the [party](../Factions/Seven%20Up....md) might not be able to rest and prepare for the ensuing battle tomorrow.
+- The [party](../Factions/Seven%20Up....md) travels to [Ankyra](../Locations/Areas/Ankyra%20District.md). [Thoradin](../PCs/Thoradin%20Goodman.md) announces the [party](../Factions/Seven%20Up....md)'s arrival to the guards who are friendly to him.
+- The [party](../Factions/Seven%20Up....md) inspects [Vanayra](../../Vanayra%20Metorne.md)'s cell, but they do not notice anything wrong. [Adeena](../PCs/Adeena%20Oberon.md), [Splix](../PCs/Spraugh%20'Splix'%20Calix.md), and [Noah](../PCs/Noah%20Skie.md) decide to rest inside a room above the prison floor. [Kiris](../PCs/Kiris%20Acquermann.md) decides to rest in front of [Vanayra](../../Vanayra%20Metorne.md)'s cell.
+- [Theobald](../PCs/Theobald%20Clayhollow.md) attempts to wake [Adikia](../PCs/Adikia%20Unalome.md), but reconsiders after learning that she is in a deep sleep. [Theobald](../PCs/Theobald%20Clayhollow.md) rests with the others.
+- [Thoradin](../PCs/Thoradin%20Goodman.md) warns the guards about an impending intrusion. The guards oblige and double the number of patrolling guards. [Thoradin](../PCs/Thoradin%20Goodman.md) sleeps beside [Kiris](../PCs/Kiris%20Acquermann.md).
+- [Arc](../PCs/Arc.md) gifts the guards 10 gp for their efforts. He then hears the sound of marching. Upon observing, [Arc](../PCs/Arc.md) sees the retinue he met in the port earlier is now arriving at [Old Castle](../Locations/Buildings/Ankyra's%20Old%20Castle%20Compound.md). [Arc](../PCs/Arc.md) meets the officer, but before they can talk, [Mitarella](../NPCs/Mitarella%20Randall.md) arrives to welcome the guards.
+- The tall, heavy-armored officer kneels and introduces himself to [Mitarella](../NPCs/Mitarella%20Randall.md) as [Sir Roman](../NPCs/Roman%20Silverfox.md), a paladin of [Yekora](../Deities/New%20Gods/Yekora.md).
+- [Roman](../NPCs/Roman%20Silverfox.md) leads his retinue to a space inside the [Old Castle](../Locations/Buildings/Ankyra's%20Old%20Castle%20Compound.md) courtyard. [Arc](../PCs/Arc.md) approaches him; after a brief conversation, [Roman](../NPCs/Roman%20Silverfox.md) challenges [Arc](../PCs/Arc.md) to a friendly duel. [Arc](../PCs/Arc.md) loses badly in the duel. 
+## Attempted Escape
+- [Thoradin](../PCs/Thoradin%20Goodman.md) wakes up to a soldier having a sword pointed at [Kiris](../PCs/Kiris%20Acquermann.md)'s chest. The soldier beckons [Thoradin](../PCs/Thoradin%20Goodman.md) to open [Vanayra](../../Vanayra%20Metorne.md)'s cell and release her binds. Meanwhile, [Adikia](../PCs/Adikia%20Unalome.md)'s ancient companion alerts her of a commotion happening in the prison. [Adikia](../PCs/Adikia%20Unalome.md) stealthily descends into the prison.
+- [Thoradin](../PCs/Thoradin%20Goodman.md) follows the soldier's commands. They realize that the soldier is actually [Kariil](../../Kariil%20Acquermann.md). [Adikia](../PCs/Adikia%20Unalome.md) provides the opening, and [Thoradin](../PCs/Thoradin%20Goodman.md), [Kiris](../PCs/Kiris%20Acquermann.md), and [Adikia](../PCs/Adikia%20Unalome.md) get involved into a fight against [Vanayra](../../Vanayra%20Metorne.md) and [Kariil](../../Kariil%20Acquermann.md).
+- The fight ends with [Vanayra](../../Vanayra%20Metorne.md) escaping the cell while [Kariil](../../Kariil%20Acquermann.md) is banished.
+- [Thoradin](../PCs/Thoradin%20Goodman.md) and [Kiris](../PCs/Kiris%20Acquermann.md) await [Kariil](../../Kariil%20Acquermann.md), while [Adikia](../PCs/Adikia%20Unalome.md) attempts to pursue [Vanayra](../../Vanayra%20Metorne.md). [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) and [Arc](../PCs/Arc.md) become aware of the situation and rush into the battle. [Arc](../PCs/Arc.md) notices that  [Kariil](../../Kariil%20Acquermann.md) is wearing the uniform of the soldiers under [Roman](../NPCs/Roman%20Silverfox.md)'s command.
+- [Thoradin](../PCs/Thoradin%20Goodman.md) and [Kiris](../PCs/Kiris%20Acquermann.md) rebuff [Kariil](../../Kariil%20Acquermann.md)'s attempt to escape. [Kariil](../../Kariil%20Acquermann.md) surrenders upon seeing that [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) is with the [party](../Factions/Seven%20Up....md).
+- [Adikia](../PCs/Adikia%20Unalome.md) casts locate object on the dress that [Vanayra](../../Vanayra%20Metorne.md) wears. [Adikia](../PCs/Adikia%20Unalome.md) learns that [Vanayra](../../Vanayra%20Metorne.md) is half a mile east of [Old Castle](../Locations/Buildings/Ankyra's%20Old%20Castle%20Compound.md). [Adikia](../PCs/Adikia%20Unalome.md) tells the guards to contact the patrolling guards near [Midkip](../Locations/Settlements/Midkip.md)'s eastern border to keep an eye out for [Vanayra](../../Vanayra%20Metorne.md). The guards follow [Adikia](../PCs/Adikia%20Unalome.md)'s orders. 
