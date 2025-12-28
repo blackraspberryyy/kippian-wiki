@@ -200,6 +200,11 @@
     "modified": 1755177606
   },
   {
+    "filePath": "content/Items/Enchor's Arrowhead.md",
+    "created": 1766855514,
+    "modified": 1766855514
+  },
+  {
     "filePath": "content/Items/Mythic Items/Aureate Rapier.md",
     "created": 1739556912,
     "modified": 1747473459
@@ -655,6 +660,11 @@
     "modified": 1739643150
   },
   {
+    "filePath": "content/Lore/Bestowing Enchor's Arrowhead.md",
+    "created": 1766855514,
+    "modified": 1766855514
+  },
+  {
     "filePath": "content/Lore/Eons and Ages/Age of Beasts.md",
     "created": 1735390334,
     "modified": 1739866760
@@ -823,6 +833,11 @@
     "filePath": "content/NPCs/Anna Racquefort.md",
     "created": 1745255645,
     "modified": 1745255645
+  },
+  {
+    "filePath": "content/NPCs/April Torgall.md",
+    "created": 1766854526,
+    "modified": 1766854526
   },
   {
     "filePath": "content/NPCs/Armand Gorrel.md",
@@ -1222,7 +1237,12 @@
   {
     "filePath": "content/Session Log/Session 68.md",
     "created": 1765180319,
-    "modified": 1765184262
+    "modified": 1766854526
+  },
+  {
+    "filePath": "content/Session Log/Session 69.md",
+    "created": 1766854526,
+    "modified": 1766854526
   },
   {
     "filePath": "content/index.md",
