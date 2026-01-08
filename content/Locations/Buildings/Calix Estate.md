@@ -1,10 +1,10 @@
 ---
 share: true
-aliases: 
+aliases:
 location: "[[Effil]]"
-status: 
+status:
 lore_type: location
-icon: map
+icon: building
 ---
 # Basic Information
 > [!infobox]
