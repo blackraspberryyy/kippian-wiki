@@ -1,21 +1,21 @@
 ---
 share: true
 aliases:
-location: "[[Effil]]"
+location: "[[Yvernus District]]"
 status:
 lore_type: location
 icon: building
 ---
 # Basic Information
 > [!infobox]
-> # Calix Estate
+> # Acquermann Estate
 > ![cover hsmall](insertimage.png)
 > ##### Information
 > |   |  |
 > | ---- | ---- |
 > | Other names | |
 > | Type | 
-> | Located in | [Effil](../Settlements/Effil.md)|
+> | Located in | [Yvernus District](../Areas/Yvernus%20District.md)|
 ## Description
 # Notable Locations
 | Name |
