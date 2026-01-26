@@ -17,12 +17,12 @@ icon: calendar
 ## [Airship](../Items/Quest%20Items/Bloated%20Dragon.md) Landing
 - As the [airship](../Items/Quest%20Items/Bloated%20Dragon.md) lands, [Arc](../PCs/Arc.md) notices imploded buildings. Within these buildings [Arc](../PCs/Arc.md) sees faint glimmers of light varying in color: blue, white, red and green.
 - [Gandour](../../Gandour%20Ironfleet.md) and the airship crew repair the [Bloated Dragon](../Items/Quest%20Items/Bloated%20Dragon.md).
-### Bomb-planting crew
+### Bomb-Planting Crew
 - [Nos-Aji](../NPCs/Nos-Aji.md) and [Olrac](../NPCs/Olrac.md) retrieve two barrels of [Gloompowder Bags](../Items/Quest%20Items/Gloompowder%20Bags.md) from the [airship](../Items/Quest%20Items/Bloated%20Dragon.md)'s hold. The two think of a way to stealthily transport the bombs. [Adeena](../PCs/Adeena%20Oberon.md) offers a way by lending her services to [Nos-Aji](../NPCs/Nos-Aji.md) and [Olrac](../NPCs/Olrac.md); [Adikia](../PCs/Adikia%20Unalome.md) and her ancient companion tag along. [Severino](../NPCs/Severino%20Medlin.md) gets acquainted with [Nos-Aji](../NPCs/Nos-Aji.md) and [Olrac](../NPCs/Olrac.md).
-### Protection services
+### Protection Services
 - The three [Wycroft](../Locations/Kingdoms/Wycroft%20Mountain%20Kingdom.md) warmages descend the [airship](../Items/Quest%20Items/Bloated%20Dragon.md) and ask for protection while they are casting teleport circles, which will bring the [Wycroft Gladiators](../Factions/Wycroft%20Gladiators.md) into [Yvernus](../Locations/Areas/Yvernus%20District.md). [Thoradin](../PCs/Thoradin%20Goodman.md), [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) and [Noah](../PCs/Noah%20Skie.md) accompany the three warmages.
-### A duel and a lead
-- [Kiris](../PCs/Kiris%20Acquermann.md), [Theobald](../PCs/Theobald%20Clayhollow.md) and [Arc](../PCs/Arc.md) travel to the [Acquermann Estate](../Locations/Buildings/Acquermann%20Estate.md) with [Kariil](../../Kariil%20Acquermann.md), [Kirren](../NPCs/Kirren%20Acquermann.md), [Michaela](../NPCs/Michaela%20Randall.md), and [Leneia](../NPCs/Leneia%20Yarumcy.md). 
+### A Duel and a Lead
+- [Kiris](../PCs/Kiris%20Acquermann.md), [Theobald](../PCs/Theobald%20Clayhollow.md) and [Arc](../PCs/Arc.md) plan an excursion to the [Acquermann Estate](../Locations/Buildings/Acquermann%20Estate.md) with [Kariil](../../Kariil%20Acquermann.md), [Kirren](../NPCs/Kirren%20Acquermann.md), [Michaela](../NPCs/Michaela%20Randall.md), and [Leneia](../NPCs/Leneia%20Yarumcy.md). 
 ## D-d-dragons?
 - [Adeena](../PCs/Adeena%20Oberon.md) removes most of the items inside her bag of holding. [Adeena](../PCs/Adeena%20Oberon.md) doffs her armor and entrusts it to [Gandour](../../Gandour%20Ironfleet.md).
 - [Adeena](../PCs/Adeena%20Oberon.md) fills the bag of holding with gold and [Gloompowder Bags](../Items/Quest%20Items/Gloompowder%20Bags.md).
