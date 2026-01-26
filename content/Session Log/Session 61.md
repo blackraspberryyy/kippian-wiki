@@ -31,7 +31,7 @@ icon: calendar
 	- [Arc](../PCs/Arc.md), [Splix](../PCs/Spraugh%20'Splix'%20Calix.md), [Auriel](../NPCs/Auriel%20Furwish.md), and [Adeena](../PCs/Adeena%20Oberon.md) settle in the second room.
 - The innkeeper, [Justicia](../NPCs/Justicia%20Holms.md), gives food to the [party](../Factions/Seven%20Up....md) members in the first room. [Justicia](../NPCs/Justicia%20Holms.md) asks if the marking on [Adikia](../PCs/Adikia%20Unalome.md)'s forehead is a new fashion trend, claiming that she saw another customer with the same marking. The [party](../Factions/Seven%20Up....md) coaxes [Justicia](../NPCs/Justicia%20Holms.md) to share details about the customer.
 - [Justicia](../NPCs/Justicia%20Holms.md) mentions that a clean-shaven, middle-aged man named Michael has the same mark on his forehead. [Justicia](../NPCs/Justicia%20Holms.md) claims that the man rented a room yesterday, but has since left and yet to come back to the inn. [Justicia](../NPCs/Justicia%20Holms.md) also mentions that the man has been a customer in the past.
-### Question for the devil
+### Question for the Devil
 - [Arc](../PCs/Arc.md) asks [Theobald](../PCs/Theobald%20Clayhollow.md) and [Thoradin](../PCs/Thoradin%20Goodman.md) for help in asking the soul inside the trinket he retrieved earlier. He explains that he can ask the soul for information.
 - The three choose to do [Arc](../PCs/Arc.md)'s deed in the inn's courtyard, away from both [Adikia](../PCs/Adikia%20Unalome.md) and [Auriel](../NPCs/Auriel%20Furwish.md).
 - [Arc](../PCs/Arc.md) breaks the trinket and it crumbles into dust. A nefarious soul emerges from it and looms over him. [Arc](../PCs/Arc.md) asks it what to do to remove [Adikia](../PCs/Adikia%20Unalome.md)'s marking.

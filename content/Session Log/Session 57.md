@@ -18,10 +18,10 @@ icon: calendar
 ## Discussion
 - [Thoradin](../PCs/Thoradin%20Goodman.md) calls [Theobald](../PCs/Theobald%20Clayhollow.md); [Thoradin](../PCs/Thoradin%20Goodman.md) entertains the gladiator that [Theobald](../PCs/Theobald%20Clayhollow.md) brought with him. [Thoradin](../PCs/Thoradin%20Goodman.md) disperses the gladiators by buying them a barrel of ale. 
 - [Theobald](../PCs/Theobald%20Clayhollow.md) learns from [Thoradin](../PCs/Thoradin%20Goodman.md) that [Kayriel](../NPCs/Kayriel%20Acquermann.md) is dead. He decides to pay his respects. [Theobald](../PCs/Theobald%20Clayhollow.md) asks the other members of the [party](../Factions/Seven%20Up....md) to follow him and convene in the chapel. [Adikia](../PCs/Adikia%20Unalome.md) initially declines, but is persuaded to come by [Theobald](../PCs/Theobald%20Clayhollow.md).
-### [Kiris](../PCs/Kiris%20Acquermann.md) makes a promise
+### [Kiris](../PCs/Kiris%20Acquermann.md) Makes a Promise
 - [Kiris](../PCs/Kiris%20Acquermann.md) talks to [Kayvan](../NPCs/Kayvan%20Acquermann.md) and promises revenge. [Kayvan](../NPCs/Kayvan%20Acquermann.md) acknowledges [Kiris](../PCs/Kiris%20Acquermann.md).
 - [Kiris](../PCs/Kiris%20Acquermann.md) exits the chapel, but he meets [Theobald](../PCs/Theobald%20Clayhollow.md) and the [party](../Factions/Seven%20Up....md) going to the chapel. [Kiris](../PCs/Kiris%20Acquermann.md) escorts the [party](../Factions/Seven%20Up....md) inside the chapel. [Adikia](../PCs/Adikia%20Unalome.md) stays outside, and [Thoradin](../PCs/Thoradin%20Goodman.md) accompanies her.
-### [Arc](../PCs/Arc.md) recalls
+### [Arc](../PCs/Arc.md) Recalls
 - [Arc](../PCs/Arc.md) sees [Kayriel](../NPCs/Kayriel%20Acquermann.md)'s body laid on the altar. He is confused; [Arc](../PCs/Arc.md) asks how [Kayriel](../NPCs/Kayriel%20Acquermann.md) died. [Theobald](../PCs/Theobald%20Clayhollow.md) tells him that [Adeena](../PCs/Adeena%20Oberon.md) killed him.
 - [Arc](../PCs/Arc.md) investigates and sees the wound on [Kayriel](../NPCs/Kayriel%20Acquermann.md)'s chest. He is sure that [Adeena](../PCs/Adeena%20Oberon.md)'s [Evershift](../Items/Mythic%20Items/Evershift.md) is the cause of the wound.
 - [Arc](../PCs/Arc.md) recalls a memory; first he remembers the moment he saw [Kayriel](../NPCs/Kayriel%20Acquermann.md) in [Kayvan](../NPCs/Kayvan%20Acquermann.md)'s room. Then, a distant memory presents itself to [Arc](../PCs/Arc.md): he sees a younger version of himself running in an urban setting. He does not know whether he is chasing something, or is being chased.

@@ -12,11 +12,11 @@ icon: calendar
 - [Theobald](../PCs/Theobald%20Clayhollow.md) feels that the [Matunda's Mace](../Items/Mythic%20Items/Matunda's%20Mace.md) is leading him somewhere. He follows it.
 - Meanwhile [Kiris](../PCs/Kiris%20Acquermann.md), who is carrying [Adikia](../PCs/Adikia%20Unalome.md)'s body, shouts out to [Theobald](../PCs/Theobald%20Clayhollow.md). [Theobald](../PCs/Theobald%20Clayhollow.md) and [Kiris](../PCs/Kiris%20Acquermann.md) eventually meet up. 
 - [Kiris](../PCs/Kiris%20Acquermann.md) explains that [Adikia](../PCs/Adikia%20Unalome.md) is struck dead. The two decide to go to [Foenyx](../Locations/Areas/Foenyx%20District.md). [Theobald](../PCs/Theobald%20Clayhollow.md)'s plan is to go to the [Chapel of Amlin](../Locations/Buildings/Chapel%20of%20Amlin.md) and consult [Drenn Halyx](../NPCs/Drenn%20Halyx.md). [Theobald](../PCs/Theobald%20Clayhollow.md) asks [Kiris](../PCs/Kiris%20Acquermann.md) to obtain a diamond worth 500 gp.
-### [Kiris](../PCs/Kiris%20Acquermann.md) strikes a deal
+### [Kiris](../PCs/Kiris%20Acquermann.md) Strikes a Deal
 - [Kiris](../PCs/Kiris%20Acquermann.md) heads back to [Geraldt](../NPCs/Geraldt%20Dratzel.md)'s store. All stores are closed, so [Kiris](../PCs/Kiris%20Acquermann.md) knocks on one of the houses close to it. A rotund man shows on the upper floor window. After hearing [Kiris](../PCs/Kiris%20Acquermann.md)' pleading, the man and [Geraldt](../NPCs/Geraldt%20Dratzel.md) shows himself to [Kiris](../PCs/Kiris%20Acquermann.md). [Geraldt](../NPCs/Geraldt%20Dratzel.md) leads [Kiris](../PCs/Kiris%20Acquermann.md) to his store.
 - [Geraldt](../NPCs/Geraldt%20Dratzel.md) agrees to sell diamond rings worth 750 gp. [Geraldt](../NPCs/Geraldt%20Dratzel.md) explains that the diamonds in total is worth 500 gp.
 - [Kiris](../PCs/Kiris%20Acquermann.md) negotiates with [Geraldt](../NPCs/Geraldt%20Dratzel.md); he gives the shopkeeper 500 gp and his magic citrine stone in exchange for the diamond rings. After the deal, [Kiris](../PCs/Kiris%20Acquermann.md) heads back to the [Chapel of Amlin](../Locations/Buildings/Chapel%20of%20Amlin.md).
-### Choices with consequences
+### Choices with Consequences
 - [Father Drenn](../NPCs/Drenn%20Halyx.md) opens the door to [Theobald](../PCs/Theobald%20Clayhollow.md). [Theobald](../PCs/Theobald%20Clayhollow.md) consults [Father Drenn](../NPCs/Drenn%20Halyx.md). [Father Drenn](../NPCs/Drenn%20Halyx.md) warns [Theobald](../PCs/Theobald%20Clayhollow.md) that using the Raise Dead spell will have consequences.
 - [Father Drenn](../NPCs/Drenn%20Halyx.md) offers a safer alternative: cast Reincarnate spell using the priest's spell scroll. However, only a druid can cast the spell.
 - As [Theobald](../PCs/Theobald%20Clayhollow.md) is mulling the options, he hears a faint whisper; unfortunately he could not discern it. 
@@ -29,7 +29,7 @@ icon: calendar
 - The [Dusk Talons](../Factions/Dusk%20Talons.md) hand [Adeena](../PCs/Adeena%20Oberon.md) an emblem similar to what [Kiris](../PCs/Kiris%20Acquermann.md) received from his father. They pay respects to [Kayriel](../NPCs/Kayriel%20Acquermann.md)'s body.
 - [Adeena](../PCs/Adeena%20Oberon.md) and [Thoradin](../PCs/Thoradin%20Goodman.md) walk back to the [Ironfleet Compound](../Locations/Buildings/Ironfleet%20Compound.md).
 ## The [Wycroft Gladiators](../Factions/Wycroft%20Gladiators.md)
-### [Noah](../PCs/Noah%20Skie.md)'s fight
+### [Noah](../PCs/Noah%20Skie.md)'s Fight
 - [Noah](../PCs/Noah%20Skie.md) wakes up from her drunken stupor and sees [Theobald](../PCs/Theobald%20Clayhollow.md) gone.
 - [Noah](../PCs/Noah%20Skie.md) surveys the workers' movements and comes to the conclusion that they must be soldiers. [Noah](../PCs/Noah%20Skie.md) investigates and interrogates.
 - [Noah](../PCs/Noah%20Skie.md) sarcastically praises a worker's farming work to get a reaction. [Noah](../PCs/Noah%20Skie.md)'s words anger the man, and he challenges [Noah](../PCs/Noah%20Skie.md) to a fight.
@@ -37,7 +37,7 @@ icon: calendar
 - [Noah](../PCs/Noah%20Skie.md) talks to [Flavius](../../Flavius%20Underburrow.md). Out of nowhere, [Flavius](../../Flavius%20Underburrow.md) asks about [Gandour](../../Gandour%20Ironfleet.md) and [Remus](../NPCs/Remus%20Kyp.md); [Noah](../PCs/Noah%20Skie.md) feigns ignorance. [Noah](../PCs/Noah%20Skie.md) walks back to the [Ironfleet Compound](../Locations/Buildings/Ironfleet%20Compound.md).
 - Along the way, [Noah](../PCs/Noah%20Skie.md) sees [Flavius](../../Flavius%20Underburrow.md) and [Josh](../NPCs/Josiah%20Rendle.md) following her. She learns that the two are also going to the [Ironfleet Compound](../Locations/Buildings/Ironfleet%20Compound.md). [Noah](../PCs/Noah%20Skie.md) walks on the other side of the road.
 - [Noah](../PCs/Noah%20Skie.md) meets [Adeena](../PCs/Adeena%20Oberon.md) and [Thoradin](../PCs/Thoradin%20Goodman.md). [Thoradin](../PCs/Thoradin%20Goodman.md) tells [Noah](../PCs/Noah%20Skie.md) what transpired in the [arena](../Locations/Buildings/Arena%20of%20the%20Dueling%20Swords.md).
-### Kinship between two dwarves
+### Kinship Between Two Dwarves
 - [Thoradin](../PCs/Thoradin%20Goodman.md) asks [Noah](../PCs/Noah%20Skie.md) about her wounds. [Thoradin](../PCs/Thoradin%20Goodman.md) points at [Flavius](../../Flavius%20Underburrow.md)'s direction, and the two dwarves confront each other.
 - [Thoradin](../PCs/Thoradin%20Goodman.md) and [Flavius](../../Flavius%20Underburrow.md) talk in Dwarvish. [Thoradin](../PCs/Thoradin%20Goodman.md) learns that the workers in [Drakon](../Locations/Areas/Drakon%20District.md) are actually [Wycroft Gladiators](../Factions/Wycroft%20Gladiators.md), and that [Flavius](../../Flavius%20Underburrow.md) is an emissary from [Wycroft](../Locations/Kingdoms/Wycroft%20Mountain%20Kingdom.md). They are in [Midkip](../Locations/Settlements/Midkip.md) to help the people of [United Kippian](../Locations/Kingdoms/Kingdom%20of%20United%20Kippian.md) deal with the current crisis.
 - [Flavius](../../Flavius%20Underburrow.md) sees [Thoradin](../PCs/Thoradin%20Goodman.md)'s [Vambrace Shields](../Items/Mythic%20Items/Vambrace%20Shields.md) and gushes at [Cappodon](../Lore/Mythical%20Heroes/Johannes%20Cappodon.md), an idol and hero to the [Wycroft Gladiators](../Factions/Wycroft%20Gladiators.md). The tension between the two dwarves diminishes.

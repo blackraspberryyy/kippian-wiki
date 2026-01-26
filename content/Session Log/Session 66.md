@@ -40,7 +40,7 @@ icon: calendar
 - [Noah](../PCs/Noah%20Skie.md) inspects [Janna](../NPCs/Janna%20Furwish.md)'s cell to see if she can see the child who she thinks is [Auriel](../NPCs/Auriel%20Furwish.md). [Noah](../PCs/Noah%20Skie.md) did not see anything amiss.
 - The [party](../Factions/Seven%20Up....md) enters [Vanayra](../../Vanayra%20Metorne.md)'s cell. [Vanayra](../../Vanayra%20Metorne.md) attempts to fight back, but [Noah](../PCs/Noah%20Skie.md)'s arrow hit her and [Vanayra](../../Vanayra%20Metorne.md) surrenders. The [party](../Factions/Seven%20Up....md) restrains [Vanayra](../../Vanayra%20Metorne.md) so that she cannot cast spells anymore.
 - The [party](../Factions/Seven%20Up....md) exits the prison and warns the guard to take care when dealing with [Vanayra](../../Vanayra%20Metorne.md).
-### Charmed, not unconscious
+### Charmed, Not Unconscious
 - The [party](../Factions/Seven%20Up....md) go back to the survivors camp. They see [Kirren](../NPCs/Kirren%20Acquermann.md), who hands [Theobald](../PCs/Theobald%20Clayhollow.md) the diamond dust.
 - [Theobald](../PCs/Theobald%20Clayhollow.md) casts greater restoration on one of the unconscious survivors. The survivor immediately wakes up.
 - The survivor tells them that she was not unconscious, but sort of acting to be unconscious. The survivor does not know what triggered the spell. The [party](../Factions/Seven%20Up....md) concludes that those who have fallen unconscious are charmed.
