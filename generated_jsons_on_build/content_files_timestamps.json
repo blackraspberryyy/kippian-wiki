@@ -232,7 +232,7 @@
   {
     "filePath": "content/Items/Mythic Items/Twilight Dagger.md",
     "created": 1739556912,
-    "modified": 1748961020
+    "modified": 1769446683
   },
   {
     "filePath": "content/Items/Mythic Items/Vambrace Shields.md",
@@ -243,6 +243,11 @@
     "filePath": "content/Items/Mythic Items/Ymerald Staff.md",
     "created": 1739556912,
     "modified": 1745255645
+  },
+  {
+    "filePath": "content/Items/Necklace of Prayer Beads.md",
+    "created": 1769446683,
+    "modified": 1769446683
   },
   {
     "filePath": "content/Items/Quest Items/Bloated Dragon.md",
@@ -258,6 +263,11 @@
     "filePath": "content/Items/Ring of Lightning Resistance.md",
     "created": 1755177606,
     "modified": 1755177606
+  },
+  {
+    "filePath": "content/Items/Wayraven Locket.md",
+    "created": 1769446683,
+    "modified": 1769446683
   },
   {
     "filePath": "content/Locations/Areas/Aetos District.md",
@@ -518,6 +528,11 @@
     "filePath": "content/Locations/Buildings/The Weeping WIllow.md",
     "created": 1735390334,
     "modified": 1745779047
+  },
+  {
+    "filePath": "content/Locations/Buildings/Wayraven Catacombs.md",
+    "created": 1735390334,
+    "modified": 1769446683
   },
   {
     "filePath": "content/Locations/Continents/Kippian.md",
@@ -1040,6 +1055,11 @@
     "modified": 1750344672
   },
   {
+    "filePath": "content/NPCs/Zwenyr Elthana.md",
+    "created": 1769446683,
+    "modified": 1769446683
+  },
+  {
     "filePath": "content/PCs/Adeena Oberon.md",
     "created": 1736687187,
     "modified": 1760023535
@@ -1182,17 +1202,17 @@
   {
     "filePath": "content/Session Log/Session 55.md",
     "created": 1750759122,
-    "modified": 1751560482
+    "modified": 1769446683
   },
   {
     "filePath": "content/Session Log/Session 56.md",
     "created": 1751560482,
-    "modified": 1751560482
+    "modified": 1769446683
   },
   {
     "filePath": "content/Session Log/Session 57.md",
     "created": 1751829886,
-    "modified": 1751829886
+    "modified": 1769446683
   },
   {
     "filePath": "content/Session Log/Session 58.md",
@@ -1207,12 +1227,12 @@
   {
     "filePath": "content/Session Log/Session 60.md",
     "created": 1754906589,
-    "modified": 1755177591
+    "modified": 1769446683
   },
   {
     "filePath": "content/Session Log/Session 61.md",
     "created": 1757354053,
-    "modified": 1759563708
+    "modified": 1769446683
   },
   {
     "filePath": "content/Session Log/Session 62.md",
@@ -1227,22 +1247,22 @@
   {
     "filePath": "content/Session Log/Session 64.md",
     "created": 1761137518,
-    "modified": 1761137518
+    "modified": 1769446683
   },
   {
     "filePath": "content/Session Log/Session 65.md",
     "created": 1762890106,
-    "modified": 1764335219
+    "modified": 1769446683
   },
   {
     "filePath": "content/Session Log/Session 66.md",
     "created": 1764335219,
-    "modified": 1764335219
+    "modified": 1769446683
   },
   {
     "filePath": "content/Session Log/Session 67.md",
     "created": 1764870647,
-    "modified": 1764870647
+    "modified": 1769446683
   },
   {
     "filePath": "content/Session Log/Session 68.md",
@@ -1252,7 +1272,7 @@
   {
     "filePath": "content/Session Log/Session 69.md",
     "created": 1766854526,
-    "modified": 1766854526
+    "modified": 1769446683
   },
   {
     "filePath": "content/Session Log/Session 70.md",
@@ -1262,7 +1282,12 @@
   {
     "filePath": "content/Session Log/Session 71.md",
     "created": 1767884957,
-    "modified": 1767884957
+    "modified": 1769446683
+  },
+  {
+    "filePath": "content/Session Log/Session 72.md",
+    "created": 1769446773,
+    "modified": 1769446773
   },
   {
     "filePath": "content/index.md",
