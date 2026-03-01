@@ -1,19 +1,20 @@
 ---
 share: true
-aliases: 
-location: 
-status: 
+aliases:
+  - Void Plane
+location:
+status:
 lore_type: location
 icon: map
 ---
 # Basic Information
 > [!infobox]
-> # Material Realm
+> # Astral Plane
 > ![cover hsmall](insertimage.png)
 > ##### Information
 > |   |  |
 > | ---- | ---- |
-> | Other names | |
+> | Other names | Void Plane|
 > | Type | 
 > | Located in | |
 #### Known for:

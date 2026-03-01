@@ -1,14 +1,14 @@
 ---
 share: true
-aliases: 
-location: 
-status: 
+aliases:
+location:
+status:
 lore_type: location
 icon: map
 ---
 # Basic Information
 > [!infobox]
-> # Void Plane
+> # Material Plane
 > ![cover hsmall](insertimage.png)
 > ##### Information
 > |   |  |
