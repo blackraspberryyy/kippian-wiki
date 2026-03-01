@@ -25,7 +25,7 @@ icon: calendar
 > *"That weapon owes its power from the [Plane of Shadows](../Locations/Planes/Shadowfell.md)"*
 - The [Shadow Knight](../../Shadow%20Knight.md) bestows [Theobald](../PCs/Theobald%20Clayhollow.md) a [Shadow Sigil](../../Shadow%20Sigil.md) resembling that of [Kiris](../PCs/Kiris%20Acquermann.md)' sigil. The [Knights of the Wayraven](../Factions/Knights%20of%20the%20Wayraven.md) are revealed to inhabit the [Plane of Shadows](../Locations/Planes/Shadowfell.md). 
 > [Kiris](../PCs/Kiris%20Acquermann.md) shows the [Shadow Knight](../../Shadow%20Knight.md) his sigil.
-> *"That sigil belongs to the [Wayravens](../Factions/Knights%20of%20the%20Wayraven.md), masters from the [Material Realm](../Locations/Planes/Material%20Realm.md) who holds dominion over the [Plane of Shadows](../Locations/Planes/Shadowfell.md)."*
+> *"That sigil belongs to the [Wayravens](../Factions/Knights%20of%20the%20Wayraven.md), masters from the [Material Realm](../Locations/Planes/Material%20Plane.md) who holds dominion over the [Plane of Shadows](../Locations/Planes/Shadowfell.md)."*
 - [Adikia](../PCs/Adikia%20Unalome.md) asks the [Shadow Knight](../../Shadow%20Knight.md) about [Feypeak](../Locations/Areas/Feypeak.md).
 - The [Shadow Knight](../../Shadow%20Knight.md) assures [Adikia](../PCs/Adikia%20Unalome.md) that the portal to the [Feywild](../Locations/Planes/Feywild.md) exists.
 - [Theobald](../PCs/Theobald%20Clayhollow.md) gives the Shadow Sigil to [Kiris](../PCs/Kiris%20Acquermann.md).
@@ -43,7 +43,7 @@ icon: calendar
 - [Thoradin](../PCs/Thoradin%20Goodman.md) asks the casters about the existence of [The Cult of Miledu](../../The%20Cult%20of%20Miledu.md).
 > *"[Miledu](../../Miledu.md) and his [cult](../../The%20Cult%20of%20Miledu.md) was nonexistent during our time. It is unfortunate that their existence has resurfaced in this age."*
 - [Adeena](../PCs/Adeena%20Oberon.md) asks the casters if there was a way to open the portal to the [Plane of Dragons](../Locations/Planes/Plane%20of%20Dragons.md).
-> *"[Akenatun](../Deities/Old%20Gods/Akenatun.md) locked out the dragons from the [Material Realm](../Locations/Planes/Material%20Realm.md) through the portal in [Yvernus](../Locations/Areas/Yvernus%20District.md)"*
+> *"[Akenatun](../Deities/Old%20Gods/Akenatun.md) locked out the dragons from the [Material Realm](../Locations/Planes/Material%20Plane.md) through the portal in [Yvernus](../Locations/Areas/Yvernus%20District.md)"*
 - [Adikia](../PCs/Adikia%20Unalome.md) asks the casters about the lore of her [Aureate Rapier](../Items/Mythic%20Items/Aureate%20Rapier.md).
 > *"The [Aureate Rapier](../Items/Mythic%20Items/Aureate%20Rapier.md) was a ceremonial rapier passed down to the heirs of [United Kippian](../Locations/Kingdoms/Kingdom%20of%20United%20Kippian.md). Its hidden power is made known only through [Prince Azir](../Lore/Mythical%20Heroes/Azir%20Kyp.md)'s daring adventures."*
 - [Noah](../PCs/Noah%20Skie.md) asks the casters about her ghastly visions.
