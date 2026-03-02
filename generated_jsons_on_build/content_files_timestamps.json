@@ -570,6 +570,11 @@
     "modified": 1739643150
   },
   {
+    "filePath": "content/Locations/Planes/Astral Plane.md",
+    "created": 1735390334,
+    "modified": 1772385809
+  },
+  {
     "filePath": "content/Locations/Planes/Celestial Plane.md",
     "created": 1735390334,
     "modified": 1739643150
@@ -590,9 +595,9 @@
     "modified": 1739643150
   },
   {
-    "filePath": "content/Locations/Planes/Material Realm.md",
+    "filePath": "content/Locations/Planes/Material Plane.md",
     "created": 1735390334,
-    "modified": 1739643150
+    "modified": 1772385809
   },
   {
     "filePath": "content/Locations/Planes/Plane of Dragons.md",
@@ -601,11 +606,6 @@
   },
   {
     "filePath": "content/Locations/Planes/Shadowfell.md",
-    "created": 1735390334,
-    "modified": 1739643150
-  },
-  {
-    "filePath": "content/Locations/Planes/Void Plane.md",
     "created": 1735390334,
     "modified": 1739643150
   },
@@ -1137,7 +1137,7 @@
   {
     "filePath": "content/Session Log/Session 41.md",
     "created": 1739200718,
-    "modified": 1745255645
+    "modified": 1772385809
   },
   {
     "filePath": "content/Session Log/Session 42.md",
@@ -1307,7 +1307,12 @@
   {
     "filePath": "content/Session Log/Session 75.md",
     "created": 1771515783,
-    "modified": 1771515783
+    "modified": 1772385809
+  },
+  {
+    "filePath": "content/Session Log/Session 76.md",
+    "created": 1772385809,
+    "modified": 1772385809
   },
   {
     "filePath": "content/index.md",
