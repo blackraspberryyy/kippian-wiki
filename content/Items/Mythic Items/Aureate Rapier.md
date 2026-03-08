@@ -7,7 +7,7 @@ characters:
   - "[Remus Kyp](Remus%20Kyp.md)"
   - "[Adikia Unalome](Adikia%20Unalome.md)"
 location: "[[Ankyra District]]"
-fc-date: 
+fc-date:
 fc-category: Lore
 lore_type: item
 icon: lore
@@ -22,7 +22,7 @@ icon: lore
 > | Other names | Gilded Rapier|
 > | Type|item|
 > |Keeper| [Adikia Unalome](../../PCs/Adikia%20Unalome.md)|
-> |Past Keeper| [Remus Kyp](../../../Remus%20Kyp.md)|
+> |Past Keeper| [Remus Kyp](../../NPCs/Remus%20Kyp.md)|
 > ##### Attributes
 > |   |  |
 > | ---- | ---- |
@@ -41,22 +41,26 @@ The Aureate Rapier retained some of its alchemical magic, allowing it to self-me
 ## Bargaining Chip
 You gain advantage on your Charisma checks whenever you use the Chipped Gold as a bargaining asset. In addition, you can now sell the chipped gold for 5 gp.
 ## Golden Allure
-If you are wielding the Aureate Rapier, target one creature who can see this weapon. The target has disadvantage on all Wisdom checks. You can change the target (or targets) of Golden Allure at the start of your next turn.
-## Alluring Appearance I
-You can now target up to two creatures with Golden Allure.
+If you are wielding the Aureate Rapier, target a creature (or creatures) who can see this weapon. The target has disadvantage on all Wisdom checks. You can change the target (or targets) of Golden Allure at the start of your next turn.
+## Alluring Appearance II
+You can now target up to four creatures with Golden Allure.
 ## Disarming Presence
 Choose one enemy creature affected by Golden Allure. You can use your action to impose disadvantage on its next attack roll. In addition, it takes one additional die for the next damage source it would receive. These effects last until the start of your next turn.
+## Emboldening Presence
+Your allies are protective of the Aureate Rapier and choose to follow its keeper's lead. Choose an allied creature affected by Golden Allure. If you use your action to attack an enemy creature and it hits, your chosen ally gains advantage on their next attack roll.
 # Story Log
 ## Most Recent
-- [Session 31](../../../Session%2031.md): [Splix](Spraugh%20'Splix'%20Calix.md) realizes that the [party](Seven%20Up....md) is not allured by the [Aureate Rapier](Aureate%20Rapier.md) wielded by [Remus Kyp](Remus%20Kyp.md).
-- [Session 31](../../../Session%2031.md): [Remus Kyp](Remus%20Kyp.md) breaks down and realizes that the sword he wields is but a replica of the [Aureate Rapier](Aureate%20Rapier.md).
-- [Session 31](../../../Session%2031.md): [Remus Kyp](Remus%20Kyp.md) forgot that he left the [Aureate Rapier](Aureate%20Rapier.md) with the [King](Riordan%20Kyp.md) last night.
-- [Session 32](../../../Session%2032.md): [Adikia](Adikia%20Unalome.md) retrieves the [Aureate Rapier](Aureate%20Rapier.md).
-- [Session 34](../../../Session%2034.md): [Remus Kyp](Remus%20Kyp.md) "gives" the [Aureate Rapier](Aureate%20Rapier.md) to [Adikia](Adikia%20Unalome.md).
-- [Session 41](../../Session%20Log/Session%2041.md): [Splix](Spraugh%20'Splix'%20Calix.md) offers 25 gp. [Noah](Noah%20Skie.md) offers 2 gp. [Kiris](Kiris%20Acquermann.md) offers an Amulet of Undead. [Adeena](Adeena%20Oberon.md) offers her magical earring. [Adikia](Adikia%20Unalome.md) offers a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md).
-- [Session 41](../../Session%20Log/Session%2041.md): [Adikia](Adikia%20Unalome.md) asks the casters about the lore of her [Aureate Rapier](Aureate%20Rapier.md).
-> *"The [Aureate Rapier](Aureate%20Rapier.md) was a ceremonial rapier passed down to the heirs of [United Kippian](Kingdom%20of%20United%20Kippian.md). Its hidden power is made known only through [Prince Azir](Azir%20Kyp.md)'s daring adventures."*
 - [Session 51](../../Session%20Log/Session%2051.md): [Adikia](Adikia%20Unalome.md) successfully offers only a piece of her [Aureate Rapier](Aureate%20Rapier.md).
+- [Session 53](../../Session%20Log/Session%2053.md): The two find a store. They successfully persuade the shopkeeper, [Geraldt](Geraldt%20Dratzel.md), to trade [Remus](Remus%20Kyp.md)' IOU slip for the ivory strips, a harp, a violin, and some strings. The two add 1 sp and a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md) to balance the deal.
+- [Session 54](../../Session%20Log/Session%2054.md): [Kiris](Kiris%20Acquermann.md) could not retrieve the [Aureate Rapier](Aureate%20Rapier.md). The [Aureate Rapier](Aureate%20Rapier.md) is now lost.
+- [Session 57](../../Session%20Log/Session%2057.md): [Remus](Remus%20Kyp.md) confronts [Adikia](Adikia%20Unalome.md):
+> *"When will you tell me that you've lost the [royal rapier](Aureate%20Rapier.md)? I gave you my trust."*
+- [Session 59](../../Session%20Log/Session%2059.md): [Adikia](Adikia%20Unalome.md) scouts the hideout and finds three guards. On a separate room, a blond elvish woman is wielding a bloodied [Aureate Rapier](Aureate%20Rapier.md). The dead bodies of three [Dusk Talons](Dusk%20Talons.md) lie on the floor.
+- [Session 59](../../Session%20Log/Session%2059.md): The [party](Seven%20Up....md) defeats the blond elf. [Theobald](Theobald%20Clayhollow.md) snatches the [Aureate Rapier](Aureate%20Rapier.md) and hands it to [Adikia](Adikia%20Unalome.md). [Thoradin](Thoradin%20Goodman.md) puts the elf in manacles and gags her to stop her from casting a spell.
+- [Session 59](../../Session%20Log/Session%2059.md): [Adikia](Adikia%20Unalome.md) calls [Remus](Remus%20Kyp.md) and [Mitarella](Mitarella%20Randall.md), informing the former that the [Aureate Rapier](Aureate%20Rapier.md) has been retrieved.
+- [Session 60](../../Session%20Log/Session%2060.md): [Kiris](Kiris%20Acquermann.md), [Adikia](Adikia%20Unalome.md), [Thoradin](Thoradin%20Goodman.md) and [Theobald](Theobald%20Clayhollow.md) enter [Geraldt's store](Dratzel's%20Priestly%20Goods.md) store. They buy the three diamonds for 700 gp and a piece of the [Aureate Rapier](Aureate%20Rapier.md).
+- [Session 65](../../Session%20Log/Session%2065.md): [Adikia](Adikia%20Unalome.md) opts to stay within the confines of [Ironfleet Compound](Ironfleet%20Compound.md). [Theobald](Theobald%20Clayhollow.md) asks [Adikia](Adikia%20Unalome.md) an object to remember her by. [Adikia](Adikia%20Unalome.md) gives him a chipped gold that from her [Aureate Rapier](Aureate%20Rapier.md).
+- [Session 69](../../Session%20Log/Session%2069.md): [Kiris](Kiris%20Acquermann.md) attempts to give gold to [April](April%20Torgall.md) and the guards as thanks. [April](April%20Torgall.md) refuses, and claims that their heroism and sacrifice are more than enough. [Adikia](Adikia%20Unalome.md) chips her [Aureate Rapier](Aureate%20Rapier.md) and gives it to [April](April%20Torgall.md).
 
 ## All Entries
 - [Session 31](../../../Session%2031.md): [Splix](Spraugh%20'Splix'%20Calix.md) realizes that the [party](Seven%20Up....md) is not allured by the [Aureate Rapier](Aureate%20Rapier.md) wielded by [Remus Kyp](Remus%20Kyp.md).
@@ -68,4 +72,14 @@ Choose one enemy creature affected by Golden Allure. You can use your action to 
 - [Session 41](../../Session%20Log/Session%2041.md): [Adikia](Adikia%20Unalome.md) asks the casters about the lore of her [Aureate Rapier](Aureate%20Rapier.md).
 > *"The [Aureate Rapier](Aureate%20Rapier.md) was a ceremonial rapier passed down to the heirs of [United Kippian](Kingdom%20of%20United%20Kippian.md). Its hidden power is made known only through [Prince Azir](Azir%20Kyp.md)'s daring adventures."*
 - [Session 51](../../Session%20Log/Session%2051.md): [Adikia](Adikia%20Unalome.md) successfully offers only a piece of her [Aureate Rapier](Aureate%20Rapier.md).
+- [Session 53](../../Session%20Log/Session%2053.md): The two find a store. They successfully persuade the shopkeeper, [Geraldt](Geraldt%20Dratzel.md), to trade [Remus](Remus%20Kyp.md)' IOU slip for the ivory strips, a harp, a violin, and some strings. The two add 1 sp and a chipped gold from the [Aureate Rapier](Aureate%20Rapier.md) to balance the deal.
+- [Session 54](../../Session%20Log/Session%2054.md): [Kiris](Kiris%20Acquermann.md) could not retrieve the [Aureate Rapier](Aureate%20Rapier.md). The [Aureate Rapier](Aureate%20Rapier.md) is now lost.
+- [Session 57](../../Session%20Log/Session%2057.md): [Remus](Remus%20Kyp.md) confronts [Adikia](Adikia%20Unalome.md):
+> *"When will you tell me that you've lost the [royal rapier](Aureate%20Rapier.md)? I gave you my trust."*
+- [Session 59](../../Session%20Log/Session%2059.md): [Adikia](Adikia%20Unalome.md) scouts the hideout and finds three guards. On a separate room, a blond elvish woman is wielding a bloodied [Aureate Rapier](Aureate%20Rapier.md). The dead bodies of three [Dusk Talons](Dusk%20Talons.md) lie on the floor.
+- [Session 59](../../Session%20Log/Session%2059.md): The [party](Seven%20Up....md) defeats the blond elf. [Theobald](Theobald%20Clayhollow.md) snatches the [Aureate Rapier](Aureate%20Rapier.md) and hands it to [Adikia](Adikia%20Unalome.md). [Thoradin](Thoradin%20Goodman.md) puts the elf in manacles and gags her to stop her from casting a spell.
+- [Session 59](../../Session%20Log/Session%2059.md): [Adikia](Adikia%20Unalome.md) calls [Remus](Remus%20Kyp.md) and [Mitarella](Mitarella%20Randall.md), informing the former that the [Aureate Rapier](Aureate%20Rapier.md) has been retrieved.
+- [Session 60](../../Session%20Log/Session%2060.md): [Kiris](Kiris%20Acquermann.md), [Adikia](Adikia%20Unalome.md), [Thoradin](Thoradin%20Goodman.md) and [Theobald](Theobald%20Clayhollow.md) enter [Geraldt's store](Dratzel's%20Priestly%20Goods.md) store. They buy the three diamonds for 700 gp and a piece of the [Aureate Rapier](Aureate%20Rapier.md).
+- [Session 65](../../Session%20Log/Session%2065.md): [Adikia](Adikia%20Unalome.md) opts to stay within the confines of [Ironfleet Compound](Ironfleet%20Compound.md). [Theobald](Theobald%20Clayhollow.md) asks [Adikia](Adikia%20Unalome.md) an object to remember her by. [Adikia](Adikia%20Unalome.md) gives him a chipped gold that from her [Aureate Rapier](Aureate%20Rapier.md).
+- [Session 69](../../Session%20Log/Session%2069.md): [Kiris](Kiris%20Acquermann.md) attempts to give gold to [April](April%20Torgall.md) and the guards as thanks. [April](April%20Torgall.md) refuses, and claims that their heroism and sacrifice are more than enough. [Adikia](Adikia%20Unalome.md) chips her [Aureate Rapier](Aureate%20Rapier.md) and gives it to [April](April%20Torgall.md).
 
