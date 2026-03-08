@@ -1,11 +1,11 @@
 ---
 share: true
-aliases: 
+aliases:
 characters:
   - "[Spekid Frostborn](../../Lore/Mythical%20Heroes/Spekid%20Frostborn.md)"
   - "[Kiris Acquermann](Kiris%20Acquermann.md)"
-location: 
-fc-date: 
+location:
+fc-date:
 fc-category: Lore
 lore_type: item
 icon: lore
@@ -36,11 +36,12 @@ Fashioned by [Spekid Frostborn](../../Lore/Mythical%20Heroes/Spekid%20Frostborn.
 The Frostborn Armor is enchanted to resist cold. You can withstand temperatures as low as -50 degrees Fahrenheit without any additional protection. You also have resistance to cold damage.
 ## Sorcerer Affinity
 A sorcerer can cast spells while wearing Frostborn Armor as if they are proficient with it.
-## Frost Shield II
-When you are hit by an attack, you can use your reaction to create an ice-like barrier to protect yourself or an ally from damage. Until the start of your next turn, you have a +4 bonus to AC, including against the triggering attack. In addition, if an ally creature within 5 feet is hit by an attack, you can use your reaction to use Frost Shield on that allied creature. 
+## Frost Shield III
+When you are hit by an attack, you can use your reaction to create an ice-like barrier to protect yourself or an ally from damage. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack. In addition, if an ally creature within 5 feet is hit by an attack, you can use your reaction to use Frost Shield on that allied creature. 
+
 This consumes one Frost Charge.
-## Frost Charge II
-Frostborn Armor can contain up to 6 Frost Charges. It regains 1d6 expended Frost Charges daily at dawn.
+## Frost Charge III
+Frostborn Armor can contain up to 8 Frost Charges. It regains 1d8 expended Frost Charges daily at dawn.
 # Story Log
 ## Most Recent
 - [Session 36](../../../Session%2036.md): [Adeena](Adeena%20Oberon.md) retrieved Engor's Diary and read an excerpt showcasing the [Frostborn Armor](Frostborn%20Armor.md)'s powers.
