@@ -5,8 +5,8 @@ aliases:
 characters:
   - "[Amlaena Gustkil](../../Lore/Mythical%20Heroes/Amlaena%20Gustkil.md)"
   - "[Noah Skie](Noah%20Skie.md)"
-location: 
-fc-date: 
+location:
+fc-date:
 fc-category: Lore
 lore_type: item
 icon: lore
@@ -42,8 +42,10 @@ When placed on glass-like surfaces, the weapon becomes invisible, except to its 
 You can use your bonus action to draw an Ethereal Arrow from thin air. Ethereal arrows inherently have the Translucent property. Damage dealt by using an ethereal arrow is halved (rounded down). Ethereal arrows cannot be used as ammunition to other weapons, and they will dissipate after 6 seconds when not fired.
 ## Luminescence
 You can cast the Light and Daylight spells, but with either the shortbow or an Ethereal Arrow as the spell's target. You can only cast Daylight once per long rest.
-## Transparency
-You gain advantage on Dexterity (Stealth) checks made to hide. Furthermore, once per long rest, you can use your action to gain the effect of Invisibility spell for one minute.
+## Perfect Transparency
+You gain advantage on all Dexterity (Stealth) checks. Furthermore, once per long rest, you can use your action to gain the effect of Greater Invisibility spell for one minute.
+## Ethereal Arrow Shower
+Your proficiency with the shortbow allows you to volley Ethereal Arrows on unsuspecting enemies. As an action, target a point that is within 80 feet from you. All creatures within a 15-foot radius from that point must pass a DEX Saving Throw (DC 14) or take 6d6 piercing damage. Creatures that pass the saving throw take half the damage. You can only use this ability once per long rest.
 # Story Log
 ## Most Recent
 - [Session 38](../../Session%20Log/Session%2038.md): [Noah](Noah%20Skie.md) sees an apparition in front of her...
