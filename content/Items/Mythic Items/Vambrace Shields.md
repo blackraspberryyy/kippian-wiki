@@ -5,8 +5,8 @@ aliases:
 characters:
   - "[Cappodon](../../Lore/Mythical%20Heroes/Johannes%20Cappodon.md)"
   - "[Thoradin Goodman](Thoradin%20Goodman.md)"
-location: 
-fc-date: 
+location:
+fc-date:
 fc-category: Lore
 lore_type: item
 icon: lore
@@ -33,8 +33,8 @@ icon: lore
 ### Mythic Keeper: [Johannes Cappodon](../../Lore/Mythical%20Heroes/Johannes%20Cappodon.md)
 Worn by [Johannes Cappodon](../../Lore/Mythical%20Heroes/Johannes%20Cappodon.md) during [The Great War](../../Lore/Kippian-Sumber%20War.md), the adamantium-alloyed and battle-worn [Vambrace Shields](Vambrace%20Shields.md) provided unflinching defense to the general and his army during the war.
 # Properties
-## Shield, +1
-While holding both shields, you have a +1 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.
+## Shield, +2
+While holding both shields, you have a +2 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.
 ## Shield Attack III
 On a hit, the Vambrace Shield deals 1d8 bludgeoning damage.
 ## Shieldbearer
@@ -45,15 +45,21 @@ You can now attack with the Vambrace Shields as if you are proficient with it. I
 As an action, you can provide protection to yourself and a chosen ally creature within 5 feet. Creatures attacking you or your ally receive disadvantage on their attack rolls until the start of your next turn.
 ## Proactive Defense
 You can use your reaction to provide this item's total AC bonus to another creature within 15 feet that is targeted by an attack.
+## Safeguard
+The shields' enchantment protects you from all kinds of harm. You can add this item's total AC bonus to your saving throws (excluding death saving throw). You can only use this property three times per short rest.
 # Story Log
 ## Most Recent
 - [Session 42](../../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) talks to the royal guards. During a friendly contest, [Thoradin](Thoradin%20Goodman.md) sees two runic inscriptions inside his [Vambrace Shields](Vambrace%20Shields.md).
 - [Session 42](../../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) asks [Adikia](Adikia%20Unalome.md) to read the inscriptions on his [Vambrace Shields](Vambrace%20Shields.md).
 > From [Wycroft](Wycroft%20Mountain%20Kingdom.md), To [Quigymara](Quigymara.md).
 - [Session 52](../../Session%20Log/Session%2052.md): The [party](Seven%20Up....md) uses torches, rations, and arrows to create a bonfire. The [party](Seven%20Up....md) uses a stabling mechanism from [Thoradin](Thoradin%20Goodman.md)'s [Shield](Vambrace%20Shields.md), ropes, and [Theobald](Theobald%20Clayhollow.md)'s Immovable Rod to raise it from the rising seawater.
+- [Session 55](../../Session%20Log/Session%2055.md): [Flavius](Flavius%20Underburrow.md) sees [Thoradin](Thoradin%20Goodman.md)'s [Vambrace Shields](Vambrace%20Shields.md) and gushes at [Cappodon](Johannes%20Cappodon.md), an idol and hero to the [Wycroft Gladiators](Wycroft%20Gladiators.md). The tension between the two dwarves diminishes.
+- [Session 56](../../Session%20Log/Session%2056.md): [Thoradin](Thoradin%20Goodman.md) asks [Flavius](Flavius%20Underburrow.md) about the inscription on his [Vambrace Shields](Vambrace%20Shields.md). [Flavius](Flavius%20Underburrow.md) replies that he does not know about [Quigymara](Quigymara.md).
 
 ## All Entries
 - [Session 42](../../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) talks to the royal guards. During a friendly contest, [Thoradin](Thoradin%20Goodman.md) sees two runic inscriptions inside his [Vambrace Shields](Vambrace%20Shields.md).
 - [Session 42](../../Session%20Log/Session%2042.md): [Thoradin](Thoradin%20Goodman.md) asks [Adikia](Adikia%20Unalome.md) to read the inscriptions on his [Vambrace Shields](Vambrace%20Shields.md).
 > From [Wycroft](Wycroft%20Mountain%20Kingdom.md), To [Quigymara](Quigymara.md).
 - [Session 52](../../Session%20Log/Session%2052.md): The [party](Seven%20Up....md) uses torches, rations, and arrows to create a bonfire. The [party](Seven%20Up....md) uses a stabling mechanism from [Thoradin](Thoradin%20Goodman.md)'s [Shield](Vambrace%20Shields.md), ropes, and [Theobald](Theobald%20Clayhollow.md)'s Immovable Rod to raise it from the rising seawater.
+- [Session 55](../../Session%20Log/Session%2055.md): [Flavius](Flavius%20Underburrow.md) sees [Thoradin](Thoradin%20Goodman.md)'s [Vambrace Shields](Vambrace%20Shields.md) and gushes at [Cappodon](Johannes%20Cappodon.md), an idol and hero to the [Wycroft Gladiators](Wycroft%20Gladiators.md). The tension between the two dwarves diminishes.
+- [Session 56](../../Session%20Log/Session%2056.md): [Thoradin](Thoradin%20Goodman.md) asks [Flavius](Flavius%20Underburrow.md) about the inscription on his [Vambrace Shields](Vambrace%20Shields.md). [Flavius](Flavius%20Underburrow.md) replies that he does not know about [Quigymara](Quigymara.md).
