@@ -5,8 +5,8 @@ aliases:
 characters:
   - "[Zerrus Zagi](../../Lore/Mythical%20Heroes/Zerrus%20Zagi.md)"
   - "[](Spraugh%20'Splix'%20Calix.md)"
-location: 
-fc-date: 
+location:
+fc-date:
 fc-category: Lore
 lore_type: item
 icon: lore
@@ -38,8 +38,8 @@ The Ymerald Staff holds a curious power. You can prepare one additional evocatio
 This staff can be wielded as a magic quarterstaff that grants a +1 bonus to attack and damage rolls made with it.
 ## Zagi's Ferocity
 The Ymerald Staff imparts a cantrip from Zagi's spell repertoire. After a long rest, choose an evocation cantrip from the wizard's spell list that you have not learned. You can cast that cantrip while holding this staff. The effect lasts until you take a long rest.
-## Evoker Staff I
-While holding the Ymerald Staff, you gain +1 save DC for evocation spells, and a +1 bonus to evocation spell attack rolls.
+## Evoker Staff II
+While holding the Ymerald Staff, you gain +2 save DC for evocation spells, and a +2 bonus to evocation spell attack rolls. You gain +1 save DC for other spells, and a +1 bonus to other spell attack rolls.
 # Story Log
 ## Most Recent
 - [Session 35](../../../Session%2035.md): [Splix](Spraugh%20'Splix'%20Calix.md) retrieves [Ymerald Staff](Ymerald%20Staff.md).
@@ -49,6 +49,8 @@ While holding the Ymerald Staff, you gain +1 save DC for evocation spells, and a
 - [Session 42](../../Session%20Log/Session%2042.md): [Splix](Spraugh%20'Splix'%20Calix.md) visits [Professor Aufel](Aufel%20Fernquill.md) and asks the professor to teach him an evocation spell. [Professor Aufel](Aufel%20Fernquill.md) asks for a thorough inspection of the [Ymerald Staff](Ymerald%20Staff.md) in exchange.
 - [Session 46](../../Session%20Log/Session%2046.md): [Professor Aufel](Aufel%20Fernquill.md) asks [Splix](Spraugh%20'Splix'%20Calix.md) about their deal for him to examine the [Ymerald Staff](Ymerald%20Staff.md) in exchange for a spell. [Splix](Spraugh%20'Splix'%20Calix.md) obliges.
 - [Session 46](../../Session%20Log/Session%2046.md): After his examination of the [Ymerald Staff](Ymerald%20Staff.md), [Professor Aufel](Aufel%20Fernquill.md) discerns that the driftwood handle and manner of the staff is substandard and less than ideal. More importantly, he gleaned that the affixed emerald gemstone cannot be created using natural nor known magical processes: therefore, it must have an extraterrestrial origin.
+- [Session 56](../../Session%20Log/Session%2056.md): [Professor Embersense](Dorfir%20Embersense.md) spots the [Ymerald Staff](Ymerald%20Staff.md). [Fiamil](Fiamil%20Underwood.md), [Dello](Dello%20Stoneshard.md) and [Professor Embersense](Dorfir%20Embersense.md) are initially incredulous, but they are willing to investigate. [Splix](Spraugh%20'Splix'%20Calix.md) allows them to examine the [Ymerald Staff](Ymerald%20Staff.md).
+- [Session 58](../../Session%20Log/Session%2058.md): [Kiris](Kiris%20Acquermann.md) asks [Splix](Spraugh%20'Splix'%20Calix.md) what he is doing with the [Emerald of Protection](Emerald%20of%20Protection%20Gem.md). [Splix](Spraugh%20'Splix'%20Calix.md) theorizes that the [Emerald of Protection Gem](Emerald%20of%20Protection%20Gem.md) and the [Ymerald Staff](Ymerald%20Staff.md) must have come from the same source.
 
 ## All Entries
 - [Session 35](../../../Session%2035.md): [Splix](Spraugh%20'Splix'%20Calix.md) retrieves [Ymerald Staff](Ymerald%20Staff.md).
@@ -58,3 +60,5 @@ While holding the Ymerald Staff, you gain +1 save DC for evocation spells, and a
 - [Session 42](../../Session%20Log/Session%2042.md): [Splix](Spraugh%20'Splix'%20Calix.md) visits [Professor Aufel](Aufel%20Fernquill.md) and asks the professor to teach him an evocation spell. [Professor Aufel](Aufel%20Fernquill.md) asks for a thorough inspection of the [Ymerald Staff](Ymerald%20Staff.md) in exchange.
 - [Session 46](../../Session%20Log/Session%2046.md): [Professor Aufel](Aufel%20Fernquill.md) asks [Splix](Spraugh%20'Splix'%20Calix.md) about their deal for him to examine the [Ymerald Staff](Ymerald%20Staff.md) in exchange for a spell. [Splix](Spraugh%20'Splix'%20Calix.md) obliges.
 - [Session 46](../../Session%20Log/Session%2046.md): After his examination of the [Ymerald Staff](Ymerald%20Staff.md), [Professor Aufel](Aufel%20Fernquill.md) discerns that the driftwood handle and manner of the staff is substandard and less than ideal. More importantly, he gleaned that the affixed emerald gemstone cannot be created using natural nor known magical processes: therefore, it must have an extraterrestrial origin.
+- [Session 56](../../Session%20Log/Session%2056.md): [Professor Embersense](Dorfir%20Embersense.md) spots the [Ymerald Staff](Ymerald%20Staff.md). [Fiamil](Fiamil%20Underwood.md), [Dello](Dello%20Stoneshard.md) and [Professor Embersense](Dorfir%20Embersense.md) are initially incredulous, but they are willing to investigate. [Splix](Spraugh%20'Splix'%20Calix.md) allows them to examine the [Ymerald Staff](Ymerald%20Staff.md).
+- [Session 58](../../Session%20Log/Session%2058.md): [Kiris](Kiris%20Acquermann.md) asks [Splix](Spraugh%20'Splix'%20Calix.md) what he is doing with the [Emerald of Protection](Emerald%20of%20Protection%20Gem.md). [Splix](Spraugh%20'Splix'%20Calix.md) theorizes that the [Emerald of Protection Gem](Emerald%20of%20Protection%20Gem.md) and the [Ymerald Staff](Ymerald%20Staff.md) must have come from the same source.
