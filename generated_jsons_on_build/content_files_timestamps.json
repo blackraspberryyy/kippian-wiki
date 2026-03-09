@@ -200,34 +200,29 @@
     "modified": 1755177606
   },
   {
-    "filePath": "content/Items/Enchor's Arrowhead.md",
-    "created": 1766855514,
-    "modified": 1766855514
-  },
-  {
     "filePath": "content/Items/Mythic Items/Aureate Rapier.md",
     "created": 1739556912,
-    "modified": 1747473459
+    "modified": 1772962484
   },
   {
     "filePath": "content/Items/Mythic Items/Evanescent Shortbow.md",
     "created": 1739556912,
-    "modified": 1740325621
+    "modified": 1772962484
   },
   {
     "filePath": "content/Items/Mythic Items/Evershift.md",
     "created": 1739556912,
-    "modified": 1740325621
+    "modified": 1772962484
   },
   {
     "filePath": "content/Items/Mythic Items/Frostborn Armor.md",
     "created": 1739556912,
-    "modified": 1740325621
+    "modified": 1772962484
   },
   {
     "filePath": "content/Items/Mythic Items/Matunda's Mace.md",
     "created": 1739556912,
-    "modified": 1747473459
+    "modified": 1772962484
   },
   {
     "filePath": "content/Items/Mythic Items/Twilight Dagger.md",
@@ -237,17 +232,17 @@
   {
     "filePath": "content/Items/Mythic Items/Vambrace Shields.md",
     "created": 1739556912,
-    "modified": 1747639952
+    "modified": 1772962484
   },
   {
     "filePath": "content/Items/Mythic Items/Ymerald Staff.md",
     "created": 1739556912,
-    "modified": 1745255645
+    "modified": 1772962484
   },
   {
     "filePath": "content/Items/Necklace of Prayer Beads.md",
     "created": 1769446683,
-    "modified": 1769446683
+    "modified": 1772962484
   },
   {
     "filePath": "content/Items/Quest Items/Bloated Dragon.md",
@@ -255,19 +250,24 @@
     "modified": 1767083790
   },
   {
+    "filePath": "content/Items/Quest Items/Enchor's Arrowhead.md",
+    "created": 1772962484,
+    "modified": 1772962484
+  },
+  {
     "filePath": "content/Items/Quest Items/Gloompowder Bags.md",
     "created": 1767884957,
     "modified": 1767884957
   },
   {
+    "filePath": "content/Items/Quest Items/Wayraven Locket.md",
+    "created": 1772962484,
+    "modified": 1772962484
+  },
+  {
     "filePath": "content/Items/Ring of Lightning Resistance.md",
     "created": 1755177606,
     "modified": 1755177606
-  },
-  {
-    "filePath": "content/Items/Wayraven Locket.md",
-    "created": 1769446683,
-    "modified": 1769446683
   },
   {
     "filePath": "content/Locations/Areas/Aetos District.md",
@@ -1312,7 +1312,7 @@
   {
     "filePath": "content/Session Log/Session 76.md",
     "created": 1772385809,
-    "modified": 1772385809
+    "modified": 1772962484
   },
   {
     "filePath": "content/index.md",
