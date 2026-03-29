@@ -1,7 +1,7 @@
 ---
 share: true
 creation_date: 2026-03-15 16:36
-location: "[[Labyrinthus]]"
+location: "[Hall of Akenatun](../Locations/Buildings/Hall%20of%20Akenatun.md)"
 fc-date: 1083-06-17
 fc-category: Session
 icon: calendar
