@@ -23,13 +23,13 @@ icon: calendar
 - The nameless [Shadow Knight](../../Shadow%20Knight.md) talks to the [party](../Factions/Seven%20Up....md).
 > [Arc](../PCs/Arc.md) shows the [Twilight Dagger](../Items/Mythic%20Items/Twilight%20Dagger.md) to the [Shadow Knight](../../Shadow%20Knight.md).
 > *"That weapon owes its power from the [Plane of Shadows](../Locations/Planes/Shadowfell.md)"*
-- The [Shadow Knight](../../Shadow%20Knight.md) bestows [Theobald](../PCs/Theobald%20Clayhollow.md) a [Shadow Sigil](../../Shadow%20Sigil.md) resembling that of [Kiris](../PCs/Kiris%20Acquermann.md)' sigil. The [Knights of the Wayraven](../Factions/Knights%20of%20the%20Wayraven.md) are revealed to inhabit the [Plane of Shadows](../Locations/Planes/Shadowfell.md). 
+- The [Shadow Knight](../../Shadow%20Knight.md) bestows [Theobald](../PCs/Theobald%20Clayhollow.md) a [Shadow Sigil](../../Shadow%20Sigil.md) resembling that of [Kiris](../PCs/Kiris%20Acquermann.md)'s sigil. The [Knights of the Wayraven](../Factions/Knights%20of%20the%20Wayraven.md) are revealed to inhabit the [Plane of Shadows](../Locations/Planes/Shadowfell.md). 
 > [Kiris](../PCs/Kiris%20Acquermann.md) shows the [Shadow Knight](../../Shadow%20Knight.md) his sigil.
 > *"That sigil belongs to the [Wayravens](../Factions/Knights%20of%20the%20Wayraven.md), masters from the [Material Realm](../Locations/Planes/Material%20Plane.md) who holds dominion over the [Plane of Shadows](../Locations/Planes/Shadowfell.md)."*
 - [Adikia](../PCs/Adikia%20Unalome.md) asks the [Shadow Knight](../../Shadow%20Knight.md) about [Feypeak](../Locations/Areas/Feypeak.md).
 - The [Shadow Knight](../../Shadow%20Knight.md) assures [Adikia](../PCs/Adikia%20Unalome.md) that the portal to the [Feywild](../Locations/Planes/Feywild.md) exists.
-- [Theobald](../PCs/Theobald%20Clayhollow.md) gives the Shadow Sigil to [Kiris](../PCs/Kiris%20Acquermann.md).
-- [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) shares that [Elvin](../../Elvin%20Claymore.md) and other members of [cult](../../The%20Cult%20of%20Miledu.md) probably used the teleportation circle to raid the [Hall of Akenatun](../Locations/Buildings/Hall%20of%20Akenatun.md).
+- [Theobald](../PCs/Theobald%20Clayhollow.md) gives the [Shadow Sigil](../../Shadow%20Sigil.md) to [Kiris](../PCs/Kiris%20Acquermann.md).
+- [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) shares that [Elvin](../../Elvin%20Claymore.md) and other members of the [cult](../../The%20Cult%20of%20Miledu.md) probably used the teleportation circle to raid the [Hall of Akenatun](../Locations/Buildings/Hall%20of%20Akenatun.md).
 - The [Shadow Knight](../../Shadow%20Knight.md) divulges the identities of the previous visitors of the hall who stole the [Scepter of Akenatun](../../Scepter%20of%20Akenatun.md) by mimicking their faces.
 - The [party](../Factions/Seven%20Up....md) identifies the two of the three interlopers, [Elvin Claymore](../../Elvin%20Claymore.md) and [Rickard Kyp](../NPCs/Rickard%20Kyp.md).
 ## [Zerrus Zagi](../Lore/Mythical%20Heroes/Zerrus%20Zagi.md) and [Spekid Frostborn](../Lore/Mythical%20Heroes/Spekid%20Frostborn.md)
