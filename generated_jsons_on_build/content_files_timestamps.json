@@ -260,6 +260,11 @@
     "modified": 1767884957
   },
   {
+    "filePath": "content/Items/Quest Items/Ring of Ela's Gemcharm.md",
+    "created": 1776110225,
+    "modified": 1776110225
+  },
+  {
     "filePath": "content/Items/Quest Items/Wayraven Locket.md",
     "created": 1772962484,
     "modified": 1772962484
@@ -980,6 +985,11 @@
     "modified": 1745255645
   },
   {
+    "filePath": "content/NPCs/Korvin Acquermann.md",
+    "created": 1735390334,
+    "modified": 1776110225
+  },
+  {
     "filePath": "content/NPCs/Lala.md",
     "created": 1762890106,
     "modified": 1762890862
@@ -1328,6 +1338,11 @@
     "filePath": "content/Session Log/Session 79.md",
     "created": 1774805539,
     "modified": 1774805539
+  },
+  {
+    "filePath": "content/Session Log/Session 80.md",
+    "created": 1776110225,
+    "modified": 1776110225
   },
   {
     "filePath": "content/index.md",
