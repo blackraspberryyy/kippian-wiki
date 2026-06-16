@@ -200,6 +200,11 @@
     "modified": 1755177606
   },
   {
+    "filePath": "content/Items/Immovable Rod.md",
+    "created": 1781547215,
+    "modified": 1781547215
+  },
+  {
     "filePath": "content/Items/Mythic Items/Aureate Rapier.md",
     "created": 1739556912,
     "modified": 1772962484
@@ -550,6 +555,11 @@
     "modified": 1769446683
   },
   {
+    "filePath": "content/Locations/Buildings/Zagi's Lair.md",
+    "created": 1735390334,
+    "modified": 1781537139
+  },
+  {
     "filePath": "content/Locations/Continents/Kippian.md",
     "created": 1735390334,
     "modified": 1747639952
@@ -858,6 +868,16 @@
     "filePath": "content/Lore/The Legend of Yekora and Aulephi.md",
     "created": 1738430873,
     "modified": 1739643150
+  },
+  {
+    "filePath": "content/Lore/Ymerald Gem.md",
+    "created": 1781547215,
+    "modified": 1781547215
+  },
+  {
+    "filePath": "content/Lore/Zagi's Letter to Splix.md",
+    "created": 1781547215,
+    "modified": 1781547215
   },
   {
     "filePath": "content/NPCs/Adzana Furwish.md",
@@ -1383,6 +1403,11 @@
     "filePath": "content/Session Log/Session 85.md",
     "created": 1781198027,
     "modified": 1781198027
+  },
+  {
+    "filePath": "content/Session Log/Session 86.md",
+    "created": 1781537139,
+    "modified": 1781547215
   },
   {
     "filePath": "content/index.md",
