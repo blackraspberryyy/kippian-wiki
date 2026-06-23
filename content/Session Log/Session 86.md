@@ -20,8 +20,11 @@ icon: calendar
 - [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) reads the inscription that [Noah](../PCs/Noah%20Skie.md) found:
 > [!note] Lair Riddle
 > To unseal the entrance to my lair,
+>
 > Three keys you must prepare,
+>
 > One from driftwood, One from sunken stone
+>
 > And last a trinket the Ymerald keeper owns
 - [Noah](../PCs/Noah%20Skie.md) spots a wall containing three keyholes and an open cavity. She deduces that it has something to do with the riddle on the inscription.
 - [Theobald](../PCs/Theobald%20Clayhollow.md) escapes the [gemshark](../../Ymerald%20Gemshark%20Golem.md)'s bite and surfaces. [Dello](../../Dello%20Stoneshard.md) is saved by the combined efforts of [Theobald](../PCs/Theobald%20Clayhollow.md), [Adeena](../PCs/Adeena%20Oberon.md), [Thoradin](../PCs/Thoradin%20Goodman.md) and [Fiamil](../NPCs/Fiamil%20Underwood.md).
@@ -62,6 +65,7 @@ icon: calendar
 > But I digress. S, you and your companions must first defeat the evil that plans to release [Miledu](../../Miledu.md). The twelve chains that bind the harbinger of doom are weakening. But the god is vulnerable from its stasis; strike now before it awakens.
 >
 > [Zerrus Zagi](../Lore/Mythical%20Heroes/Zerrus%20Zagi.md),
+> 
 > Creator and First Keeper of the [Ymerald Staff](../Items/Mythic%20Items/Ymerald%20Staff.md)
 - [Adeena](../PCs/Adeena%20Oberon.md) retrieves a book [Aulephi](../Deities/New%20Gods/Aulephi.md) and [Yekora](../Deities/New%20Gods/Yekora.md). She hopes that she can use the book to strike peace between the followers of the two deities.
 - [Thoradin](../PCs/Thoradin%20Goodman.md) sees a collection of [Zerrus Zagi](../Lore/Mythical%20Heroes/Zerrus%20Zagi.md)'s records about [Opidys](../Locations/Kingdoms/Opidys.md). He enlists the scholars help in copying them and sharing them with Opidian people.
