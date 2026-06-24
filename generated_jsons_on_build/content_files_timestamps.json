@@ -860,6 +860,11 @@
     "modified": 1747639952
   },
   {
+    "filePath": "content/Lore/Padwin's Notes.md",
+    "created": 1782240675,
+    "modified": 1782240675
+  },
+  {
     "filePath": "content/Lore/The Corruption of Kortusk.md",
     "created": 1738430873,
     "modified": 1739643150
@@ -888,6 +893,11 @@
     "filePath": "content/NPCs/Agatha.md",
     "created": 1750344672,
     "modified": 1750344672
+  },
+  {
+    "filePath": "content/NPCs/Alya Stormrose.md",
+    "created": 1782240675,
+    "modified": 1782240675
   },
   {
     "filePath": "content/NPCs/Anna Racquefort.md",
@@ -1058,6 +1068,11 @@
     "filePath": "content/NPCs/Olrac.md",
     "created": 1735390334,
     "modified": 1745255645
+  },
+  {
+    "filePath": "content/NPCs/Past/Krynn Acquermann.md",
+    "created": 1782240675,
+    "modified": 1782240675
   },
   {
     "filePath": "content/NPCs/Raveena Malandar.md",
@@ -1407,7 +1422,12 @@
   {
     "filePath": "content/Session Log/Session 86.md",
     "created": 1781537139,
-    "modified": 1781547215
+    "modified": 1782240675
+  },
+  {
+    "filePath": "content/Session Log/Session 87.md",
+    "created": 1782240675,
+    "modified": 1782240675
   },
   {
     "filePath": "content/index.md",
