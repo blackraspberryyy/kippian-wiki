@@ -48,6 +48,7 @@ icon: calendar
 > Founder of [Lorehold College](../../College%20of%20Lorehold.md)
 >
 > "No darkness can envelop the light of truth."
+> 
 > **Tablet 2**
 > Magical fire radiates revealing light
 >
