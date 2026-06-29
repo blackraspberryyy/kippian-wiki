@@ -50,6 +50,7 @@ icon: calendar
 > "No darkness can envelop the light of truth."
 > 
 > **Tablet 2**
+> 
 > Magical fire radiates revealing light
 >
 > Luminous light reveals invisible truth

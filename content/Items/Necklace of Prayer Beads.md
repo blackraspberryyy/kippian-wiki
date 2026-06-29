@@ -19,6 +19,7 @@ icon: lore
 > | Type||
 > | Located in | |
 ## Description
+## Properties
 ### Attached beads
 #### One (1) Aquamarine 
 Spells: cure wounds (level 2) or lesser restoration

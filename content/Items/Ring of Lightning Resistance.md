@@ -1,11 +1,11 @@
 ---
 share: true
-aliases: 
-characters: 
-location: 
-fc-date: 
+aliases:
+characters:
+location:
+fc-date:
 fc-category: Lore
-lore_type: 
+lore_type:
 icon: lore
 ---
 # Basic Information
@@ -20,7 +20,7 @@ icon: lore
 > | Located in | |
 ## Description
 A metal ring with a set citrine gem.
-### Effect
+### Properties
 You have resistance to lightning damage while wearing this ring.
 # Lore Mentions
 # Story Log
