@@ -4,7 +4,7 @@ aliases:
 location: "[[Material Plane]]"
 status:
 lore_type: location
-icon: map
+icon: building
 ---
 # Basic Information
 > [!infobox]
