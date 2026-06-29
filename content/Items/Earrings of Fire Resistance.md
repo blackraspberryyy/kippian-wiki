@@ -1,11 +1,11 @@
 ---
 share: true
-aliases: 
-characters: 
-location: 
-fc-date: 
+aliases:
+characters:
+location:
+fc-date:
 fc-category: Lore
-lore_type: 
+lore_type:
 icon: lore
 ---
 # Basic Information
@@ -20,7 +20,7 @@ icon: lore
 > | Located in | |
 ## Description
 A pair of earrings infused with concentrated garnet.
-### Effect
+## Properties
 You have resistance to fire damage while wearing this pair of earrings.
 # Story Log
 ## Most Recent
