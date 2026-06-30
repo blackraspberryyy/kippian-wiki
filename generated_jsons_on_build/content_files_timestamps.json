@@ -197,7 +197,7 @@
   {
     "filePath": "content/Items/Earrings of Fire Resistance.md",
     "created": 1755177606,
-    "modified": 1755177606
+    "modified": 1782750473
   },
   {
     "filePath": "content/Items/Immovable Rod.md",
@@ -247,7 +247,7 @@
   {
     "filePath": "content/Items/Necklace of Prayer Beads.md",
     "created": 1769446683,
-    "modified": 1772962484
+    "modified": 1782750473
   },
   {
     "filePath": "content/Items/Quest Items/Bloated Dragon.md",
@@ -282,7 +282,7 @@
   {
     "filePath": "content/Items/Ring of Lightning Resistance.md",
     "created": 1755177606,
-    "modified": 1755177606
+    "modified": 1782750473
   },
   {
     "filePath": "content/Locations/Areas/Aetos District.md",
@@ -487,7 +487,7 @@
   {
     "filePath": "content/Locations/Buildings/Grand Cathedral.md",
     "created": 1745255645,
-    "modified": 1745255645
+    "modified": 1782750473
   },
   {
     "filePath": "content/Locations/Buildings/Hall of Akenatun.md",
@@ -548,6 +548,11 @@
     "filePath": "content/Locations/Buildings/The Weeping WIllow.md",
     "created": 1735390334,
     "modified": 1745779047
+  },
+  {
+    "filePath": "content/Locations/Buildings/Underground Temple of Macchi.md",
+    "created": 1735390334,
+    "modified": 1782752954
   },
   {
     "filePath": "content/Locations/Buildings/Wayraven Catacombs.md",
@@ -1427,7 +1432,12 @@
   {
     "filePath": "content/Session Log/Session 87.md",
     "created": 1782240675,
-    "modified": 1782410606
+    "modified": 1782750473
+  },
+  {
+    "filePath": "content/Session Log/Session 88.md",
+    "created": 1782750473,
+    "modified": 1782750473
   },
   {
     "filePath": "content/index.md",
