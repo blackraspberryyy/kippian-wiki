@@ -25,8 +25,6 @@ icon: faction
 | Name |
 | ---- |
 
-# Goals
-- [ ] Task 1
 # Story log
 ## Most Recent
 
