@@ -1,0 +1,33 @@
+---
+share: true
+creation_date: 2026-08-16 16:47
+location: "[Underground Temple of Macchi](../Locations/Buildings/Underground%20Temple%20of%20Macchi.md)"
+fc-date: 1083-06-18
+fc-category: Session
+icon: calendar
+---
+# Avatars of the Divine
+## Catching Up
+- [Thoradin](../PCs/Thoradin%20Goodman.md) checks on the wounded and unconscious [Elix](../../Elix%20Claymore.md). [Kiris](../PCs/Kiris%20Acquermann.md) tells [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) to cast identify on [Elix](../../Elix%20Claymore.md), as he thinks that the enemy might be using [Elix](../../Elix%20Claymore.md) to spy on the [party](../Factions/Seven%20Up....md).
+- [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) casts identify on [Elix](../../Elix%20Claymore.md). He determines that [Elix](../../Elix%20Claymore.md) is under the effects of the geas spell.
+- [Kiris](../PCs/Kiris%20Acquermann.md), [Theobald](../PCs/Theobald%20Clayhollow.md), [Splix](../PCs/Spraugh%20'Splix'%20Calix.md), [Adikia](../PCs/Adikia%20Unalome.md) and [Thoradin](../PCs/Thoradin%20Goodman.md) discuss their options. [Theobald](../PCs/Theobald%20Clayhollow.md) casts greater restoration on [Elix](../../Elix%20Claymore.md) to remove the geas spell. 
+- [Noah](../PCs/Noah%20Skie.md), [Adeena](../PCs/Adeena%20Oberon.md) and [Arc](../PCs/Arc.md) observe the weakened [Wayravens](../Factions/Knights%20of%20the%20Wayraven.md). [Kristofer](../../Kristofer%20Acquermann.md) explains that they suffer effects from staying in [Shadowfell](../Locations/Planes/Shadowfell.md) from a long time. The [party](../Factions/Seven%20Up....md) decide to help the [Wayravens](../Factions/Knights%20of%20the%20Wayraven.md) go to an enclosed area for treatment.
+- [Noah](../PCs/Noah%20Skie.md) and [Michaela](../NPCs/Michaela%20Randall.md) talk to each other as they help the [Wayravens](../Factions/Knights%20of%20the%20Wayraven.md). [Michaela](../NPCs/Michaela%20Randall.md) asks where they are, and [Noah](../PCs/Noah%20Skie.md) responds that they are inside the [Underground Temple of Macchi](../Locations/Buildings/Underground%20Temple%20of%20Macchi.md), where [Miledu](../../Miledu.md) is bound. [Michaela](../NPCs/Michaela%20Randall.md) asks about their plan, and [Noah](../PCs/Noah%20Skie.md) tells her that they are going to kill [Miledu](../../Miledu.md).
+### [Macchi](../Deities/Old%20Gods/Macchi.md), Devil-Bound
+- [Arc](../PCs/Arc.md) peels away from the [party](../Factions/Seven%20Up....md) and investigates the area near [Miledu](../../Miledu.md). [Arc](../PCs/Arc.md) sees a 25-foot humanoid figure pulling chains coming from [Miledu](../../Miledu.md). [Arc](../PCs/Arc.md) deduces that the divine entity is [Macchi](../Deities/Old%20Gods/Macchi.md). [Arc](../PCs/Arc.md) approaches the entity, and he sees two fiends trying to pull [Macchi](../Deities/Old%20Gods/Macchi.md)'s arms apart.
+- [Arc](../PCs/Arc.md) shouts to [Thoradin](../PCs/Thoradin%20Goodman.md) that he sees [Macchi](../Deities/Old%20Gods/Macchi.md). [Thoradin](../PCs/Thoradin%20Goodman.md), [Adeena](../PCs/Adeena%20Oberon.md) and [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) join [Arc](../PCs/Arc.md).
+- [Arc](../PCs/Arc.md), [Thoradin](../PCs/Thoradin%20Goodman.md), [Adeena](../PCs/Adeena%20Oberon.md) and [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) attack the two fiends.
+- During the fight, [Macchi](../Deities/Old%20Gods/Macchi.md) speaks to [Thoradin](../PCs/Thoradin%20Goodman.md) telepathically.
+> *"My champion... Do not waste your strength, these are not the enemies you are preparing for."*
+- The [party](../Factions/Seven%20Up....md) defeats the two fiends. [Macchi](../Deities/Old%20Gods/Macchi.md) talks to [Thoradin](../PCs/Thoradin%20Goodman.md).
+> *"It is time for you to decide, shall we kill [Miledu](../../Miledu.md), or take my place as the one who binds [Miledu](../../Miledu.md)."*
+## Breaking Point
+- [Kiris](../PCs/Kiris%20Acquermann.md), [Theobald](../PCs/Theobald%20Clayhollow.md), [Noah](../PCs/Noah%20Skie.md) and [Adikia](../PCs/Adikia%20Unalome.md) assist the [Wayravens](../Factions/Knights%20of%20the%20Wayraven.md) along with [Leneia](../NPCs/Leneia%20Yarumcy.md), [Michaela](../NPCs/Michaela%20Randall.md) and [Kirren](../NPCs/Kirren%20Acquermann.md). [Leneia](../NPCs/Leneia%20Yarumcy.md), [Michaela](../NPCs/Michaela%20Randall.md) and [Kirren](../NPCs/Kirren%20Acquermann.md) promise to keep the [Wayravens](../Factions/Knights%20of%20the%20Wayraven.md) safe.
+- [Noah](../PCs/Noah%20Skie.md) and [Theobald](../PCs/Theobald%20Clayhollow.md) hear an angry scream coming from within the temple. The [party](../Factions/Seven%20Up....md) prepare by the main entrance. As they are about to enter, shocked [Elvin](../../Elvin%20Claymore.md) opens the door.
+- The [party](../Factions/Seven%20Up....md) engage [Elvin](../../Elvin%20Claymore.md) in battle. [Adikia](../PCs/Adikia%20Unalome.md) attempts to retrieve the dragonstaff that [Elvin](../../Elvin%20Claymore.md) dropped, but [Roldan](../../Roldan%20Vinke.md) takes it first.
+- [Elvin](../../Elvin%20Claymore.md) temporarily controlled [Noah](../PCs/Noah%20Skie.md), but he failed using her to defeat the [party](../Factions/Seven%20Up....md). [Adikia](../PCs/Adikia%20Unalome.md) casts dominate person on [Roldan](../../Roldan%20Vinke.md) using the [Ring of Ela's Gemcharm](../Items/Quest%20Items/Ring%20of%20Ela's%20Gemcharm.md). She takes the dragonstaff from him.
+- [Theobald](../PCs/Theobald%20Clayhollow.md) lights the [Candle of Invoking the Old Gods](../Items/Candle%20of%20Invoking%20the%20Old%20Gods.md). [Thoradin](../PCs/Thoradin%20Goodman.md), [Adeena](../PCs/Adeena%20Oberon.md), [Arc](../PCs/Arc.md) and [Splix](../PCs/Spraugh%20'Splix'%20Calix.md) join the battle.
+- [Theobald](../PCs/Theobald%20Clayhollow.md), [Adikia](../PCs/Adikia%20Unalome.md) and [Arc](../PCs/Arc.md) drop dead. [Elvin](../../Elvin%20Claymore.md) manages to retrieve the dragonstaff. [Thoradin](../PCs/Thoradin%20Goodman.md) grapples [Elvin](../../Elvin%20Claymore.md).
+- A burst of magical spell emanates around [Elvin](../../Elvin%20Claymore.md), canceling most spell effects. At the last moment Elvin breaks the dragonstaff.
+> *"I can see my end. You have overpowered me... So this is my goodbye."*
+- The body of [Elvin](../../Elvin%20Claymore.md) floats for a moment. A head of a dragon bursts out from its body. [Elvin](../../Elvin%20Claymore.md)'s body is turned inside out, and [Tiamat](../../Tiamat.md) appears in front of the [party](../Factions/Seven%20Up....md). Afterwards, a burst of light floods the place.
